@@ -1,0 +1,303 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_HeroList",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'HeroListData'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "01Murdock": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Murdock_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Murdock.16"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "02Twinblast": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Twinblast_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Twinblast.11"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "03Muriel": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Muriel_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Muriel.10"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "04Rampage": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Rampage_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Rampage.9"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "05Kallari": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Kallari_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Kallari.5"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "06Grux": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Grux_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Grux.8"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "07Steel": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Steel_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Steel.5"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "09Sparrow": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Sparrow_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Sparrow.6"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "10Sevarog": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Sevarog_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Sevarog.7"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "11Kwang": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Kwang_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Kwang.5"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "12Gideon": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Gideon_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Gideon.7"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "13TheFey": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_TheFey_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_TheFey.5"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "14Shinbi": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Shinbi_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Shinbi.5"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "15Revenant": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Revenant_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Revenant.8"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "16Aurora": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Aurora_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Aurora.9"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "17Phase": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Phase_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Phase.5"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "19Belica": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Belica_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Belica.9"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "22Howitzer": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Howitzer_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Howitzer.11"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "25Narbash": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Narbash_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Narbash.5"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "27Countess": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Countess_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Countess.5"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "20FengMao": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_FengMao_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_FengMao.5"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "28Serath": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Serath_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Serath.11"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "26Gadget": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Gadget_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Gadget.5"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "23Khaimera": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Khaimera_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Khaimera.7"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "21GrimEXE": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_GrimEXE_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_GrimEXE.0"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": true
+      },
+      "24Boris": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Boris_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Boris.0"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": true
+      },
+      "29Greystone": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Greystone_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Greystone.2"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": true
+      },
+      "30Zena": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Zena_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Zena.5"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "18Adel": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Adele_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Adele.5"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": true
+      },
+      "Dekker": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Dekker_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Dekker.5"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "Wraith": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Wraith_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Wraith.5"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "36Wukong": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Wukong_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Wukong.16"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "37Iggy": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Iggy_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Iggy.5"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "40Crunch": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Crunch_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Crunch.8"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "42Maco": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Maco_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Maco.5"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      },
+      "32Drongo": {
+        "HeroClass": {
+          "ObjectName": "BlueprintGeneratedClass'Hero_Drongo_C'",
+          "ObjectPath": "Overprime/Content/InGame/Heroes/Hero_Drongo.8"
+        },
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      }
+    }
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_RealmList",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'RealmListTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "RealmID": 1,
+        "RegionName": "Asia - North East",
+        "RealmName": "Asia 1"
+      },
+      "2": {
+        "RealmID": 2,
+        "RegionName": "HK - Hong Kong",
+        "RealmName": "Asia 2"
+      },
+      "3": {
+        "RealmID": 2,
+        "RegionName": "Asia - South East",
+        "RealmName": "Asia 2"
+      },
+      "4": {
+        "RealmID": 3,
+        "RegionName": "US - East",
+        "RealmName": "US"
+      },
+      "5": {
+        "RealmID": 3,
+        "RegionName": "US - West",
+        "RealmName": "US"
+      },
+      "6": {
+        "RealmID": 4,
+        "RegionName": "SA - East",
+        "RealmName": "SA"
+      },
+      "7": {
+        "RealmID": 5,
+        "RegionName": "EU - Central",
+        "RealmName": "EU"
+      },
+      "8": {
+        "RealmID": 6,
+        "RegionName": "ME - Middle East",
+        "RealmName": "ME"
+      }
+    }
+  }
+]

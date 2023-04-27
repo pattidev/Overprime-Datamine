@@ -1,0 +1,85 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_HonorGrade",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'HonorGradeTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "HonorGrade_Type": "EHonorGradeType::EHGT_Karma_3",
+        "HonorGrade_StringKey": "UI.Honor_HonorGrade_Karma3",
+        "HonorGrade_MinRange": -1000,
+        "HonorGrade_MaxRange": -801,
+        "HonorGrade_Texture": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Common/HonorPoint/HonorPointIcon/T_UI_HonorPoint_Decrease_003.T_UI_HonorPoint_Decrease_003",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "HonorGrade_Type": "EHonorGradeType::EHGT_Karma_2",
+        "HonorGrade_StringKey": "UI.Honor_HonorGrade_Karma2",
+        "HonorGrade_MinRange": -800,
+        "HonorGrade_MaxRange": -251,
+        "HonorGrade_Texture": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Common/HonorPoint/HonorPointIcon/T_UI_HonorPoint_Decrease_002.T_UI_HonorPoint_Decrease_002",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "HonorGrade_Type": "EHonorGradeType::EHGT_Karma_1",
+        "HonorGrade_StringKey": "UI.Honor_HonorGrade_Karma1",
+        "HonorGrade_MinRange": -250,
+        "HonorGrade_MaxRange": -51,
+        "HonorGrade_Texture": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Common/HonorPoint/HonorPointIcon/T_UI_HonorPoint_Decrease_001.T_UI_HonorPoint_Decrease_001",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "HonorGrade_Type": "EHonorGradeType::EHGT_Normal",
+        "HonorGrade_StringKey": "UI.Honor_HonorGrade_Normal",
+        "HonorGrade_MinRange": -50,
+        "HonorGrade_MaxRange": 50,
+        "HonorGrade_Texture": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Common/HonorPoint/HonorPointIcon/T_UI_HonorPoint_Base.T_UI_HonorPoint_Base",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "HonorGrade_Type": "EHonorGradeType::EHGT_Honor_3",
+        "HonorGrade_StringKey": "UI.Honor_HonorGrade_Honor3",
+        "HonorGrade_MinRange": 51,
+        "HonorGrade_MaxRange": 250,
+        "HonorGrade_Texture": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Common/HonorPoint/HonorPointIcon/T_UI_HonorPoint_Increase_003.T_UI_HonorPoint_Increase_003",
+          "SubPathString": ""
+        }
+      },
+      "6": {
+        "HonorGrade_Type": "EHonorGradeType::EHGT_Honor_2",
+        "HonorGrade_StringKey": "UI.Honor_HonorGrade_Honor2",
+        "HonorGrade_MinRange": 251,
+        "HonorGrade_MaxRange": 800,
+        "HonorGrade_Texture": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Common/HonorPoint/HonorPointIcon/T_UI_HonorPoint_Increase_002.T_UI_HonorPoint_Increase_002",
+          "SubPathString": ""
+        }
+      },
+      "7": {
+        "HonorGrade_Type": "EHonorGradeType::EHGT_Honor_1",
+        "HonorGrade_StringKey": "UI.Honor_HonorGrade_Honor1",
+        "HonorGrade_MinRange": 801,
+        "HonorGrade_MaxRange": 1000,
+        "HonorGrade_Texture": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Common/HonorPoint/HonorPointIcon/T_UI_HonorPoint_Increase_001.T_UI_HonorPoint_Increase_001",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

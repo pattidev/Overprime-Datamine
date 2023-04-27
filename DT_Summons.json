@@ -1,0 +1,106 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_Summons",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPSummonsTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "CharacterSkinID": "0",
+        "SummonsGenType": "ESummonsGenType::ESGT_CommonWard",
+        "DefaultSlotCheck": true,
+        "SummonsGroupID": "2151",
+        "SummonsSkinID": "2151001"
+      },
+      "2": {
+        "CharacterSkinID": "0",
+        "SummonsGenType": "ESummonsGenType::ESGT_CommonWard",
+        "DefaultSlotCheck": true,
+        "SummonsGroupID": "2152",
+        "SummonsSkinID": "2152001"
+      },
+      "3": {
+        "CharacterSkinID": "0",
+        "SummonsGenType": "ESummonsGenType::ESGT_BabyPrime",
+        "DefaultSlotCheck": true,
+        "SummonsGroupID": "2061",
+        "SummonsSkinID": "2061001"
+      },
+      "4": {
+        "CharacterSkinID": "1019001",
+        "SummonsGenType": "ESummonsGenType::ESGT_HeroSkillSummons",
+        "DefaultSlotCheck": true,
+        "SummonsGroupID": "2150",
+        "SummonsSkinID": "2150001"
+      },
+      "5": {
+        "CharacterSkinID": "1019008",
+        "SummonsGenType": "ESummonsGenType::ESGT_HeroSkillSummons",
+        "DefaultSlotCheck": false,
+        "SummonsGroupID": "2150",
+        "SummonsSkinID": "2150008"
+      },
+      "6": {
+        "CharacterSkinID": "1033001",
+        "SummonsGenType": "ESummonsGenType::ESGT_HeroSkillSummons",
+        "DefaultSlotCheck": true,
+        "SummonsGroupID": "2153",
+        "SummonsSkinID": "2153001"
+      },
+      "7": {
+        "CharacterSkinID": "1016001",
+        "SummonsGenType": "ESummonsGenType::ESGT_HeroSkillSummons",
+        "DefaultSlotCheck": true,
+        "SummonsGroupID": "4001",
+        "SummonsSkinID": "4001001"
+      },
+      "8": {
+        "CharacterSkinID": "1016006",
+        "SummonsGenType": "ESummonsGenType::ESGT_HeroSkillSummons",
+        "DefaultSlotCheck": false,
+        "SummonsGroupID": "4001",
+        "SummonsSkinID": "4001002"
+      },
+      "9": {
+        "CharacterSkinID": "1036001",
+        "SummonsGenType": "ESummonsGenType::ESGT_HeroSkillSummons",
+        "DefaultSlotCheck": true,
+        "SummonsGroupID": "2154",
+        "SummonsSkinID": "2154001"
+      },
+      "10": {
+        "CharacterSkinID": "1036006",
+        "SummonsGenType": "ESummonsGenType::ESGT_HeroSkillSummons",
+        "DefaultSlotCheck": false,
+        "SummonsGroupID": "2154",
+        "SummonsSkinID": "2154006"
+      },
+      "11": {
+        "CharacterSkinID": "1037001",
+        "SummonsGenType": "ESummonsGenType::ESGT_HeroSkillSummons",
+        "DefaultSlotCheck": true,
+        "SummonsGroupID": "2155",
+        "SummonsSkinID": "2155001"
+      },
+      "12": {
+        "CharacterSkinID": "1037005",
+        "SummonsGenType": "ESummonsGenType::ESGT_HeroSkillSummons",
+        "DefaultSlotCheck": false,
+        "SummonsGroupID": "2155",
+        "SummonsSkinID": "2155005"
+      },
+      "13": {
+        "CharacterSkinID": "1037006",
+        "SummonsGenType": "ESummonsGenType::ESGT_HeroSkillSummons",
+        "DefaultSlotCheck": false,
+        "SummonsGroupID": "2155",
+        "SummonsSkinID": "2155006"
+      }
+    }
+  }
+]

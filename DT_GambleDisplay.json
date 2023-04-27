@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_GambleDisplay",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPGambleDisplayTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "GambleGroup": 50101001,
+        "GambleLimitCount": 0,
+        "Price_Gold_1": 1000,
+        "Price_Gold_10": 10000,
+        "GambleName": "UI.Giftbox_Main_BoxTitle",
+        "GambleDescription": "UI.Giftbox_Main_ProductDesc"
+      }
+    }
+  }
+]

@@ -1,0 +1,689 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_DamageType",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPDamageTypeTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "DamageID": "NoneDamage",
+        "DamageType": "EDamageCategory::EDC_NONE",
+        "CanLifeSteal": false,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": false,
+        "GenerateHitEvent": false,
+        "CanHitStruct": false,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": false,
+        "ExecutionType": false,
+        "IsDotType": false,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "None",
+        "Icon": null
+      },
+      "2": {
+        "DamageID": "MainDamage_BaseAttack",
+        "DamageType": "EDamageCategory::EDC_BASEATTACK",
+        "CanLifeSteal": true,
+        "BaseAttackGuardCheck": true,
+        "SkillGuardCheck": false,
+        "GenerateHitEvent": true,
+        "CanHitStruct": true,
+        "CanCritical": true,
+        "AlwaysCritical": false,
+        "CanReflect": true,
+        "ExecutionType": false,
+        "IsDotType": false,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "Indicator_Type_BaseAttack",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.0"
+        }
+      },
+      "3": {
+        "DamageID": "MainDamage_BaseAttack_Magical",
+        "DamageType": "EDamageCategory::EDC_BASEATTACK",
+        "CanLifeSteal": true,
+        "BaseAttackGuardCheck": true,
+        "SkillGuardCheck": false,
+        "GenerateHitEvent": true,
+        "CanHitStruct": true,
+        "CanCritical": true,
+        "AlwaysCritical": false,
+        "CanReflect": true,
+        "ExecutionType": false,
+        "IsDotType": false,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "Indicator_Type_MagicDamage",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Magic'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Magic.0"
+        }
+      },
+      "4": {
+        "DamageID": "MainDamage_NonCriBaseAttack",
+        "DamageType": "EDamageCategory::EDC_BASEATTACK",
+        "CanLifeSteal": true,
+        "BaseAttackGuardCheck": true,
+        "SkillGuardCheck": false,
+        "GenerateHitEvent": true,
+        "CanHitStruct": true,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": true,
+        "ExecutionType": false,
+        "IsDotType": false,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "Indicator_Type_BaseAttack",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.0"
+        }
+      },
+      "5": {
+        "DamageID": "MainDamage_Magical",
+        "DamageType": "EDamageCategory::EDC_SKILL_MAGICAL",
+        "CanLifeSteal": true,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": true,
+        "GenerateHitEvent": true,
+        "CanHitStruct": false,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": true,
+        "ExecutionType": false,
+        "IsDotType": false,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "Indicator_Type_MagicDamage",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Magic'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Magic.0"
+        }
+      },
+      "6": {
+        "DamageID": "MainDamage_Physical",
+        "DamageType": "EDamageCategory::EDC_SKILL_PHYSICAL",
+        "CanLifeSteal": true,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": true,
+        "GenerateHitEvent": true,
+        "CanHitStruct": false,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": true,
+        "ExecutionType": false,
+        "IsDotType": false,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "Indicator_Type_PhysicalDamage",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.0"
+        }
+      },
+      "7": {
+        "DamageID": "MainDamage_Physical_CanAtkCon",
+        "DamageType": "EDamageCategory::EDC_SKILL_PHYSICAL",
+        "CanLifeSteal": true,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": true,
+        "GenerateHitEvent": true,
+        "CanHitStruct": true,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": true,
+        "ExecutionType": false,
+        "IsDotType": false,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "Indicator_Type_PhysicalDamage",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.0"
+        }
+      },
+      "8": {
+        "DamageID": "MainDamage_True",
+        "DamageType": "EDamageCategory::EDC_TRUE",
+        "CanLifeSteal": true,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": true,
+        "GenerateHitEvent": true,
+        "CanHitStruct": false,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": true,
+        "ExecutionType": false,
+        "IsDotType": false,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "Indicator_Type_True",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_True'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_True.0"
+        }
+      },
+      "9": {
+        "DamageID": "MainDamage_Magical_DOT",
+        "DamageType": "EDamageCategory::EDC_SKILL_MAGICAL",
+        "CanLifeSteal": true,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": true,
+        "GenerateHitEvent": true,
+        "CanHitStruct": false,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": true,
+        "ExecutionType": false,
+        "IsDotType": true,
+        "PenetrateDimension": true,
+        "DamageIndicatorUI": "Indicator_Type_Dot_MagicDamage",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Magic'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Magic.0"
+        }
+      },
+      "10": {
+        "DamageID": "MainDamage_Physical_DOT",
+        "DamageType": "EDamageCategory::EDC_SKILL_PHYSICAL",
+        "CanLifeSteal": true,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": true,
+        "GenerateHitEvent": true,
+        "CanHitStruct": false,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": true,
+        "ExecutionType": false,
+        "IsDotType": true,
+        "PenetrateDimension": true,
+        "DamageIndicatorUI": "Indicator_Type_Dot_PhysicalDamage",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.0"
+        }
+      },
+      "11": {
+        "DamageID": "MainDamage_True_DOT",
+        "DamageType": "EDamageCategory::EDC_TRUE",
+        "CanLifeSteal": true,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": true,
+        "GenerateHitEvent": true,
+        "CanHitStruct": false,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": true,
+        "ExecutionType": false,
+        "IsDotType": true,
+        "PenetrateDimension": true,
+        "DamageIndicatorUI": "Indicator_Type_Dot_True",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_True'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_True.0"
+        }
+      },
+      "12": {
+        "DamageID": "MainDamage_Tower",
+        "DamageType": "EDamageCategory::EDC_BASEATTACK",
+        "CanLifeSteal": false,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": false,
+        "GenerateHitEvent": true,
+        "CanHitStruct": true,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": false,
+        "ExecutionType": false,
+        "IsDotType": false,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "Indicator_Type_PhysicalDamage",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.0"
+        }
+      },
+      "13": {
+        "DamageID": "MainDamage_Physical_CanCri",
+        "DamageType": "EDamageCategory::EDC_BASEATTACK",
+        "CanLifeSteal": true,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": true,
+        "GenerateHitEvent": true,
+        "CanHitStruct": false,
+        "CanCritical": true,
+        "AlwaysCritical": false,
+        "CanReflect": true,
+        "ExecutionType": false,
+        "IsDotType": false,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "Indicator_Type_PhysicalDamage",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.0"
+        }
+      },
+      "14": {
+        "DamageID": "MainDamage_Magical_IggyTurret",
+        "DamageType": "EDamageCategory::EDC_SKILL_MAGICAL",
+        "CanLifeSteal": true,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": false,
+        "GenerateHitEvent": true,
+        "CanHitStruct": false,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": true,
+        "ExecutionType": false,
+        "IsDotType": false,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "Indicator_Type_MagicDamage",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Magic'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Magic.0"
+        }
+      },
+      "15": {
+        "DamageID": "SubDamage_BaseAttack",
+        "DamageType": "EDamageCategory::EDC_BASEATTACK",
+        "CanLifeSteal": true,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": false,
+        "GenerateHitEvent": false,
+        "CanHitStruct": true,
+        "CanCritical": true,
+        "AlwaysCritical": false,
+        "CanReflect": true,
+        "ExecutionType": false,
+        "IsDotType": false,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "Indicator_Type_BaseAttack",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.0"
+        }
+      },
+      "16": {
+        "DamageID": "SubDamage_NonCriBaseAttack",
+        "DamageType": "EDamageCategory::EDC_BASEATTACK",
+        "CanLifeSteal": true,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": false,
+        "GenerateHitEvent": false,
+        "CanHitStruct": true,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": true,
+        "ExecutionType": false,
+        "IsDotType": false,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "Indicator_Type_BaseAttack",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.0"
+        }
+      },
+      "17": {
+        "DamageID": "SubDamage_Magical",
+        "DamageType": "EDamageCategory::EDC_SKILL_MAGICAL",
+        "CanLifeSteal": true,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": false,
+        "GenerateHitEvent": false,
+        "CanHitStruct": false,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": true,
+        "ExecutionType": false,
+        "IsDotType": false,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "Indicator_Type_MagicDamage",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Magic'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Magic.0"
+        }
+      },
+      "18": {
+        "DamageID": "SubDamage_Physical",
+        "DamageType": "EDamageCategory::EDC_SKILL_PHYSICAL",
+        "CanLifeSteal": true,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": false,
+        "GenerateHitEvent": false,
+        "CanHitStruct": false,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": true,
+        "ExecutionType": false,
+        "IsDotType": false,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "Indicator_Type_PhysicalDamage",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.0"
+        }
+      },
+      "19": {
+        "DamageID": "SubDamage_Physical_CanAtkCon",
+        "DamageType": "EDamageCategory::EDC_SKILL_PHYSICAL",
+        "CanLifeSteal": true,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": false,
+        "GenerateHitEvent": false,
+        "CanHitStruct": true,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": true,
+        "ExecutionType": false,
+        "IsDotType": false,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "Indicator_Type_PhysicalDamage",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.0"
+        }
+      },
+      "20": {
+        "DamageID": "SubDamage_Magical_CanAtkCon",
+        "DamageType": "EDamageCategory::EDC_SKILL_MAGICAL",
+        "CanLifeSteal": true,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": false,
+        "GenerateHitEvent": false,
+        "CanHitStruct": true,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": true,
+        "ExecutionType": false,
+        "IsDotType": false,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "Indicator_Type_MagicDamage",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Magic'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Magic.0"
+        }
+      },
+      "21": {
+        "DamageID": "SubDamage_Magical_CanGuard",
+        "DamageType": "EDamageCategory::EDC_SKILL_MAGICAL",
+        "CanLifeSteal": true,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": true,
+        "GenerateHitEvent": false,
+        "CanHitStruct": false,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": true,
+        "ExecutionType": false,
+        "IsDotType": false,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "Indicator_Type_MagicDamage",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Magic'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Magic.0"
+        }
+      },
+      "22": {
+        "DamageID": "SubDamage_Physical_CanGuard",
+        "DamageType": "EDamageCategory::EDC_SKILL_PHYSICAL",
+        "CanLifeSteal": true,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": true,
+        "GenerateHitEvent": false,
+        "CanHitStruct": false,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": true,
+        "ExecutionType": false,
+        "IsDotType": false,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "Indicator_Type_PhysicalDamage",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.0"
+        }
+      },
+      "23": {
+        "DamageID": "SubDamage_True",
+        "DamageType": "EDamageCategory::EDC_TRUE",
+        "CanLifeSteal": true,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": false,
+        "GenerateHitEvent": false,
+        "CanHitStruct": false,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": true,
+        "ExecutionType": false,
+        "IsDotType": false,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "Indicator_Type_True",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_True'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_True.0"
+        }
+      },
+      "24": {
+        "DamageID": "SubDamage_Magical_DOT",
+        "DamageType": "EDamageCategory::EDC_SKILL_MAGICAL",
+        "CanLifeSteal": true,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": false,
+        "GenerateHitEvent": false,
+        "CanHitStruct": false,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": true,
+        "ExecutionType": false,
+        "IsDotType": true,
+        "PenetrateDimension": true,
+        "DamageIndicatorUI": "Indicator_Type_Dot_MagicDamage",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Magic'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Magic.0"
+        }
+      },
+      "25": {
+        "DamageID": "SubDamage_Physical_DOT",
+        "DamageType": "EDamageCategory::EDC_SKILL_PHYSICAL",
+        "CanLifeSteal": true,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": false,
+        "GenerateHitEvent": false,
+        "CanHitStruct": false,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": true,
+        "ExecutionType": false,
+        "IsDotType": true,
+        "PenetrateDimension": true,
+        "DamageIndicatorUI": "Indicator_Type_Dot_PhysicalDamage",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.0"
+        }
+      },
+      "26": {
+        "DamageID": "SubDamage_True_DOT",
+        "DamageType": "EDamageCategory::EDC_TRUE",
+        "CanLifeSteal": true,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": false,
+        "GenerateHitEvent": false,
+        "CanHitStruct": false,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": true,
+        "ExecutionType": false,
+        "IsDotType": true,
+        "PenetrateDimension": true,
+        "DamageIndicatorUI": "Indicator_Type_Dot_True",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_True'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_True.0"
+        }
+      },
+      "27": {
+        "DamageID": "SubDamage_Execution",
+        "DamageType": "EDamageCategory::EDC_SKILL_MAGICAL",
+        "CanLifeSteal": true,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": false,
+        "GenerateHitEvent": false,
+        "CanHitStruct": false,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": false,
+        "ExecutionType": true,
+        "IsDotType": false,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "Indicator_Type_True",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_True'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_True.0"
+        }
+      },
+      "28": {
+        "DamageID": "SubDamage_Execution_Minion",
+        "DamageType": "EDamageCategory::EDC_BASEATTACK",
+        "CanLifeSteal": true,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": false,
+        "GenerateHitEvent": false,
+        "CanHitStruct": false,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": false,
+        "ExecutionType": true,
+        "IsDotType": false,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "Indicator_Type_True",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_True'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_True.0"
+        }
+      },
+      "29": {
+        "DamageID": "SubDamage_Execution_Feng",
+        "DamageType": "EDamageCategory::EDC_SKILL_MAGICAL",
+        "CanLifeSteal": true,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": false,
+        "GenerateHitEvent": false,
+        "CanHitStruct": false,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": false,
+        "ExecutionType": true,
+        "IsDotType": false,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "Indicator_Type_Critical",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_True'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_True.0"
+        }
+      },
+      "30": {
+        "DamageID": "SubDamage_Execution_Seva",
+        "DamageType": "EDamageCategory::EDC_SKILL_MAGICAL",
+        "CanLifeSteal": true,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": false,
+        "GenerateHitEvent": false,
+        "CanHitStruct": false,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": false,
+        "ExecutionType": true,
+        "IsDotType": false,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "Indicator_Type_MagicDamage",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Magic'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Magic.0"
+        }
+      },
+      "31": {
+        "DamageID": "SubDamage_Dunk",
+        "DamageType": "EDamageCategory::EDC_TRUE",
+        "CanLifeSteal": false,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": false,
+        "GenerateHitEvent": false,
+        "CanHitStruct": true,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": false,
+        "ExecutionType": false,
+        "IsDotType": false,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "Indicator_Type_True",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_True'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_True.0"
+        }
+      },
+      "32": {
+        "DamageID": "Sys_Reflect",
+        "DamageType": "EDamageCategory::EDC_SKILL_MAGICAL",
+        "CanLifeSteal": false,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": false,
+        "GenerateHitEvent": false,
+        "CanHitStruct": false,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": false,
+        "ExecutionType": false,
+        "IsDotType": false,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "Indicator_Type_True",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_True'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_True.0"
+        }
+      },
+      "33": {
+        "DamageID": "Sys_Sacrifice",
+        "DamageType": "EDamageCategory::EDC_TRUE",
+        "CanLifeSteal": false,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": false,
+        "GenerateHitEvent": false,
+        "CanHitStruct": false,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": false,
+        "ExecutionType": false,
+        "IsDotType": false,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "Indicator_Type_True",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_True'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_True.0"
+        }
+      },
+      "34": {
+        "DamageID": "OnHitNoneDamage",
+        "DamageType": "EDamageCategory::EDC_NONE",
+        "CanLifeSteal": false,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": false,
+        "GenerateHitEvent": true,
+        "CanHitStruct": false,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": false,
+        "ExecutionType": false,
+        "IsDotType": false,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "None",
+        "Icon": null
+      }
+    }
+  }
+]

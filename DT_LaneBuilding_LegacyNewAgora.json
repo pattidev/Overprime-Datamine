@@ -1,0 +1,55 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_LaneBuilding_LegacyNewAgora",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'LaneBulidingTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "NewRow": {
+        "LaneBulidingType": "ELaneBuildingType::ELBT_Core",
+        "MaxHealth": 10000.0,
+        "VisionRange": 1800.0,
+        "VisionHeight": 1800.0,
+        "Damage": 10.0,
+        "HealthGenSecond": 3.0,
+        "TimesPoweredPerPeriod": 1.0,
+        "AttackThinkInterval": 1.5
+      },
+      "NewRow_0": {
+        "LaneBulidingType": "ELaneBuildingType::ELBT_Inhibitor",
+        "MaxHealth": 10000.0,
+        "VisionRange": 1800.0,
+        "VisionHeight": 2500.0,
+        "Damage": 380.0,
+        "HealthGenSecond": 0.0,
+        "TimesPoweredPerPeriod": 1.1,
+        "AttackThinkInterval": 1.5
+      },
+      "NewRow_1": {
+        "LaneBulidingType": "ELaneBuildingType::ELBT_T1_Tower",
+        "MaxHealth": 7000.0,
+        "VisionRange": 1800.0,
+        "VisionHeight": 2500.0,
+        "Damage": 310.0,
+        "HealthGenSecond": 0.0,
+        "TimesPoweredPerPeriod": 1.1,
+        "AttackThinkInterval": 1.5
+      },
+      "NewRow_2": {
+        "LaneBulidingType": "ELaneBuildingType::ELBT_T2_Tower",
+        "MaxHealth": 7000.0,
+        "VisionRange": 1800.0,
+        "VisionHeight": 2500.0,
+        "Damage": 310.0,
+        "HealthGenSecond": 0.0,
+        "TimesPoweredPerPeriod": 1.1,
+        "AttackThinkInterval": 1.5
+      }
+    }
+  }
+]

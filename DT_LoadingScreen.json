@@ -1,0 +1,1054 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_LoadingScreen",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'LoadingScreenData'",
+        "ObjectPath": "/Script/OPLoadingScreen"
+      }
+    },
+    "Rows": {
+      "101": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Default_Login",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_03.T_common_Loading_C_Random_03",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "",
+        "ToolTipsID": [],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "201": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Training",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_Training.T_common_Loading_Training",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Training",
+        "ToolTipsID": [
+          "1001"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "301": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Normal",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_01.T_common_Loading_C_Random_01",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Normal",
+        "ToolTipsID": [
+          "1002",
+          "1003",
+          "1004",
+          "1005",
+          "1006",
+          "1007",
+          "1008",
+          "1009",
+          "1010",
+          "1011",
+          "1012",
+          "1013",
+          "1014",
+          "1015"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "302": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Normal",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_02.T_common_Loading_C_Random_02",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Normal",
+        "ToolTipsID": [
+          "1002",
+          "1003",
+          "1004",
+          "1005",
+          "1006",
+          "1007",
+          "1008",
+          "1009",
+          "1010",
+          "1011",
+          "1012",
+          "1013",
+          "1014",
+          "1015"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "303": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Normal",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_04.T_common_Loading_C_Random_04",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Normal",
+        "ToolTipsID": [
+          "1002",
+          "1003",
+          "1004",
+          "1005",
+          "1006",
+          "1007",
+          "1008",
+          "1009",
+          "1010",
+          "1011",
+          "1012",
+          "1013",
+          "1014",
+          "1015"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "304": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Normal",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_05.T_common_Loading_C_Random_05",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Normal",
+        "ToolTipsID": [
+          "1002",
+          "1003",
+          "1004",
+          "1005",
+          "1006",
+          "1007",
+          "1008",
+          "1009",
+          "1010",
+          "1011",
+          "1012",
+          "1013",
+          "1014",
+          "1015"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "305": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Normal",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_06.T_common_Loading_C_Random_06",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Normal",
+        "ToolTipsID": [
+          "1002",
+          "1003",
+          "1004",
+          "1005",
+          "1006",
+          "1007",
+          "1008",
+          "1009",
+          "1010",
+          "1011",
+          "1012",
+          "1013",
+          "1014",
+          "1015"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "306": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Normal",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_07.T_common_Loading_C_Random_07",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Normal",
+        "ToolTipsID": [
+          "1002",
+          "1003",
+          "1004",
+          "1005",
+          "1006",
+          "1007",
+          "1008",
+          "1009",
+          "1010",
+          "1011",
+          "1012",
+          "1013",
+          "1014",
+          "1015"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "307": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Normal",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_08.T_common_Loading_C_Random_08",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Normal",
+        "ToolTipsID": [
+          "1002",
+          "1003",
+          "1004",
+          "1005",
+          "1006",
+          "1007",
+          "1008",
+          "1009",
+          "1010",
+          "1011",
+          "1012",
+          "1013",
+          "1014",
+          "1015"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "308": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Normal",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_09.T_common_Loading_C_Random_09",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Normal",
+        "ToolTipsID": [
+          "1002",
+          "1003",
+          "1004",
+          "1005",
+          "1006",
+          "1007",
+          "1008",
+          "1009",
+          "1010",
+          "1011",
+          "1012",
+          "1013",
+          "1014",
+          "1015"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "309": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Normal",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_10.T_common_Loading_C_Random_10",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Normal",
+        "ToolTipsID": [
+          "1002",
+          "1003",
+          "1004",
+          "1005",
+          "1006",
+          "1007",
+          "1008",
+          "1009",
+          "1010",
+          "1011",
+          "1012",
+          "1013",
+          "1014",
+          "1015"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "310": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Normal",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_11.T_common_Loading_C_Random_11",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Normal",
+        "ToolTipsID": [
+          "1002",
+          "1003",
+          "1004",
+          "1005",
+          "1006",
+          "1007",
+          "1008",
+          "1009",
+          "1010",
+          "1011",
+          "1012",
+          "1013",
+          "1014",
+          "1015"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "401": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Custom",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_01.T_common_Loading_C_Random_01",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Custom",
+        "ToolTipsID": [
+          "1002",
+          "1003",
+          "1004",
+          "1005",
+          "1006",
+          "1007",
+          "1008",
+          "1009",
+          "1010",
+          "1011",
+          "1012",
+          "1013",
+          "1014",
+          "1015"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "402": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Custom",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_02.T_common_Loading_C_Random_02",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Custom",
+        "ToolTipsID": [
+          "1002",
+          "1003",
+          "1004",
+          "1005",
+          "1006",
+          "1007",
+          "1008",
+          "1009",
+          "1010",
+          "1011",
+          "1012",
+          "1013",
+          "1014",
+          "1015"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "403": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Custom",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_04.T_common_Loading_C_Random_04",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Custom",
+        "ToolTipsID": [
+          "1002",
+          "1003",
+          "1004",
+          "1005",
+          "1006",
+          "1007",
+          "1008",
+          "1009",
+          "1010",
+          "1011",
+          "1012",
+          "1013",
+          "1014",
+          "1015"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "404": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Custom",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_05.T_common_Loading_C_Random_05",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Custom",
+        "ToolTipsID": [
+          "1002",
+          "1003",
+          "1004",
+          "1005",
+          "1006",
+          "1007",
+          "1008",
+          "1009",
+          "1010",
+          "1011",
+          "1012",
+          "1013",
+          "1014",
+          "1015"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "405": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Custom",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_06.T_common_Loading_C_Random_06",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Custom",
+        "ToolTipsID": [
+          "1002",
+          "1003",
+          "1004",
+          "1005",
+          "1006",
+          "1007",
+          "1008",
+          "1009",
+          "1010",
+          "1011",
+          "1012",
+          "1013",
+          "1014",
+          "1015"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "406": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Custom",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_07.T_common_Loading_C_Random_07",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Custom",
+        "ToolTipsID": [
+          "1002",
+          "1003",
+          "1004",
+          "1005",
+          "1006",
+          "1007",
+          "1008",
+          "1009",
+          "1010",
+          "1011",
+          "1012",
+          "1013",
+          "1014",
+          "1015"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "407": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Custom",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_08.T_common_Loading_C_Random_08",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Custom",
+        "ToolTipsID": [
+          "1002",
+          "1003",
+          "1004",
+          "1005",
+          "1006",
+          "1007",
+          "1008",
+          "1009",
+          "1010",
+          "1011",
+          "1012",
+          "1013",
+          "1014",
+          "1015"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "408": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Custom",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_09.T_common_Loading_C_Random_09",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Custom",
+        "ToolTipsID": [
+          "1002",
+          "1003",
+          "1004",
+          "1005",
+          "1006",
+          "1007",
+          "1008",
+          "1009",
+          "1010",
+          "1011",
+          "1012",
+          "1013",
+          "1014",
+          "1015"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "409": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Custom",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_10.T_common_Loading_C_Random_10",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Custom",
+        "ToolTipsID": [
+          "1002",
+          "1003",
+          "1004",
+          "1005",
+          "1006",
+          "1007",
+          "1008",
+          "1009",
+          "1010",
+          "1011",
+          "1012",
+          "1013",
+          "1014",
+          "1015"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "410": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Custom",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_11.T_common_Loading_C_Random_11",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Custom",
+        "ToolTipsID": [
+          "1002",
+          "1003",
+          "1004",
+          "1005",
+          "1006",
+          "1007",
+          "1008",
+          "1009",
+          "1010",
+          "1011",
+          "1012",
+          "1013",
+          "1014",
+          "1015"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "501": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Ranked",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_01.T_common_Loading_C_Random_01",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Rank",
+        "ToolTipsID": [
+          "1016",
+          "1017",
+          "1018",
+          "1019",
+          "1020",
+          "1021",
+          "1022",
+          "1023",
+          "1024"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "502": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Ranked",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_02.T_common_Loading_C_Random_02",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Rank",
+        "ToolTipsID": [
+          "1016",
+          "1017",
+          "1018",
+          "1019",
+          "1020",
+          "1021",
+          "1022",
+          "1023",
+          "1024"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "503": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Ranked",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_04.T_common_Loading_C_Random_04",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Rank",
+        "ToolTipsID": [
+          "1016",
+          "1017",
+          "1018",
+          "1019",
+          "1020",
+          "1021",
+          "1022",
+          "1023",
+          "1024"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "504": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Ranked",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_05.T_common_Loading_C_Random_05",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Rank",
+        "ToolTipsID": [
+          "1016",
+          "1017",
+          "1018",
+          "1019",
+          "1020",
+          "1021",
+          "1022",
+          "1023",
+          "1024"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "505": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Ranked",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_06.T_common_Loading_C_Random_06",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Rank",
+        "ToolTipsID": [
+          "1016",
+          "1017",
+          "1018",
+          "1019",
+          "1020",
+          "1021",
+          "1022",
+          "1023",
+          "1024"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "506": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Ranked",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_07.T_common_Loading_C_Random_07",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Rank",
+        "ToolTipsID": [
+          "1016",
+          "1017",
+          "1018",
+          "1019",
+          "1020",
+          "1021",
+          "1022",
+          "1023",
+          "1024"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "507": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Ranked",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_08.T_common_Loading_C_Random_08",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Rank",
+        "ToolTipsID": [
+          "1016",
+          "1017",
+          "1018",
+          "1019",
+          "1020",
+          "1021",
+          "1022",
+          "1023",
+          "1024"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "508": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Ranked",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_09.T_common_Loading_C_Random_09",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Rank",
+        "ToolTipsID": [
+          "1016",
+          "1017",
+          "1018",
+          "1019",
+          "1020",
+          "1021",
+          "1022",
+          "1023",
+          "1024"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "509": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Ranked",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_10.T_common_Loading_C_Random_10",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Rank",
+        "ToolTipsID": [
+          "1016",
+          "1017",
+          "1018",
+          "1019",
+          "1020",
+          "1021",
+          "1022",
+          "1023",
+          "1024"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "510": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Ranked",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_11.T_common_Loading_C_Random_11",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Rank",
+        "ToolTipsID": [
+          "1016",
+          "1017",
+          "1018",
+          "1019",
+          "1020",
+          "1021",
+          "1022",
+          "1023",
+          "1024"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "601": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Tutorial",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Tutorial1",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_Tutorial.T_common_Loading_Tutorial",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Tutorial",
+        "ToolTipsID": [
+          "1025"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_Only",
+        "LoadingMoviePath": "Tutorial_intro_F_24F",
+        "MovieSkip": true,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "602": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Tutorial",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Tutorial2",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_Tutorial.T_common_Loading_Tutorial",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Tutorial",
+        "ToolTipsID": [
+          "1025"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "603": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Tutorial",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Tutorial3",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_Tutorial.T_common_Loading_Tutorial",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Tutorial",
+        "ToolTipsID": [
+          "1025"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "604": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Tutorial",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Tutorial4",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_Tutorial.T_common_Loading_Tutorial",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Tutorial",
+        "ToolTipsID": [
+          "1025"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "701": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Default_Loading",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_03.T_common_Loading_C_Random_03",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "",
+        "ToolTipsID": [],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      }
+    }
+  }
+]

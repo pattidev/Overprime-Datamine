@@ -1,0 +1,499 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_Hero_Overview_Status",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'HeroOverviewTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1001": {
+        "HeroName": "CHAR.Hero_Name_1001",
+        "HeroSubName": "CHAR.Hero_Modi_1001",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1001",
+        "Health": 50.0,
+        "PhysicalPower": 50.0,
+        "MagicalPower": 0.0,
+        "AttackSpeed": 55.0,
+        "PhysicalProtection": 30.0,
+        "MagicalProtection": 50.0
+      },
+      "1002": {
+        "HeroName": "CHAR.Hero_Name_1002",
+        "HeroSubName": "CHAR.Hero_Modi_1002",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1002",
+        "Health": 40.0,
+        "PhysicalPower": 60.0,
+        "MagicalPower": 0.0,
+        "AttackSpeed": 90.0,
+        "PhysicalProtection": 20.0,
+        "MagicalProtection": 50.0
+      },
+      "1003": {
+        "HeroName": "CHAR.Hero_Name_1003",
+        "HeroSubName": "CHAR.Hero_Modi_1003",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1003",
+        "Health": 30.0,
+        "PhysicalPower": 15.0,
+        "MagicalPower": 75.0,
+        "AttackSpeed": 15.0,
+        "PhysicalProtection": 10.0,
+        "MagicalProtection": 40.0
+      },
+      "1004": {
+        "HeroName": "CHAR.Hero_Name_1004",
+        "HeroSubName": "CHAR.Hero_Modi_1004",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1004",
+        "Health": 85.0,
+        "PhysicalPower": 65.0,
+        "MagicalPower": 20.0,
+        "AttackSpeed": 40.0,
+        "PhysicalProtection": 95.0,
+        "MagicalProtection": 60.0
+      },
+      "1005": {
+        "HeroName": "CHAR.Hero_Name_1005",
+        "HeroSubName": "CHAR.Hero_Modi_1005",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1005",
+        "Health": 50.0,
+        "PhysicalPower": 80.0,
+        "MagicalPower": 0.0,
+        "AttackSpeed": 80.0,
+        "PhysicalProtection": 30.0,
+        "MagicalProtection": 50.0
+      },
+      "1006": {
+        "HeroName": "CHAR.Hero_Name_1006",
+        "HeroSubName": "CHAR.Hero_Modi_1006",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1006",
+        "Health": 75.0,
+        "PhysicalPower": 100.0,
+        "MagicalPower": 0.0,
+        "AttackSpeed": 50.0,
+        "PhysicalProtection": 65.0,
+        "MagicalProtection": 60.0
+      },
+      "1007": {
+        "HeroName": "CHAR.Hero_Name_1007",
+        "HeroSubName": "CHAR.Hero_Modi_1007",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1007",
+        "Health": 80.0,
+        "PhysicalPower": 70.0,
+        "MagicalPower": 30.0,
+        "AttackSpeed": 50.0,
+        "PhysicalProtection": 85.0,
+        "MagicalProtection": 60.0
+      },
+      "1008": {
+        "HeroName": "CHAR.Hero_Name_1008",
+        "HeroSubName": "",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1008",
+        "Health": 0.0,
+        "PhysicalPower": 0.0,
+        "MagicalPower": 0.0,
+        "AttackSpeed": 0.0,
+        "PhysicalProtection": 0.0,
+        "MagicalProtection": 0.0
+      },
+      "1009": {
+        "HeroName": "CHAR.Hero_Name_1009",
+        "HeroSubName": "CHAR.Hero_Modi_1009",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1009",
+        "Health": 50.0,
+        "PhysicalPower": 50.0,
+        "MagicalPower": 0.0,
+        "AttackSpeed": 50.0,
+        "PhysicalProtection": 30.0,
+        "MagicalProtection": 50.0
+      },
+      "1010": {
+        "HeroName": "CHAR.Hero_Name_1010",
+        "HeroSubName": "CHAR.Hero_Modi_1010",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1010",
+        "Health": 75.0,
+        "PhysicalPower": 55.0,
+        "MagicalPower": 40.0,
+        "AttackSpeed": 35.0,
+        "PhysicalProtection": 80.0,
+        "MagicalProtection": 60.0
+      },
+      "1011": {
+        "HeroName": "CHAR.Hero_Name_1011",
+        "HeroSubName": "CHAR.Hero_Modi_1011",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1011",
+        "Health": 60.0,
+        "PhysicalPower": 60.0,
+        "MagicalPower": 60.0,
+        "AttackSpeed": 0.0,
+        "PhysicalProtection": 45.0,
+        "MagicalProtection": 50.0
+      },
+      "1012": {
+        "HeroName": "CHAR.Hero_Name_1012",
+        "HeroSubName": "CHAR.Hero_Modi_1012",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1012",
+        "Health": 40.0,
+        "PhysicalPower": 30.0,
+        "MagicalPower": 90.0,
+        "AttackSpeed": 30.0,
+        "PhysicalProtection": 10.0,
+        "MagicalProtection": 40.0
+      },
+      "1013": {
+        "HeroName": "CHAR.Hero_Name_1013",
+        "HeroSubName": "CHAR.Hero_Modi_1013",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1013",
+        "Health": 35.0,
+        "PhysicalPower": 30.0,
+        "MagicalPower": 85.0,
+        "AttackSpeed": 35.0,
+        "PhysicalProtection": 10.0,
+        "MagicalProtection": 40.0
+      },
+      "1014": {
+        "HeroName": "CHAR.Hero_Name_1014",
+        "HeroSubName": "CHAR.Hero_Modi_1014",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1014",
+        "Health": 50.0,
+        "PhysicalPower": 40.0,
+        "MagicalPower": 70.0,
+        "AttackSpeed": 30.0,
+        "PhysicalProtection": 35.0,
+        "MagicalProtection": 50.0
+      },
+      "1015": {
+        "HeroName": "CHAR.Hero_Name_1015",
+        "HeroSubName": "CHAR.Hero_Modi_1015",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1015",
+        "Health": 60.0,
+        "PhysicalPower": 70.0,
+        "MagicalPower": 0.0,
+        "AttackSpeed": 50.0,
+        "PhysicalProtection": 45.0,
+        "MagicalProtection": 60.0
+      },
+      "1016": {
+        "HeroName": "CHAR.Hero_Name_1016",
+        "HeroSubName": "CHAR.Hero_Modi_1016",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1016",
+        "Health": 60.0,
+        "PhysicalPower": 50.0,
+        "MagicalPower": 60.0,
+        "AttackSpeed": 35.0,
+        "PhysicalProtection": 45.0,
+        "MagicalProtection": 50.0
+      },
+      "1017": {
+        "HeroName": "CHAR.Hero_Name_1017",
+        "HeroSubName": "CHAR.Hero_Modi_1017",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1017",
+        "Health": 50.0,
+        "PhysicalPower": 30.0,
+        "MagicalPower": 75.0,
+        "AttackSpeed": 25.0,
+        "PhysicalProtection": 30.0,
+        "MagicalProtection": 50.0
+      },
+      "1018": {
+        "HeroName": "CHAR.Hero_Name_1018",
+        "HeroSubName": "CHAR.Hero_Modi_1018",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1018",
+        "Health": 0.0,
+        "PhysicalPower": 0.0,
+        "MagicalPower": 0.0,
+        "AttackSpeed": 0.0,
+        "PhysicalProtection": 0.0,
+        "MagicalProtection": 0.0
+      },
+      "1019": {
+        "HeroName": "CHAR.Hero_Name_1019",
+        "HeroSubName": "CHAR.Hero_Modi_1019",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1019",
+        "Health": 40.0,
+        "PhysicalPower": 30.0,
+        "MagicalPower": 85.0,
+        "AttackSpeed": 25.0,
+        "PhysicalProtection": 20.0,
+        "MagicalProtection": 50.0
+      },
+      "1020": {
+        "HeroName": "CHAR.Hero_Name_1020",
+        "HeroSubName": "CHAR.Hero_Modi_1020",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1020",
+        "Health": 70.0,
+        "PhysicalPower": 90.0,
+        "MagicalPower": 0.0,
+        "AttackSpeed": 60.0,
+        "PhysicalProtection": 60.0,
+        "MagicalProtection": 60.0
+      },
+      "1021": {
+        "HeroName": "CHAR.Hero_Name_1021",
+        "HeroSubName": "CHAR.Hero_Modi_1021",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1021",
+        "Health": 0.0,
+        "PhysicalPower": 0.0,
+        "MagicalPower": 0.0,
+        "AttackSpeed": 0.0,
+        "PhysicalProtection": 0.0,
+        "MagicalProtection": 0.0
+      },
+      "1022": {
+        "HeroName": "CHAR.Hero_Name_1022",
+        "HeroSubName": "CHAR.Hero_Modi_1022",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1022",
+        "Health": 50.0,
+        "PhysicalPower": 30.0,
+        "MagicalPower": 75.0,
+        "AttackSpeed": 25.0,
+        "PhysicalProtection": 30.0,
+        "MagicalProtection": 40.0
+      },
+      "1023": {
+        "HeroName": "CHAR.Hero_Name_1023",
+        "HeroSubName": "CHAR.Hero_Modi_1023",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1023",
+        "Health": 70.0,
+        "PhysicalPower": 85.0,
+        "MagicalPower": 0.0,
+        "AttackSpeed": 60.0,
+        "PhysicalProtection": 65.0,
+        "MagicalProtection": 60.0
+      },
+      "1024": {
+        "HeroName": "CHAR.Hero_Name_1024",
+        "HeroSubName": "CHAR.Hero_Modi_1024",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1024",
+        "Health": 0.0,
+        "PhysicalPower": 0.0,
+        "MagicalPower": 0.0,
+        "AttackSpeed": 0.0,
+        "PhysicalProtection": 0.0,
+        "MagicalProtection": 0.0
+      },
+      "1025": {
+        "HeroName": "CHAR.Hero_Name_1025",
+        "HeroSubName": "CHAR.Hero_Modi_1025",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1025",
+        "Health": 65.0,
+        "PhysicalPower": 40.0,
+        "MagicalPower": 40.0,
+        "AttackSpeed": 30.0,
+        "PhysicalProtection": 65.0,
+        "MagicalProtection": 60.0
+      },
+      "1026": {
+        "HeroName": "CHAR.Hero_Name_1026",
+        "HeroSubName": "CHAR.Hero_Modi_1026",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1026",
+        "Health": 40.0,
+        "PhysicalPower": 25.0,
+        "MagicalPower": 90.0,
+        "AttackSpeed": 20.0,
+        "PhysicalProtection": 10.0,
+        "MagicalProtection": 40.0
+      },
+      "1027": {
+        "HeroName": "CHAR.Hero_Name_1027",
+        "HeroSubName": "CHAR.Hero_Modi_1027",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1027",
+        "Health": 40.0,
+        "PhysicalPower": 35.0,
+        "MagicalPower": 80.0,
+        "AttackSpeed": 30.0,
+        "PhysicalProtection": 15.0,
+        "MagicalProtection": 50.0
+      },
+      "1028": {
+        "HeroName": "CHAR.Hero_Name_1028",
+        "HeroSubName": "CHAR.Hero_Modi_1028",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1028",
+        "Health": 70.0,
+        "PhysicalPower": 90.0,
+        "MagicalPower": 0.0,
+        "AttackSpeed": 65.0,
+        "PhysicalProtection": 50.0,
+        "MagicalProtection": 50.0
+      },
+      "1029": {
+        "HeroName": "CHAR.Hero_Name_1029",
+        "HeroSubName": "CHAR.Hero_Modi_1029",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1029",
+        "Health": 0.0,
+        "PhysicalPower": 0.0,
+        "MagicalPower": 0.0,
+        "AttackSpeed": 0.0,
+        "PhysicalProtection": 0.0,
+        "MagicalProtection": 0.0
+      },
+      "1030": {
+        "HeroName": "CHAR.Hero_Name_1030",
+        "HeroSubName": "CHAR.Hero_Modi_1030",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1030",
+        "Health": 55.0,
+        "PhysicalPower": 80.0,
+        "MagicalPower": 0.0,
+        "AttackSpeed": 75.0,
+        "PhysicalProtection": 40.0,
+        "MagicalProtection": 50.0
+      },
+      "1031": {
+        "HeroName": "CHAR.Hero_Name_1031",
+        "HeroSubName": "CHAR.Hero_Modi_1031",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1031",
+        "Health": 30.0,
+        "PhysicalPower": 15.0,
+        "MagicalPower": 75.0,
+        "AttackSpeed": 15.0,
+        "PhysicalProtection": 10.0,
+        "MagicalProtection": 40.0
+      },
+      "1032": {
+        "HeroName": "CHAR.Hero_Name_1032",
+        "HeroSubName": "CHAR.Hero_Modi_1032",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1032",
+        "Health": 45.0,
+        "PhysicalPower": 50.0,
+        "MagicalPower": 0.0,
+        "AttackSpeed": 60.0,
+        "PhysicalProtection": 30.0,
+        "MagicalProtection": 50.0
+      },
+      "1033": {
+        "HeroName": "CHAR.Hero_Name_1033",
+        "HeroSubName": "CHAR.Hero_Modi_1033",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1033",
+        "Health": 45.0,
+        "PhysicalPower": 45.0,
+        "MagicalPower": 55.0,
+        "AttackSpeed": 45.0,
+        "PhysicalProtection": 25.0,
+        "MagicalProtection": 50.0
+      },
+      "1034": {
+        "HeroName": "",
+        "HeroSubName": "",
+        "HeroDescription": "",
+        "Health": 0.0,
+        "PhysicalPower": 0.0,
+        "MagicalPower": 0.0,
+        "AttackSpeed": 0.0,
+        "PhysicalProtection": 0.0,
+        "MagicalProtection": 0.0
+      },
+      "1035": {
+        "HeroName": "",
+        "HeroSubName": "",
+        "HeroDescription": "",
+        "Health": 0.0,
+        "PhysicalPower": 0.0,
+        "MagicalPower": 0.0,
+        "AttackSpeed": 0.0,
+        "PhysicalProtection": 0.0,
+        "MagicalProtection": 0.0
+      },
+      "1036": {
+        "HeroName": "CHAR.Hero_Name_1036",
+        "HeroSubName": "CHAR.Hero_Modi_1036",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1036",
+        "Health": 75.0,
+        "PhysicalPower": 100.0,
+        "MagicalPower": 0.0,
+        "AttackSpeed": 50.0,
+        "PhysicalProtection": 65.0,
+        "MagicalProtection": 60.0
+      },
+      "1037": {
+        "HeroName": "CHAR.Hero_Name_1037",
+        "HeroSubName": "CHAR.Hero_Modi_1037",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1037",
+        "Health": 45.0,
+        "PhysicalPower": 45.0,
+        "MagicalPower": 55.0,
+        "AttackSpeed": 45.0,
+        "PhysicalProtection": 25.0,
+        "MagicalProtection": 50.0
+      },
+      "1038": {
+        "HeroName": "",
+        "HeroSubName": "",
+        "HeroDescription": "",
+        "Health": 0.0,
+        "PhysicalPower": 0.0,
+        "MagicalPower": 0.0,
+        "AttackSpeed": 0.0,
+        "PhysicalProtection": 0.0,
+        "MagicalProtection": 0.0
+      },
+      "1039": {
+        "HeroName": "",
+        "HeroSubName": "",
+        "HeroDescription": "",
+        "Health": 0.0,
+        "PhysicalPower": 0.0,
+        "MagicalPower": 0.0,
+        "AttackSpeed": 0.0,
+        "PhysicalProtection": 0.0,
+        "MagicalProtection": 0.0
+      },
+      "1040": {
+        "HeroName": "CHAR.Hero_Name_1040",
+        "HeroSubName": "CHAR.Hero_Modi_1040",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1040",
+        "Health": 80.0,
+        "PhysicalPower": 70.0,
+        "MagicalPower": 0.0,
+        "AttackSpeed": 60.0,
+        "PhysicalProtection": 30.0,
+        "MagicalProtection": 50.0
+      },
+      "1041": {
+        "HeroName": "",
+        "HeroSubName": "",
+        "HeroDescription": "",
+        "Health": 0.0,
+        "PhysicalPower": 0.0,
+        "MagicalPower": 0.0,
+        "AttackSpeed": 0.0,
+        "PhysicalProtection": 0.0,
+        "MagicalProtection": 0.0
+      },
+      "1042": {
+        "HeroName": "CHAR.Hero_Name_1042",
+        "HeroSubName": "CHAR.Hero_Modi_1042",
+        "HeroDescription": "UI.Collection_Hero_Overview_Description_1042",
+        "Health": 40.0,
+        "PhysicalPower": 30.0,
+        "MagicalPower": 90.0,
+        "AttackSpeed": 30.0,
+        "PhysicalProtection": 10.0,
+        "MagicalProtection": 40.0
+      },
+      "1043": {
+        "HeroName": "",
+        "HeroSubName": "",
+        "HeroDescription": "",
+        "Health": 0.0,
+        "PhysicalPower": 0.0,
+        "MagicalPower": 0.0,
+        "AttackSpeed": 0.0,
+        "PhysicalProtection": 0.0,
+        "MagicalProtection": 0.0
+      },
+      "1044": {
+        "HeroName": "",
+        "HeroSubName": "",
+        "HeroDescription": "",
+        "Health": 0.0,
+        "PhysicalPower": 0.0,
+        "MagicalPower": 0.0,
+        "AttackSpeed": 0.0,
+        "PhysicalProtection": 0.0,
+        "MagicalProtection": 0.0
+      }
+    }
+  }
+]

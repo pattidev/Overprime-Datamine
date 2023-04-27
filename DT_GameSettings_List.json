@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_GameSettings_List",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPGameSettingsSelectorTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_Region",
+        "DefaultValue": 1,
+        "DisplayTexts": []
+      },
+      "2": {
+        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_LocalInterface",
+        "DefaultValue": 1,
+        "DisplayTexts": [
+          "ko",
+          "en",
+          "ja",
+          "zh-Hans",
+          "zh-Hant",
+          "th",
+          "ar",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "es-ES",
+          "es-419",
+          "fi",
+          "fr",
+          "hi",
+          "it",
+          "id",
+          "nl",
+          "no",
+          "pl",
+          "pt-PT",
+          "pt-BR",
+          "ro",
+          "ru",
+          "sv",
+          "tr",
+          "vi"
+        ]
+      },
+      "3": {
+        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_LocalSound",
+        "DefaultValue": 1,
+        "DisplayTexts": [
+          "ko",
+          "en",
+          "zh-Hans"
+        ]
+      },
+      "4": {
+        "DetailType": "EGameSettingDetailType::EGSD_Accessibility_MeInterface",
+        "DefaultValue": 0,
+        "DisplayTexts": []
+      },
+      "5": {
+        "DetailType": "EGameSettingDetailType::EGSD_Accessibility_AllyInterface",
+        "DefaultValue": 0,
+        "DisplayTexts": []
+      },
+      "6": {
+        "DetailType": "EGameSettingDetailType::EGSD_Accessibility_EnemyInterface",
+        "DefaultValue": 0,
+        "DisplayTexts": []
+      }
+    }
+  }
+]

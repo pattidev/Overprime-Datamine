@@ -1,0 +1,843 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_SystemVoice",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPSystemVoiceDataTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "sound_systemvoice_enemytower_underattack_en": {
+        "SoundTableIndex": "System_Common_Notice_001_en"
+      },
+      "sound_systemvoice_enemytower_destroyed_en": {
+        "SoundTableIndex": "System_Common_Notice_002_en"
+      },
+      "sound_systemvoice_allytower_underattack_en": {
+        "SoundTableIndex": "System_Common_Notice_003_en"
+      },
+      "sound_systemvoice_allytower_destroyed_en": {
+        "SoundTableIndex": "System_Common_Notice_004_en"
+      },
+      "sound_systemvoice_enemyinhibitor_destroyed_en": {
+        "SoundTableIndex": "System_Common_Notice_005_en"
+      },
+      "sound_systemvoice_enemyinhibitor_underattack_en": {
+        "SoundTableIndex": "System_Common_Notice_006_en"
+      },
+      "sound_systemvoice_allyinhibitor_destroyed_en": {
+        "SoundTableIndex": "System_Common_Notice_007_en"
+      },
+      "sound_systemvoice_allyinhibitor_underattack_en": {
+        "SoundTableIndex": "System_Common_Notice_008_en"
+      },
+      "sound_systemvoice_enemycore_underattack_en": {
+        "SoundTableIndex": "System_Common_Notice_009_en"
+      },
+      "sound_systemvoice_allycore_underattack_en": {
+        "SoundTableIndex": "System_Common_Notice_010_en"
+      },
+      "sound_systemvoice_team_victory_en": {
+        "SoundTableIndex": "System_Common_Notice_011_en"
+      },
+      "sound_systemvoice_team_defeat_en": {
+        "SoundTableIndex": "System_Common_Notice_012_en"
+      },
+      "sound_systemvoice_spirit_shila_spawn_en": {
+        "SoundTableIndex": "System_Common_Notice_013_en"
+      },
+      "sound_systemvoice_spirit_shila_destroyed_ally_en": {
+        "SoundTableIndex": "System_Common_Notice_013_A_en"
+      },
+      "sound_systemvoice_spirit_shila_destroyed_enemy_en": {
+        "SoundTableIndex": "System_Common_Notice_013_B_en"
+      },
+      "sound_systemvoice_puppet_spawn_en": {
+        "SoundTableIndex": "System_Common_Notice_014_en"
+      },
+      "sound_systemvoice_puppet_destroyed_ally_en": {
+        "SoundTableIndex": "System_Common_Notice_014_A_en"
+      },
+      "sound_systemvoice_puppet_destroyed_enemy_en": {
+        "SoundTableIndex": "System_Common_Notice_014_B_en"
+      },
+      "sound_systemvoice_ruled_puppet_ally_en": {
+        "SoundTableIndex": "System_Common_Notice_015_en"
+      },
+      "sound_systemvoice_ruled_puppet_enemy_en": {
+        "SoundTableIndex": "System_Common_Notice_015_B_en"
+      },
+      "sound_systemvoice_kalkan_spawn_en": {
+        "SoundTableIndex": "System_Common_Notice_016_en"
+      },
+      "sound_systemvoice_kalkan_destroyed_ally_en": {
+        "SoundTableIndex": "System_Common_Notice_016_A_en"
+      },
+      "sound_systemvoice_kalkan_destroyed_enemy_en": {
+        "SoundTableIndex": "System_Common_Notice_016_B_en"
+      },
+      "sound_systemvoice_slain_ally_en": {
+        "SoundTableIndex": "System_Common_Notice_017_A_en"
+      },
+      "sound_systemvoice_slain_me_en": {
+        "SoundTableIndex": "System_Common_Notice_017_B_en"
+      },
+      "sound_systemvoice_slain_enemy_en": {
+        "SoundTableIndex": "System_Common_Notice_018_en"
+      },
+      "sound_systemvoice_killstreak_ally_2_en": {
+        "SoundTableIndex": "System_Common_Notice_019_en"
+      },
+      "sound_systemvoice_killstreak_ally_3_en": {
+        "SoundTableIndex": "System_Common_Notice_020_en"
+      },
+      "sound_systemvoice_killstreak_ally_4_en": {
+        "SoundTableIndex": "System_Common_Notice_021_en"
+      },
+      "sound_systemvoice_killstreak_ally_5_en": {
+        "SoundTableIndex": "System_Common_Notice_022_en"
+      },
+      "sound_systemvoice_killstreak_enemy_2_en": {
+        "SoundTableIndex": "System_Common_Notice_023_en"
+      },
+      "sound_systemvoice_killstreak_enemy_3_en": {
+        "SoundTableIndex": "System_Common_Notice_024_en"
+      },
+      "sound_systemvoice_killstreak_enemy_4_en": {
+        "SoundTableIndex": "System_Common_Notice_025_en"
+      },
+      "sound_systemvoice_killstreak_enemy_5_en": {
+        "SoundTableIndex": "System_Common_Notice_026_en"
+      },
+      "sound_systemvoice_killstreak_firstblood_en": {
+        "SoundTableIndex": "System_Common_Notice_027_en"
+      },
+      "sound_systemvoice_killstreak_firstblood_enemy_en": {
+        "SoundTableIndex": "System_Common_Notice_028_en"
+      },
+      "sound_systemvoice_4spirit_spawn_en": {
+        "SoundTableIndex": "System_Common_Notice_029_en"
+      },
+      "sound_systemvoice_objectivekill_fengtooth_en": {
+        "SoundTableIndex": "System_Common_Notice_030_en"
+      },
+      "sound_systemvoice_4spirit_destroyed_ally_en": {
+        "SoundTableIndex": "System_Common_Notice_030_A_en"
+      },
+      "sound_systemvoice_4spirit_destroyed_enemy_en": {
+        "SoundTableIndex": "System_Common_Notice_030_B_en"
+      },
+      "sound_systemvoice_objectivekill_prime_en": {
+        "SoundTableIndex": "System_Common_Notice_031_en"
+      },
+      "sound_systemvoice_minions_spawning_en": {
+        "SoundTableIndex": "System_Common_Notice_032_en"
+      },
+      "sound_systemvoice_prepare_battle_en": {
+        "SoundTableIndex": "System_Common_Notice_033_en"
+      },
+      "sound_systemvoice_player_levelup_en": {
+        "SoundTableIndex": "System_Common_Notice_034_en"
+      },
+      "sound_systemvoice_objective_prime_spawn_en": {
+        "SoundTableIndex": "System_Common_Notice_035_en"
+      },
+      "sound_systemvoice_All_Kill_en": {
+        "SoundTableIndex": "System_Common_Notice_036_en"
+      },
+      "sound_systemvoice_All_Kill_ally_en": {
+        "SoundTableIndex": "System_Common_Notice_037_en"
+      },
+      "sound_systemvoice_domination_enemy_en": {
+        "SoundTableIndex": "System_Common_Notice_038_en"
+      },
+      "sound_systemvoice_domination_ally_en": {
+        "SoundTableIndex": "System_Common_Notice_039_en"
+      },
+      "sound_systemvoice_domination_me_en": {
+        "SoundTableIndex": "System_Common_Notice_040_en"
+      },
+      "sound_systemvoice_enemyinhibitor_restoring_en": {
+        "SoundTableIndex": "System_Common_Notice_041_en"
+      },
+      "sound_systemvoice_enemyinhibitor_restored_en": {
+        "SoundTableIndex": "System_Common_Notice_042_en"
+      },
+      "sound_systemvoice_allyinhibitor_restoring_en": {
+        "SoundTableIndex": "System_Common_Notice_043_en"
+      },
+      "sound_systemvoice_allyinhibitor_restored_en": {
+        "SoundTableIndex": "System_Common_Notice_044_en"
+      },
+      "sound_systemvoice_portal_spawning_en": {
+        "SoundTableIndex": "System_Common_Notice_045_en"
+      },
+      "sound_systemvoice_accrue_4kill_ally_en": {
+        "SoundTableIndex": "System_Common_Notice_accure_04_en"
+      },
+      "sound_systemvoice_accrue_5kill_ally_en": {
+        "SoundTableIndex": "System_Common_Notice_accure_05_en"
+      },
+      "sound_systemvoice_accrue_6kill_ally_en": {
+        "SoundTableIndex": "System_Common_Notice_accure_06_en"
+      },
+      "sound_systemvoice_accrue_7kill_ally_en": {
+        "SoundTableIndex": "System_Common_Notice_accure_07_en"
+      },
+      "sound_systemvoice_accrue_8kill_ally_en": {
+        "SoundTableIndex": "System_Common_Notice_accure_08_en"
+      },
+      "sound_systemvoice_accrue_9kill_ally_en": {
+        "SoundTableIndex": "System_Common_Notice_accure_09_en"
+      },
+      "sound_systemvoice_accrue_10kill_ally_en": {
+        "SoundTableIndex": "System_Common_Notice_accure_10_en"
+      },
+      "sound_systemvoice_accrue_4kill_enemy_en": {
+        "SoundTableIndex": "System_Common_Notice_accure_04_enemy_en"
+      },
+      "sound_systemvoice_accrue_5kill_enemy_en": {
+        "SoundTableIndex": "System_Common_Notice_accure_05_enemy_en"
+      },
+      "sound_systemvoice_accrue_6kill_enemy_en": {
+        "SoundTableIndex": "System_Common_Notice_accure_06_enemy_en"
+      },
+      "sound_systemvoice_accrue_7kill_enemy_en": {
+        "SoundTableIndex": "System_Common_Notice_accure_07_enemy_en"
+      },
+      "sound_systemvoice_accrue_8kill_enemy_en": {
+        "SoundTableIndex": "System_Common_Notice_accure_08_enemy_en"
+      },
+      "sound_systemvoice_accrue_9kill_enemy_en": {
+        "SoundTableIndex": "System_Common_Notice_accure_09_enemy_en"
+      },
+      "sound_systemvoice_accrue_10kill_enemy_en": {
+        "SoundTableIndex": "System_Common_Notice_accure_10_enemy_en"
+      },
+      "sound_systemvoice_enemytower_underattack_ko": {
+        "SoundTableIndex": "System_Common_Notice_001_kr"
+      },
+      "sound_systemvoice_enemytower_destroyed_ko": {
+        "SoundTableIndex": "System_Common_Notice_002_kr"
+      },
+      "sound_systemvoice_allytower_underattack_ko": {
+        "SoundTableIndex": "System_Common_Notice_003_kr"
+      },
+      "sound_systemvoice_allytower_destroyed_ko": {
+        "SoundTableIndex": "System_Common_Notice_004_kr"
+      },
+      "sound_systemvoice_enemyinhibitor_destroyed_ko": {
+        "SoundTableIndex": "System_Common_Notice_005_kr"
+      },
+      "sound_systemvoice_enemyinhibitor_underattack_ko": {
+        "SoundTableIndex": "System_Common_Notice_006_kr"
+      },
+      "sound_systemvoice_allyinhibitor_destroyed_ko": {
+        "SoundTableIndex": "System_Common_Notice_007_kr"
+      },
+      "sound_systemvoice_allyinhibitor_underattack_ko": {
+        "SoundTableIndex": "System_Common_Notice_008_kr"
+      },
+      "sound_systemvoice_enemycore_underattack_ko": {
+        "SoundTableIndex": "System_Common_Notice_009_kr"
+      },
+      "sound_systemvoice_allycore_underattack_ko": {
+        "SoundTableIndex": "System_Common_Notice_010_kr"
+      },
+      "sound_systemvoice_team_victory_ko": {
+        "SoundTableIndex": "System_Common_Notice_011_kr"
+      },
+      "sound_systemvoice_team_defeat_ko": {
+        "SoundTableIndex": "System_Common_Notice_012_kr"
+      },
+      "sound_systemvoice_spirit_shila_spawn_ko": {
+        "SoundTableIndex": "System_Common_Notice_013_kr"
+      },
+      "sound_systemvoice_spirit_shila_destroyed_ally_ko": {
+        "SoundTableIndex": "System_Common_Notice_013_A_kr"
+      },
+      "sound_systemvoice_spirit_shila_destroyed_enemy_ko": {
+        "SoundTableIndex": "System_Common_Notice_013_B_kr"
+      },
+      "sound_systemvoice_puppet_spawn_ko": {
+        "SoundTableIndex": "System_Common_Notice_014_kr"
+      },
+      "sound_systemvoice_puppet_destroyed_ally_ko": {
+        "SoundTableIndex": "System_Common_Notice_014_A_kr"
+      },
+      "sound_systemvoice_puppet_destroyed_enemy_ko": {
+        "SoundTableIndex": "System_Common_Notice_014_B_kr"
+      },
+      "sound_systemvoice_ruled_puppet_ally_ko": {
+        "SoundTableIndex": "System_Common_Notice_015_kr"
+      },
+      "sound_systemvoice_ruled_puppet_enemy_ko": {
+        "SoundTableIndex": "System_Common_Notice_015_B_kr"
+      },
+      "sound_systemvoice_kalkan_spawn_ko": {
+        "SoundTableIndex": "System_Common_Notice_016_kr"
+      },
+      "sound_systemvoice_kalkan_destroyed_ally_ko": {
+        "SoundTableIndex": "System_Common_Notice_016_A_kr"
+      },
+      "sound_systemvoice_kalkan_destroyed_enemy_ko": {
+        "SoundTableIndex": "System_Common_Notice_016_B_kr"
+      },
+      "sound_systemvoice_slain_ally_ko": {
+        "SoundTableIndex": "System_Common_Notice_017_A_kr"
+      },
+      "sound_systemvoice_slain_me_ko": {
+        "SoundTableIndex": "System_Common_Notice_017_B_kr"
+      },
+      "sound_systemvoice_slain_enemy_ko": {
+        "SoundTableIndex": "System_Common_Notice_018_kr"
+      },
+      "sound_systemvoice_killstreak_ally_2_ko": {
+        "SoundTableIndex": "System_Common_Notice_019_kr"
+      },
+      "sound_systemvoice_killstreak_ally_3_ko": {
+        "SoundTableIndex": "System_Common_Notice_020_kr"
+      },
+      "sound_systemvoice_killstreak_ally_4_ko": {
+        "SoundTableIndex": "System_Common_Notice_021_kr"
+      },
+      "sound_systemvoice_killstreak_ally_5_ko": {
+        "SoundTableIndex": "System_Common_Notice_022_kr"
+      },
+      "sound_systemvoice_killstreak_enemy_2_ko": {
+        "SoundTableIndex": "System_Common_Notice_023_kr"
+      },
+      "sound_systemvoice_killstreak_enemy_3_ko": {
+        "SoundTableIndex": "System_Common_Notice_024_kr"
+      },
+      "sound_systemvoice_killstreak_enemy_4_ko": {
+        "SoundTableIndex": "System_Common_Notice_025_kr"
+      },
+      "sound_systemvoice_killstreak_enemy_5_ko": {
+        "SoundTableIndex": "System_Common_Notice_026_kr"
+      },
+      "sound_systemvoice_killstreak_firstblood_ko": {
+        "SoundTableIndex": "System_Common_Notice_027_kr"
+      },
+      "sound_systemvoice_killstreak_firstblood_enemy_ko": {
+        "SoundTableIndex": "System_Common_Notice_028_kr"
+      },
+      "sound_systemvoice_4spirit_spawn_ko": {
+        "SoundTableIndex": "System_Common_Notice_029_kr"
+      },
+      "sound_systemvoice_objectivekill_fengtooth_ko": {
+        "SoundTableIndex": "System_Common_Notice_030_kr"
+      },
+      "sound_systemvoice_4spirit_destroyed_ally_ko": {
+        "SoundTableIndex": "System_Common_Notice_030_A_kr"
+      },
+      "sound_systemvoice_4spirit_destroyed_enemy_ko": {
+        "SoundTableIndex": "System_Common_Notice_030_B_kr"
+      },
+      "sound_systemvoice_objectivekill_prime_ko": {
+        "SoundTableIndex": "System_Common_Notice_031_kr"
+      },
+      "sound_systemvoice_minions_spawning_ko": {
+        "SoundTableIndex": "System_Common_Notice_032_kr"
+      },
+      "sound_systemvoice_prepare_battle_ko": {
+        "SoundTableIndex": "System_Common_Notice_033_kr"
+      },
+      "sound_systemvoice_player_levelup_ko": {
+        "SoundTableIndex": "System_Common_Notice_034_kr"
+      },
+      "sound_systemvoice_objective_prime_spawn_ko": {
+        "SoundTableIndex": "System_Common_Notice_035_kr"
+      },
+      "sound_systemvoice_All_Kill_ko": {
+        "SoundTableIndex": "System_Common_Notice_036_kr"
+      },
+      "sound_systemvoice_All_Kill_ally_ko": {
+        "SoundTableIndex": "System_Common_Notice_037_kr"
+      },
+      "sound_systemvoice_domination_enemy_ko": {
+        "SoundTableIndex": "System_Common_Notice_038_kr"
+      },
+      "sound_systemvoice_domination_ally_ko": {
+        "SoundTableIndex": "System_Common_Notice_039_kr"
+      },
+      "sound_systemvoice_domination_me_ko": {
+        "SoundTableIndex": "System_Common_Notice_040_kr"
+      },
+      "sound_systemvoice_enemyinhibitor_restoring_ko": {
+        "SoundTableIndex": "System_Common_Notice_041_kr"
+      },
+      "sound_systemvoice_enemyinhibitor_restored_ko": {
+        "SoundTableIndex": "System_Common_Notice_042_kr"
+      },
+      "sound_systemvoice_allyinhibitor_restoring_ko": {
+        "SoundTableIndex": "System_Common_Notice_043_kr"
+      },
+      "sound_systemvoice_allyinhibitor_restored_ko": {
+        "SoundTableIndex": "System_Common_Notice_044_kr"
+      },
+      "sound_systemvoice_portal_spawning_ko": {
+        "SoundTableIndex": "System_Common_Notice_045_kr"
+      },
+      "sound_systemvoice_accrue_4kill_ally_ko": {
+        "SoundTableIndex": "System_Common_Notice_accure_04_kr"
+      },
+      "sound_systemvoice_accrue_5kill_ally_ko": {
+        "SoundTableIndex": "System_Common_Notice_accure_05_kr"
+      },
+      "sound_systemvoice_accrue_6kill_ally_ko": {
+        "SoundTableIndex": "System_Common_Notice_accure_06_kr"
+      },
+      "sound_systemvoice_accrue_7kill_ally_ko": {
+        "SoundTableIndex": "System_Common_Notice_accure_07_kr"
+      },
+      "sound_systemvoice_accrue_8kill_ally_ko": {
+        "SoundTableIndex": "System_Common_Notice_accure_08_kr"
+      },
+      "sound_systemvoice_accrue_9kill_ally_ko": {
+        "SoundTableIndex": "System_Common_Notice_accure_09_kr"
+      },
+      "sound_systemvoice_accrue_10kill_ally_ko": {
+        "SoundTableIndex": "System_Common_Notice_accure_10_kr"
+      },
+      "sound_systemvoice_accrue_4kill_enemy_ko": {
+        "SoundTableIndex": "System_Common_Notice_accure_04_enemy_kr"
+      },
+      "sound_systemvoice_accrue_5kill_enemy_ko": {
+        "SoundTableIndex": "System_Common_Notice_accure_05_enemy_kr"
+      },
+      "sound_systemvoice_accrue_6kill_enemy_ko": {
+        "SoundTableIndex": "System_Common_Notice_accure_06_enemy_kr"
+      },
+      "sound_systemvoice_accrue_7kill_enemy_ko": {
+        "SoundTableIndex": "System_Common_Notice_accure_07_enemy_kr"
+      },
+      "sound_systemvoice_accrue_8kill_enemy_ko": {
+        "SoundTableIndex": "System_Common_Notice_accure_08_enemy_kr"
+      },
+      "sound_systemvoice_accrue_9kill_enemy_ko": {
+        "SoundTableIndex": "System_Common_Notice_accure_09_enemy_kr"
+      },
+      "sound_systemvoice_accrue_10kill_enemy_ko": {
+        "SoundTableIndex": "System_Common_Notice_accure_10_enemy_kr"
+      },
+      "sound_systemvoice_enemytower_underattack_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_001_ch"
+      },
+      "sound_systemvoice_enemytower_destroyed_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_002_ch"
+      },
+      "sound_systemvoice_allytower_underattack_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_003_ch"
+      },
+      "sound_systemvoice_allytower_destroyed_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_004_ch"
+      },
+      "sound_systemvoice_enemyinhibitor_destroyed_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_005_ch"
+      },
+      "sound_systemvoice_enemyinhibitor_underattack_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_006_ch"
+      },
+      "sound_systemvoice_allyinhibitor_destroyed_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_007_ch"
+      },
+      "sound_systemvoice_allyinhibitor_underattack_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_008_ch"
+      },
+      "sound_systemvoice_enemycore_underattack_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_009_ch"
+      },
+      "sound_systemvoice_allycore_underattack_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_010_ch"
+      },
+      "sound_systemvoice_team_victory_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_011_ch"
+      },
+      "sound_systemvoice_team_defeat_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_012_ch"
+      },
+      "sound_systemvoice_spirit_shila_spawn_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_013_ch"
+      },
+      "sound_systemvoice_spirit_shila_destroyed_ally_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_013_A_ch"
+      },
+      "sound_systemvoice_spirit_shila_destroyed_enemy_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_013_B_ch"
+      },
+      "sound_systemvoice_puppet_spawn_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_014_ch"
+      },
+      "sound_systemvoice_puppet_destroyed_ally_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_014_A_ch"
+      },
+      "sound_systemvoice_puppet_destroyed_enemy_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_014_B_ch"
+      },
+      "sound_systemvoice_ruled_puppet_ally_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_015_ch"
+      },
+      "sound_systemvoice_ruled_puppet_enemy_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_015_B_ch"
+      },
+      "sound_systemvoice_kalkan_spawn_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_016_ch"
+      },
+      "sound_systemvoice_kalkan_destroyed_ally_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_016_A_ch"
+      },
+      "sound_systemvoice_kalkan_destroyed_enemy_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_016_B_ch"
+      },
+      "sound_systemvoice_slain_ally_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_017_A_ch"
+      },
+      "sound_systemvoice_slain_me_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_017_B_ch"
+      },
+      "sound_systemvoice_slain_enemy_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_018_ch"
+      },
+      "sound_systemvoice_killstreak_ally_2_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_019_ch"
+      },
+      "sound_systemvoice_killstreak_ally_3_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_020_ch"
+      },
+      "sound_systemvoice_killstreak_ally_4_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_021_ch"
+      },
+      "sound_systemvoice_killstreak_ally_5_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_022_ch"
+      },
+      "sound_systemvoice_killstreak_enemy_2_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_023_ch"
+      },
+      "sound_systemvoice_killstreak_enemy_3_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_024_ch"
+      },
+      "sound_systemvoice_killstreak_enemy_4_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_025_ch"
+      },
+      "sound_systemvoice_killstreak_enemy_5_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_026_ch"
+      },
+      "sound_systemvoice_killstreak_firstblood_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_027_ch"
+      },
+      "sound_systemvoice_killstreak_firstblood_enemy_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_028_ch"
+      },
+      "sound_systemvoice_4spirit_spawn_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_029_ch"
+      },
+      "sound_systemvoice_objectivekill_fengtooth_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_030_ch"
+      },
+      "sound_systemvoice_4spirit_destroyed_ally_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_030_A_ch"
+      },
+      "sound_systemvoice_4spirit_destroyed_enemy_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_030_B_ch"
+      },
+      "sound_systemvoice_objectivekill_prime_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_031_ch"
+      },
+      "sound_systemvoice_minions_spawning_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_032_ch"
+      },
+      "sound_systemvoice_prepare_battle_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_033_ch"
+      },
+      "sound_systemvoice_player_levelup_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_034_ch"
+      },
+      "sound_systemvoice_objective_prime_spawn_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_035_ch"
+      },
+      "sound_systemvoice_All_Kill_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_036_ch"
+      },
+      "sound_systemvoice_All_Kill_ally_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_037_ch"
+      },
+      "sound_systemvoice_domination_enemy_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_038_ch"
+      },
+      "sound_systemvoice_domination_ally_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_039_ch"
+      },
+      "sound_systemvoice_domination_me_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_040_ch"
+      },
+      "sound_systemvoice_enemyinhibitor_restoring_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_041_ch"
+      },
+      "sound_systemvoice_enemyinhibitor_restored_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_042_ch"
+      },
+      "sound_systemvoice_allyinhibitor_restoring_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_043_ch"
+      },
+      "sound_systemvoice_allyinhibitor_restored_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_044_ch"
+      },
+      "sound_systemvoice_portal_spawning_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_045_ch"
+      },
+      "sound_systemvoice_accrue_4kill_ally_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_accure_04_ch"
+      },
+      "sound_systemvoice_accrue_5kill_ally_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_accure_05_ch"
+      },
+      "sound_systemvoice_accrue_6kill_ally_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_accure_06_ch"
+      },
+      "sound_systemvoice_accrue_7kill_ally_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_accure_07_ch"
+      },
+      "sound_systemvoice_accrue_8kill_ally_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_accure_08_ch"
+      },
+      "sound_systemvoice_accrue_9kill_ally_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_accure_09_ch"
+      },
+      "sound_systemvoice_accrue_10kill_ally_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_accure_10_ch"
+      },
+      "sound_systemvoice_accrue_4kill_enemy_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_accure_04_enemy_ch"
+      },
+      "sound_systemvoice_accrue_5kill_enemy_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_accure_05_enemy_ch"
+      },
+      "sound_systemvoice_accrue_6kill_enemy_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_accure_06_enemy_ch"
+      },
+      "sound_systemvoice_accrue_7kill_enemy_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_accure_07_enemy_ch"
+      },
+      "sound_systemvoice_accrue_8kill_enemy_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_accure_08_enemy_ch"
+      },
+      "sound_systemvoice_accrue_9kill_enemy_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_accure_09_enemy_ch"
+      },
+      "sound_systemvoice_accrue_10kill_enemy_zh-Hans": {
+        "SoundTableIndex": "System_Common_Notice_accure_10_enemy_ch"
+      },
+      "sound_systemvoice_enemytower_underattack_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_001_ch"
+      },
+      "sound_systemvoice_enemytower_destroyed_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_002_ch"
+      },
+      "sound_systemvoice_allytower_underattack_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_003_ch"
+      },
+      "sound_systemvoice_allytower_destroyed_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_004_ch"
+      },
+      "sound_systemvoice_enemyinhibitor_destroyed_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_005_ch"
+      },
+      "sound_systemvoice_enemyinhibitor_underattack_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_006_ch"
+      },
+      "sound_systemvoice_allyinhibitor_destroyed_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_007_ch"
+      },
+      "sound_systemvoice_allyinhibitor_underattack_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_008_ch"
+      },
+      "sound_systemvoice_enemycore_underattack_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_009_ch"
+      },
+      "sound_systemvoice_allycore_underattack_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_010_ch"
+      },
+      "sound_systemvoice_team_victory_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_011_ch"
+      },
+      "sound_systemvoice_team_defeat_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_012_ch"
+      },
+      "sound_systemvoice_spirit_shila_spawn_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_013_ch"
+      },
+      "sound_systemvoice_spirit_shila_destroyed_ally_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_013_A_ch"
+      },
+      "sound_systemvoice_spirit_shila_destroyed_enemy_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_013_B_ch"
+      },
+      "sound_systemvoice_puppet_spawn_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_014_ch"
+      },
+      "sound_systemvoice_puppet_destroyed_ally_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_014_A_ch"
+      },
+      "sound_systemvoice_puppet_destroyed_enemy_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_014_B_ch"
+      },
+      "sound_systemvoice_ruled_puppet_ally_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_015_ch"
+      },
+      "sound_systemvoice_ruled_puppet_enemy_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_015_B_ch"
+      },
+      "sound_systemvoice_kalkan_spawn_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_016_ch"
+      },
+      "sound_systemvoice_kalkan_destroyed_ally_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_016_A_ch"
+      },
+      "sound_systemvoice_kalkan_destroyed_enemy_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_016_B_ch"
+      },
+      "sound_systemvoice_slain_ally_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_017_A_ch"
+      },
+      "sound_systemvoice_slain_me_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_017_B_ch"
+      },
+      "sound_systemvoice_slain_enemy_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_018_ch"
+      },
+      "sound_systemvoice_killstreak_ally_2_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_019_ch"
+      },
+      "sound_systemvoice_killstreak_ally_3_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_020_ch"
+      },
+      "sound_systemvoice_killstreak_ally_4_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_021_ch"
+      },
+      "sound_systemvoice_killstreak_ally_5_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_022_ch"
+      },
+      "sound_systemvoice_killstreak_enemy_2_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_023_ch"
+      },
+      "sound_systemvoice_killstreak_enemy_3_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_024_ch"
+      },
+      "sound_systemvoice_killstreak_enemy_4_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_025_ch"
+      },
+      "sound_systemvoice_killstreak_enemy_5_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_026_ch"
+      },
+      "sound_systemvoice_killstreak_firstblood_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_027_ch"
+      },
+      "sound_systemvoice_killstreak_firstblood_enemy_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_028_ch"
+      },
+      "sound_systemvoice_4spirit_spawn_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_029_ch"
+      },
+      "sound_systemvoice_objectivekill_fengtooth_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_030_ch"
+      },
+      "sound_systemvoice_4spirit_destroyed_ally_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_030_A_ch"
+      },
+      "sound_systemvoice_4spirit_destroyed_enemy_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_030_B_ch"
+      },
+      "sound_systemvoice_objectivekill_prime_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_031_ch"
+      },
+      "sound_systemvoice_minions_spawning_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_032_ch"
+      },
+      "sound_systemvoice_prepare_battle_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_033_ch"
+      },
+      "sound_systemvoice_player_levelup_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_034_ch"
+      },
+      "sound_systemvoice_objective_prime_spawn_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_035_ch"
+      },
+      "sound_systemvoice_All_Kill_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_036_ch"
+      },
+      "sound_systemvoice_All_Kill_ally_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_037_ch"
+      },
+      "sound_systemvoice_domination_enemy_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_038_ch"
+      },
+      "sound_systemvoice_domination_ally_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_039_ch"
+      },
+      "sound_systemvoice_domination_me_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_040_ch"
+      },
+      "sound_systemvoice_enemyinhibitor_restoring_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_041_ch"
+      },
+      "sound_systemvoice_enemyinhibitor_restored_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_042_ch"
+      },
+      "sound_systemvoice_allyinhibitor_restoring_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_043_ch"
+      },
+      "sound_systemvoice_allyinhibitor_restored_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_044_ch"
+      },
+      "sound_systemvoice_portal_spawning_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_045_ch"
+      },
+      "sound_systemvoice_accrue_4kill_ally_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_accure_04_ch"
+      },
+      "sound_systemvoice_accrue_5kill_ally_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_accure_05_ch"
+      },
+      "sound_systemvoice_accrue_6kill_ally_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_accure_06_ch"
+      },
+      "sound_systemvoice_accrue_7kill_ally_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_accure_07_ch"
+      },
+      "sound_systemvoice_accrue_8kill_ally_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_accure_08_ch"
+      },
+      "sound_systemvoice_accrue_9kill_ally_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_accure_09_ch"
+      },
+      "sound_systemvoice_accrue_10kill_ally_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_accure_10_ch"
+      },
+      "sound_systemvoice_accrue_4kill_enemy_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_accure_04_enemy_ch"
+      },
+      "sound_systemvoice_accrue_5kill_enemy_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_accure_05_enemy_ch"
+      },
+      "sound_systemvoice_accrue_6kill_enemy_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_accure_06_enemy_ch"
+      },
+      "sound_systemvoice_accrue_7kill_enemy_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_accure_07_enemy_ch"
+      },
+      "sound_systemvoice_accrue_8kill_enemy_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_accure_08_enemy_ch"
+      },
+      "sound_systemvoice_accrue_9kill_enemy_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_accure_09_enemy_ch"
+      },
+      "sound_systemvoice_accrue_10kill_enemy_zh-Hant": {
+        "SoundTableIndex": "System_Common_Notice_accure_10_enemy_ch"
+      }
+    }
+  }
+]

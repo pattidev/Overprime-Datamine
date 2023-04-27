@@ -1,0 +1,57 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_Mail_Link",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'MailLinkTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "MailLinkNameKey": "UI.MailLink_Scene_Play",
+        "MailLinkType": "EMailLinkType::Scene",
+        "TopMenu": "ELobbyScene::Play",
+        "URL": ""
+      },
+      "2": {
+        "MailLinkNameKey": "UI.MailLink_Scene_Hero",
+        "MailLinkType": "EMailLinkType::Scene",
+        "TopMenu": "ELobbyScene::Hero",
+        "URL": ""
+      },
+      "3": {
+        "MailLinkNameKey": "UI.MailLink_Scene_Shop",
+        "MailLinkType": "EMailLinkType::Scene",
+        "TopMenu": "ELobbyScene::Shop",
+        "URL": ""
+      },
+      "4": {
+        "MailLinkNameKey": "UI.MailLink_URL_CSCenter",
+        "MailLinkType": "EMailLinkType::URL",
+        "TopMenu": "ELobbyScene::None",
+        "URL": "https://help.netmarble.com/game/overprime"
+      },
+      "5": {
+        "MailLinkNameKey": "UI.MailLink_URL_RefundTerms",
+        "MailLinkType": "EMailLinkType::URL",
+        "TopMenu": "ELobbyScene::None",
+        "URL": "https://help.netmarble.com/game/overprime"
+      },
+      "6": {
+        "MailLinkNameKey": "UI.MailLink_URL_News",
+        "MailLinkType": "EMailLinkType::URL",
+        "TopMenu": "ELobbyScene::None",
+        "URL": "https://paragon.netmarble.com/news"
+      },
+      "7": {
+        "MailLinkNameKey": "UI.MailLink_URL_OfficialPage",
+        "MailLinkType": "EMailLinkType::URL",
+        "TopMenu": "ELobbyScene::None",
+        "URL": "https://paragon.netmarble.com/"
+      }
+    }
+  }
+]

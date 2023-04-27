@@ -1,0 +1,536 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_KeyDisplayName",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'KeyDisplayNameTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "KeyType": "LeftMouseButton",
+        "Text": "LMB",
+        "Texture": {
+          "ObjectName": "Texture2D'T_UI_Common_Button_Mouse_Left'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Common/Key/T_UI_Common_Button_Mouse_Left.0"
+        }
+      },
+      "2": {
+        "KeyType": "RightMouseButton",
+        "Text": "RMB",
+        "Texture": {
+          "ObjectName": "Texture2D'T_UI_Common_Button_Mouse_Right'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Common/Key/T_UI_Common_Button_Mouse_Right.0"
+        }
+      },
+      "3": {
+        "KeyType": "MiddleMouseButton",
+        "Text": "MMB",
+        "Texture": null
+      },
+      "4": {
+        "KeyType": "ThumbMouseButton",
+        "Text": "TMB1",
+        "Texture": null
+      },
+      "5": {
+        "KeyType": "ThumbMouseButton2",
+        "Text": "TMB2",
+        "Texture": null
+      },
+      "6": {
+        "KeyType": "BackSpace",
+        "Text": "B.Space",
+        "Texture": null
+      },
+      "7": {
+        "KeyType": "Tab",
+        "Text": "Tab",
+        "Texture": null
+      },
+      "8": {
+        "KeyType": "Enter",
+        "Text": "Enter",
+        "Texture": null
+      },
+      "9": {
+        "KeyType": "Pause",
+        "Text": "Pause",
+        "Texture": null
+      },
+      "10": {
+        "KeyType": "CapsLock",
+        "Text": "Caps Lk",
+        "Texture": null
+      },
+      "11": {
+        "KeyType": "Escape",
+        "Text": "Esc",
+        "Texture": null
+      },
+      "12": {
+        "KeyType": "SpaceBar",
+        "Text": "Space bar",
+        "Texture": null
+      },
+      "13": {
+        "KeyType": "PageUp",
+        "Text": "PgUp",
+        "Texture": null
+      },
+      "14": {
+        "KeyType": "PageDown",
+        "Text": "PgDn",
+        "Texture": null
+      },
+      "15": {
+        "KeyType": "End",
+        "Text": "End",
+        "Texture": null
+      },
+      "16": {
+        "KeyType": "Home",
+        "Text": "Home",
+        "Texture": null
+      },
+      "17": {
+        "KeyType": "Left",
+        "Text": "Left",
+        "Texture": null
+      },
+      "18": {
+        "KeyType": "Up",
+        "Text": "Up",
+        "Texture": null
+      },
+      "19": {
+        "KeyType": "Right",
+        "Text": "Right",
+        "Texture": null
+      },
+      "20": {
+        "KeyType": "Down",
+        "Text": "Down",
+        "Texture": null
+      },
+      "21": {
+        "KeyType": "Insert",
+        "Text": "Ins",
+        "Texture": null
+      },
+      "22": {
+        "KeyType": "Delete",
+        "Text": "Del",
+        "Texture": null
+      },
+      "23": {
+        "KeyType": "Zero",
+        "Text": "0",
+        "Texture": null
+      },
+      "24": {
+        "KeyType": "One",
+        "Text": "1",
+        "Texture": null
+      },
+      "25": {
+        "KeyType": "Two",
+        "Text": "2",
+        "Texture": null
+      },
+      "26": {
+        "KeyType": "Three",
+        "Text": "3",
+        "Texture": null
+      },
+      "27": {
+        "KeyType": "Four",
+        "Text": "4",
+        "Texture": null
+      },
+      "28": {
+        "KeyType": "Five",
+        "Text": "5",
+        "Texture": null
+      },
+      "29": {
+        "KeyType": "Six",
+        "Text": "6",
+        "Texture": null
+      },
+      "30": {
+        "KeyType": "Seven",
+        "Text": "7",
+        "Texture": null
+      },
+      "31": {
+        "KeyType": "Eight",
+        "Text": "8",
+        "Texture": null
+      },
+      "32": {
+        "KeyType": "Nine",
+        "Text": "9",
+        "Texture": null
+      },
+      "33": {
+        "KeyType": "A",
+        "Text": "A",
+        "Texture": null
+      },
+      "34": {
+        "KeyType": "B",
+        "Text": "B",
+        "Texture": null
+      },
+      "35": {
+        "KeyType": "C",
+        "Text": "C",
+        "Texture": null
+      },
+      "36": {
+        "KeyType": "D",
+        "Text": "D",
+        "Texture": null
+      },
+      "37": {
+        "KeyType": "E",
+        "Text": "E",
+        "Texture": null
+      },
+      "38": {
+        "KeyType": "F",
+        "Text": "F",
+        "Texture": null
+      },
+      "39": {
+        "KeyType": "G",
+        "Text": "G",
+        "Texture": null
+      },
+      "40": {
+        "KeyType": "H",
+        "Text": "H",
+        "Texture": null
+      },
+      "41": {
+        "KeyType": "I",
+        "Text": "I",
+        "Texture": null
+      },
+      "42": {
+        "KeyType": "J",
+        "Text": "J",
+        "Texture": null
+      },
+      "43": {
+        "KeyType": "K",
+        "Text": "K",
+        "Texture": null
+      },
+      "44": {
+        "KeyType": "L",
+        "Text": "L",
+        "Texture": null
+      },
+      "45": {
+        "KeyType": "M",
+        "Text": "M",
+        "Texture": null
+      },
+      "46": {
+        "KeyType": "N",
+        "Text": "N",
+        "Texture": null
+      },
+      "47": {
+        "KeyType": "O",
+        "Text": "O",
+        "Texture": null
+      },
+      "48": {
+        "KeyType": "P",
+        "Text": "P",
+        "Texture": null
+      },
+      "49": {
+        "KeyType": "Q",
+        "Text": "Q",
+        "Texture": null
+      },
+      "50": {
+        "KeyType": "R",
+        "Text": "R",
+        "Texture": null
+      },
+      "51": {
+        "KeyType": "S",
+        "Text": "S",
+        "Texture": null
+      },
+      "52": {
+        "KeyType": "T",
+        "Text": "T",
+        "Texture": null
+      },
+      "53": {
+        "KeyType": "U",
+        "Text": "U",
+        "Texture": null
+      },
+      "54": {
+        "KeyType": "V",
+        "Text": "V",
+        "Texture": null
+      },
+      "55": {
+        "KeyType": "W",
+        "Text": "W",
+        "Texture": null
+      },
+      "56": {
+        "KeyType": "X",
+        "Text": "X",
+        "Texture": null
+      },
+      "57": {
+        "KeyType": "Y",
+        "Text": "Y",
+        "Texture": null
+      },
+      "58": {
+        "KeyType": "Z",
+        "Text": "Z",
+        "Texture": null
+      },
+      "59": {
+        "KeyType": "NumPadZero",
+        "Text": "Num 0",
+        "Texture": null
+      },
+      "60": {
+        "KeyType": "NumPadOne",
+        "Text": "Num 1",
+        "Texture": null
+      },
+      "61": {
+        "KeyType": "NumPadTwo",
+        "Text": "Num 2",
+        "Texture": null
+      },
+      "62": {
+        "KeyType": "NumPadThree",
+        "Text": "Num 3",
+        "Texture": null
+      },
+      "63": {
+        "KeyType": "NumPadFour",
+        "Text": "Num 4",
+        "Texture": null
+      },
+      "64": {
+        "KeyType": "NumPadFive",
+        "Text": "Num 5",
+        "Texture": null
+      },
+      "65": {
+        "KeyType": "NumPadSix",
+        "Text": "Num 6",
+        "Texture": null
+      },
+      "66": {
+        "KeyType": "NumPadSeven",
+        "Text": "Num 7",
+        "Texture": null
+      },
+      "67": {
+        "KeyType": "NumPadEight",
+        "Text": "Num 8",
+        "Texture": null
+      },
+      "68": {
+        "KeyType": "NumPadNine",
+        "Text": "Num 9",
+        "Texture": null
+      },
+      "69": {
+        "KeyType": "Multiply",
+        "Text": "Num *",
+        "Texture": null
+      },
+      "70": {
+        "KeyType": "Add",
+        "Text": "Num +",
+        "Texture": null
+      },
+      "71": {
+        "KeyType": "Subtract",
+        "Text": "Num -",
+        "Texture": null
+      },
+      "72": {
+        "KeyType": "Decimal",
+        "Text": "Num .",
+        "Texture": null
+      },
+      "73": {
+        "KeyType": "Divide",
+        "Text": "Num /",
+        "Texture": null
+      },
+      "74": {
+        "KeyType": "F1",
+        "Text": "F1",
+        "Texture": null
+      },
+      "75": {
+        "KeyType": "F2",
+        "Text": "F2",
+        "Texture": null
+      },
+      "76": {
+        "KeyType": "F3",
+        "Text": "F3",
+        "Texture": null
+      },
+      "77": {
+        "KeyType": "F4",
+        "Text": "F4",
+        "Texture": null
+      },
+      "78": {
+        "KeyType": "F5",
+        "Text": "F5",
+        "Texture": null
+      },
+      "79": {
+        "KeyType": "F6",
+        "Text": "F6",
+        "Texture": null
+      },
+      "80": {
+        "KeyType": "F7",
+        "Text": "F7",
+        "Texture": null
+      },
+      "81": {
+        "KeyType": "F8",
+        "Text": "F8",
+        "Texture": null
+      },
+      "82": {
+        "KeyType": "F9",
+        "Text": "F9",
+        "Texture": null
+      },
+      "83": {
+        "KeyType": "F10",
+        "Text": "F10",
+        "Texture": null
+      },
+      "84": {
+        "KeyType": "F11",
+        "Text": "F11",
+        "Texture": null
+      },
+      "85": {
+        "KeyType": "F12",
+        "Text": "F12",
+        "Texture": null
+      },
+      "86": {
+        "KeyType": "NumLock",
+        "Text": "Num Lk",
+        "Texture": null
+      },
+      "87": {
+        "KeyType": "ScrollLock",
+        "Text": "Scr Lk",
+        "Texture": null
+      },
+      "88": {
+        "KeyType": "LeftShift",
+        "Text": "L Shift",
+        "Texture": null
+      },
+      "89": {
+        "KeyType": "RightShift",
+        "Text": "R Shift",
+        "Texture": null
+      },
+      "90": {
+        "KeyType": "LeftControl",
+        "Text": "L Ctrl",
+        "Texture": null
+      },
+      "91": {
+        "KeyType": "RightControl",
+        "Text": "R Ctrl",
+        "Texture": null
+      },
+      "92": {
+        "KeyType": "LeftAlt",
+        "Text": "L Alt",
+        "Texture": null
+      },
+      "93": {
+        "KeyType": "RightAlt",
+        "Text": "R Alt",
+        "Texture": null
+      },
+      "94": {
+        "KeyType": "Semicolon",
+        "Text": ";",
+        "Texture": null
+      },
+      "95": {
+        "KeyType": "Equals",
+        "Text": "=",
+        "Texture": null
+      },
+      "96": {
+        "KeyType": "Comma",
+        "Text": ",",
+        "Texture": null
+      },
+      "97": {
+        "KeyType": "Hyphen",
+        "Text": "-",
+        "Texture": null
+      },
+      "98": {
+        "KeyType": "Period",
+        "Text": ".",
+        "Texture": null
+      },
+      "99": {
+        "KeyType": "Slash",
+        "Text": "/",
+        "Texture": null
+      },
+      "100": {
+        "KeyType": "LeftBracket",
+        "Text": "[",
+        "Texture": null
+      },
+      "101": {
+        "KeyType": "Backslash",
+        "Text": "\\",
+        "Texture": null
+      },
+      "102": {
+        "KeyType": "RightBracket",
+        "Text": "]",
+        "Texture": null
+      },
+      "103": {
+        "KeyType": "Apostrophe",
+        "Text": "'",
+        "Texture": null
+      }
+    }
+  }
+]

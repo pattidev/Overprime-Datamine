@@ -1,0 +1,815 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_CommunityLevel",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'CommunityLevelTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "NeedExp": 0,
+        "AccumulateExp": 0
+      },
+      "2": {
+        "NeedExp": 50,
+        "AccumulateExp": 50
+      },
+      "3": {
+        "NeedExp": 100,
+        "AccumulateExp": 150
+      },
+      "4": {
+        "NeedExp": 150,
+        "AccumulateExp": 300
+      },
+      "5": {
+        "NeedExp": 200,
+        "AccumulateExp": 500
+      },
+      "6": {
+        "NeedExp": 250,
+        "AccumulateExp": 750
+      },
+      "7": {
+        "NeedExp": 300,
+        "AccumulateExp": 1050
+      },
+      "8": {
+        "NeedExp": 350,
+        "AccumulateExp": 1400
+      },
+      "9": {
+        "NeedExp": 400,
+        "AccumulateExp": 1800
+      },
+      "10": {
+        "NeedExp": 450,
+        "AccumulateExp": 2250
+      },
+      "11": {
+        "NeedExp": 500,
+        "AccumulateExp": 2750
+      },
+      "12": {
+        "NeedExp": 600,
+        "AccumulateExp": 3350
+      },
+      "13": {
+        "NeedExp": 700,
+        "AccumulateExp": 4050
+      },
+      "14": {
+        "NeedExp": 800,
+        "AccumulateExp": 4850
+      },
+      "15": {
+        "NeedExp": 900,
+        "AccumulateExp": 5750
+      },
+      "16": {
+        "NeedExp": 1000,
+        "AccumulateExp": 6750
+      },
+      "17": {
+        "NeedExp": 1100,
+        "AccumulateExp": 7850
+      },
+      "18": {
+        "NeedExp": 1200,
+        "AccumulateExp": 9050
+      },
+      "19": {
+        "NeedExp": 1300,
+        "AccumulateExp": 10350
+      },
+      "20": {
+        "NeedExp": 1400,
+        "AccumulateExp": 11750
+      },
+      "21": {
+        "NeedExp": 1500,
+        "AccumulateExp": 13250
+      },
+      "22": {
+        "NeedExp": 1600,
+        "AccumulateExp": 14850
+      },
+      "23": {
+        "NeedExp": 1700,
+        "AccumulateExp": 16550
+      },
+      "24": {
+        "NeedExp": 1800,
+        "AccumulateExp": 18350
+      },
+      "25": {
+        "NeedExp": 1900,
+        "AccumulateExp": 20250
+      },
+      "26": {
+        "NeedExp": 2000,
+        "AccumulateExp": 22250
+      },
+      "27": {
+        "NeedExp": 2100,
+        "AccumulateExp": 24350
+      },
+      "28": {
+        "NeedExp": 2200,
+        "AccumulateExp": 26550
+      },
+      "29": {
+        "NeedExp": 2300,
+        "AccumulateExp": 28850
+      },
+      "30": {
+        "NeedExp": 2400,
+        "AccumulateExp": 31250
+      },
+      "31": {
+        "NeedExp": 2500,
+        "AccumulateExp": 33750
+      },
+      "32": {
+        "NeedExp": 2700,
+        "AccumulateExp": 36450
+      },
+      "33": {
+        "NeedExp": 2900,
+        "AccumulateExp": 39350
+      },
+      "34": {
+        "NeedExp": 3100,
+        "AccumulateExp": 42450
+      },
+      "35": {
+        "NeedExp": 3300,
+        "AccumulateExp": 45750
+      },
+      "36": {
+        "NeedExp": 3500,
+        "AccumulateExp": 49250
+      },
+      "37": {
+        "NeedExp": 3700,
+        "AccumulateExp": 52950
+      },
+      "38": {
+        "NeedExp": 3900,
+        "AccumulateExp": 56850
+      },
+      "39": {
+        "NeedExp": 4100,
+        "AccumulateExp": 60950
+      },
+      "40": {
+        "NeedExp": 4300,
+        "AccumulateExp": 65250
+      },
+      "41": {
+        "NeedExp": 4500,
+        "AccumulateExp": 69750
+      },
+      "42": {
+        "NeedExp": 4750,
+        "AccumulateExp": 74500
+      },
+      "43": {
+        "NeedExp": 5000,
+        "AccumulateExp": 79500
+      },
+      "44": {
+        "NeedExp": 5250,
+        "AccumulateExp": 84750
+      },
+      "45": {
+        "NeedExp": 5500,
+        "AccumulateExp": 90250
+      },
+      "46": {
+        "NeedExp": 5750,
+        "AccumulateExp": 96000
+      },
+      "47": {
+        "NeedExp": 6000,
+        "AccumulateExp": 102000
+      },
+      "48": {
+        "NeedExp": 6250,
+        "AccumulateExp": 108250
+      },
+      "49": {
+        "NeedExp": 6500,
+        "AccumulateExp": 114750
+      },
+      "50": {
+        "NeedExp": 6750,
+        "AccumulateExp": 121500
+      },
+      "51": {
+        "NeedExp": 7000,
+        "AccumulateExp": 128500
+      },
+      "52": {
+        "NeedExp": 7300,
+        "AccumulateExp": 135800
+      },
+      "53": {
+        "NeedExp": 7600,
+        "AccumulateExp": 143400
+      },
+      "54": {
+        "NeedExp": 7900,
+        "AccumulateExp": 151300
+      },
+      "55": {
+        "NeedExp": 8200,
+        "AccumulateExp": 159500
+      },
+      "56": {
+        "NeedExp": 8500,
+        "AccumulateExp": 168000
+      },
+      "57": {
+        "NeedExp": 8800,
+        "AccumulateExp": 176800
+      },
+      "58": {
+        "NeedExp": 9100,
+        "AccumulateExp": 185900
+      },
+      "59": {
+        "NeedExp": 9400,
+        "AccumulateExp": 195300
+      },
+      "60": {
+        "NeedExp": 9700,
+        "AccumulateExp": 205000
+      },
+      "61": {
+        "NeedExp": 10000,
+        "AccumulateExp": 215000
+      },
+      "62": {
+        "NeedExp": 10350,
+        "AccumulateExp": 225350
+      },
+      "63": {
+        "NeedExp": 10700,
+        "AccumulateExp": 236050
+      },
+      "64": {
+        "NeedExp": 11050,
+        "AccumulateExp": 247100
+      },
+      "65": {
+        "NeedExp": 11400,
+        "AccumulateExp": 258500
+      },
+      "66": {
+        "NeedExp": 11750,
+        "AccumulateExp": 270250
+      },
+      "67": {
+        "NeedExp": 12100,
+        "AccumulateExp": 282350
+      },
+      "68": {
+        "NeedExp": 12450,
+        "AccumulateExp": 294800
+      },
+      "69": {
+        "NeedExp": 12800,
+        "AccumulateExp": 307600
+      },
+      "70": {
+        "NeedExp": 13150,
+        "AccumulateExp": 320750
+      },
+      "71": {
+        "NeedExp": 13500,
+        "AccumulateExp": 334250
+      },
+      "72": {
+        "NeedExp": 13900,
+        "AccumulateExp": 348150
+      },
+      "73": {
+        "NeedExp": 14300,
+        "AccumulateExp": 362450
+      },
+      "74": {
+        "NeedExp": 14700,
+        "AccumulateExp": 377150
+      },
+      "75": {
+        "NeedExp": 15100,
+        "AccumulateExp": 392250
+      },
+      "76": {
+        "NeedExp": 15500,
+        "AccumulateExp": 407750
+      },
+      "77": {
+        "NeedExp": 15900,
+        "AccumulateExp": 423650
+      },
+      "78": {
+        "NeedExp": 16300,
+        "AccumulateExp": 439950
+      },
+      "79": {
+        "NeedExp": 16700,
+        "AccumulateExp": 456650
+      },
+      "80": {
+        "NeedExp": 17100,
+        "AccumulateExp": 473750
+      },
+      "81": {
+        "NeedExp": 17500,
+        "AccumulateExp": 491250
+      },
+      "82": {
+        "NeedExp": 17950,
+        "AccumulateExp": 509200
+      },
+      "83": {
+        "NeedExp": 18400,
+        "AccumulateExp": 527600
+      },
+      "84": {
+        "NeedExp": 18850,
+        "AccumulateExp": 546450
+      },
+      "85": {
+        "NeedExp": 19300,
+        "AccumulateExp": 565750
+      },
+      "86": {
+        "NeedExp": 19750,
+        "AccumulateExp": 585500
+      },
+      "87": {
+        "NeedExp": 20200,
+        "AccumulateExp": 605700
+      },
+      "88": {
+        "NeedExp": 20650,
+        "AccumulateExp": 626350
+      },
+      "89": {
+        "NeedExp": 21100,
+        "AccumulateExp": 647450
+      },
+      "90": {
+        "NeedExp": 21550,
+        "AccumulateExp": 669000
+      },
+      "91": {
+        "NeedExp": 22000,
+        "AccumulateExp": 691000
+      },
+      "92": {
+        "NeedExp": 22500,
+        "AccumulateExp": 713500
+      },
+      "93": {
+        "NeedExp": 23000,
+        "AccumulateExp": 736500
+      },
+      "94": {
+        "NeedExp": 23500,
+        "AccumulateExp": 760000
+      },
+      "95": {
+        "NeedExp": 24000,
+        "AccumulateExp": 784000
+      },
+      "96": {
+        "NeedExp": 24500,
+        "AccumulateExp": 808500
+      },
+      "97": {
+        "NeedExp": 25000,
+        "AccumulateExp": 833500
+      },
+      "98": {
+        "NeedExp": 25500,
+        "AccumulateExp": 859000
+      },
+      "99": {
+        "NeedExp": 26000,
+        "AccumulateExp": 885000
+      },
+      "100": {
+        "NeedExp": 26500,
+        "AccumulateExp": 911500
+      },
+      "101": {
+        "NeedExp": 27000,
+        "AccumulateExp": 938500
+      },
+      "102": {
+        "NeedExp": 28000,
+        "AccumulateExp": 966500
+      },
+      "103": {
+        "NeedExp": 29000,
+        "AccumulateExp": 995500
+      },
+      "104": {
+        "NeedExp": 30000,
+        "AccumulateExp": 1025500
+      },
+      "105": {
+        "NeedExp": 31000,
+        "AccumulateExp": 1056500
+      },
+      "106": {
+        "NeedExp": 32000,
+        "AccumulateExp": 1088500
+      },
+      "107": {
+        "NeedExp": 33000,
+        "AccumulateExp": 1121500
+      },
+      "108": {
+        "NeedExp": 34000,
+        "AccumulateExp": 1155500
+      },
+      "109": {
+        "NeedExp": 35000,
+        "AccumulateExp": 1190500
+      },
+      "110": {
+        "NeedExp": 36000,
+        "AccumulateExp": 1226500
+      },
+      "111": {
+        "NeedExp": 37000,
+        "AccumulateExp": 1263500
+      },
+      "112": {
+        "NeedExp": 38000,
+        "AccumulateExp": 1301500
+      },
+      "113": {
+        "NeedExp": 39000,
+        "AccumulateExp": 1340500
+      },
+      "114": {
+        "NeedExp": 40000,
+        "AccumulateExp": 1380500
+      },
+      "115": {
+        "NeedExp": 41000,
+        "AccumulateExp": 1421500
+      },
+      "116": {
+        "NeedExp": 42000,
+        "AccumulateExp": 1463500
+      },
+      "117": {
+        "NeedExp": 43000,
+        "AccumulateExp": 1506500
+      },
+      "118": {
+        "NeedExp": 44000,
+        "AccumulateExp": 1550500
+      },
+      "119": {
+        "NeedExp": 45000,
+        "AccumulateExp": 1595500
+      },
+      "120": {
+        "NeedExp": 46000,
+        "AccumulateExp": 1641500
+      },
+      "121": {
+        "NeedExp": 47000,
+        "AccumulateExp": 1688500
+      },
+      "122": {
+        "NeedExp": 48000,
+        "AccumulateExp": 1736500
+      },
+      "123": {
+        "NeedExp": 49000,
+        "AccumulateExp": 1785500
+      },
+      "124": {
+        "NeedExp": 50000,
+        "AccumulateExp": 1835500
+      },
+      "125": {
+        "NeedExp": 51000,
+        "AccumulateExp": 1886500
+      },
+      "126": {
+        "NeedExp": 52000,
+        "AccumulateExp": 1938500
+      },
+      "127": {
+        "NeedExp": 53000,
+        "AccumulateExp": 1991500
+      },
+      "128": {
+        "NeedExp": 54000,
+        "AccumulateExp": 2045500
+      },
+      "129": {
+        "NeedExp": 55000,
+        "AccumulateExp": 2100500
+      },
+      "130": {
+        "NeedExp": 56000,
+        "AccumulateExp": 2156500
+      },
+      "131": {
+        "NeedExp": 57000,
+        "AccumulateExp": 2213500
+      },
+      "132": {
+        "NeedExp": 58000,
+        "AccumulateExp": 2271500
+      },
+      "133": {
+        "NeedExp": 59000,
+        "AccumulateExp": 2330500
+      },
+      "134": {
+        "NeedExp": 60000,
+        "AccumulateExp": 2390500
+      },
+      "135": {
+        "NeedExp": 61000,
+        "AccumulateExp": 2451500
+      },
+      "136": {
+        "NeedExp": 62000,
+        "AccumulateExp": 2513500
+      },
+      "137": {
+        "NeedExp": 63000,
+        "AccumulateExp": 2576500
+      },
+      "138": {
+        "NeedExp": 64000,
+        "AccumulateExp": 2640500
+      },
+      "139": {
+        "NeedExp": 65000,
+        "AccumulateExp": 2705500
+      },
+      "140": {
+        "NeedExp": 66000,
+        "AccumulateExp": 2771500
+      },
+      "141": {
+        "NeedExp": 67000,
+        "AccumulateExp": 2838500
+      },
+      "142": {
+        "NeedExp": 68000,
+        "AccumulateExp": 2906500
+      },
+      "143": {
+        "NeedExp": 69000,
+        "AccumulateExp": 2975500
+      },
+      "144": {
+        "NeedExp": 70000,
+        "AccumulateExp": 3045500
+      },
+      "145": {
+        "NeedExp": 71000,
+        "AccumulateExp": 3116500
+      },
+      "146": {
+        "NeedExp": 72000,
+        "AccumulateExp": 3188500
+      },
+      "147": {
+        "NeedExp": 73000,
+        "AccumulateExp": 3261500
+      },
+      "148": {
+        "NeedExp": 74000,
+        "AccumulateExp": 3335500
+      },
+      "149": {
+        "NeedExp": 75000,
+        "AccumulateExp": 3410500
+      },
+      "150": {
+        "NeedExp": 76000,
+        "AccumulateExp": 3486500
+      },
+      "151": {
+        "NeedExp": 77000,
+        "AccumulateExp": 3563500
+      },
+      "152": {
+        "NeedExp": 80000,
+        "AccumulateExp": 3643500
+      },
+      "153": {
+        "NeedExp": 83000,
+        "AccumulateExp": 3726500
+      },
+      "154": {
+        "NeedExp": 86000,
+        "AccumulateExp": 3812500
+      },
+      "155": {
+        "NeedExp": 89000,
+        "AccumulateExp": 3901500
+      },
+      "156": {
+        "NeedExp": 92000,
+        "AccumulateExp": 3993500
+      },
+      "157": {
+        "NeedExp": 95000,
+        "AccumulateExp": 4088500
+      },
+      "158": {
+        "NeedExp": 98000,
+        "AccumulateExp": 4186500
+      },
+      "159": {
+        "NeedExp": 101000,
+        "AccumulateExp": 4287500
+      },
+      "160": {
+        "NeedExp": 104000,
+        "AccumulateExp": 4391500
+      },
+      "161": {
+        "NeedExp": 107000,
+        "AccumulateExp": 4498500
+      },
+      "162": {
+        "NeedExp": 110000,
+        "AccumulateExp": 4608500
+      },
+      "163": {
+        "NeedExp": 113000,
+        "AccumulateExp": 4721500
+      },
+      "164": {
+        "NeedExp": 116000,
+        "AccumulateExp": 4837500
+      },
+      "165": {
+        "NeedExp": 119000,
+        "AccumulateExp": 4956500
+      },
+      "166": {
+        "NeedExp": 122000,
+        "AccumulateExp": 5078500
+      },
+      "167": {
+        "NeedExp": 125000,
+        "AccumulateExp": 5203500
+      },
+      "168": {
+        "NeedExp": 128000,
+        "AccumulateExp": 5331500
+      },
+      "169": {
+        "NeedExp": 131000,
+        "AccumulateExp": 5462500
+      },
+      "170": {
+        "NeedExp": 134000,
+        "AccumulateExp": 5596500
+      },
+      "171": {
+        "NeedExp": 137000,
+        "AccumulateExp": 5733500
+      },
+      "172": {
+        "NeedExp": 140000,
+        "AccumulateExp": 5873500
+      },
+      "173": {
+        "NeedExp": 143000,
+        "AccumulateExp": 6016500
+      },
+      "174": {
+        "NeedExp": 146000,
+        "AccumulateExp": 6162500
+      },
+      "175": {
+        "NeedExp": 149000,
+        "AccumulateExp": 6311500
+      },
+      "176": {
+        "NeedExp": 152000,
+        "AccumulateExp": 6463500
+      },
+      "177": {
+        "NeedExp": 155000,
+        "AccumulateExp": 6618500
+      },
+      "178": {
+        "NeedExp": 158000,
+        "AccumulateExp": 6776500
+      },
+      "179": {
+        "NeedExp": 161000,
+        "AccumulateExp": 6937500
+      },
+      "180": {
+        "NeedExp": 164000,
+        "AccumulateExp": 7101500
+      },
+      "181": {
+        "NeedExp": 167000,
+        "AccumulateExp": 7268500
+      },
+      "182": {
+        "NeedExp": 170000,
+        "AccumulateExp": 7438500
+      },
+      "183": {
+        "NeedExp": 173000,
+        "AccumulateExp": 7611500
+      },
+      "184": {
+        "NeedExp": 176000,
+        "AccumulateExp": 7787500
+      },
+      "185": {
+        "NeedExp": 179000,
+        "AccumulateExp": 7966500
+      },
+      "186": {
+        "NeedExp": 182000,
+        "AccumulateExp": 8148500
+      },
+      "187": {
+        "NeedExp": 185000,
+        "AccumulateExp": 8333500
+      },
+      "188": {
+        "NeedExp": 188000,
+        "AccumulateExp": 8521500
+      },
+      "189": {
+        "NeedExp": 191000,
+        "AccumulateExp": 8712500
+      },
+      "190": {
+        "NeedExp": 194000,
+        "AccumulateExp": 8906500
+      },
+      "191": {
+        "NeedExp": 197000,
+        "AccumulateExp": 9103500
+      },
+      "192": {
+        "NeedExp": 200000,
+        "AccumulateExp": 9303500
+      },
+      "193": {
+        "NeedExp": 203000,
+        "AccumulateExp": 9506500
+      },
+      "194": {
+        "NeedExp": 206000,
+        "AccumulateExp": 9712500
+      },
+      "195": {
+        "NeedExp": 209000,
+        "AccumulateExp": 9921500
+      },
+      "196": {
+        "NeedExp": 212000,
+        "AccumulateExp": 10133500
+      },
+      "197": {
+        "NeedExp": 215000,
+        "AccumulateExp": 10348500
+      },
+      "198": {
+        "NeedExp": 218000,
+        "AccumulateExp": 10566500
+      },
+      "199": {
+        "NeedExp": 221000,
+        "AccumulateExp": 10787500
+      },
+      "200": {
+        "NeedExp": 224000,
+        "AccumulateExp": 11011500
+      }
+    }
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_AIPlayer",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PlayerBotTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "HeroID": "1002",
+        "MainPosition": "EPositionType::EPT_SpiritLane_Range",
+        "SubPosition": "EPositionType::EPT_MidLane",
+        "RandomSkins": [
+          "1002001",
+          "1002006",
+          "1002008"
+        ]
+      },
+      "2": {
+        "HeroID": "1005",
+        "MainPosition": "EPositionType::EPT_Jungle",
+        "SubPosition": "EPositionType::EPT_SpiritLane_Support",
+        "RandomSkins": [
+          "1005001",
+          "1005006",
+          "1005005"
+        ]
+      },
+      "3": {
+        "HeroID": "1006",
+        "MainPosition": "EPositionType::EPT_Jungle",
+        "SubPosition": "EPositionType::EPT_GuardianLane",
+        "RandomSkins": [
+          "1006001",
+          "1006006"
+        ]
+      },
+      "4": {
+        "HeroID": "1009",
+        "MainPosition": "EPositionType::EPT_SpiritLane_Range",
+        "SubPosition": "EPositionType::EPT_MidLane",
+        "RandomSkins": [
+          "1009001",
+          "1009005",
+          "1009011"
+        ]
+      },
+      "5": {
+        "HeroID": "1010",
+        "MainPosition": "EPositionType::EPT_GuardianLane",
+        "SubPosition": "EPositionType::EPT_Jungle",
+        "RandomSkins": [
+          "1010001",
+          "1010005"
+        ]
+      },
+      "6": {
+        "HeroID": "1019",
+        "MainPosition": "EPositionType::EPT_MidLane",
+        "SubPosition": "EPositionType::EPT_SpiritLane_Support",
+        "RandomSkins": [
+          "1019001",
+          "1019005",
+          "1019008"
+        ]
+      },
+      "7": {
+        "HeroID": "1020",
+        "MainPosition": "EPositionType::EPT_GuardianLane",
+        "SubPosition": "EPositionType::EPT_Jungle",
+        "RandomSkins": [
+          "1020001",
+          "1020005"
+        ]
+      },
+      "8": {
+        "HeroID": "1031",
+        "MainPosition": "EPositionType::EPT_SpiritLane_Support",
+        "SubPosition": "EPositionType::EPT_SpiritLane_Range",
+        "RandomSkins": [
+          "1031001",
+          "1031007"
+        ]
+      },
+      "9": {
+        "HeroID": "1007",
+        "MainPosition": "EPositionType::EPT_SpiritLane_Support",
+        "SubPosition": "EPositionType::EPT_GuardianLane",
+        "RandomSkins": [
+          "1007001",
+          "1007006"
+        ]
+      },
+      "10": {
+        "HeroID": "1033",
+        "MainPosition": "EPositionType::EPT_MidLane",
+        "SubPosition": "EPositionType::EPT_SpiritLane_Range",
+        "RandomSkins": [
+          "1033001",
+          "1033002"
+        ]
+      },
+      "11": {
+        "HeroID": "1015",
+        "MainPosition": "EPositionType::EPT_GuardianLane",
+        "SubPosition": "EPositionType::EPT_SpiritLane_Range",
+        "RandomSkins": [
+          "1015001",
+          "1015005"
+        ]
+      },
+      "12": {
+        "HeroID": "1023",
+        "MainPosition": "EPositionType::EPT_Jungle",
+        "SubPosition": "EPositionType::EPT_GuardianLane",
+        "RandomSkins": [
+          "1023001",
+          "1023002"
+        ]
+      },
+      "13": {
+        "HeroID": "1013",
+        "MainPosition": "EPositionType::EPT_MidLane",
+        "SubPosition": "EPositionType::EPT_SpiritLane_Support",
+        "RandomSkins": [
+          "1013001",
+          "1013002"
+        ]
+      },
+      "14": {
+        "HeroID": "1001",
+        "MainPosition": "EPositionType::EPT_SpiritLane_Range",
+        "SubPosition": "EPositionType::EPT_MidLane",
+        "RandomSkins": [
+          "1001001",
+          "1001006"
+        ]
+      },
+      "15": {
+        "HeroID": "1004",
+        "MainPosition": "EPositionType::EPT_SpiritLane_Support",
+        "SubPosition": "EPositionType::EPT_Jungle",
+        "RandomSkins": [
+          "1004001",
+          "1004005"
+        ]
+      }
+    }
+  }
+]

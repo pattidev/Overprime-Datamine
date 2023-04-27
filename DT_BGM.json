@@ -1,0 +1,223 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_BGM",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPBGMTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "TableID": "1",
+        "Map": "EOfficialMapType::EOMT_Agolith",
+        "EventType": "EBGMEventType::EBET_First_Spawn",
+        "BGMStopType": "EBGMStopType::EBST_RoundEnd",
+        "StopBGMLeaveMap": true,
+        "EventValue": "None",
+        "SoundID": "BGM_LegacyAgora",
+        "PlayAfter": 0.0,
+        "SoundChannelName": "main_bgm",
+        "TransitionFadeIn": 0.5,
+        "TransitionFadeOut": 0.5
+      },
+      "2": {
+        "TableID": "2",
+        "Map": "EOfficialMapType::EOMT_Agolith",
+        "EventType": "EBGMEventType::EBET_Alive_Hero_Ally",
+        "BGMStopType": "EBGMStopType::EBST_RoundEnd",
+        "StopBGMLeaveMap": true,
+        "EventValue": "2061",
+        "SoundID": "BGM_Orb_Activated_Ally",
+        "PlayAfter": 0.0,
+        "SoundChannelName": "None",
+        "TransitionFadeIn": 0.0,
+        "TransitionFadeOut": 0.5
+      },
+      "3": {
+        "TableID": "3",
+        "Map": "EOfficialMapType::EOMT_Agolith",
+        "EventType": "EBGMEventType::EBET_Alive_Hero_Enemy",
+        "BGMStopType": "EBGMStopType::EBST_RoundEnd",
+        "StopBGMLeaveMap": true,
+        "EventValue": "2061",
+        "SoundID": "BGM_Orb_Activated_Enemy",
+        "PlayAfter": 0.0,
+        "SoundChannelName": "None",
+        "TransitionFadeIn": 0.0,
+        "TransitionFadeOut": 0.5
+      },
+      "4": {
+        "TableID": "4",
+        "Map": "EOfficialMapType::EOMT_AltarOfPower",
+        "EventType": "EBGMEventType::EBET_First_Spawn",
+        "BGMStopType": "EBGMStopType::EBST_RoundEnd",
+        "StopBGMLeaveMap": true,
+        "EventValue": "None",
+        "SoundID": "BGM_LegacyAgora",
+        "PlayAfter": 0.0,
+        "SoundChannelName": "main_bgm",
+        "TransitionFadeIn": 0.5,
+        "TransitionFadeOut": 0.5
+      },
+      "5": {
+        "TableID": "5",
+        "Map": "EOfficialMapType::EOMT_Training",
+        "EventType": "EBGMEventType::EBET_First_Spawn",
+        "BGMStopType": "EBGMStopType::EBST_RoundEnd",
+        "StopBGMLeaveMap": true,
+        "EventValue": "None",
+        "SoundID": "BGM_Training",
+        "PlayAfter": 0.0,
+        "SoundChannelName": "main_bgm",
+        "TransitionFadeIn": 0.5,
+        "TransitionFadeOut": 0.5
+      },
+      "6": {
+        "TableID": "6",
+        "Map": "EOfficialMapType::EOMT_Training",
+        "EventType": "EBGMEventType::EBET_Alive_Hero_Ally",
+        "BGMStopType": "EBGMStopType::EBST_RoundEnd",
+        "StopBGMLeaveMap": true,
+        "EventValue": "2057",
+        "SoundID": "BGM_Orb_Activated_Ally",
+        "PlayAfter": 0.0,
+        "SoundChannelName": "None",
+        "TransitionFadeIn": 0.0,
+        "TransitionFadeOut": 0.5
+      },
+      "7": {
+        "TableID": "7",
+        "Map": "EOfficialMapType::EOMT_Any",
+        "EventType": "EBGMEventType::EBET_RoundWin",
+        "BGMStopType": "EBGMStopType::EBST_InGameResultScreen",
+        "StopBGMLeaveMap": true,
+        "EventValue": "None",
+        "SoundID": "BGM_RoundWin",
+        "PlayAfter": 0.0,
+        "SoundChannelName": "None",
+        "TransitionFadeIn": 0.5,
+        "TransitionFadeOut": 0.5
+      },
+      "8": {
+        "TableID": "8",
+        "Map": "EOfficialMapType::EOMT_Any",
+        "EventType": "EBGMEventType::EBET_RoundLose",
+        "BGMStopType": "EBGMStopType::EBST_InGameResultScreen",
+        "StopBGMLeaveMap": true,
+        "EventValue": "None",
+        "SoundID": "BGM_RoundLose",
+        "PlayAfter": 0.0,
+        "SoundChannelName": "None",
+        "TransitionFadeIn": 0.5,
+        "TransitionFadeOut": 0.5
+      },
+      "9": {
+        "TableID": "9",
+        "Map": "EOfficialMapType::EOMT_Any",
+        "EventType": "EBGMEventType::EBET_InDraftMenu",
+        "BGMStopType": "EBGMStopType::EBST_OnLoadingPageFadeOut",
+        "StopBGMLeaveMap": true,
+        "EventValue": "None",
+        "SoundID": "BGM_HeroDraft",
+        "PlayAfter": 0.0,
+        "SoundChannelName": "None",
+        "TransitionFadeIn": 0.5,
+        "TransitionFadeOut": 1.5
+      },
+      "10": {
+        "TableID": "10",
+        "Map": "EOfficialMapType::EOMT_Any",
+        "EventType": "EBGMEventType::EBET_InLobby",
+        "BGMStopType": "EBGMStopType::EBST_InDraftMenu",
+        "StopBGMLeaveMap": false,
+        "EventValue": "None",
+        "SoundID": "BGM_Lobby",
+        "PlayAfter": 0.0,
+        "SoundChannelName": "main_bgm",
+        "TransitionFadeIn": 0.5,
+        "TransitionFadeOut": 0.5
+      },
+      "11": {
+        "TableID": "11",
+        "Map": "EOfficialMapType::EOMT_Any",
+        "EventType": "EBGMEventType::EBET_InLogin",
+        "BGMStopType": "EBGMStopType::EBST_None",
+        "StopBGMLeaveMap": false,
+        "EventValue": "None",
+        "SoundID": "BGM_login",
+        "PlayAfter": 0.0,
+        "SoundChannelName": "main_bgm",
+        "TransitionFadeIn": 0.5,
+        "TransitionFadeOut": 0.5
+      },
+      "12": {
+        "TableID": "12",
+        "Map": "EOfficialMapType::EOMT_Any",
+        "EventType": "EBGMEventType::EBET_InGameResultScreen",
+        "BGMStopType": "EBGMStopType::EBST_InDraftMenu",
+        "StopBGMLeaveMap": false,
+        "EventValue": "None",
+        "SoundID": "BGM_Lobby",
+        "PlayAfter": 0.0,
+        "SoundChannelName": "main_bgm",
+        "TransitionFadeIn": 0.5,
+        "TransitionFadeOut": 0.5
+      },
+      "13": {
+        "TableID": "13",
+        "Map": "EOfficialMapType::EOMT_Any",
+        "EventType": "EBGMEventType::EBET_RoundWin",
+        "BGMStopType": "EBGMStopType::EBST_FirstSpawn",
+        "StopBGMLeaveMap": true,
+        "EventValue": "None",
+        "SoundID": "BGM_Sound_Mute",
+        "PlayAfter": 0.0,
+        "SoundChannelName": "sound_mute",
+        "TransitionFadeIn": 0.0,
+        "TransitionFadeOut": 0.0
+      },
+      "14": {
+        "TableID": "14",
+        "Map": "EOfficialMapType::EOMT_Any",
+        "EventType": "EBGMEventType::EBET_RoundLose",
+        "BGMStopType": "EBGMStopType::EBST_FirstSpawn",
+        "StopBGMLeaveMap": true,
+        "EventValue": "None",
+        "SoundID": "BGM_Sound_Mute",
+        "PlayAfter": 0.0,
+        "SoundChannelName": "sound_mute",
+        "TransitionFadeIn": 0.0,
+        "TransitionFadeOut": 0.0
+      },
+      "15": {
+        "TableID": "15",
+        "Map": "EOfficialMapType::EOMT_Tutorial01",
+        "EventType": "EBGMEventType::EBET_First_Spawn",
+        "BGMStopType": "EBGMStopType::EBST_RoundEnd",
+        "StopBGMLeaveMap": true,
+        "EventValue": "None",
+        "SoundID": "BGM_Training",
+        "PlayAfter": 0.0,
+        "SoundChannelName": "main_bgm",
+        "TransitionFadeIn": 0.5,
+        "TransitionFadeOut": 0.5
+      },
+      "16": {
+        "TableID": "16",
+        "Map": "EOfficialMapType::EOMT_Tutorial02",
+        "EventType": "EBGMEventType::EBET_First_Spawn",
+        "BGMStopType": "EBGMStopType::EBST_RoundEnd",
+        "StopBGMLeaveMap": true,
+        "EventValue": "None",
+        "SoundID": "BGM_Training",
+        "PlayAfter": 0.0,
+        "SoundChannelName": "main_bgm",
+        "TransitionFadeIn": 0.5,
+        "TransitionFadeOut": 0.5
+      }
+    }
+  }
+]

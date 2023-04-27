@@ -1,0 +1,1905 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_SkillLocale",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'SkillLocaleTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "10010101": {
+        "Description1": "SKILL.Skill_1001_Murdock_LMB_Lv1",
+        "Description2": "SKILL.Skill_1001_Murdock_LMB_Lv1",
+        "Description3": "SKILL.Skill_1001_Murdock_LMB_Lv1",
+        "Description4": "SKILL.Skill_1001_Murdock_LMB_Lv1",
+        "Description5": "SKILL.Skill_1001_Murdock_LMB_Lv1"
+      },
+      "10010102": {
+        "Description1": "SKILL.Skill_1001_Murdock_RMB_Lv1",
+        "Description2": "SKILL.Skill_1001_Murdock_RMB_Lv1",
+        "Description3": "SKILL.Skill_1001_Murdock_RMB_Lv1",
+        "Description4": "SKILL.Skill_1001_Murdock_RMB_Lv1",
+        "Description5": "SKILL.Skill_1001_Murdock_RMB_Lv1"
+      },
+      "10010103": {
+        "Description1": "SKILL.Skill_1001_Murdock_Q_Lv1",
+        "Description2": "SKILL.Skill_1001_Murdock_Q_Lv1",
+        "Description3": "SKILL.Skill_1001_Murdock_Q_Lv1",
+        "Description4": "SKILL.Skill_1001_Murdock_Q_Lv1",
+        "Description5": "SKILL.Skill_1001_Murdock_Q_Lv1"
+      },
+      "10010104": {
+        "Description1": "SKILL.Skill_1001_Murdock_E_Lv1",
+        "Description2": "SKILL.Skill_1001_Murdock_E_Lv1",
+        "Description3": "SKILL.Skill_1001_Murdock_E_Lv1",
+        "Description4": "SKILL.Skill_1001_Murdock_E_Lv1",
+        "Description5": "SKILL.Skill_1001_Murdock_E_Lv1"
+      },
+      "10010105": {
+        "Description1": "SKILL.Skill_1001_Murdock_R_Lv1",
+        "Description2": "SKILL.Skill_1001_Murdock_R_Lv1",
+        "Description3": "SKILL.Skill_1001_Murdock_R_Lv1",
+        "Description4": "SKILL.Skill_1001_Murdock_R_Lv1",
+        "Description5": "SKILL.Skill_1001_Murdock_R_Lv1"
+      },
+      "10020101": {
+        "Description1": "SKILL.Skill_1002_TwinBlast_LMB_Lv1",
+        "Description2": "SKILL.Skill_1002_TwinBlast_LMB_Lv1",
+        "Description3": "SKILL.Skill_1002_TwinBlast_LMB_Lv1",
+        "Description4": "SKILL.Skill_1002_TwinBlast_LMB_Lv1",
+        "Description5": "SKILL.Skill_1002_TwinBlast_LMB_Lv1"
+      },
+      "10020102": {
+        "Description1": "SKILL.Skill_1002_TwinBlast_RMB_Lv1",
+        "Description2": "SKILL.Skill_1002_TwinBlast_RMB_Lv1",
+        "Description3": "SKILL.Skill_1002_TwinBlast_RMB_Lv1",
+        "Description4": "SKILL.Skill_1002_TwinBlast_RMB_Lv1",
+        "Description5": "SKILL.Skill_1002_TwinBlast_RMB_Lv1"
+      },
+      "10020103": {
+        "Description1": "SKILL.Skill_1002_TwinBlast_Q_Lv1",
+        "Description2": "SKILL.Skill_1002_TwinBlast_Q_Lv1",
+        "Description3": "SKILL.Skill_1002_TwinBlast_Q_Lv1",
+        "Description4": "SKILL.Skill_1002_TwinBlast_Q_Lv1",
+        "Description5": "SKILL.Skill_1002_TwinBlast_Q_Lv1"
+      },
+      "10020104": {
+        "Description1": "SKILL.Skill_1002_TwinBlast_E_Lv1",
+        "Description2": "SKILL.Skill_1002_TwinBlast_E_Lv1",
+        "Description3": "SKILL.Skill_1002_TwinBlast_E_Lv1",
+        "Description4": "SKILL.Skill_1002_TwinBlast_E_Lv1",
+        "Description5": "SKILL.Skill_1002_TwinBlast_E_Lv1"
+      },
+      "10020105": {
+        "Description1": "SKILL.Skill_1002_TwinBlast_R_Lv1",
+        "Description2": "SKILL.Skill_1002_TwinBlast_R_Lv1",
+        "Description3": "SKILL.Skill_1002_TwinBlast_R_Lv1",
+        "Description4": "SKILL.Skill_1002_TwinBlast_R_Lv1",
+        "Description5": "SKILL.Skill_1002_TwinBlast_R_Lv1"
+      },
+      "10030101": {
+        "Description1": "SKILL.Skill_1003_Muriel_LMB_Lv1",
+        "Description2": "SKILL.Skill_1003_Muriel_LMB_Lv1",
+        "Description3": "SKILL.Skill_1003_Muriel_LMB_Lv1",
+        "Description4": "SKILL.Skill_1003_Muriel_LMB_Lv1",
+        "Description5": "SKILL.Skill_1003_Muriel_LMB_Lv1"
+      },
+      "10030102": {
+        "Description1": "SKILL.Skill_1003_Muriel_RMB_Lv1",
+        "Description2": "SKILL.Skill_1003_Muriel_RMB_Lv1",
+        "Description3": "SKILL.Skill_1003_Muriel_RMB_Lv1",
+        "Description4": "SKILL.Skill_1003_Muriel_RMB_Lv1",
+        "Description5": "SKILL.Skill_1003_Muriel_RMB_Lv1"
+      },
+      "10030103": {
+        "Description1": "SKILL.Skill_1003_Muriel_Q_Lv1",
+        "Description2": "SKILL.Skill_1003_Muriel_Q_Lv1",
+        "Description3": "SKILL.Skill_1003_Muriel_Q_Lv1",
+        "Description4": "SKILL.Skill_1003_Muriel_Q_Lv1",
+        "Description5": "SKILL.Skill_1003_Muriel_Q_Lv1"
+      },
+      "10030104": {
+        "Description1": "SKILL.Skill_1003_Muriel_E_Lv1",
+        "Description2": "SKILL.Skill_1003_Muriel_E_Lv1",
+        "Description3": "SKILL.Skill_1003_Muriel_E_Lv1",
+        "Description4": "SKILL.Skill_1003_Muriel_E_Lv1",
+        "Description5": "SKILL.Skill_1003_Muriel_E_Lv1"
+      },
+      "10030105": {
+        "Description1": "SKILL.Skill_1003_Muriel_R_Lv1",
+        "Description2": "SKILL.Skill_1003_Muriel_R_Lv1",
+        "Description3": "SKILL.Skill_1003_Muriel_R_Lv1",
+        "Description4": "SKILL.Skill_1003_Muriel_R_Lv1",
+        "Description5": "SKILL.Skill_1003_Muriel_R_Lv1"
+      },
+      "10040101": {
+        "Description1": "SKILL.Skill_1004_Rampage_LMB_Lv1",
+        "Description2": "SKILL.Skill_1004_Rampage_LMB_Lv1",
+        "Description3": "SKILL.Skill_1004_Rampage_LMB_Lv1",
+        "Description4": "SKILL.Skill_1004_Rampage_LMB_Lv1",
+        "Description5": "SKILL.Skill_1004_Rampage_LMB_Lv1"
+      },
+      "10040102": {
+        "Description1": "SKILL.Skill_1004_Rampage_RMB_Lv1",
+        "Description2": "SKILL.Skill_1004_Rampage_RMB_Lv1",
+        "Description3": "SKILL.Skill_1004_Rampage_RMB_Lv1",
+        "Description4": "SKILL.Skill_1004_Rampage_RMB_Lv1",
+        "Description5": "SKILL.Skill_1004_Rampage_RMB_Lv1"
+      },
+      "10040103": {
+        "Description1": "SKILL.Skill_1004_Rampage_Q_Lv1",
+        "Description2": "SKILL.Skill_1004_Rampage_Q_Lv1",
+        "Description3": "SKILL.Skill_1004_Rampage_Q_Lv1",
+        "Description4": "SKILL.Skill_1004_Rampage_Q_Lv1",
+        "Description5": "SKILL.Skill_1004_Rampage_Q_Lv1"
+      },
+      "10040104": {
+        "Description1": "SKILL.Skill_1004_Rampage_E_Lv1",
+        "Description2": "SKILL.Skill_1004_Rampage_E_Lv1",
+        "Description3": "SKILL.Skill_1004_Rampage_E_Lv1",
+        "Description4": "SKILL.Skill_1004_Rampage_E_Lv1",
+        "Description5": "SKILL.Skill_1004_Rampage_E_Lv1"
+      },
+      "10040105": {
+        "Description1": "SKILL.Skill_1004_Rampage_R_Lv1",
+        "Description2": "SKILL.Skill_1004_Rampage_R_Lv1",
+        "Description3": "SKILL.Skill_1004_Rampage_R_Lv1",
+        "Description4": "SKILL.Skill_1004_Rampage_R_Lv1",
+        "Description5": "SKILL.Skill_1004_Rampage_R_Lv1"
+      },
+      "10050101": {
+        "Description1": "SKILL.Skill_1005_Kallari_LMB_Lv1",
+        "Description2": "SKILL.Skill_1005_Kallari_LMB_Lv1",
+        "Description3": "SKILL.Skill_1005_Kallari_LMB_Lv1",
+        "Description4": "SKILL.Skill_1005_Kallari_LMB_Lv1",
+        "Description5": "SKILL.Skill_1005_Kallari_LMB_Lv1"
+      },
+      "10050102": {
+        "Description1": "SKILL.Skill_1005_Kallari_RMB_Lv1",
+        "Description2": "SKILL.Skill_1005_Kallari_RMB_Lv1",
+        "Description3": "SKILL.Skill_1005_Kallari_RMB_Lv1",
+        "Description4": "SKILL.Skill_1005_Kallari_RMB_Lv1",
+        "Description5": "SKILL.Skill_1005_Kallari_RMB_Lv1"
+      },
+      "10050103": {
+        "Description1": "SKILL.Skill_1005_Kallari_Q_Lv1",
+        "Description2": "SKILL.Skill_1005_Kallari_Q_Lv1",
+        "Description3": "SKILL.Skill_1005_Kallari_Q_Lv1",
+        "Description4": "SKILL.Skill_1005_Kallari_Q_Lv1",
+        "Description5": "SKILL.Skill_1005_Kallari_Q_Lv1"
+      },
+      "10050104": {
+        "Description1": "SKILL.Skill_1005_Kallari_E_Lv1",
+        "Description2": "SKILL.Skill_1005_Kallari_E_Lv1",
+        "Description3": "SKILL.Skill_1005_Kallari_E_Lv1",
+        "Description4": "SKILL.Skill_1005_Kallari_E_Lv1",
+        "Description5": "SKILL.Skill_1005_Kallari_E_Lv1"
+      },
+      "10050105": {
+        "Description1": "SKILL.Skill_1005_Kallari_R_Lv1",
+        "Description2": "SKILL.Skill_1005_Kallari_R_Lv1",
+        "Description3": "SKILL.Skill_1005_Kallari_R_Lv1",
+        "Description4": "SKILL.Skill_1005_Kallari_R_Lv1",
+        "Description5": "SKILL.Skill_1005_Kallari_R_Lv1"
+      },
+      "10060101": {
+        "Description1": "SKILL.Skill_1006_Grux_LMB_Lv1",
+        "Description2": "SKILL.Skill_1006_Grux_LMB_Lv1",
+        "Description3": "SKILL.Skill_1006_Grux_LMB_Lv1",
+        "Description4": "SKILL.Skill_1006_Grux_LMB_Lv1",
+        "Description5": "SKILL.Skill_1006_Grux_LMB_Lv1"
+      },
+      "10060102": {
+        "Description1": "SKILL.Skill_1006_Grux_RMB_Lv1",
+        "Description2": "SKILL.Skill_1006_Grux_RMB_Lv1",
+        "Description3": "SKILL.Skill_1006_Grux_RMB_Lv1",
+        "Description4": "SKILL.Skill_1006_Grux_RMB_Lv1",
+        "Description5": "SKILL.Skill_1006_Grux_RMB_Lv1"
+      },
+      "10060103": {
+        "Description1": "SKILL.Skill_1006_Grux_Q_Lv1",
+        "Description2": "SKILL.Skill_1006_Grux_Q_Lv1",
+        "Description3": "SKILL.Skill_1006_Grux_Q_Lv1",
+        "Description4": "SKILL.Skill_1006_Grux_Q_Lv1",
+        "Description5": "SKILL.Skill_1006_Grux_Q_Lv1"
+      },
+      "10060104": {
+        "Description1": "SKILL.Skill_1006_Grux_E_Lv1",
+        "Description2": "SKILL.Skill_1006_Grux_E_Lv1",
+        "Description3": "SKILL.Skill_1006_Grux_E_Lv1",
+        "Description4": "SKILL.Skill_1006_Grux_E_Lv1",
+        "Description5": "SKILL.Skill_1006_Grux_E_Lv1"
+      },
+      "10060105": {
+        "Description1": "SKILL.Skill_1006_Grux_R_Lv1",
+        "Description2": "SKILL.Skill_1006_Grux_R_Lv1",
+        "Description3": "SKILL.Skill_1006_Grux_R_Lv1",
+        "Description4": "SKILL.Skill_1006_Grux_R_Lv1",
+        "Description5": "SKILL.Skill_1006_Grux_R_Lv1"
+      },
+      "10070101": {
+        "Description1": "SKILL.Skill_1007_Steel_LMB_Lv1",
+        "Description2": "SKILL.Skill_1007_Steel_LMB_Lv1",
+        "Description3": "SKILL.Skill_1007_Steel_LMB_Lv1",
+        "Description4": "SKILL.Skill_1007_Steel_LMB_Lv1",
+        "Description5": "SKILL.Skill_1007_Steel_LMB_Lv1"
+      },
+      "10070102": {
+        "Description1": "SKILL.Skill_1007_Steel_RMB_Lv1",
+        "Description2": "SKILL.Skill_1007_Steel_RMB_Lv1",
+        "Description3": "SKILL.Skill_1007_Steel_RMB_Lv1",
+        "Description4": "SKILL.Skill_1007_Steel_RMB_Lv1",
+        "Description5": "SKILL.Skill_1007_Steel_RMB_Lv1"
+      },
+      "10070103": {
+        "Description1": "SKILL.Skill_1007_Steel_Q_Lv1",
+        "Description2": "SKILL.Skill_1007_Steel_Q_Lv1",
+        "Description3": "SKILL.Skill_1007_Steel_Q_Lv1",
+        "Description4": "SKILL.Skill_1007_Steel_Q_Lv1",
+        "Description5": "SKILL.Skill_1007_Steel_Q_Lv1"
+      },
+      "10070104": {
+        "Description1": "SKILL.Skill_1007_Steel_E_Lv1",
+        "Description2": "SKILL.Skill_1007_Steel_E_Lv1",
+        "Description3": "SKILL.Skill_1007_Steel_E_Lv1",
+        "Description4": "SKILL.Skill_1007_Steel_E_Lv1",
+        "Description5": "SKILL.Skill_1007_Steel_E_Lv1"
+      },
+      "10070105": {
+        "Description1": "SKILL.Skill_1007_Steel_R_Lv1",
+        "Description2": "SKILL.Skill_1007_Steel_R_Lv1",
+        "Description3": "SKILL.Skill_1007_Steel_R_Lv1",
+        "Description4": "SKILL.Skill_1007_Steel_R_Lv1",
+        "Description5": "SKILL.Skill_1007_Steel_R_Lv1"
+      },
+      "10090101": {
+        "Description1": "SKILL.Skill_1009_Sparrow_LMB_Lv1",
+        "Description2": "SKILL.Skill_1009_Sparrow_LMB_Lv1",
+        "Description3": "SKILL.Skill_1009_Sparrow_LMB_Lv1",
+        "Description4": "SKILL.Skill_1009_Sparrow_LMB_Lv1",
+        "Description5": "SKILL.Skill_1009_Sparrow_LMB_Lv1"
+      },
+      "10090102": {
+        "Description1": "SKILL.Skill_1009_Sparrow_RMB_Lv1",
+        "Description2": "SKILL.Skill_1009_Sparrow_RMB_Lv1",
+        "Description3": "SKILL.Skill_1009_Sparrow_RMB_Lv1",
+        "Description4": "SKILL.Skill_1009_Sparrow_RMB_Lv1",
+        "Description5": "SKILL.Skill_1009_Sparrow_RMB_Lv1"
+      },
+      "10090103": {
+        "Description1": "SKILL.Skill_1009_Sparrow_Q_Lv1",
+        "Description2": "SKILL.Skill_1009_Sparrow_Q_Lv1",
+        "Description3": "SKILL.Skill_1009_Sparrow_Q_Lv1",
+        "Description4": "SKILL.Skill_1009_Sparrow_Q_Lv1",
+        "Description5": "SKILL.Skill_1009_Sparrow_Q_Lv1"
+      },
+      "10090104": {
+        "Description1": "SKILL.Skill_1009_Sparrow_E_Lv1",
+        "Description2": "SKILL.Skill_1009_Sparrow_E_Lv1",
+        "Description3": "SKILL.Skill_1009_Sparrow_E_Lv1",
+        "Description4": "SKILL.Skill_1009_Sparrow_E_Lv1",
+        "Description5": "SKILL.Skill_1009_Sparrow_E_Lv1"
+      },
+      "10090105": {
+        "Description1": "SKILL.Skill_1009_Sparrow_R_Lv1",
+        "Description2": "SKILL.Skill_1009_Sparrow_R_Lv1",
+        "Description3": "SKILL.Skill_1009_Sparrow_R_Lv1",
+        "Description4": "SKILL.Skill_1009_Sparrow_R_Lv1",
+        "Description5": "SKILL.Skill_1009_Sparrow_R_Lv1"
+      },
+      "10100101": {
+        "Description1": "SKILL.Skill_1010_Sevarog_LMB_Lv1",
+        "Description2": "SKILL.Skill_1010_Sevarog_LMB_Lv1",
+        "Description3": "SKILL.Skill_1010_Sevarog_LMB_Lv1",
+        "Description4": "SKILL.Skill_1010_Sevarog_LMB_Lv1",
+        "Description5": "SKILL.Skill_1010_Sevarog_LMB_Lv1"
+      },
+      "10100102": {
+        "Description1": "SKILL.Skill_1010_Sevarog_RMB_Lv1",
+        "Description2": "SKILL.Skill_1010_Sevarog_RMB_Lv1",
+        "Description3": "SKILL.Skill_1010_Sevarog_RMB_Lv1",
+        "Description4": "SKILL.Skill_1010_Sevarog_RMB_Lv1",
+        "Description5": "SKILL.Skill_1010_Sevarog_RMB_Lv1"
+      },
+      "10100103": {
+        "Description1": "SKILL.Skill_1010_Sevarog_Q_Lv1",
+        "Description2": "SKILL.Skill_1010_Sevarog_Q_Lv1",
+        "Description3": "SKILL.Skill_1010_Sevarog_Q_Lv1",
+        "Description4": "SKILL.Skill_1010_Sevarog_Q_Lv1",
+        "Description5": "SKILL.Skill_1010_Sevarog_Q_Lv1"
+      },
+      "10100104": {
+        "Description1": "SKILL.Skill_1010_Sevarog_E_Lv1",
+        "Description2": "SKILL.Skill_1010_Sevarog_E_Lv1",
+        "Description3": "SKILL.Skill_1010_Sevarog_E_Lv1",
+        "Description4": "SKILL.Skill_1010_Sevarog_E_Lv1",
+        "Description5": "SKILL.Skill_1010_Sevarog_E_Lv1"
+      },
+      "10100105": {
+        "Description1": "SKILL.Skill_1010_Sevarog_R_Lv1",
+        "Description2": "SKILL.Skill_1010_Sevarog_R_Lv1",
+        "Description3": "SKILL.Skill_1010_Sevarog_R_Lv1",
+        "Description4": "SKILL.Skill_1010_Sevarog_R_Lv1",
+        "Description5": "SKILL.Skill_1010_Sevarog_R_Lv1"
+      },
+      "10110101": {
+        "Description1": "SKILL.Skill_1011_Kwang_LMB_Lv1",
+        "Description2": "SKILL.Skill_1011_Kwang_LMB_Lv1",
+        "Description3": "SKILL.Skill_1011_Kwang_LMB_Lv1",
+        "Description4": "SKILL.Skill_1011_Kwang_LMB_Lv1",
+        "Description5": "SKILL.Skill_1011_Kwang_LMB_Lv1"
+      },
+      "10110102": {
+        "Description1": "SKILL.Skill_1011_Kwang_RMB_Lv1",
+        "Description2": "SKILL.Skill_1011_Kwang_RMB_Lv1",
+        "Description3": "SKILL.Skill_1011_Kwang_RMB_Lv1",
+        "Description4": "SKILL.Skill_1011_Kwang_RMB_Lv1",
+        "Description5": "SKILL.Skill_1011_Kwang_RMB_Lv1"
+      },
+      "10110103": {
+        "Description1": "SKILL.Skill_1011_Kwang_Q_Lv1",
+        "Description2": "SKILL.Skill_1011_Kwang_Q_Lv1",
+        "Description3": "SKILL.Skill_1011_Kwang_Q_Lv1",
+        "Description4": "SKILL.Skill_1011_Kwang_Q_Lv1",
+        "Description5": "SKILL.Skill_1011_Kwang_Q_Lv1"
+      },
+      "10110104": {
+        "Description1": "SKILL.Skill_1011_Kwang_E_Lv1",
+        "Description2": "SKILL.Skill_1011_Kwang_E_Lv1",
+        "Description3": "SKILL.Skill_1011_Kwang_E_Lv1",
+        "Description4": "SKILL.Skill_1011_Kwang_E_Lv1",
+        "Description5": "SKILL.Skill_1011_Kwang_E_Lv1"
+      },
+      "10110105": {
+        "Description1": "SKILL.Skill_1011_Kwang_R_Lv1",
+        "Description2": "SKILL.Skill_1011_Kwang_R_Lv1",
+        "Description3": "SKILL.Skill_1011_Kwang_R_Lv1",
+        "Description4": "SKILL.Skill_1011_Kwang_R_Lv1",
+        "Description5": "SKILL.Skill_1011_Kwang_R_Lv1"
+      },
+      "10120101": {
+        "Description1": "SKILL.Skill_1012_Gideon_LMB_Lv1",
+        "Description2": "SKILL.Skill_1012_Gideon_LMB_Lv1",
+        "Description3": "SKILL.Skill_1012_Gideon_LMB_Lv1",
+        "Description4": "SKILL.Skill_1012_Gideon_LMB_Lv1",
+        "Description5": "SKILL.Skill_1012_Gideon_LMB_Lv1"
+      },
+      "10120102": {
+        "Description1": "SKILL.Skill_1012_Gideon_RMB_Lv1",
+        "Description2": "SKILL.Skill_1012_Gideon_RMB_Lv1",
+        "Description3": "SKILL.Skill_1012_Gideon_RMB_Lv1",
+        "Description4": "SKILL.Skill_1012_Gideon_RMB_Lv1",
+        "Description5": "SKILL.Skill_1012_Gideon_RMB_Lv1"
+      },
+      "10120103": {
+        "Description1": "SKILL.Skill_1012_Gideon_Q_Lv1",
+        "Description2": "SKILL.Skill_1012_Gideon_Q_Lv1",
+        "Description3": "SKILL.Skill_1012_Gideon_Q_Lv1",
+        "Description4": "SKILL.Skill_1012_Gideon_Q_Lv1",
+        "Description5": "SKILL.Skill_1012_Gideon_Q_Lv1"
+      },
+      "10120104": {
+        "Description1": "SKILL.Skill_1012_Gideon_E_Lv1",
+        "Description2": "SKILL.Skill_1012_Gideon_E_Lv1",
+        "Description3": "SKILL.Skill_1012_Gideon_E_Lv1",
+        "Description4": "SKILL.Skill_1012_Gideon_E_Lv1",
+        "Description5": "SKILL.Skill_1012_Gideon_E_Lv1"
+      },
+      "10120105": {
+        "Description1": "SKILL.Skill_1012_Gideon_R_Lv1",
+        "Description2": "SKILL.Skill_1012_Gideon_R_Lv1",
+        "Description3": "SKILL.Skill_1012_Gideon_R_Lv1",
+        "Description4": "SKILL.Skill_1012_Gideon_R_Lv1",
+        "Description5": "SKILL.Skill_1012_Gideon_R_Lv1"
+      },
+      "10130101": {
+        "Description1": "SKILL.Skill_1013_TheFey_LMB_Lv1",
+        "Description2": "SKILL.Skill_1013_TheFey_LMB_Lv1",
+        "Description3": "SKILL.Skill_1013_TheFey_LMB_Lv1",
+        "Description4": "SKILL.Skill_1013_TheFey_LMB_Lv1",
+        "Description5": "SKILL.Skill_1013_TheFey_LMB_Lv1"
+      },
+      "10130102": {
+        "Description1": "SKILL.Skill_1013_TheFey_RMB_Lv1",
+        "Description2": "SKILL.Skill_1013_TheFey_RMB_Lv1",
+        "Description3": "SKILL.Skill_1013_TheFey_RMB_Lv1",
+        "Description4": "SKILL.Skill_1013_TheFey_RMB_Lv1",
+        "Description5": "SKILL.Skill_1013_TheFey_RMB_Lv1"
+      },
+      "10130103": {
+        "Description1": "SKILL.Skill_1013_TheFey_Q_Lv1",
+        "Description2": "SKILL.Skill_1013_TheFey_Q_Lv1",
+        "Description3": "SKILL.Skill_1013_TheFey_Q_Lv1",
+        "Description4": "SKILL.Skill_1013_TheFey_Q_Lv1",
+        "Description5": "SKILL.Skill_1013_TheFey_Q_Lv1"
+      },
+      "10130104": {
+        "Description1": "SKILL.Skill_1013_TheFey_E_Lv1",
+        "Description2": "SKILL.Skill_1013_TheFey_E_Lv1",
+        "Description3": "SKILL.Skill_1013_TheFey_E_Lv1",
+        "Description4": "SKILL.Skill_1013_TheFey_E_Lv1",
+        "Description5": "SKILL.Skill_1013_TheFey_E_Lv1"
+      },
+      "10130105": {
+        "Description1": "SKILL.Skill_1013_TheFey_R_Lv1",
+        "Description2": "SKILL.Skill_1013_TheFey_R_Lv1",
+        "Description3": "SKILL.Skill_1013_TheFey_R_Lv1",
+        "Description4": "SKILL.Skill_1013_TheFey_R_Lv1",
+        "Description5": "SKILL.Skill_1013_TheFey_R_Lv1"
+      },
+      "10140101": {
+        "Description1": "SKILL.Skill_1014_Shinbi_LMB_Lv1",
+        "Description2": "SKILL.Skill_1014_Shinbi_LMB_Lv1",
+        "Description3": "SKILL.Skill_1014_Shinbi_LMB_Lv1",
+        "Description4": "SKILL.Skill_1014_Shinbi_LMB_Lv1",
+        "Description5": "SKILL.Skill_1014_Shinbi_LMB_Lv1"
+      },
+      "10140102": {
+        "Description1": "SKILL.Skill_1014_Shinbi_RMB_Lv1",
+        "Description2": "SKILL.Skill_1014_Shinbi_RMB_Lv1",
+        "Description3": "SKILL.Skill_1014_Shinbi_RMB_Lv1",
+        "Description4": "SKILL.Skill_1014_Shinbi_RMB_Lv1",
+        "Description5": "SKILL.Skill_1014_Shinbi_RMB_Lv1"
+      },
+      "10140103": {
+        "Description1": "SKILL.Skill_1014_Shinbi_Q_Lv1",
+        "Description2": "SKILL.Skill_1014_Shinbi_Q_Lv1",
+        "Description3": "SKILL.Skill_1014_Shinbi_Q_Lv1",
+        "Description4": "SKILL.Skill_1014_Shinbi_Q_Lv1",
+        "Description5": "SKILL.Skill_1014_Shinbi_Q_Lv1"
+      },
+      "10140104": {
+        "Description1": "SKILL.Skill_1014_Shinbi_E_Lv1",
+        "Description2": "SKILL.Skill_1014_Shinbi_E_Lv1",
+        "Description3": "SKILL.Skill_1014_Shinbi_E_Lv1",
+        "Description4": "SKILL.Skill_1014_Shinbi_E_Lv1",
+        "Description5": "SKILL.Skill_1014_Shinbi_E_Lv1"
+      },
+      "10140105": {
+        "Description1": "SKILL.Skill_1014_Shinbi_R_Lv1",
+        "Description2": "SKILL.Skill_1014_Shinbi_R_Lv1",
+        "Description3": "SKILL.Skill_1014_Shinbi_R_Lv1",
+        "Description4": "SKILL.Skill_1014_Shinbi_R_Lv1",
+        "Description5": "SKILL.Skill_1014_Shinbi_R_Lv1"
+      },
+      "10150101": {
+        "Description1": "SKILL.Skill_1015_Revenant_LMB_Lv1",
+        "Description2": "SKILL.Skill_1015_Revenant_LMB_Lv1",
+        "Description3": "SKILL.Skill_1015_Revenant_LMB_Lv1",
+        "Description4": "SKILL.Skill_1015_Revenant_LMB_Lv1",
+        "Description5": "SKILL.Skill_1015_Revenant_LMB_Lv1"
+      },
+      "10150102": {
+        "Description1": "SKILL.Skill_1015_Revenant_RMB_Lv1",
+        "Description2": "SKILL.Skill_1015_Revenant_RMB_Lv1",
+        "Description3": "SKILL.Skill_1015_Revenant_RMB_Lv1",
+        "Description4": "SKILL.Skill_1015_Revenant_RMB_Lv1",
+        "Description5": "SKILL.Skill_1015_Revenant_RMB_Lv1"
+      },
+      "10150103": {
+        "Description1": "SKILL.Skill_1015_Revenant_Q_Lv1",
+        "Description2": "SKILL.Skill_1015_Revenant_Q_Lv1",
+        "Description3": "SKILL.Skill_1015_Revenant_Q_Lv1",
+        "Description4": "SKILL.Skill_1015_Revenant_Q_Lv1",
+        "Description5": "SKILL.Skill_1015_Revenant_Q_Lv1"
+      },
+      "10150104": {
+        "Description1": "SKILL.Skill_1015_Revenant_E_Lv1",
+        "Description2": "SKILL.Skill_1015_Revenant_E_Lv1",
+        "Description3": "SKILL.Skill_1015_Revenant_E_Lv1",
+        "Description4": "SKILL.Skill_1015_Revenant_E_Lv1",
+        "Description5": "SKILL.Skill_1015_Revenant_E_Lv1"
+      },
+      "10150105": {
+        "Description1": "SKILL.Skill_1015_Revenant_R_Lv1",
+        "Description2": "SKILL.Skill_1015_Revenant_R_Lv1",
+        "Description3": "SKILL.Skill_1015_Revenant_R_Lv1",
+        "Description4": "SKILL.Skill_1015_Revenant_R_Lv1",
+        "Description5": "SKILL.Skill_1015_Revenant_R_Lv1"
+      },
+      "10160101": {
+        "Description1": "SKILL.Skill_1016_Aurora_LMB_Lv1",
+        "Description2": "SKILL.Skill_1016_Aurora_LMB_Lv1",
+        "Description3": "SKILL.Skill_1016_Aurora_LMB_Lv1",
+        "Description4": "SKILL.Skill_1016_Aurora_LMB_Lv1",
+        "Description5": "SKILL.Skill_1016_Aurora_LMB_Lv1"
+      },
+      "10160102": {
+        "Description1": "SKILL.Skill_1016_Aurora_RMB_Lv1",
+        "Description2": "SKILL.Skill_1016_Aurora_RMB_Lv1",
+        "Description3": "SKILL.Skill_1016_Aurora_RMB_Lv1",
+        "Description4": "SKILL.Skill_1016_Aurora_RMB_Lv1",
+        "Description5": "SKILL.Skill_1016_Aurora_RMB_Lv1"
+      },
+      "10160103": {
+        "Description1": "SKILL.Skill_1016_Aurora_Q_Lv1",
+        "Description2": "SKILL.Skill_1016_Aurora_Q_Lv1",
+        "Description3": "SKILL.Skill_1016_Aurora_Q_Lv1",
+        "Description4": "SKILL.Skill_1016_Aurora_Q_Lv1",
+        "Description5": "SKILL.Skill_1016_Aurora_Q_Lv1"
+      },
+      "10160104": {
+        "Description1": "SKILL.Skill_1016_Aurora_E_Lv1",
+        "Description2": "SKILL.Skill_1016_Aurora_E_Lv1",
+        "Description3": "SKILL.Skill_1016_Aurora_E_Lv1",
+        "Description4": "SKILL.Skill_1016_Aurora_E_Lv1",
+        "Description5": "SKILL.Skill_1016_Aurora_E_Lv1"
+      },
+      "10160105": {
+        "Description1": "SKILL.Skill_1016_Aurora_R_Lv1",
+        "Description2": "SKILL.Skill_1016_Aurora_R_Lv1",
+        "Description3": "SKILL.Skill_1016_Aurora_R_Lv1",
+        "Description4": "SKILL.Skill_1016_Aurora_R_Lv1",
+        "Description5": "SKILL.Skill_1016_Aurora_R_Lv1"
+      },
+      "10170101": {
+        "Description1": "SKILL.Skill_1017_Phase_LMB_Lv1",
+        "Description2": "SKILL.Skill_1017_Phase_LMB_Lv1",
+        "Description3": "SKILL.Skill_1017_Phase_LMB_Lv1",
+        "Description4": "SKILL.Skill_1017_Phase_LMB_Lv1",
+        "Description5": "SKILL.Skill_1017_Phase_LMB_Lv1"
+      },
+      "10170102": {
+        "Description1": "SKILL.Skill_1017_Phase_RMB_Lv1",
+        "Description2": "SKILL.Skill_1017_Phase_RMB_Lv1",
+        "Description3": "SKILL.Skill_1017_Phase_RMB_Lv1",
+        "Description4": "SKILL.Skill_1017_Phase_RMB_Lv1",
+        "Description5": "SKILL.Skill_1017_Phase_RMB_Lv1"
+      },
+      "10170103": {
+        "Description1": "SKILL.Skill_1017_Phase_Q_Lv1",
+        "Description2": "SKILL.Skill_1017_Phase_Q_Lv1",
+        "Description3": "SKILL.Skill_1017_Phase_Q_Lv1",
+        "Description4": "SKILL.Skill_1017_Phase_Q_Lv1",
+        "Description5": "SKILL.Skill_1017_Phase_Q_Lv1"
+      },
+      "10170104": {
+        "Description1": "SKILL.Skill_1017_Phase_E_Lv1",
+        "Description2": "SKILL.Skill_1017_Phase_E_Lv1",
+        "Description3": "SKILL.Skill_1017_Phase_E_Lv1",
+        "Description4": "SKILL.Skill_1017_Phase_E_Lv1",
+        "Description5": "SKILL.Skill_1017_Phase_E_Lv1"
+      },
+      "10170105": {
+        "Description1": "SKILL.Skill_1017_Phase_R_Lv1",
+        "Description2": "SKILL.Skill_1017_Phase_R_Lv1",
+        "Description3": "SKILL.Skill_1017_Phase_R_Lv1",
+        "Description4": "SKILL.Skill_1017_Phase_R_Lv1",
+        "Description5": "SKILL.Skill_1017_Phase_R_Lv1"
+      },
+      "10180101": {
+        "Description1": "SKILL.Skill_1018_Adele_LMB_Lv1",
+        "Description2": "SKILL.Skill_1018_Adele_LMB_Lv1",
+        "Description3": "SKILL.Skill_1018_Adele_LMB_Lv1",
+        "Description4": "SKILL.Skill_1018_Adele_LMB_Lv1",
+        "Description5": "SKILL.Skill_1018_Adele_LMB_Lv1"
+      },
+      "10180102": {
+        "Description1": "SKILL.Skill_1018_Adele_RMB_Lv1",
+        "Description2": "SKILL.Skill_1018_Adele_RMB_Lv1",
+        "Description3": "SKILL.Skill_1018_Adele_RMB_Lv1",
+        "Description4": "SKILL.Skill_1018_Adele_RMB_Lv1",
+        "Description5": "SKILL.Skill_1018_Adele_RMB_Lv1"
+      },
+      "10180103": {
+        "Description1": "SKILL.Skill_1018_Adele_Q_Lv1",
+        "Description2": "SKILL.Skill_1018_Adele_Q_Lv1",
+        "Description3": "SKILL.Skill_1018_Adele_Q_Lv1",
+        "Description4": "SKILL.Skill_1018_Adele_Q_Lv1",
+        "Description5": "SKILL.Skill_1018_Adele_Q_Lv1"
+      },
+      "10180104": {
+        "Description1": "SKILL.Skill_1018_Adele_E_Lv1",
+        "Description2": "SKILL.Skill_1018_Adele_E_Lv1",
+        "Description3": "SKILL.Skill_1018_Adele_E_Lv1",
+        "Description4": "SKILL.Skill_1018_Adele_E_Lv1",
+        "Description5": "SKILL.Skill_1018_Adele_E_Lv1"
+      },
+      "10180105": {
+        "Description1": "SKILL.Skill_1018_Adele_R_Lv1",
+        "Description2": "SKILL.Skill_1018_Adele_R_Lv1",
+        "Description3": "SKILL.Skill_1018_Adele_R_Lv1",
+        "Description4": "SKILL.Skill_1018_Adele_R_Lv1",
+        "Description5": "SKILL.Skill_1018_Adele_R_Lv1"
+      },
+      "10190101": {
+        "Description1": "SKILL.Skill_1019_Belica_LMB_Lv1",
+        "Description2": "SKILL.Skill_1019_Belica_LMB_Lv1",
+        "Description3": "SKILL.Skill_1019_Belica_LMB_Lv1",
+        "Description4": "SKILL.Skill_1019_Belica_LMB_Lv1",
+        "Description5": "SKILL.Skill_1019_Belica_LMB_Lv1"
+      },
+      "10190102": {
+        "Description1": "SKILL.Skill_1019_Belica_RMB_Lv1",
+        "Description2": "SKILL.Skill_1019_Belica_RMB_Lv1",
+        "Description3": "SKILL.Skill_1019_Belica_RMB_Lv1",
+        "Description4": "SKILL.Skill_1019_Belica_RMB_Lv1",
+        "Description5": "SKILL.Skill_1019_Belica_RMB_Lv1"
+      },
+      "10190103": {
+        "Description1": "SKILL.Skill_1019_Belica_Q_Lv1",
+        "Description2": "SKILL.Skill_1019_Belica_Q_Lv1",
+        "Description3": "SKILL.Skill_1019_Belica_Q_Lv1",
+        "Description4": "SKILL.Skill_1019_Belica_Q_Lv1",
+        "Description5": "SKILL.Skill_1019_Belica_Q_Lv1"
+      },
+      "10190104": {
+        "Description1": "SKILL.Skill_1019_Belica_E_Lv1",
+        "Description2": "SKILL.Skill_1019_Belica_E_Lv1",
+        "Description3": "SKILL.Skill_1019_Belica_E_Lv1",
+        "Description4": "SKILL.Skill_1019_Belica_E_Lv1",
+        "Description5": "SKILL.Skill_1019_Belica_E_Lv1"
+      },
+      "10190105": {
+        "Description1": "SKILL.Skill_1019_Belica_R_Lv1",
+        "Description2": "SKILL.Skill_1019_Belica_R_Lv1",
+        "Description3": "SKILL.Skill_1019_Belica_R_Lv1",
+        "Description4": "SKILL.Skill_1019_Belica_R_Lv1",
+        "Description5": "SKILL.Skill_1019_Belica_R_Lv1"
+      },
+      "10200101": {
+        "Description1": "SKILL.Skill_1020_FengMao_LMB_Lv1",
+        "Description2": "SKILL.Skill_1020_FengMao_LMB_Lv1",
+        "Description3": "SKILL.Skill_1020_FengMao_LMB_Lv1",
+        "Description4": "SKILL.Skill_1020_FengMao_LMB_Lv1",
+        "Description5": "SKILL.Skill_1020_FengMao_LMB_Lv1"
+      },
+      "10200102": {
+        "Description1": "SKILL.Skill_1020_FengMao_RMB_Lv1",
+        "Description2": "SKILL.Skill_1020_FengMao_RMB_Lv1",
+        "Description3": "SKILL.Skill_1020_FengMao_RMB_Lv1",
+        "Description4": "SKILL.Skill_1020_FengMao_RMB_Lv1",
+        "Description5": "SKILL.Skill_1020_FengMao_RMB_Lv1"
+      },
+      "10200103": {
+        "Description1": "SKILL.Skill_1020_FengMao_Q_Lv1",
+        "Description2": "SKILL.Skill_1020_FengMao_Q_Lv1",
+        "Description3": "SKILL.Skill_1020_FengMao_Q_Lv1",
+        "Description4": "SKILL.Skill_1020_FengMao_Q_Lv1",
+        "Description5": "SKILL.Skill_1020_FengMao_Q_Lv1"
+      },
+      "10200104": {
+        "Description1": "SKILL.Skill_1020_FengMao_E_Lv1",
+        "Description2": "SKILL.Skill_1020_FengMao_E_Lv1",
+        "Description3": "SKILL.Skill_1020_FengMao_E_Lv1",
+        "Description4": "SKILL.Skill_1020_FengMao_E_Lv1",
+        "Description5": "SKILL.Skill_1020_FengMao_E_Lv1"
+      },
+      "10200105": {
+        "Description1": "SKILL.Skill_1020_FengMao_R_Lv1",
+        "Description2": "SKILL.Skill_1020_FengMao_R_Lv1",
+        "Description3": "SKILL.Skill_1020_FengMao_R_Lv1",
+        "Description4": "SKILL.Skill_1020_FengMao_R_Lv1",
+        "Description5": "SKILL.Skill_1020_FengMao_R_Lv1"
+      },
+      "10220101": {
+        "Description1": "SKILL.Skill_1022_Howitzer_LMB_Lv1",
+        "Description2": "SKILL.Skill_1022_Howitzer_LMB_Lv1",
+        "Description3": "SKILL.Skill_1022_Howitzer_LMB_Lv1",
+        "Description4": "SKILL.Skill_1022_Howitzer_LMB_Lv1",
+        "Description5": "SKILL.Skill_1022_Howitzer_LMB_Lv1"
+      },
+      "10220102": {
+        "Description1": "SKILL.Skill_1022_Howitzer_RMB_Lv1",
+        "Description2": "SKILL.Skill_1022_Howitzer_RMB_Lv1",
+        "Description3": "SKILL.Skill_1022_Howitzer_RMB_Lv1",
+        "Description4": "SKILL.Skill_1022_Howitzer_RMB_Lv1",
+        "Description5": "SKILL.Skill_1022_Howitzer_RMB_Lv1"
+      },
+      "10220103": {
+        "Description1": "SKILL.Skill_1022_Howitzer_Q_Lv1",
+        "Description2": "SKILL.Skill_1022_Howitzer_Q_Lv1",
+        "Description3": "SKILL.Skill_1022_Howitzer_Q_Lv1",
+        "Description4": "SKILL.Skill_1022_Howitzer_Q_Lv1",
+        "Description5": "SKILL.Skill_1022_Howitzer_Q_Lv1"
+      },
+      "10220104": {
+        "Description1": "SKILL.Skill_1022_Howitzer_E_Lv1",
+        "Description2": "SKILL.Skill_1022_Howitzer_E_Lv1",
+        "Description3": "SKILL.Skill_1022_Howitzer_E_Lv1",
+        "Description4": "SKILL.Skill_1022_Howitzer_E_Lv1",
+        "Description5": "SKILL.Skill_1022_Howitzer_E_Lv1"
+      },
+      "10220105": {
+        "Description1": "SKILL.Skill_1022_Howitzer_R_Lv1",
+        "Description2": "SKILL.Skill_1022_Howitzer_R_Lv1",
+        "Description3": "SKILL.Skill_1022_Howitzer_R_Lv1",
+        "Description4": "SKILL.Skill_1022_Howitzer_R_Lv1",
+        "Description5": "SKILL.Skill_1022_Howitzer_R_Lv1"
+      },
+      "10230101": {
+        "Description1": "SKILL.Skill_1023_Khaimera_LMB_Lv1",
+        "Description2": "SKILL.Skill_1023_Khaimera_LMB_Lv1",
+        "Description3": "SKILL.Skill_1023_Khaimera_LMB_Lv1",
+        "Description4": "SKILL.Skill_1023_Khaimera_LMB_Lv1",
+        "Description5": "SKILL.Skill_1023_Khaimera_LMB_Lv1"
+      },
+      "10230102": {
+        "Description1": "SKILL.Skill_1023_Khaimera_RMB_Lv1",
+        "Description2": "SKILL.Skill_1023_Khaimera_RMB_Lv1",
+        "Description3": "SKILL.Skill_1023_Khaimera_RMB_Lv1",
+        "Description4": "SKILL.Skill_1023_Khaimera_RMB_Lv1",
+        "Description5": "SKILL.Skill_1023_Khaimera_RMB_Lv1"
+      },
+      "10230103": {
+        "Description1": "SKILL.Skill_1023_Khaimera_Q_Lv1",
+        "Description2": "SKILL.Skill_1023_Khaimera_Q_Lv1",
+        "Description3": "SKILL.Skill_1023_Khaimera_Q_Lv1",
+        "Description4": "SKILL.Skill_1023_Khaimera_Q_Lv1",
+        "Description5": "SKILL.Skill_1023_Khaimera_Q_Lv1"
+      },
+      "10230104": {
+        "Description1": "SKILL.Skill_1023_Khaimera_E_Lv1",
+        "Description2": "SKILL.Skill_1023_Khaimera_E_Lv1",
+        "Description3": "SKILL.Skill_1023_Khaimera_E_Lv1",
+        "Description4": "SKILL.Skill_1023_Khaimera_E_Lv1",
+        "Description5": "SKILL.Skill_1023_Khaimera_E_Lv1"
+      },
+      "10230105": {
+        "Description1": "SKILL.Skill_1023_Khaimera_R_Lv1",
+        "Description2": "SKILL.Skill_1023_Khaimera_R_Lv1",
+        "Description3": "SKILL.Skill_1023_Khaimera_R_Lv1",
+        "Description4": "SKILL.Skill_1023_Khaimera_R_Lv1",
+        "Description5": "SKILL.Skill_1023_Khaimera_R_Lv1"
+      },
+      "10250101": {
+        "Description1": "SKILL.Skill_1025_Narbash_LMB_Lv1",
+        "Description2": "SKILL.Skill_1025_Narbash_LMB_Lv1",
+        "Description3": "SKILL.Skill_1025_Narbash_LMB_Lv1",
+        "Description4": "SKILL.Skill_1025_Narbash_LMB_Lv1",
+        "Description5": "SKILL.Skill_1025_Narbash_LMB_Lv1"
+      },
+      "10250102": {
+        "Description1": "SKILL.Skill_1025_Narbash_RMB_Lv1",
+        "Description2": "SKILL.Skill_1025_Narbash_RMB_Lv1",
+        "Description3": "SKILL.Skill_1025_Narbash_RMB_Lv1",
+        "Description4": "SKILL.Skill_1025_Narbash_RMB_Lv1",
+        "Description5": "SKILL.Skill_1025_Narbash_RMB_Lv1"
+      },
+      "10250103": {
+        "Description1": "SKILL.Skill_1025_Narbash_Q_Lv1",
+        "Description2": "SKILL.Skill_1025_Narbash_Q_Lv1",
+        "Description3": "SKILL.Skill_1025_Narbash_Q_Lv1",
+        "Description4": "SKILL.Skill_1025_Narbash_Q_Lv1",
+        "Description5": "SKILL.Skill_1025_Narbash_Q_Lv1"
+      },
+      "10250104": {
+        "Description1": "SKILL.Skill_1025_Narbash_E_Lv1",
+        "Description2": "SKILL.Skill_1025_Narbash_E_Lv1",
+        "Description3": "SKILL.Skill_1025_Narbash_E_Lv1",
+        "Description4": "SKILL.Skill_1025_Narbash_E_Lv1",
+        "Description5": "SKILL.Skill_1025_Narbash_E_Lv1"
+      },
+      "10250105": {
+        "Description1": "SKILL.Skill_1025_Narbash_R_Lv1",
+        "Description2": "SKILL.Skill_1025_Narbash_R_Lv1",
+        "Description3": "SKILL.Skill_1025_Narbash_R_Lv1",
+        "Description4": "SKILL.Skill_1025_Narbash_R_Lv1",
+        "Description5": "SKILL.Skill_1025_Narbash_R_Lv1"
+      },
+      "10260101": {
+        "Description1": "SKILL.Skill_1026_Gadget_LMB_Lv1",
+        "Description2": "SKILL.Skill_1026_Gadget_LMB_Lv1",
+        "Description3": "SKILL.Skill_1026_Gadget_LMB_Lv1",
+        "Description4": "SKILL.Skill_1026_Gadget_LMB_Lv1",
+        "Description5": "SKILL.Skill_1026_Gadget_LMB_Lv1"
+      },
+      "10260102": {
+        "Description1": "SKILL.Skill_1026_Gadget_RMB_Lv1",
+        "Description2": "SKILL.Skill_1026_Gadget_RMB_Lv1",
+        "Description3": "SKILL.Skill_1026_Gadget_RMB_Lv1",
+        "Description4": "SKILL.Skill_1026_Gadget_RMB_Lv1",
+        "Description5": "SKILL.Skill_1026_Gadget_RMB_Lv1"
+      },
+      "10260103": {
+        "Description1": "SKILL.Skill_1026_Gadget_Q_Lv1",
+        "Description2": "SKILL.Skill_1026_Gadget_Q_Lv1",
+        "Description3": "SKILL.Skill_1026_Gadget_Q_Lv1",
+        "Description4": "SKILL.Skill_1026_Gadget_Q_Lv1",
+        "Description5": "SKILL.Skill_1026_Gadget_Q_Lv1"
+      },
+      "10260104": {
+        "Description1": "SKILL.Skill_1026_Gadget_E_Lv1",
+        "Description2": "SKILL.Skill_1026_Gadget_E_Lv1",
+        "Description3": "SKILL.Skill_1026_Gadget_E_Lv1",
+        "Description4": "SKILL.Skill_1026_Gadget_E_Lv1",
+        "Description5": "SKILL.Skill_1026_Gadget_E_Lv1"
+      },
+      "10260105": {
+        "Description1": "SKILL.Skill_1026_Gadget_R_Lv1",
+        "Description2": "SKILL.Skill_1026_Gadget_R_Lv1",
+        "Description3": "SKILL.Skill_1026_Gadget_R_Lv1",
+        "Description4": "SKILL.Skill_1026_Gadget_R_Lv1",
+        "Description5": "SKILL.Skill_1026_Gadget_R_Lv1"
+      },
+      "10270101": {
+        "Description1": "SKILL.Skill_1027_Countess_LMB_Lv1",
+        "Description2": "SKILL.Skill_1027_Countess_LMB_Lv1",
+        "Description3": "SKILL.Skill_1027_Countess_LMB_Lv1",
+        "Description4": "SKILL.Skill_1027_Countess_LMB_Lv1",
+        "Description5": "SKILL.Skill_1027_Countess_LMB_Lv1"
+      },
+      "10270102": {
+        "Description1": "SKILL.Skill_1027_Countess_RMB_Lv1",
+        "Description2": "SKILL.Skill_1027_Countess_RMB_Lv1",
+        "Description3": "SKILL.Skill_1027_Countess_RMB_Lv1",
+        "Description4": "SKILL.Skill_1027_Countess_RMB_Lv1",
+        "Description5": "SKILL.Skill_1027_Countess_RMB_Lv1"
+      },
+      "10270103": {
+        "Description1": "SKILL.Skill_1027_Countess_Q_Lv1",
+        "Description2": "SKILL.Skill_1027_Countess_Q_Lv1",
+        "Description3": "SKILL.Skill_1027_Countess_Q_Lv1",
+        "Description4": "SKILL.Skill_1027_Countess_Q_Lv1",
+        "Description5": "SKILL.Skill_1027_Countess_Q_Lv1"
+      },
+      "10270104": {
+        "Description1": "SKILL.Skill_1027_Countess_E_Lv1",
+        "Description2": "SKILL.Skill_1027_Countess_E_Lv1",
+        "Description3": "SKILL.Skill_1027_Countess_E_Lv1",
+        "Description4": "SKILL.Skill_1027_Countess_E_Lv1",
+        "Description5": "SKILL.Skill_1027_Countess_E_Lv1"
+      },
+      "10270105": {
+        "Description1": "SKILL.Skill_1027_Countess_R_Lv1",
+        "Description2": "SKILL.Skill_1027_Countess_R_Lv1",
+        "Description3": "SKILL.Skill_1027_Countess_R_Lv1",
+        "Description4": "SKILL.Skill_1027_Countess_R_Lv1",
+        "Description5": "SKILL.Skill_1027_Countess_R_Lv1"
+      },
+      "10280101": {
+        "Description1": "SKILL.Skill_1028_Serath_LMB_Lv1",
+        "Description2": "SKILL.Skill_1028_Serath_LMB_Lv1",
+        "Description3": "SKILL.Skill_1028_Serath_LMB_Lv1",
+        "Description4": "SKILL.Skill_1028_Serath_LMB_Lv1",
+        "Description5": "SKILL.Skill_1028_Serath_LMB_Lv1"
+      },
+      "10280102": {
+        "Description1": "SKILL.Skill_1028_Serath_RMB_Lv1",
+        "Description2": "SKILL.Skill_1028_Serath_RMB_Lv1",
+        "Description3": "SKILL.Skill_1028_Serath_RMB_Lv1",
+        "Description4": "SKILL.Skill_1028_Serath_RMB_Lv1",
+        "Description5": "SKILL.Skill_1028_Serath_RMB_Lv1"
+      },
+      "10280103": {
+        "Description1": "SKILL.Skill_1028_Serath_Q_Lv1",
+        "Description2": "SKILL.Skill_1028_Serath_Q_Lv1",
+        "Description3": "SKILL.Skill_1028_Serath_Q_Lv1",
+        "Description4": "SKILL.Skill_1028_Serath_Q_Lv1",
+        "Description5": "SKILL.Skill_1028_Serath_Q_Lv1"
+      },
+      "10280104": {
+        "Description1": "SKILL.Skill_1028_Serath_E_Lv1",
+        "Description2": "SKILL.Skill_1028_Serath_E_Lv1",
+        "Description3": "SKILL.Skill_1028_Serath_E_Lv1",
+        "Description4": "SKILL.Skill_1028_Serath_E_Lv1",
+        "Description5": "SKILL.Skill_1028_Serath_E_Lv1"
+      },
+      "10280105": {
+        "Description1": "SKILL.Skill_1028_Serath_R_Lv1",
+        "Description2": "SKILL.Skill_1028_Serath_R_Lv1",
+        "Description3": "SKILL.Skill_1028_Serath_R_Lv1",
+        "Description4": "SKILL.Skill_1028_Serath_R_Lv1",
+        "Description5": "SKILL.Skill_1028_Serath_R_Lv1"
+      },
+      "10300101": {
+        "Description1": "SKILL.Skill_1030_Zena_LMB_Lv1",
+        "Description2": "SKILL.Skill_1030_Zena_LMB_Lv1",
+        "Description3": "SKILL.Skill_1030_Zena_LMB_Lv1",
+        "Description4": "SKILL.Skill_1030_Zena_LMB_Lv1",
+        "Description5": "SKILL.Skill_1030_Zena_LMB_Lv1"
+      },
+      "10300102": {
+        "Description1": "SKILL.Skill_1030_Zena_RMB_Lv1",
+        "Description2": "SKILL.Skill_1030_Zena_RMB_Lv1",
+        "Description3": "SKILL.Skill_1030_Zena_RMB_Lv1",
+        "Description4": "SKILL.Skill_1030_Zena_RMB_Lv1",
+        "Description5": "SKILL.Skill_1030_Zena_RMB_Lv1"
+      },
+      "10300103": {
+        "Description1": "SKILL.Skill_1030_Zena_Q_Lv1",
+        "Description2": "SKILL.Skill_1030_Zena_Q_Lv1",
+        "Description3": "SKILL.Skill_1030_Zena_Q_Lv1",
+        "Description4": "SKILL.Skill_1030_Zena_Q_Lv1",
+        "Description5": "SKILL.Skill_1030_Zena_Q_Lv1"
+      },
+      "10300104": {
+        "Description1": "SKILL.Skill_1030_Zena_E_Lv1",
+        "Description2": "SKILL.Skill_1030_Zena_E_Lv1",
+        "Description3": "SKILL.Skill_1030_Zena_E_Lv1",
+        "Description4": "SKILL.Skill_1030_Zena_E_Lv1",
+        "Description5": "SKILL.Skill_1030_Zena_E_Lv1"
+      },
+      "10300105": {
+        "Description1": "SKILL.Skill_1030_Zena_R_Lv1",
+        "Description2": "SKILL.Skill_1030_Zena_R_Lv1",
+        "Description3": "SKILL.Skill_1030_Zena_R_Lv1",
+        "Description4": "SKILL.Skill_1030_Zena_R_Lv1",
+        "Description5": "SKILL.Skill_1030_Zena_R_Lv1"
+      },
+      "10310101": {
+        "Description1": "SKILL.Skill_1031_Dekker_LMB_Lv1",
+        "Description2": "SKILL.Skill_1031_Dekker_LMB_Lv1",
+        "Description3": "SKILL.Skill_1031_Dekker_LMB_Lv1",
+        "Description4": "SKILL.Skill_1031_Dekker_LMB_Lv1",
+        "Description5": "SKILL.Skill_1031_Dekker_LMB_Lv1"
+      },
+      "10310102": {
+        "Description1": "SKILL.Skill_1031_Dekker_RMB_Lv1",
+        "Description2": "SKILL.Skill_1031_Dekker_RMB_Lv1",
+        "Description3": "SKILL.Skill_1031_Dekker_RMB_Lv1",
+        "Description4": "SKILL.Skill_1031_Dekker_RMB_Lv1",
+        "Description5": "SKILL.Skill_1031_Dekker_RMB_Lv1"
+      },
+      "10310103": {
+        "Description1": "SKILL.Skill_1031_Dekker_Q_Lv1",
+        "Description2": "SKILL.Skill_1031_Dekker_Q_Lv1",
+        "Description3": "SKILL.Skill_1031_Dekker_Q_Lv1",
+        "Description4": "SKILL.Skill_1031_Dekker_Q_Lv1",
+        "Description5": "SKILL.Skill_1031_Dekker_Q_Lv1"
+      },
+      "10310104": {
+        "Description1": "SKILL.Skill_1031_Dekker_E_Lv1",
+        "Description2": "SKILL.Skill_1031_Dekker_E_Lv1",
+        "Description3": "SKILL.Skill_1031_Dekker_E_Lv1",
+        "Description4": "SKILL.Skill_1031_Dekker_E_Lv1",
+        "Description5": "SKILL.Skill_1031_Dekker_E_Lv1"
+      },
+      "10310105": {
+        "Description1": "SKILL.Skill_1031_Dekker_R_Lv1",
+        "Description2": "SKILL.Skill_1031_Dekker_R_Lv1",
+        "Description3": "SKILL.Skill_1031_Dekker_R_Lv1",
+        "Description4": "SKILL.Skill_1031_Dekker_R_Lv1",
+        "Description5": "SKILL.Skill_1031_Dekker_R_Lv1"
+      },
+      "10320101": {
+        "Description1": "SKILL.Skill_1032_Drongo_LMB_Lv1",
+        "Description2": "SKILL.Skill_1032_Drongo_LMB_Lv1",
+        "Description3": "SKILL.Skill_1032_Drongo_LMB_Lv1",
+        "Description4": "SKILL.Skill_1032_Drongo_LMB_Lv1",
+        "Description5": "SKILL.Skill_1032_Drongo_LMB_Lv1"
+      },
+      "10320102": {
+        "Description1": "SKILL.Skill_1032_Drongo_RMB_Lv1",
+        "Description2": "SKILL.Skill_1032_Drongo_RMB_Lv1",
+        "Description3": "SKILL.Skill_1032_Drongo_RMB_Lv1",
+        "Description4": "SKILL.Skill_1032_Drongo_RMB_Lv1",
+        "Description5": "SKILL.Skill_1032_Drongo_RMB_Lv1"
+      },
+      "10320103": {
+        "Description1": "SKILL.Skill_1032_Drongo_Q_Lv1",
+        "Description2": "SKILL.Skill_1032_Drongo_Q_Lv1",
+        "Description3": "SKILL.Skill_1032_Drongo_Q_Lv1",
+        "Description4": "SKILL.Skill_1032_Drongo_Q_Lv1",
+        "Description5": "SKILL.Skill_1032_Drongo_Q_Lv1"
+      },
+      "10320104": {
+        "Description1": "SKILL.Skill_1032_Drongo_E_Lv1",
+        "Description2": "SKILL.Skill_1032_Drongo_E_Lv1",
+        "Description3": "SKILL.Skill_1032_Drongo_E_Lv1",
+        "Description4": "SKILL.Skill_1032_Drongo_E_Lv1",
+        "Description5": "SKILL.Skill_1032_Drongo_E_Lv1"
+      },
+      "10320105": {
+        "Description1": "SKILL.Skill_1032_Drongo_R_Lv1",
+        "Description2": "SKILL.Skill_1032_Drongo_R_Lv1",
+        "Description3": "SKILL.Skill_1032_Drongo_R_Lv1",
+        "Description4": "SKILL.Skill_1032_Drongo_R_Lv1",
+        "Description5": "SKILL.Skill_1032_Drongo_R_Lv1"
+      },
+      "10330101": {
+        "Description1": "SKILL.Skill_1033_Wraith_LMB_Lv1",
+        "Description2": "SKILL.Skill_1033_Wraith_LMB_Lv1",
+        "Description3": "SKILL.Skill_1033_Wraith_LMB_Lv1",
+        "Description4": "SKILL.Skill_1033_Wraith_LMB_Lv1",
+        "Description5": "SKILL.Skill_1033_Wraith_LMB_Lv1"
+      },
+      "10330102": {
+        "Description1": "SKILL.Skill_1033_Wraith_RMB_Lv1",
+        "Description2": "SKILL.Skill_1033_Wraith_RMB_Lv1",
+        "Description3": "SKILL.Skill_1033_Wraith_RMB_Lv1",
+        "Description4": "SKILL.Skill_1033_Wraith_RMB_Lv1",
+        "Description5": "SKILL.Skill_1033_Wraith_RMB_Lv1"
+      },
+      "10330103": {
+        "Description1": "SKILL.Skill_1033_Wraith_Q_Lv1",
+        "Description2": "SKILL.Skill_1033_Wraith_Q_Lv1",
+        "Description3": "SKILL.Skill_1033_Wraith_Q_Lv1",
+        "Description4": "SKILL.Skill_1033_Wraith_Q_Lv1",
+        "Description5": "SKILL.Skill_1033_Wraith_Q_Lv1"
+      },
+      "10330104": {
+        "Description1": "SKILL.Skill_1033_Wraith_E_Lv1",
+        "Description2": "SKILL.Skill_1033_Wraith_E_Lv1",
+        "Description3": "SKILL.Skill_1033_Wraith_E_Lv1",
+        "Description4": "SKILL.Skill_1033_Wraith_E_Lv1",
+        "Description5": "SKILL.Skill_1033_Wraith_E_Lv1"
+      },
+      "10330105": {
+        "Description1": "SKILL.Skill_1033_Wraith_R_Lv1",
+        "Description2": "SKILL.Skill_1033_Wraith_R_Lv1",
+        "Description3": "SKILL.Skill_1033_Wraith_R_Lv1",
+        "Description4": "SKILL.Skill_1033_Wraith_R_Lv1",
+        "Description5": "SKILL.Skill_1033_Wraith_R_Lv1"
+      },
+      "10360101": {
+        "Description1": "SKILL.Skill_1036_Wukong_LMB_Lv1",
+        "Description2": "SKILL.Skill_1036_Wukong_LMB_Lv1",
+        "Description3": "SKILL.Skill_1036_Wukong_LMB_Lv1",
+        "Description4": "SKILL.Skill_1036_Wukong_LMB_Lv1",
+        "Description5": "SKILL.Skill_1036_Wukong_LMB_Lv1"
+      },
+      "10360102": {
+        "Description1": "SKILL.Skill_1036_Wukong_RMB_Lv1",
+        "Description2": "SKILL.Skill_1036_Wukong_RMB_Lv1",
+        "Description3": "SKILL.Skill_1036_Wukong_RMB_Lv1",
+        "Description4": "SKILL.Skill_1036_Wukong_RMB_Lv1",
+        "Description5": "SKILL.Skill_1036_Wukong_RMB_Lv1"
+      },
+      "10360103": {
+        "Description1": "SKILL.Skill_1036_Wukong_Q_Lv1",
+        "Description2": "SKILL.Skill_1036_Wukong_Q_Lv1",
+        "Description3": "SKILL.Skill_1036_Wukong_Q_Lv1",
+        "Description4": "SKILL.Skill_1036_Wukong_Q_Lv1",
+        "Description5": "SKILL.Skill_1036_Wukong_Q_Lv1"
+      },
+      "10360104": {
+        "Description1": "SKILL.Skill_1036_Wukong_E_Lv1",
+        "Description2": "SKILL.Skill_1036_Wukong_E_Lv1",
+        "Description3": "SKILL.Skill_1036_Wukong_E_Lv1",
+        "Description4": "SKILL.Skill_1036_Wukong_E_Lv1",
+        "Description5": "SKILL.Skill_1036_Wukong_E_Lv1"
+      },
+      "10360105": {
+        "Description1": "SKILL.Skill_1036_Wukong_R_Lv1",
+        "Description2": "SKILL.Skill_1036_Wukong_R_Lv1",
+        "Description3": "SKILL.Skill_1036_Wukong_R_Lv1",
+        "Description4": "SKILL.Skill_1036_Wukong_R_Lv1",
+        "Description5": "SKILL.Skill_1036_Wukong_R_Lv1"
+      },
+      "10370101": {
+        "Description1": "SKILL.Skill_1037_IggyScorch_LMB_Lv1",
+        "Description2": "SKILL.Skill_1037_IggyScorch_LMB_Lv1",
+        "Description3": "SKILL.Skill_1037_IggyScorch_LMB_Lv1",
+        "Description4": "SKILL.Skill_1037_IggyScorch_LMB_Lv1",
+        "Description5": "SKILL.Skill_1037_IggyScorch_LMB_Lv1"
+      },
+      "10370102": {
+        "Description1": "SKILL.Skill_1037_IggyScorch_RMB_Lv1",
+        "Description2": "SKILL.Skill_1037_IggyScorch_RMB_Lv1",
+        "Description3": "SKILL.Skill_1037_IggyScorch_RMB_Lv1",
+        "Description4": "SKILL.Skill_1037_IggyScorch_RMB_Lv1",
+        "Description5": "SKILL.Skill_1037_IggyScorch_RMB_Lv1"
+      },
+      "10370103": {
+        "Description1": "SKILL.Skill_1037_IggyScorch_Q_Lv1",
+        "Description2": "SKILL.Skill_1037_IggyScorch_Q_Lv1",
+        "Description3": "SKILL.Skill_1037_IggyScorch_Q_Lv1",
+        "Description4": "SKILL.Skill_1037_IggyScorch_Q_Lv1",
+        "Description5": "SKILL.Skill_1037_IggyScorch_Q_Lv1"
+      },
+      "10370104": {
+        "Description1": "SKILL.Skill_1037_IggyScorch_E_Lv1",
+        "Description2": "SKILL.Skill_1037_IggyScorch_E_Lv1",
+        "Description3": "SKILL.Skill_1037_IggyScorch_E_Lv1",
+        "Description4": "SKILL.Skill_1037_IggyScorch_E_Lv1",
+        "Description5": "SKILL.Skill_1037_IggyScorch_E_Lv1"
+      },
+      "10370105": {
+        "Description1": "SKILL.Skill_1037_IggyScorch_R_Lv1",
+        "Description2": "SKILL.Skill_1037_IggyScorch_R_Lv1",
+        "Description3": "SKILL.Skill_1037_IggyScorch_R_Lv1",
+        "Description4": "SKILL.Skill_1037_IggyScorch_R_Lv1",
+        "Description5": "SKILL.Skill_1037_IggyScorch_R_Lv1"
+      },
+      "10400101": {
+        "Description1": "SKILL.Skill_1040_Crunch_LMB_Lv1",
+        "Description2": "SKILL.Skill_1040_Crunch_LMB_Lv1",
+        "Description3": "SKILL.Skill_1040_Crunch_LMB_Lv1",
+        "Description4": "SKILL.Skill_1040_Crunch_LMB_Lv1",
+        "Description5": "SKILL.Skill_1040_Crunch_LMB_Lv1"
+      },
+      "10400102": {
+        "Description1": "SKILL.Skill_1040_Crunch_RMB_Lv1",
+        "Description2": "SKILL.Skill_1040_Crunch_RMB_Lv1",
+        "Description3": "SKILL.Skill_1040_Crunch_RMB_Lv1",
+        "Description4": "SKILL.Skill_1040_Crunch_RMB_Lv1",
+        "Description5": "SKILL.Skill_1040_Crunch_RMB_Lv1"
+      },
+      "10400103": {
+        "Description1": "SKILL.Skill_1040_Crunch_Q_Lv1",
+        "Description2": "SKILL.Skill_1040_Crunch_Q_Lv1",
+        "Description3": "SKILL.Skill_1040_Crunch_Q_Lv1",
+        "Description4": "SKILL.Skill_1040_Crunch_Q_Lv1",
+        "Description5": "SKILL.Skill_1040_Crunch_Q_Lv1"
+      },
+      "10400104": {
+        "Description1": "SKILL.Skill_1040_Crunch_E_Lv1",
+        "Description2": "SKILL.Skill_1040_Crunch_E_Lv1",
+        "Description3": "SKILL.Skill_1040_Crunch_E_Lv1",
+        "Description4": "SKILL.Skill_1040_Crunch_E_Lv1",
+        "Description5": "SKILL.Skill_1040_Crunch_E_Lv1"
+      },
+      "10400105": {
+        "Description1": "SKILL.Skill_1040_Crunch_R_Lv1",
+        "Description2": "SKILL.Skill_1040_Crunch_R_Lv1",
+        "Description3": "SKILL.Skill_1040_Crunch_R_Lv1",
+        "Description4": "SKILL.Skill_1040_Crunch_R_Lv1",
+        "Description5": "SKILL.Skill_1040_Crunch_R_Lv1"
+      },
+      "10420101": {
+        "Description1": "SKILL.Skill_1042_Maco_LMB_Lv1",
+        "Description2": "SKILL.Skill_1042_Maco_LMB_Lv1",
+        "Description3": "SKILL.Skill_1042_Maco_LMB_Lv1",
+        "Description4": "SKILL.Skill_1042_Maco_LMB_Lv1",
+        "Description5": "SKILL.Skill_1042_Maco_LMB_Lv1"
+      },
+      "10420102": {
+        "Description1": "SKILL.Skill_1042_Maco_RMB_Lv1",
+        "Description2": "SKILL.Skill_1042_Maco_RMB_Lv1",
+        "Description3": "SKILL.Skill_1042_Maco_RMB_Lv1",
+        "Description4": "SKILL.Skill_1042_Maco_RMB_Lv1",
+        "Description5": "SKILL.Skill_1042_Maco_RMB_Lv1"
+      },
+      "10420103": {
+        "Description1": "SKILL.Skill_1042_Maco_Q_Lv1",
+        "Description2": "SKILL.Skill_1042_Maco_Q_Lv1",
+        "Description3": "SKILL.Skill_1042_Maco_Q_Lv1",
+        "Description4": "SKILL.Skill_1042_Maco_Q_Lv1",
+        "Description5": "SKILL.Skill_1042_Maco_Q_Lv1"
+      },
+      "10420104": {
+        "Description1": "SKILL.Skill_1042_Maco_E_Lv1",
+        "Description2": "SKILL.Skill_1042_Maco_E_Lv1",
+        "Description3": "SKILL.Skill_1042_Maco_E_Lv1",
+        "Description4": "SKILL.Skill_1042_Maco_E_Lv1",
+        "Description5": "SKILL.Skill_1042_Maco_E_Lv1"
+      },
+      "10420105": {
+        "Description1": "SKILL.Skill_1042_Maco_R_Lv1",
+        "Description2": "SKILL.Skill_1042_Maco_R_Lv1",
+        "Description3": "SKILL.Skill_1042_Maco_R_Lv1",
+        "Description4": "SKILL.Skill_1042_Maco_R_Lv1",
+        "Description5": "SKILL.Skill_1042_Maco_R_Lv1"
+      },
+      "30101000": {
+        "Description1": "ITEM.Item_Desc_30101000",
+        "Description2": "ITEM.Item_Desc_30101000",
+        "Description3": "ITEM.Item_Desc_30101000",
+        "Description4": "ITEM.Item_Desc_30101000",
+        "Description5": "ITEM.Item_Desc_30101000"
+      },
+      "30101001": {
+        "Description1": "ITEM.Item_Desc_30101001",
+        "Description2": "ITEM.Item_Desc_30101001",
+        "Description3": "ITEM.Item_Desc_30101001",
+        "Description4": "ITEM.Item_Desc_30101001",
+        "Description5": "ITEM.Item_Desc_30101001"
+      },
+      "30101006": {
+        "Description1": "ITEM.Item_Desc_30101006",
+        "Description2": "ITEM.Item_Desc_30101006",
+        "Description3": "ITEM.Item_Desc_30101006",
+        "Description4": "ITEM.Item_Desc_30101006",
+        "Description5": "ITEM.Item_Desc_30101006"
+      },
+      "30102000": {
+        "Description1": "ITEM.Item_Desc_30102000",
+        "Description2": "ITEM.Item_Desc_30102000",
+        "Description3": "ITEM.Item_Desc_30102000",
+        "Description4": "ITEM.Item_Desc_30102000",
+        "Description5": "ITEM.Item_Desc_30102000"
+      },
+      "30102004": {
+        "Description1": "ITEM.Item_Desc_30102004",
+        "Description2": "ITEM.Item_Desc_30102004",
+        "Description3": "ITEM.Item_Desc_30102004",
+        "Description4": "ITEM.Item_Desc_30102004",
+        "Description5": "ITEM.Item_Desc_30102004"
+      },
+      "30103000": {
+        "Description1": "ITEM.Item_Desc_30103000",
+        "Description2": "ITEM.Item_Desc_30103000",
+        "Description3": "ITEM.Item_Desc_30103000",
+        "Description4": "ITEM.Item_Desc_30103000",
+        "Description5": "ITEM.Item_Desc_30103000"
+      },
+      "30103006": {
+        "Description1": "ITEM.Item_Desc_30103006",
+        "Description2": "ITEM.Item_Desc_30103006",
+        "Description3": "ITEM.Item_Desc_30103006",
+        "Description4": "ITEM.Item_Desc_30103006",
+        "Description5": "ITEM.Item_Desc_30103006"
+      },
+      "30104000": {
+        "Description1": "ITEM.Item_Desc_30104000",
+        "Description2": "ITEM.Item_Desc_30104000",
+        "Description3": "ITEM.Item_Desc_30104000",
+        "Description4": "ITEM.Item_Desc_30104000",
+        "Description5": "ITEM.Item_Desc_30104000"
+      },
+      "30201007": {
+        "Description1": "ITEM.Item_Desc_30201007",
+        "Description2": "ITEM.Item_Desc_30201007",
+        "Description3": "ITEM.Item_Desc_30201007",
+        "Description4": "ITEM.Item_Desc_30201007",
+        "Description5": "ITEM.Item_Desc_30201007"
+      },
+      "30201008": {
+        "Description1": "ITEM.Item_Desc_30201008",
+        "Description2": "ITEM.Item_Desc_30201008",
+        "Description3": "ITEM.Item_Desc_30201008",
+        "Description4": "ITEM.Item_Desc_30201008",
+        "Description5": "ITEM.Item_Desc_30201008"
+      },
+      "30201011": {
+        "Description1": "ITEM.Item_Desc_30201011",
+        "Description2": "ITEM.Item_Desc_30201011",
+        "Description3": "ITEM.Item_Desc_30201011",
+        "Description4": "ITEM.Item_Desc_30201011",
+        "Description5": "ITEM.Item_Desc_30201011"
+      },
+      "30201012": {
+        "Description1": "ITEM.Item_Desc_30201012",
+        "Description2": "ITEM.Item_Desc_30201012",
+        "Description3": "ITEM.Item_Desc_30201012",
+        "Description4": "ITEM.Item_Desc_30201012",
+        "Description5": "ITEM.Item_Desc_30201012"
+      },
+      "30202005": {
+        "Description1": "ITEM.Item_Desc_30202005",
+        "Description2": "ITEM.Item_Desc_30202005",
+        "Description3": "ITEM.Item_Desc_30202005",
+        "Description4": "ITEM.Item_Desc_30202005",
+        "Description5": "ITEM.Item_Desc_30202005"
+      },
+      "30202009": {
+        "Description1": "ITEM.Item_Desc_30202009",
+        "Description2": "ITEM.Item_Desc_30202009",
+        "Description3": "ITEM.Item_Desc_30202009",
+        "Description4": "ITEM.Item_Desc_30202009",
+        "Description5": "ITEM.Item_Desc_30202009"
+      },
+      "30203001": {
+        "Description1": "ITEM.Item_Desc_30203001",
+        "Description2": "ITEM.Item_Desc_30203001",
+        "Description3": "ITEM.Item_Desc_30203001",
+        "Description4": "ITEM.Item_Desc_30203001",
+        "Description5": "ITEM.Item_Desc_30203001"
+      },
+      "30203003": {
+        "Description1": "ITEM.Item_Desc_30203003",
+        "Description2": "ITEM.Item_Desc_30203003",
+        "Description3": "ITEM.Item_Desc_30203003",
+        "Description4": "ITEM.Item_Desc_30203003",
+        "Description5": "ITEM.Item_Desc_30203003"
+      },
+      "30203004": {
+        "Description1": "ITEM.Item_Desc_30203004",
+        "Description2": "ITEM.Item_Desc_30203004",
+        "Description3": "ITEM.Item_Desc_30203004",
+        "Description4": "ITEM.Item_Desc_30203004",
+        "Description5": "ITEM.Item_Desc_30203004"
+      },
+      "30203005": {
+        "Description1": "ITEM.Item_Desc_30203005",
+        "Description2": "ITEM.Item_Desc_30203005",
+        "Description3": "ITEM.Item_Desc_30203005",
+        "Description4": "ITEM.Item_Desc_30203005",
+        "Description5": "ITEM.Item_Desc_30203005"
+      },
+      "30203013": {
+        "Description1": "ITEM.Item_Desc_30203013",
+        "Description2": "ITEM.Item_Desc_30203013",
+        "Description3": "ITEM.Item_Desc_30203013",
+        "Description4": "ITEM.Item_Desc_30203013",
+        "Description5": "ITEM.Item_Desc_30203013"
+      },
+      "30301000": {
+        "Description1": "ITEM.Item_Desc_30301000",
+        "Description2": "ITEM.Item_Desc_30301000",
+        "Description3": "ITEM.Item_Desc_30301000",
+        "Description4": "ITEM.Item_Desc_30301000",
+        "Description5": "ITEM.Item_Desc_30301000"
+      },
+      "30301001": {
+        "Description1": "ITEM.Item_Desc_30301001",
+        "Description2": "ITEM.Item_Desc_30301001",
+        "Description3": "ITEM.Item_Desc_30301001",
+        "Description4": "ITEM.Item_Desc_30301001",
+        "Description5": "ITEM.Item_Desc_30301001"
+      },
+      "30301003": {
+        "Description1": "ITEM.Item_Desc_30301003",
+        "Description2": "ITEM.Item_Desc_30301003",
+        "Description3": "ITEM.Item_Desc_30301003",
+        "Description4": "ITEM.Item_Desc_30301003",
+        "Description5": "ITEM.Item_Desc_30301003"
+      },
+      "30301004": {
+        "Description1": "ITEM.Item_Desc_30301004",
+        "Description2": "ITEM.Item_Desc_30301004",
+        "Description3": "ITEM.Item_Desc_30301004",
+        "Description4": "ITEM.Item_Desc_30301004",
+        "Description5": "ITEM.Item_Desc_30301004"
+      },
+      "30301005": {
+        "Description1": "ITEM.Item_Desc_30301005",
+        "Description2": "ITEM.Item_Desc_30301005",
+        "Description3": "ITEM.Item_Desc_30301005",
+        "Description4": "ITEM.Item_Desc_30301005",
+        "Description5": "ITEM.Item_Desc_30301005"
+      },
+      "30301006": {
+        "Description1": "ITEM.Item_Desc_30301006",
+        "Description2": "ITEM.Item_Desc_30301006",
+        "Description3": "ITEM.Item_Desc_30301006",
+        "Description4": "ITEM.Item_Desc_30301006",
+        "Description5": "ITEM.Item_Desc_30301006"
+      },
+      "30301007": {
+        "Description1": "ITEM.Item_Desc_30301007",
+        "Description2": "ITEM.Item_Desc_30301007",
+        "Description3": "ITEM.Item_Desc_30301007",
+        "Description4": "ITEM.Item_Desc_30301007",
+        "Description5": "ITEM.Item_Desc_30301007"
+      },
+      "30301009": {
+        "Description1": "ITEM.Item_Desc_30301009",
+        "Description2": "ITEM.Item_Desc_30301009",
+        "Description3": "ITEM.Item_Desc_30301009",
+        "Description4": "ITEM.Item_Desc_30301009",
+        "Description5": "ITEM.Item_Desc_30301009"
+      },
+      "30301010": {
+        "Description1": "ITEM.Item_Desc_30301010",
+        "Description2": "ITEM.Item_Desc_30301010",
+        "Description3": "ITEM.Item_Desc_30301010",
+        "Description4": "ITEM.Item_Desc_30301010",
+        "Description5": "ITEM.Item_Desc_30301010"
+      },
+      "30301011": {
+        "Description1": "ITEM.Item_Desc_30301011",
+        "Description2": "ITEM.Item_Desc_30301011",
+        "Description3": "ITEM.Item_Desc_30301011",
+        "Description4": "ITEM.Item_Desc_30301011",
+        "Description5": "ITEM.Item_Desc_30301011"
+      },
+      "30301014": {
+        "Description1": "ITEM.Item_Desc_30301014",
+        "Description2": "ITEM.Item_Desc_30301014",
+        "Description3": "ITEM.Item_Desc_30301014",
+        "Description4": "ITEM.Item_Desc_30301014",
+        "Description5": "ITEM.Item_Desc_30301014"
+      },
+      "30301015": {
+        "Description1": "ITEM.Item_Desc_30301015",
+        "Description2": "ITEM.Item_Desc_30301015",
+        "Description3": "ITEM.Item_Desc_30301015",
+        "Description4": "ITEM.Item_Desc_30301015",
+        "Description5": "ITEM.Item_Desc_30301015"
+      },
+      "30301016": {
+        "Description1": "ITEM.Item_Desc_30301016",
+        "Description2": "ITEM.Item_Desc_30301016",
+        "Description3": "ITEM.Item_Desc_30301016",
+        "Description4": "ITEM.Item_Desc_30301016",
+        "Description5": "ITEM.Item_Desc_30301016"
+      },
+      "30301017": {
+        "Description1": "ITEM.Item_Desc_30301017",
+        "Description2": "ITEM.Item_Desc_30301017",
+        "Description3": "ITEM.Item_Desc_30301017",
+        "Description4": "ITEM.Item_Desc_30301017",
+        "Description5": "ITEM.Item_Desc_30301017"
+      },
+      "30301018": {
+        "Description1": "ITEM.Item_Desc_30301018",
+        "Description2": "ITEM.Item_Desc_30301018",
+        "Description3": "ITEM.Item_Desc_30301018",
+        "Description4": "ITEM.Item_Desc_30301018",
+        "Description5": "ITEM.Item_Desc_30301018"
+      },
+      "30301019": {
+        "Description1": "ITEM.Item_Desc_30301019",
+        "Description2": "ITEM.Item_Desc_30301019",
+        "Description3": "ITEM.Item_Desc_30301019",
+        "Description4": "ITEM.Item_Desc_30301019",
+        "Description5": "ITEM.Item_Desc_30301019"
+      },
+      "30301020": {
+        "Description1": "ITEM.Item_Desc_30301020",
+        "Description2": "ITEM.Item_Desc_30301020",
+        "Description3": "ITEM.Item_Desc_30301020",
+        "Description4": "ITEM.Item_Desc_30301020",
+        "Description5": "ITEM.Item_Desc_30301020"
+      },
+      "30301021": {
+        "Description1": "ITEM.Item_Desc_30301021",
+        "Description2": "ITEM.Item_Desc_30301021",
+        "Description3": "ITEM.Item_Desc_30301021",
+        "Description4": "ITEM.Item_Desc_30301021",
+        "Description5": "ITEM.Item_Desc_30301021"
+      },
+      "30301023": {
+        "Description1": "ITEM.Item_Desc_30301023",
+        "Description2": "ITEM.Item_Desc_30301023",
+        "Description3": "ITEM.Item_Desc_30301023",
+        "Description4": "ITEM.Item_Desc_30301023",
+        "Description5": "ITEM.Item_Desc_30301023"
+      },
+      "30301026": {
+        "Description1": "ITEM.Item_Desc_30301026",
+        "Description2": "ITEM.Item_Desc_30301026",
+        "Description3": "ITEM.Item_Desc_30301026",
+        "Description4": "ITEM.Item_Desc_30301026",
+        "Description5": "ITEM.Item_Desc_30301026"
+      },
+      "30301027": {
+        "Description1": "ITEM.Item_Desc_30301027",
+        "Description2": "ITEM.Item_Desc_30301027",
+        "Description3": "ITEM.Item_Desc_30301027",
+        "Description4": "ITEM.Item_Desc_30301027",
+        "Description5": "ITEM.Item_Desc_30301027"
+      },
+      "30302000": {
+        "Description1": "ITEM.Item_Desc_30302000",
+        "Description2": "ITEM.Item_Desc_30302000",
+        "Description3": "ITEM.Item_Desc_30302000",
+        "Description4": "ITEM.Item_Desc_30302000",
+        "Description5": "ITEM.Item_Desc_30302000"
+      },
+      "30302001": {
+        "Description1": "ITEM.Item_Desc_30302001",
+        "Description2": "ITEM.Item_Desc_30302001",
+        "Description3": "ITEM.Item_Desc_30302001",
+        "Description4": "ITEM.Item_Desc_30302001",
+        "Description5": "ITEM.Item_Desc_30302001"
+      },
+      "30302002": {
+        "Description1": "ITEM.Item_Desc_30302002",
+        "Description2": "ITEM.Item_Desc_30302002",
+        "Description3": "ITEM.Item_Desc_30302002",
+        "Description4": "ITEM.Item_Desc_30302002",
+        "Description5": "ITEM.Item_Desc_30302002"
+      },
+      "30302003": {
+        "Description1": "ITEM.Item_Desc_30302003",
+        "Description2": "ITEM.Item_Desc_30302003",
+        "Description3": "ITEM.Item_Desc_30302003",
+        "Description4": "ITEM.Item_Desc_30302003",
+        "Description5": "ITEM.Item_Desc_30302003"
+      },
+      "30302004": {
+        "Description1": "ITEM.Item_Desc_30302004",
+        "Description2": "ITEM.Item_Desc_30302004",
+        "Description3": "ITEM.Item_Desc_30302004",
+        "Description4": "ITEM.Item_Desc_30302004",
+        "Description5": "ITEM.Item_Desc_30302004"
+      },
+      "30302005": {
+        "Description1": "ITEM.Item_Desc_30302005",
+        "Description2": "ITEM.Item_Desc_30302005",
+        "Description3": "ITEM.Item_Desc_30302005",
+        "Description4": "ITEM.Item_Desc_30302005",
+        "Description5": "ITEM.Item_Desc_30302005"
+      },
+      "30302006": {
+        "Description1": "ITEM.Item_Desc_30302006",
+        "Description2": "ITEM.Item_Desc_30302006",
+        "Description3": "ITEM.Item_Desc_30302006",
+        "Description4": "ITEM.Item_Desc_30302006",
+        "Description5": "ITEM.Item_Desc_30302006"
+      },
+      "30302007": {
+        "Description1": "ITEM.Item_Desc_30302007",
+        "Description2": "ITEM.Item_Desc_30302007",
+        "Description3": "ITEM.Item_Desc_30302007",
+        "Description4": "ITEM.Item_Desc_30302007",
+        "Description5": "ITEM.Item_Desc_30302007"
+      },
+      "30302008": {
+        "Description1": "ITEM.Item_Desc_30302008",
+        "Description2": "ITEM.Item_Desc_30302008",
+        "Description3": "ITEM.Item_Desc_30302008",
+        "Description4": "ITEM.Item_Desc_30302008",
+        "Description5": "ITEM.Item_Desc_30302008"
+      },
+      "30302009": {
+        "Description1": "ITEM.Item_Desc_30302009",
+        "Description2": "ITEM.Item_Desc_30302009",
+        "Description3": "ITEM.Item_Desc_30302009",
+        "Description4": "ITEM.Item_Desc_30302009",
+        "Description5": "ITEM.Item_Desc_30302009"
+      },
+      "30302011": {
+        "Description1": "ITEM.Item_Desc_30302011",
+        "Description2": "ITEM.Item_Desc_30302011",
+        "Description3": "ITEM.Item_Desc_30302011",
+        "Description4": "ITEM.Item_Desc_30302011",
+        "Description5": "ITEM.Item_Desc_30302011"
+      },
+      "30302012": {
+        "Description1": "ITEM.Item_Desc_30302012",
+        "Description2": "ITEM.Item_Desc_30302012",
+        "Description3": "ITEM.Item_Desc_30302012",
+        "Description4": "ITEM.Item_Desc_30302012",
+        "Description5": "ITEM.Item_Desc_30302012"
+      },
+      "30302013": {
+        "Description1": "ITEM.Item_Desc_30302013",
+        "Description2": "ITEM.Item_Desc_30302013",
+        "Description3": "ITEM.Item_Desc_30302013",
+        "Description4": "ITEM.Item_Desc_30302013",
+        "Description5": "ITEM.Item_Desc_30302013"
+      },
+      "30302015": {
+        "Description1": "ITEM.Item_Desc_30302015",
+        "Description2": "ITEM.Item_Desc_30302015",
+        "Description3": "ITEM.Item_Desc_30302015",
+        "Description4": "ITEM.Item_Desc_30302015",
+        "Description5": "ITEM.Item_Desc_30302015"
+      },
+      "30302017": {
+        "Description1": "ITEM.Item_Desc_30302017",
+        "Description2": "ITEM.Item_Desc_30302017",
+        "Description3": "ITEM.Item_Desc_30302017",
+        "Description4": "ITEM.Item_Desc_30302017",
+        "Description5": "ITEM.Item_Desc_30302017"
+      },
+      "30302018": {
+        "Description1": "ITEM.Item_Desc_30302018",
+        "Description2": "ITEM.Item_Desc_30302018",
+        "Description3": "ITEM.Item_Desc_30302018",
+        "Description4": "ITEM.Item_Desc_30302018",
+        "Description5": "ITEM.Item_Desc_30302018"
+      },
+      "30302019": {
+        "Description1": "ITEM.Item_Desc_30302019",
+        "Description2": "ITEM.Item_Desc_30302019",
+        "Description3": "ITEM.Item_Desc_30302019",
+        "Description4": "ITEM.Item_Desc_30302019",
+        "Description5": "ITEM.Item_Desc_30302019"
+      },
+      "30302020": {
+        "Description1": "ITEM.Item_Desc_30302020",
+        "Description2": "ITEM.Item_Desc_30302020",
+        "Description3": "ITEM.Item_Desc_30302020",
+        "Description4": "ITEM.Item_Desc_30302020",
+        "Description5": "ITEM.Item_Desc_30302020"
+      },
+      "30302021": {
+        "Description1": "ITEM.Item_Desc_30302021",
+        "Description2": "ITEM.Item_Desc_30302021",
+        "Description3": "ITEM.Item_Desc_30302021",
+        "Description4": "ITEM.Item_Desc_30302021",
+        "Description5": "ITEM.Item_Desc_30302021"
+      },
+      "30302022": {
+        "Description1": "ITEM.Item_Desc_30302022",
+        "Description2": "ITEM.Item_Desc_30302022",
+        "Description3": "ITEM.Item_Desc_30302022",
+        "Description4": "ITEM.Item_Desc_30302022",
+        "Description5": "ITEM.Item_Desc_30302022"
+      },
+      "30303000": {
+        "Description1": "ITEM.Item_Desc_30303000",
+        "Description2": "ITEM.Item_Desc_30303000",
+        "Description3": "ITEM.Item_Desc_30303000",
+        "Description4": "ITEM.Item_Desc_30303000",
+        "Description5": "ITEM.Item_Desc_30303000"
+      },
+      "30303001": {
+        "Description1": "ITEM.Item_Desc_30303001",
+        "Description2": "ITEM.Item_Desc_30303001",
+        "Description3": "ITEM.Item_Desc_30303001",
+        "Description4": "ITEM.Item_Desc_30303001",
+        "Description5": "ITEM.Item_Desc_30303001"
+      },
+      "30303002": {
+        "Description1": "ITEM.Item_Desc_30303002",
+        "Description2": "ITEM.Item_Desc_30303002",
+        "Description3": "ITEM.Item_Desc_30303002",
+        "Description4": "ITEM.Item_Desc_30303002",
+        "Description5": "ITEM.Item_Desc_30303002"
+      },
+      "30303003": {
+        "Description1": "ITEM.Item_Desc_30303003",
+        "Description2": "ITEM.Item_Desc_30303003",
+        "Description3": "ITEM.Item_Desc_30303003",
+        "Description4": "ITEM.Item_Desc_30303003",
+        "Description5": "ITEM.Item_Desc_30303003"
+      },
+      "30303004": {
+        "Description1": "ITEM.Item_Desc_30303004",
+        "Description2": "ITEM.Item_Desc_30303004",
+        "Description3": "ITEM.Item_Desc_30303004",
+        "Description4": "ITEM.Item_Desc_30303004",
+        "Description5": "ITEM.Item_Desc_30303004"
+      },
+      "30303005": {
+        "Description1": "ITEM.Item_Desc_30303005",
+        "Description2": "ITEM.Item_Desc_30303005",
+        "Description3": "ITEM.Item_Desc_30303005",
+        "Description4": "ITEM.Item_Desc_30303005",
+        "Description5": "ITEM.Item_Desc_30303005"
+      },
+      "30303006": {
+        "Description1": "ITEM.Item_Desc_30303006",
+        "Description2": "ITEM.Item_Desc_30303006",
+        "Description3": "ITEM.Item_Desc_30303006",
+        "Description4": "ITEM.Item_Desc_30303006",
+        "Description5": "ITEM.Item_Desc_30303006"
+      },
+      "30303007": {
+        "Description1": "ITEM.Item_Desc_30303007",
+        "Description2": "ITEM.Item_Desc_30303007",
+        "Description3": "ITEM.Item_Desc_30303007",
+        "Description4": "ITEM.Item_Desc_30303007",
+        "Description5": "ITEM.Item_Desc_30303007"
+      },
+      "30303008": {
+        "Description1": "ITEM.Item_Desc_30303008",
+        "Description2": "ITEM.Item_Desc_30303008",
+        "Description3": "ITEM.Item_Desc_30303008",
+        "Description4": "ITEM.Item_Desc_30303008",
+        "Description5": "ITEM.Item_Desc_30303008"
+      },
+      "30303011": {
+        "Description1": "ITEM.Item_Desc_30303011",
+        "Description2": "ITEM.Item_Desc_30303011",
+        "Description3": "ITEM.Item_Desc_30303011",
+        "Description4": "ITEM.Item_Desc_30303011",
+        "Description5": "ITEM.Item_Desc_30303011"
+      },
+      "30303012": {
+        "Description1": "ITEM.Item_Desc_30303012",
+        "Description2": "ITEM.Item_Desc_30303012",
+        "Description3": "ITEM.Item_Desc_30303012",
+        "Description4": "ITEM.Item_Desc_30303012",
+        "Description5": "ITEM.Item_Desc_30303012"
+      },
+      "30303013": {
+        "Description1": "ITEM.Item_Desc_30303013",
+        "Description2": "ITEM.Item_Desc_30303013",
+        "Description3": "ITEM.Item_Desc_30303013",
+        "Description4": "ITEM.Item_Desc_30303013",
+        "Description5": "ITEM.Item_Desc_30303013"
+      },
+      "30303014": {
+        "Description1": "ITEM.Item_Desc_30303014",
+        "Description2": "ITEM.Item_Desc_30303014",
+        "Description3": "ITEM.Item_Desc_30303014",
+        "Description4": "ITEM.Item_Desc_30303014",
+        "Description5": "ITEM.Item_Desc_30303014"
+      },
+      "30303015": {
+        "Description1": "ITEM.Item_Desc_30303015",
+        "Description2": "ITEM.Item_Desc_30303015",
+        "Description3": "ITEM.Item_Desc_30303015",
+        "Description4": "ITEM.Item_Desc_30303015",
+        "Description5": "ITEM.Item_Desc_30303015"
+      },
+      "30303016": {
+        "Description1": "ITEM.Item_Desc_30303016",
+        "Description2": "ITEM.Item_Desc_30303016",
+        "Description3": "ITEM.Item_Desc_30303016",
+        "Description4": "ITEM.Item_Desc_30303016",
+        "Description5": "ITEM.Item_Desc_30303016"
+      },
+      "30303019": {
+        "Description1": "ITEM.Item_Desc_30303019",
+        "Description2": "ITEM.Item_Desc_30303019",
+        "Description3": "ITEM.Item_Desc_30303019",
+        "Description4": "ITEM.Item_Desc_30303019",
+        "Description5": "ITEM.Item_Desc_30303019"
+      },
+      "30303021": {
+        "Description1": "ITEM.Item_Desc_30303021",
+        "Description2": "ITEM.Item_Desc_30303021",
+        "Description3": "ITEM.Item_Desc_30303021",
+        "Description4": "ITEM.Item_Desc_30303021",
+        "Description5": "ITEM.Item_Desc_30303021"
+      },
+      "30304000": {
+        "Description1": "ITEM.Item_Desc_30304000",
+        "Description2": "ITEM.Item_Desc_30304000",
+        "Description3": "ITEM.Item_Desc_30304000",
+        "Description4": "ITEM.Item_Desc_30304000",
+        "Description5": "ITEM.Item_Desc_30304000"
+      },
+      "30304001": {
+        "Description1": "ITEM.Item_Desc_30304001",
+        "Description2": "ITEM.Item_Desc_30304001",
+        "Description3": "ITEM.Item_Desc_30304001",
+        "Description4": "ITEM.Item_Desc_30304001",
+        "Description5": "ITEM.Item_Desc_30304001"
+      },
+      "30304002": {
+        "Description1": "ITEM.Item_Desc_30304002",
+        "Description2": "ITEM.Item_Desc_30304002",
+        "Description3": "ITEM.Item_Desc_30304002",
+        "Description4": "ITEM.Item_Desc_30304002",
+        "Description5": "ITEM.Item_Desc_30304002"
+      },
+      "30304003": {
+        "Description1": "ITEM.Item_Desc_30304003",
+        "Description2": "ITEM.Item_Desc_30304003",
+        "Description3": "ITEM.Item_Desc_30304003",
+        "Description4": "ITEM.Item_Desc_30304003",
+        "Description5": "ITEM.Item_Desc_30304003"
+      },
+      "30304004": {
+        "Description1": "ITEM.Item_Desc_30304004",
+        "Description2": "ITEM.Item_Desc_30304004",
+        "Description3": "ITEM.Item_Desc_30304004",
+        "Description4": "ITEM.Item_Desc_30304004",
+        "Description5": "ITEM.Item_Desc_30304004"
+      },
+      "30900000": {
+        "Description1": "ITEM.Item_Desc_30900000",
+        "Description2": "ITEM.Item_Desc_30900000",
+        "Description3": "ITEM.Item_Desc_30900000",
+        "Description4": "ITEM.Item_Desc_30900000",
+        "Description5": "ITEM.Item_Desc_30900000"
+      },
+      "30900001": {
+        "Description1": "ITEM.Item_Desc_30900001",
+        "Description2": "ITEM.Item_Desc_30900001",
+        "Description3": "ITEM.Item_Desc_30900001",
+        "Description4": "ITEM.Item_Desc_30900001",
+        "Description5": "ITEM.Item_Desc_30900001"
+      },
+      "30900002": {
+        "Description1": "ITEM.Item_Desc_30900002",
+        "Description2": "ITEM.Item_Desc_30900002",
+        "Description3": "ITEM.Item_Desc_30900002",
+        "Description4": "ITEM.Item_Desc_30900002",
+        "Description5": "ITEM.Item_Desc_30900002"
+      },
+      "30900003": {
+        "Description1": "ITEM.Item_Desc_30900003",
+        "Description2": "ITEM.Item_Desc_30900003",
+        "Description3": "ITEM.Item_Desc_30900003",
+        "Description4": "ITEM.Item_Desc_30900003",
+        "Description5": "ITEM.Item_Desc_30900003"
+      },
+      "30900004": {
+        "Description1": "ITEM.Item_Desc_30900004",
+        "Description2": "ITEM.Item_Desc_30900004",
+        "Description3": "ITEM.Item_Desc_30900004",
+        "Description4": "ITEM.Item_Desc_30900004",
+        "Description5": "ITEM.Item_Desc_30900004"
+      },
+      "30900005": {
+        "Description1": "ITEM.Item_Desc_30900005",
+        "Description2": "ITEM.Item_Desc_30900005",
+        "Description3": "ITEM.Item_Desc_30900005",
+        "Description4": "ITEM.Item_Desc_30900005",
+        "Description5": "ITEM.Item_Desc_30900005"
+      },
+      "30900006": {
+        "Description1": "ITEM.Item_Desc_30900006",
+        "Description2": "ITEM.Item_Desc_30900006",
+        "Description3": "ITEM.Item_Desc_30900006",
+        "Description4": "ITEM.Item_Desc_30900006",
+        "Description5": "ITEM.Item_Desc_30900006"
+      },
+      "30900007": {
+        "Description1": "ITEM.Item_Desc_30900007",
+        "Description2": "ITEM.Item_Desc_30900007",
+        "Description3": "ITEM.Item_Desc_30900007",
+        "Description4": "ITEM.Item_Desc_30900007",
+        "Description5": "ITEM.Item_Desc_30900007"
+      },
+      "30900008": {
+        "Description1": "ITEM.Item_Desc_30900008",
+        "Description2": "ITEM.Item_Desc_30900008",
+        "Description3": "ITEM.Item_Desc_30900008",
+        "Description4": "ITEM.Item_Desc_30900008",
+        "Description5": "ITEM.Item_Desc_30900008"
+      },
+      "30900009": {
+        "Description1": "ITEM.Item_Desc_30900009",
+        "Description2": "ITEM.Item_Desc_30900009",
+        "Description3": "ITEM.Item_Desc_30900009",
+        "Description4": "ITEM.Item_Desc_30900009",
+        "Description5": "ITEM.Item_Desc_30900009"
+      },
+      "30201010": {
+        "Description1": "ITEM.Item_Desc_30201010",
+        "Description2": "ITEM.Item_Desc_30201010",
+        "Description3": "ITEM.Item_Desc_30201010",
+        "Description4": "ITEM.Item_Desc_30201010",
+        "Description5": "ITEM.Item_Desc_30201010"
+      },
+      "30202006": {
+        "Description1": "ITEM.Item_Desc_30202006",
+        "Description2": "ITEM.Item_Desc_30202006",
+        "Description3": "ITEM.Item_Desc_30202006",
+        "Description4": "ITEM.Item_Desc_30202006",
+        "Description5": "ITEM.Item_Desc_30202006"
+      },
+      "30203010": {
+        "Description1": "ITEM.Item_Desc_30203010",
+        "Description2": "ITEM.Item_Desc_30203010",
+        "Description3": "ITEM.Item_Desc_30203010",
+        "Description4": "ITEM.Item_Desc_30203010",
+        "Description5": "ITEM.Item_Desc_30203010"
+      },
+      "30204004": {
+        "Description1": "ITEM.Item_Desc_30204004",
+        "Description2": "ITEM.Item_Desc_30204004",
+        "Description3": "ITEM.Item_Desc_30204004",
+        "Description4": "ITEM.Item_Desc_30204004",
+        "Description5": "ITEM.Item_Desc_30204004"
+      },
+      "30201014": {
+        "Description1": "ITEM.Item_Desc_30201014",
+        "Description2": "ITEM.Item_Desc_30201014",
+        "Description3": "ITEM.Item_Desc_30201014",
+        "Description4": "ITEM.Item_Desc_30201014",
+        "Description5": "ITEM.Item_Desc_30201014"
+      },
+      "30301013": {
+        "Description1": "ITEM.Item_Desc_30301013",
+        "Description2": "ITEM.Item_Desc_30301013",
+        "Description3": "ITEM.Item_Desc_30301013",
+        "Description4": "ITEM.Item_Desc_30301013",
+        "Description5": "ITEM.Item_Desc_30301013"
+      },
+      "30302010": {
+        "Description1": "ITEM.Item_Desc_30302010",
+        "Description2": "ITEM.Item_Desc_30302010",
+        "Description3": "ITEM.Item_Desc_30302010",
+        "Description4": "ITEM.Item_Desc_30302010",
+        "Description5": "ITEM.Item_Desc_30302010"
+      },
+      "30303010": {
+        "Description1": "ITEM.Item_Desc_30303010",
+        "Description2": "ITEM.Item_Desc_30303010",
+        "Description3": "ITEM.Item_Desc_30303010",
+        "Description4": "ITEM.Item_Desc_30303010",
+        "Description5": "ITEM.Item_Desc_30303010"
+      },
+      "30304005": {
+        "Description1": "ITEM.Item_Desc_30304005",
+        "Description2": "ITEM.Item_Desc_30304005",
+        "Description3": "ITEM.Item_Desc_30304005",
+        "Description4": "ITEM.Item_Desc_30304005",
+        "Description5": "ITEM.Item_Desc_30304005"
+      },
+      "30301008": {
+        "Description1": "ITEM.Item_Desc_30301008",
+        "Description2": "ITEM.Item_Desc_30301008",
+        "Description3": "ITEM.Item_Desc_30301008",
+        "Description4": "ITEM.Item_Desc_30301008",
+        "Description5": "ITEM.Item_Desc_30301008"
+      },
+      "30303022": {
+        "Description1": "ITEM.Item_Desc_30303022",
+        "Description2": "ITEM.Item_Desc_30303022",
+        "Description3": "ITEM.Item_Desc_30303022",
+        "Description4": "ITEM.Item_Desc_30303022",
+        "Description5": "ITEM.Item_Desc_30303022"
+      },
+      "30303023": {
+        "Description1": "ITEM.Item_Desc_30303023",
+        "Description2": "ITEM.Item_Desc_30303023",
+        "Description3": "ITEM.Item_Desc_30303023",
+        "Description4": "ITEM.Item_Desc_30303023",
+        "Description5": "ITEM.Item_Desc_30303023"
+      },
+      "30900010": {
+        "Description1": "ITEM.Item_Desc_30900010",
+        "Description2": "ITEM.Item_Desc_30900010",
+        "Description3": "ITEM.Item_Desc_30900010",
+        "Description4": "ITEM.Item_Desc_30900010",
+        "Description5": "ITEM.Item_Desc_30900010"
+      }
+    }
+  }
+]

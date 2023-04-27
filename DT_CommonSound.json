@@ -1,0 +1,822 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_CommonSound",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPSoundTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "SkinID": "None",
+        "SoundID": "BGM_LegacyAgora",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bgm_ingame_cue'",
+          "ObjectPath": "Overprime/Content/Sound/bgm/bgm_InGame_Cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "2": {
+        "SkinID": "None",
+        "SoundID": "BGM_login",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bgm_login_cue'",
+          "ObjectPath": "Overprime/Content/Sound/bgm/bgm_login_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "3": {
+        "SkinID": "None",
+        "SoundID": "BGM_Lobby",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bgm_maintheme_cue'",
+          "ObjectPath": "Overprime/Content/Sound/bgm/bgm_maintheme_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "4": {
+        "SkinID": "None",
+        "SoundID": "BGM_Sound_Mute",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'wave_removalaarker_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/removamarker/wave_removalaarker_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "5": {
+        "SkinID": "None",
+        "SoundID": "BGM_HeroDraft",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bgm_matchmaking_cue'",
+          "ObjectPath": "Overprime/Content/Sound/bgm/bgm_matchmaking_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "6": {
+        "SkinID": "None",
+        "SoundID": "BGM_Training",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bgm_training_cue'",
+          "ObjectPath": "Overprime/Content/Sound/bgm/bgm_training_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "7": {
+        "SkinID": "None",
+        "SoundID": "BGM_RoundWin",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bgm_win_cue'",
+          "ObjectPath": "Overprime/Content/Sound/bgm/bgm_Win_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "8": {
+        "SkinID": "None",
+        "SoundID": "BGM_RoundLose",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bgm_lose_cue'",
+          "ObjectPath": "Overprime/Content/Sound/bgm/bgm_Lose_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "9": {
+        "SkinID": "None",
+        "SoundID": "BGM_Orb_Activated_Ally",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bgm_orb_activated_cue'",
+          "ObjectPath": "Overprime/Content/Sound/bgm/bgm_orb_activated_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "10": {
+        "SkinID": "None",
+        "SoundID": "BGM_Orb_Activated_Enemy",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bgm_orb_activated_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/bgm/bgm_orb_activated_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "11": {
+        "SkinID": "None",
+        "SoundID": "bgm_systemvoice_all_kill",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bgm_systemvoice_all_kill_cue'",
+          "ObjectPath": "Overprime/Content/Sound/bgm/bgm_systemvoice_all_kill_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "12": {
+        "SkinID": "None",
+        "SoundID": "Hero_Common_Dunk_ShockWave_Spawn",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'prime_spawn_exp_st_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/prime/prime_spawn_exp_st_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "13": {
+        "SkinID": "None",
+        "SoundID": "Hero_Common_Dunk_ShockWave_Spawn_02",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'prime_spawn_exp_wave_st_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/prime/prime_spawn_exp_wave_st_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "14": {
+        "SkinID": "None",
+        "SoundID": "Hero_Common_Dunk_ShockWave_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'prime_spawn_exp_hit_st_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/prime/prime_spawn_exp_hit_st_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "15": {
+        "SkinID": "None",
+        "SoundID": "Hero_Common_Baby_Spawn",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'prime_baby_spawn_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/prime/prime_baby_spawn_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "16": {
+        "SkinID": "None",
+        "SoundID": "Hero_Common_Baby_Spawn_ready",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'prime_baby_spawn_ready_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/prime/prime_baby_spawn_ready_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "17": {
+        "SkinID": "None",
+        "SoundID": "Hero_Common_Baby_Spawn_cancel",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'prime_baby_spawn_cancel_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/prime/prime_baby_spawn_cancel_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "18": {
+        "SkinID": "None",
+        "SoundID": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'critical_hit_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/hit/critical_hit_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "19": {
+        "SkinID": "None",
+        "SoundID": "Hero_Common_Skill_Common_TakeHit",
+        "SoundVolume": 1.2,
+        "SoundPath": {
+          "ObjectName": "SoundCue'be_attacked_hit_common_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/hit/be_attacked_hit_common_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "20": {
+        "SkinID": "None",
+        "SoundID": "Hero_Common_Skill_Common_TakeCriticalHit",
+        "SoundVolume": 1.5,
+        "SoundPath": {
+          "ObjectName": "SoundCue'be_attacked_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/hit/be_attacked_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "21": {
+        "SkinID": "None",
+        "SoundID": "Monster_Magical_Skill_Reflect_start",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'monster_jungle_thron_l_skill_magic_shield_start_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/monster/jungle_thorn_l/monster_jungle_thron_l_skill_magic_shield_start_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "22": {
+        "SkinID": "None",
+        "SoundID": "Monster_Magical_Skill_Reflect_end",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'monster_jungle_thron_l_skill_magic_shield_end_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/monster/jungle_thorn_l/monster_jungle_thron_l_skill_magic_shield_end_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "23": {
+        "SkinID": "None",
+        "SoundID": "Monster_Foresee_Skill_start",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'monster_jungle_foresee_l_skill_fire_start_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/monster/jungle_foresee/monster_jungle_foresee_l_skill_fire_start_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "24": {
+        "SkinID": "None",
+        "SoundID": "Monster_Foresee_Skill_loop",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'monster_jungle_foresee_l_skill_fire_loop_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/monster/jungle_foresee/monster_jungle_foresee_l_skill_fire_loop_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "25": {
+        "SkinID": "None",
+        "SoundID": "Monster_Foresee_Skill_end",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'monster_jungle_foresee_l_skill_fire_end_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/monster/jungle_foresee/monster_jungle_foresee_l_skill_fire_end_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "26": {
+        "SkinID": "None",
+        "SoundID": "Monster_Instant_EternalLife",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'monster_jungle_eternallife_l_skill_heal_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/monster/jungle_eternallife_l/monster_jungle_eternallife_l_skill_heal_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "27": {
+        "SkinID": "None",
+        "SoundID": "Monster_Spirit_Fire_Meteor_exp",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'monster_buff_black_fire_skill_03_exp_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/monster/buff_black_new/fire/monster_buff_black_fire_skill_03_exp_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "28": {
+        "SkinID": "None",
+        "SoundID": "Monster_Spirit_Fire_Meteor_explosion",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'monster_buff_black_fire_skill_03_explosion_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/monster/buff_black_new/fire/monster_buff_black_fire_skill_03_explosion_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "29": {
+        "SkinID": "None",
+        "SoundID": "Monster_PrimeGurdian_explosion",
+        "SoundVolume": 1.8,
+        "SoundPath": {
+          "ObjectName": "SoundCue'monster_buff_prime_helix_attack_b_fire_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/monster/prime_helix_new/monster_buff_prime_helix_attack_b_fire_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "30": {
+        "SkinID": "None",
+        "SoundID": "Hero_TravelMode_Start",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'speed_run_start_st_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/speed_run/speed_run_start_st_01_Cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "31": {
+        "SkinID": "None",
+        "SoundID": "Hero_TravelMode_Start_02",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'speed_run_start_st_02_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/speed_run/speed_run_start_st_02_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "32": {
+        "SkinID": "None",
+        "SoundID": "Hero_TravelMode_Loop",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'speed_run_loop_st_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/speed_run/speed_run_loop_st_01_Cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "33": {
+        "SkinID": "None",
+        "SoundID": "Hero_TravelMode_End",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'speed_run_end_st_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/speed_run/speed_run_end_st_01_Cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "34": {
+        "SkinID": "None",
+        "SoundID": "Hero_JumpPad_Start",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'jumppad_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/jump/jumppad_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "35": {
+        "SkinID": "None",
+        "SoundID": "Hero_JumpPad_Local_Start",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'jumppad_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/jump/jumppad_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "36": {
+        "SkinID": "None",
+        "SoundID": "hero_debuff_stun",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'stun_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/stun/stun_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "37": {
+        "SkinID": "None",
+        "SoundID": "SC_Buff_Drop",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'SC_Buff_Drop'",
+          "ObjectPath": "Overprime/Content/Sound/ui/buff/SC_Buff_Drop.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "38": {
+        "SkinID": "None",
+        "SoundID": "SCA_Agora_Tower_BaseAttack",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'monolith_inhibitor_tower_shot_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/object/tower/monolith_inhibitor_tower_shot_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "39": {
+        "SkinID": "None",
+        "SoundID": "SCA_Agora_Core_BaseAttack_Charge",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'core_ability_atk_charge_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/object/core/core_ability_atk_charge_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "40": {
+        "SkinID": "None",
+        "SoundID": "SCA_Agora_Core_BaseAttack",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'core_ability_atk_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/object/core/core_ability_atk_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "41": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_001",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'ability_upgrade_02_cue'",
+          "ObjectPath": "Overprime/Content/Sound/ui/ability_upgrade_02_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "42": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_002",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'shield_activate_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/shield/shield_activate_01_Cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "43": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_003",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'shield_hit_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/shield/shield_hit_01_Cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "44": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_004",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'shield_deactivate_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/shield/shield_deactivate_01_Cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "45": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_005",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'recall_cast_st_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/recall/recall_cast_st_01_Cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "46": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_006",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'recall_finish_st_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/recall/recall_finish_st_01_Cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "47": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_007",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'recall_cancel_st_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/recall/recall_cancel_st_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "48": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_008",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'levelup_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/levelup/levelup_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "49": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_009",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'heartbeat_neardeath_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/heartbeat/heartbeat_neardeath_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "50": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_010",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'expeffect_played_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/expeffect/expeffect_played_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "51": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_011",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "52": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_012",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "53": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_013",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'expeffect_played_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/expeffect/expeffect_played_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "54": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_014",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "55": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_015",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'expeffect_played_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/expeffect/expeffect_played_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "56": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_016",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "57": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_017",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "58": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_018",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "59": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_019",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "60": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_020",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'expeffect_played_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/expeffect/expeffect_played_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "61": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_021",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "62": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_022",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'expeffect_played_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/expeffect/expeffect_played_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "63": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_023",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "64": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_024",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'expeffect_played_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/expeffect/expeffect_played_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "65": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_025",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "66": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_026",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'expeffect_played_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/expeffect/expeffect_played_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "67": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_027",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "68": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_028",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'spawn_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/spawn/spawn_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "69": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_029",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'death_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/death/death_Cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "70": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_030",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'monolith_minion_spawn_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/minion/common/Monolith_Minion_Spawn_01_Cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "71": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_031",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'monolith_minion_death_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/minion/common/monolith_minion_death_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "72": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_032",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'shadowzone_in_01_Cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/shadowzone/shadowzone_in_01_Cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "73": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_033",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'shadowzone_out_01_Cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/shadowzone/shadowzone_out_01_Cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "74": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_034",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bush_in_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/shadowzone/bush_in_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "75": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_035",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bush_out_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/shadowzone/bush_out_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "76": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_036",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'prime_orb_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/buff/prime_orb_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "77": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_037",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'prime_orb_02_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/buff/prime_orb_02_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "78": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_038",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'objectivekill_popup_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/sfx/objectivekill_popup_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "79": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_039",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'monster_roar_02_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/monster/common/roar/monster_roar_02_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "80": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_040",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'monster_death_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/monster/common/roar/monster_death_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "81": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_041",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'tower_ping_danger_cue'",
+          "ObjectPath": "Overprime/Content/Sound/ui/tower_ping/tower_ping_danger_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "82": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_042",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'jungle_buff_cue'",
+          "ObjectPath": "Overprime/Content/Sound/ui/buff/jungle_buff_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "83": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_043",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'baby_spawn_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/monster/common/roar/baby_spawn_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "84": {
+        "SkinID": "None",
+        "SoundID": "Global_Common_Battle_Event_044",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'baby_kill_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/monster/common/roar/baby_kill_cue.0"
+        },
+        "SoundTableManagerObject": null
+      }
+    }
+  }
+]

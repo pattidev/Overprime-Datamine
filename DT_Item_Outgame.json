@@ -1,0 +1,1749 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_Item_Outgame",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'ItemOutgameTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "10000101": {
+        "ItemType": "EItemOutgameType::Currency",
+        "ItemTypeID": 101,
+        "MaxAmount": 999999999,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Common/Cash/T_image_icon_Kima_px_64.T_image_icon_Kima_px_64'"
+      },
+      "10000102": {
+        "ItemType": "EItemOutgameType::Currency",
+        "ItemTypeID": 102,
+        "MaxAmount": 999999999,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Common/Cash/T_image_icon_Kima_px_64.T_image_icon_Kima_px_64'"
+      },
+      "10000201": {
+        "ItemType": "EItemOutgameType::Currency",
+        "ItemTypeID": 201,
+        "MaxAmount": 999999999,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Common/Cash/T_image_icon_Renar_px_64.T_image_icon_Renar_px_64'"
+      },
+      "10000901": {
+        "ItemType": "EItemOutgameType::Currency",
+        "ItemTypeID": 901,
+        "MaxAmount": 999999999,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Reward/T_Common_Icon_Reward_Exp.T_Common_Icon_Reward_Exp'"
+      },
+      "10000902": {
+        "ItemType": "EItemOutgameType::Currency",
+        "ItemTypeID": 902,
+        "MaxAmount": 999999999,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Reward/T_Common_Icon_Reward_Exp.T_Common_Icon_Reward_Exp'"
+      },
+      "20001001": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Murdock_Portrait.Hero_Icon_Murdock_Portrait'"
+      },
+      "20001002": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1002,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Twin_Portrait.Hero_Icon_Twin_Portrait'"
+      },
+      "20001003": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1003,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Muriel_Portrait.Hero_Icon_Muriel_Portrait'"
+      },
+      "20001004": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1004,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Rampage_Portrait.Hero_Icon_Rampage_Portrait'"
+      },
+      "20001005": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1005,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Kallari_Portrait.Hero_Icon_Kallari_Portrait'"
+      },
+      "20001006": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Grux_Portrait.Hero_Icon_Grux_Portrait'"
+      },
+      "20001007": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1007,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Still_Portrait.Hero_Icon_Still_Portrait'"
+      },
+      "20001009": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1009,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Sparrow_Portrait.Hero_Icon_Sparrow_Portrait'"
+      },
+      "20001010": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1010,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Sevarog_Portrait.Hero_Icon_Sevarog_Portrait'"
+      },
+      "20001011": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1011,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Kwang_Portrait.Hero_Icon_Kwang_Portrait'"
+      },
+      "20001012": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1012,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Gideon_Portrait.Hero_Icon_Gideon_Portrait'"
+      },
+      "20001013": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1013,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Fey_Portrait.Hero_Icon_Fey_Portrait'"
+      },
+      "20001014": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1014,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Shinbi_Portrait.Hero_Icon_Shinbi_Portrait'"
+      },
+      "20001015": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1015,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Revenant_Portrait.Hero_Icon_Revenant_Portrait'"
+      },
+      "20001016": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1016,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Aurora_Portrait.Hero_Icon_Aurora_Portrait'"
+      },
+      "20001017": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1017,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Phase_Portrait.Hero_Icon_Phase_Portrait'"
+      },
+      "20001019": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1019,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Lt_Belica_Portrait.Hero_Icon_Lt_Belica_Portrait'"
+      },
+      "20001020": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1020,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Fengmao_Portrait.Hero_Icon_Fengmao_Portrait'"
+      },
+      "20001022": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1022,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Howit_Portrait.Hero_Icon_Howit_Portrait'"
+      },
+      "20001023": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1023,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Khaimera_Portrait.Hero_Icon_Khaimera_Portrait'"
+      },
+      "20001025": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1025,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Narbash_Portrait.Hero_Icon_Narbash_Portrait'"
+      },
+      "20001026": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1026,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Gadget_Portrait.Hero_Icon_Gadget_Portrait'"
+      },
+      "20001027": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1027,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Countess_Portrait.Hero_Icon_Countess_Portrait'"
+      },
+      "20001028": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1028,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Serath_Portrait.Hero_Icon_Serath_Portrait'"
+      },
+      "20001030": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1030,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Zena_Portrait.Hero_Icon_Zena_Portrait'"
+      },
+      "20001031": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1031,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Dekker_Portrait.Hero_Icon_Dekker_Portrait'"
+      },
+      "20001032": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1032,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Drongo_Portrait.Hero_Icon_Drongo_Portrait'"
+      },
+      "20001033": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1033,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Wraith_Portrait.Hero_Icon_Wraith_Portrait'"
+      },
+      "20001036": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1036,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Wukong_Portrait.Hero_Icon_Wukong_Portrait'"
+      },
+      "20001037": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1037,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Iggy_Portrait.Hero_Icon_Iggy_Portrait'"
+      },
+      "20001040": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1040,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Crunch_Portrait.Hero_Icon_Crunch_Portrait'"
+      },
+      "20001042": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1042,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Maco_Portrait.Hero_Icon_Maco_Portrait'"
+      },
+      "31001001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1001001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Mudock/1001001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31001002": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1001002,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Mudock/1001002/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31001003": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1001003,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Mudock/1001003/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31001005": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1001005,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Mudock/1001005/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31001006": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1001006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Mudock/1001006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31001008": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1001008,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Mudock/1001008/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31002001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1002001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Twin/1002001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31002004": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1002004,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Twin/1002004/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31002005": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1002005,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Twin/1002005/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31002006": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1002006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Twin/1002006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31002011": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1002011,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Twin/1002011/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31002008": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1002008,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Twin/1002008/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31003001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1003001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Muriel/1003001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31003002": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1003002,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Muriel/1003002/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31003003": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1003003,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Muriel/1003003/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31003004": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1003004,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Muriel/1003004/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31003011": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1003011,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Muriel/1003011/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31003005": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1003005,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Muriel/1003005/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31003007": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1003007,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Muriel/1003007/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31004001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1004001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Rampage/1004001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31004003": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1004003,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Rampage/1004003/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31004005": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1004005,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Rampage/1004005/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31004004": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1004004,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Rampage/1004004/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31004008": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1004008,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Rampage/1004008/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31005001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1005001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Kallari/1005001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31005005": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1005005,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Kallari/1005005/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31005006": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1005006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Kallari/1005006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31005011": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1005011,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Kallari/1005011/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31006001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1006001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Grux/1006001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31006005": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1006005,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Grux/1006005/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31006006": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1006006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Grux/1006006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31007001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1007001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Steel/1007001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31007002": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1007002,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Steel/1007002/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31007004": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1007004,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Steel/1007004/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31007006": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1007006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Steel/1007006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31009001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1009001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Sparrow/1009001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31009003": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1009003,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Sparrow/1009003/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31009004": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1009004,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Sparrow/1009004/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31009005": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1009005,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Sparrow/1009005/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31009007": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1009007,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Sparrow/1009007/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31009011": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1009011,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Sparrow/1009011/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31010001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1010001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Sevarog/1010001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31010005": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1010005,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Sevarog/1010005/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31011001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1011001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Kwang/1011001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31011004": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1011004,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Kwang/1011004/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31011007": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1011007,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Kwang/1011007/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31012001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1012001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Gideon/1012001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31012003": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1012003,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Gideon/1012003/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31012004": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1012004,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Gideon/1012004/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31012005": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1012005,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Gideon/1012005/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31012006": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1012006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Gideon/1012006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31013001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1013001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Fey/1013001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31013002": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1013002,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Fey/1013002/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31013005": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1013005,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Fey/1013005/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31014001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1014001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Shinbi/1014001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31014003": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1014003,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Shinbi/1014003/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31014004": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1014004,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Shinbi/1014004/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31014006": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1014006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Shinbi/1014006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31014009": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1014009,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Shinbi/1014009/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31015001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1015001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Revenant/1015001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31015003": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1015003,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Revenant/1015003/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31015005": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1015005,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Revenant/1015005/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31015006": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1015006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Revenant/1015006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31016001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1016001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Aurora/1016001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31016003": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1016003,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Aurora/1016003/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31016004": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1016004,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Aurora/1016004/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31016006": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1016006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Aurora/1016006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31017001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1017001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Phase/1017001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31017002": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1017002,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Phase/1017002/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31017004": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1017004,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Phase/1017004/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31017006": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1017006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Phase/1017006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31019001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1019001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Belica/1019001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31019002": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1019002,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Belica/1019002/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31019004": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1019004,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Belica/1019004/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31019005": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1019005,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Belica/1019005/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31019008": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1019008,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Belica/1019008/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31020001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1020001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Fengmao/1020001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31020003": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1020003,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Fengmao/1020003/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31020004": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1020004,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Fengmao/1020004/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31020005": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1020005,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Fengmao/1020005/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31020011": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1020011,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Fengmao/1020011/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31022001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1022001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Howitzer/1022001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31022004": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1022004,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Howitzer/1022004/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31022006": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1022006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Howitzer/1022006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31022005": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1022005,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Howitzer/1022005/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31023001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1023001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Khaimera/1023001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31023002": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1023002,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Khaimera/1023002/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31023006": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1023006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Khaimera/1023006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31025001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1025001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Narbash/1025001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31025003": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1025003,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Narbash/1025003/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31025006": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1025006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Narbash/1025006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31026001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1026001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Gadget/1026001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31026004": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1026004,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Gadget/1026004/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31026006": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1026006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Gadget/1026006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31026003": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1026003,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Gadget/1026003/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31026008": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1026008,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Gadget/1026008/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31027001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1027001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Countess/1027001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31027004": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1027004,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Countess/1027004/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31027005": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1027005,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Countess/1027005/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31027007": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1027007,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Countess/1027007/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31028001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1028001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Serath/1028001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31028006": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1028006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Serath/1028006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31030001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1030001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Zena/1030001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31030002": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1030002,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Zena/1030002/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31031001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1031001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Dekker/1031001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31031002": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1031002,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Dekker/1031002/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31031007": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1031007,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Dekker/1031007/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31032001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1032001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Drongo/1032001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31032006": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1032006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Drongo/1032006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31033001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1033001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Wraith/1033001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31033002": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1033002,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Wraith/1033002/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31036001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1036001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Wukong/1036001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31036006": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1036006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Wukong/1036006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31037001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1037001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Iggyscorch/1037001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31037005": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1037005,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Iggyscorch/1037005/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31037006": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1037006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Iggyscorch/1037006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31040001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1040001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Crunch/1040001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31040006": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1040006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Crunch/1040006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31042001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1042001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Maco/1042001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31042002": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1042002,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Maco/1042002/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31042006": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1042006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Maco/1042006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "41100001": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Basic_Portrait.Hero_Icon_Basic_Portrait'"
+      },
+      "41100002": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100002,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Murdock_Portrait.Hero_Icon_Murdock_Portrait'"
+      },
+      "41100003": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100003,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Twin_Portrait.Hero_Icon_Twin_Portrait'"
+      },
+      "41100004": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100004,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Muriel_Portrait.Hero_Icon_Muriel_Portrait'"
+      },
+      "41100005": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100005,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Rampage_Portrait.Hero_Icon_Rampage_Portrait'"
+      },
+      "41100006": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Kallari_Portrait.Hero_Icon_Kallari_Portrait'"
+      },
+      "41100007": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100007,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Grux_Portrait.Hero_Icon_Grux_Portrait'"
+      },
+      "41100008": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100008,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Still_Portrait.Hero_Icon_Still_Portrait'"
+      },
+      "41100009": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100009,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Sparrow_Portrait.Hero_Icon_Sparrow_Portrait'"
+      },
+      "41100010": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100010,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Sevarog_Portrait.Hero_Icon_Sevarog_Portrait'"
+      },
+      "41100011": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100011,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Kwang_Portrait.Hero_Icon_Kwang_Portrait'"
+      },
+      "41100012": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100012,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Gideon_Portrait.Hero_Icon_Gideon_Portrait'"
+      },
+      "41100013": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100013,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Fey_Portrait.Hero_Icon_Fey_Portrait'"
+      },
+      "41100014": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100014,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Shinbi_Portrait.Hero_Icon_Shinbi_Portrait'"
+      },
+      "41100015": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100015,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Revenant_Portrait.Hero_Icon_Revenant_Portrait'"
+      },
+      "41100016": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100016,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Aurora_Portrait.Hero_Icon_Aurora_Portrait'"
+      },
+      "41100017": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100017,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Phase_Portrait.Hero_Icon_Phase_Portrait'"
+      },
+      "41100018": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100018,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Lt_Belica_Portrait.Hero_Icon_Lt_Belica_Portrait'"
+      },
+      "41100019": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100019,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Fengmao_Portrait.Hero_Icon_Fengmao_Portrait'"
+      },
+      "41100020": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100020,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Howit_Portrait.Hero_Icon_Howit_Portrait'"
+      },
+      "41100021": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100021,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Khaimera_Portrait.Hero_Icon_Khaimera_Portrait'"
+      },
+      "41100022": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100022,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Narbash_Portrait.Hero_Icon_Narbash_Portrait'"
+      },
+      "41100023": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100023,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Gadget_Portrait.Hero_Icon_Gadget_Portrait'"
+      },
+      "41100024": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100024,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Countess_Portrait.Hero_Icon_Countess_Portrait'"
+      },
+      "41100025": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100025,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Serath_Portrait.Hero_Icon_Serath_Portrait'"
+      },
+      "41100026": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100026,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Zena_Portrait.Hero_Icon_Zena_Portrait'"
+      },
+      "41100027": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100027,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Dekker_Portrait.Hero_Icon_Dekker_Portrait'"
+      },
+      "41100028": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100028,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Wraith_Portrait.Hero_Icon_Wraith_Portrait'"
+      },
+      "41100029": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100029,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Greenstar_0101.Emb_Greenstar_0101'"
+      },
+      "41100030": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100030,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_DE_0101.Emb_DE_0101'"
+      },
+      "41100031": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100031,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_KI_0101.Emb_KI_0101'"
+      },
+      "41100032": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100032,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_MA_0101.Emb_MA_0101'"
+      },
+      "41100033": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100033,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Quest_0101.Emb_Quest_0101'"
+      },
+      "41100034": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100034,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Death_0101.Emb_Death_0101'"
+      },
+      "41100035": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100035,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_P7_0101.Emb_P7_0101'"
+      },
+      "41100036": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100036,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDSteel_0101.Emb_SDSteel_0101'"
+      },
+      "41100037": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100037,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Silent_0101.Emb_Silent_0101'"
+      },
+      "41100038": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100038,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Flower_0101.Emb_Flower_0101'"
+      },
+      "41100039": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100039,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Nata_0101.Emb_Nata_0101'"
+      },
+      "41100040": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100040,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Muse_0101.Emb_Muse_0101'"
+      },
+      "41100041": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100041,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Shield_0101.Emb_Shield_0101'"
+      },
+      "41100042": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100042,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_JunkBurster_0101.Emb_JunkBurster_0101'"
+      },
+      "41100043": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100043,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Flame_0101.Emb_Flame_0101'"
+      },
+      "41100044": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100044,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Setar_0101.Emb_Setar_0101'"
+      },
+      "41100045": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100045,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Skull_0101.Emb_Skull_0101'"
+      },
+      "41100046": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100046,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_GreenSmog_0101.Emb_GreenSmog_0101'"
+      },
+      "41100047": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100047,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_TheEtanus_0101.Emb_TheEtanus_0101'"
+      },
+      "41100048": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100048,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Angel_0101.Emb_Angel_0101'"
+      },
+      "41100049": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100049,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Dekima_0101.Emb_Dekima_0101'"
+      },
+      "41100050": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100050,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Crystal_0101.Emb_Crystal_0101'"
+      },
+      "41100051": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100051,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_HH_0101.Emb_HH_0101'"
+      },
+      "41100052": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100052,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Leaf_0101.Emb_Leaf_0101'"
+      },
+      "41100053": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100053,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Mark_0101.Emb_Mark_0101'"
+      },
+      "41100054": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100054,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Mateth_DE_0101.Emb_Mateth_DE_0101'"
+      },
+      "41100055": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100055,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDMao_0101.Emb_SDMao_0101'"
+      },
+      "41100056": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100056,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Mask_0101.Emb_Mask_0101'"
+      },
+      "41100057": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100057,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Night_0101.Emb_Night_0101'"
+      },
+      "41100058": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100058,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDNarbash_0101.Emb_SDNarbash_0101'"
+      },
+      "41100059": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100059,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Wolf_0101.Emb_Wolf_0101'"
+      },
+      "41100060": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100060,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_YellowHat_0101.Emb_YellowHat_0101'"
+      },
+      "41100061": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100061,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_TheGuard_0101.Emb_TheGuard_0101'"
+      },
+      "41100062": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100062,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Spark_0101.Emb_Spark_0101'"
+      },
+      "41100063": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100063,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Ruins_0101.Emb_Ruins_0101'"
+      },
+      "41100064": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100064,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_JunkBot_0101.Emb_JunkBot_0101'"
+      },
+      "41100065": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100065,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_TheTracer_0101.Emb_TheTracer_0101'"
+      },
+      "41100066": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100066,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_totem_0101.Emb_totem_0101'"
+      },
+      "41100067": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100067,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_RemeberOVERPRIME_0101.Emb_RemeberOVERPRIME_0101'"
+      },
+      "41100068": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100068,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_BestPlayer_0101.Emb_BestPlayer_0101'"
+      },
+      "41100069": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100069,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_GSTAR2022_0101.Emb_GSTAR2022_0101'"
+      },
+      "41100070": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100070,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_FinalTester_0101.Emb_FinalTester_0101'"
+      },
+      "41100071": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100071,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_PremiumFinalTester_0101.Emb_PremiumFinalTester_0101'"
+      },
+      "41100072": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100072,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_AgnisCup_0101.Emb_AgnisCup_0101'"
+      },
+      "41100073": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100073,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_PartnerStreamer_0101.Emb_PartnerStreamer_0101'"
+      },
+      "41100074": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100074,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_PlatformEpic_0101.Emb_PlatformEpic_0101'"
+      },
+      "41100075": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100075,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SOULEVE_0101.Emb_SOULEVE_0101'"
+      },
+      "41100076": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100076,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_FinalTesterInRank100_0101.Emb_FinalTesterInRank100_0101'"
+      },
+      "41100077": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100077,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_DiscordMember_0101.Emb_DiscordMember_0101'"
+      },
+      "41100078": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100078,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_YoutubeMember_0101.Emb_YoutubeMember_0101'"
+      },
+      "41100079": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100079,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Wukong_Portrait.Hero_Icon_Wukong_Portrait'"
+      },
+      "41100080": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100080,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Crunch_Portrait.Hero_Icon_Crunch_Portrait'"
+      },
+      "41100081": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100081,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Iggy_Portrait.Hero_Icon_Iggy_Portrait'"
+      },
+      "41100082": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100082,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Honor3_0101.Emb_Honor3_0101'"
+      },
+      "41100083": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100083,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Honor2_0201.Emb_Honor2_0201'"
+      },
+      "41100084": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100084,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Honor1_0301.Emb_Honor1_0301'"
+      },
+      "41100085": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100085,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Moderator_0101.Emb_Moderator_0101'"
+      },
+      "41100086": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100086,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Maco_Portrait.Hero_Icon_Maco_Portrait'"
+      },
+      "41100087": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100087,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Drongo_Portrait.Hero_Icon_Drongo_Portrait'"
+      },
+      "41100088": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100088,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Ocean_0101.Emb_Ocean_0101'"
+      },
+      "41100089": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100089,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Heart_0101.Emb_Heart_0101'"
+      },
+      "41100090": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100090,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDMurdock_0101.Emb_SDMurdock_0101'"
+      },
+      "41100091": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100091,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDTwinblast_0101.Emb_SDTwinblast_0101'"
+      },
+      "41100092": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100092,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDMuriel_0101.Emb_SDMuriel_0101'"
+      },
+      "41100093": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100093,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDRampage_0101.Emb_SDRampage_0101'"
+      },
+      "41100094": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100094,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDKallari_0101.Emb_SDKallari_0101'"
+      },
+      "41100095": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100095,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDGrux_0101.Emb_SDGrux_0101'"
+      },
+      "41100096": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100096,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDSparrow_0101.Emb_SDSparrow_0101'"
+      },
+      "41100097": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100097,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDSevarog_0101.Emb_SDSevarog_0101'"
+      },
+      "41100098": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100098,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDKwang_0101.Emb_SDKwang_0101'"
+      },
+      "41100099": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100099,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDGideon_0101.Emb_SDGideon_0101'"
+      },
+      "41100100": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100100,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDTheFey_0101.Emb_SDTheFey_0101'"
+      },
+      "41100101": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100101,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDShinbi_0101.Emb_SDShinbi_0101'"
+      },
+      "41100102": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100102,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDRevenant_0101.Emb_SDRevenant_0101'"
+      },
+      "41100103": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100103,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDAurora_0101.Emb_SDAurora_0101'"
+      },
+      "41100104": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100104,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDPhase_0101.Emb_SDPhase_0101'"
+      },
+      "41100105": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100105,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDBelica_0101.Emb_SDBelica_0101'"
+      },
+      "41100106": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100106,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDGRIMexe_0101.Emb_SDGRIMexe_0101'"
+      },
+      "41100107": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100107,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDHowitzer_0101.Emb_SDHowitzer_0101'"
+      },
+      "41100108": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100108,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDKhaimera_0101.Emb_SDKhaimera_0101'"
+      },
+      "41100109": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100109,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDGadget_0101.Emb_SDGadget_0101'"
+      },
+      "41100110": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100110,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDCountess_0101.Emb_SDCountess_0101'"
+      },
+      "41100111": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100111,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDSerath_0101.Emb_SDSerath_0101'"
+      },
+      "41100112": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100112,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDGreystone_0101.Emb_SDGreystone_0101'"
+      },
+      "41100113": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100113,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDZena_0101.Emb_SDZena_0101'"
+      },
+      "41100114": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100114,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDDekker_0101.Emb_SDDekker_0101'"
+      },
+      "41100115": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100115,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDDrongo_0101.Emb_SDDrongo_0101'"
+      },
+      "41100116": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100116,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDWraith_0101.Emb_SDWraith_0101'"
+      },
+      "41100117": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100117,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDWukong_0101.Emb_SDWukong_0101'"
+      },
+      "41100118": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100118,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDIggyScorch_0101.Emb_SDIggyScorch_0101'"
+      },
+      "41100119": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100119,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDCrunch_0101.Emb_SDCrunch_0101'"
+      },
+      "41100120": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100120,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDMaco_0101.Emb_SDMaco_0101'"
+      },
+      "41100121": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100121,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_TheExploreMedal_0101.Emb_TheExploreMedal_0101'"
+      },
+      "41100122": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100122,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SpacePirate_0101.Emb_SpacePirate_0101'"
+      },
+      "41100123": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100123,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Assemble_0101.Emb_Assemble_0101'"
+      },
+      "41100124": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100124,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_IamAngry_0101.Emb_IamAngry_0101'"
+      },
+      "41100125": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100125,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_WAYD_0101.Emb_WAYD_0101'"
+      },
+      "41100126": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100126,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_EatIt_0101.Emb_EatIt_0101'"
+      },
+      "41100127": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100127,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_ThumbsUp_0101.Emb_ThumbsUp_0101'"
+      },
+      "41100128": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100128,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Resolve_0101.Emb_Resolve_0101'"
+      },
+      "41100129": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100129,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Scared_0101.Emb_Scared_0101'"
+      },
+      "41100130": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100130,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Love_0101.Emb_Love_0101'"
+      },
+      "41100131": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100131,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Cooperation_0101.Emb_Cooperation_0101'"
+      }
+    }
+  }
+]

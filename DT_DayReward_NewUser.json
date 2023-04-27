@@ -1,0 +1,71 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_DayReward_NewUser",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NewUserDayLoginRewardTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "IsChoiceReward": false,
+        "Reward_Group_ID": "Reward_DayRewardNewUser_1",
+        "Reward_Namekey": "",
+        "Reward_Image_Icon": "Texture2D'/Game/UI/Resource/Texture/Reward/T_Common_Icon_Reward_Renar.T_Common_Icon_Reward_Renar'",
+        "Reward_Image_Portrait": "Blueprint'/Game/OutGame/Actors/BP_RewardItem_Renar.BP_RewardItem_Renar_C'",
+        "Reward_Image_Portrait_Texture": ""
+      },
+      "2": {
+        "IsChoiceReward": true,
+        "Reward_Group_ID": "Reward_DayRewardNewUser_2",
+        "Reward_Namekey": "UI.Item_Ticket_SkinChoice",
+        "Reward_Image_Icon": "Texture2D'/Game/UI/Resource/Texture/Reward/T_Common_Icon_Reward_Normal_Skin.T_Common_Icon_Reward_Normal_Skin'",
+        "Reward_Image_Portrait": "Blueprint'/Game/OutGame/Actors/BP_RewardItem_Ticket.BP_RewardItem_Ticket_C'",
+        "Reward_Image_Portrait_Texture": "Texture2D'/Game/UI/Resource/Texture/Reward/T_Common_Icon_Reward_Normal_Skin_3D.T_Common_Icon_Reward_Normal_Skin_3D'"
+      },
+      "3": {
+        "IsChoiceReward": false,
+        "Reward_Group_ID": "Reward_DayRewardNewUser_3",
+        "Reward_Namekey": "",
+        "Reward_Image_Icon": "",
+        "Reward_Image_Portrait": "Blueprint'/Game/OutGame/Actors/BP_RewardItem_Emblem.BP_RewardItem_Emblem_C'",
+        "Reward_Image_Portrait_Texture": ""
+      },
+      "4": {
+        "IsChoiceReward": false,
+        "Reward_Group_ID": "Reward_DayRewardNewUser_4",
+        "Reward_Namekey": "",
+        "Reward_Image_Icon": "Texture2D'/Game/UI/Resource/Texture/Reward/T_Common_Icon_Reward_Renar.T_Common_Icon_Reward_Renar'",
+        "Reward_Image_Portrait": "Blueprint'/Game/OutGame/Actors/BP_RewardItem_Renar.BP_RewardItem_Renar_C'",
+        "Reward_Image_Portrait_Texture": ""
+      },
+      "5": {
+        "IsChoiceReward": false,
+        "Reward_Group_ID": "Reward_DayRewardNewUser_5",
+        "Reward_Namekey": "",
+        "Reward_Image_Icon": "",
+        "Reward_Image_Portrait": "Blueprint'/Game/OutGame/Actors/BP_RewardItem_Emblem.BP_RewardItem_Emblem_C'",
+        "Reward_Image_Portrait_Texture": ""
+      },
+      "6": {
+        "IsChoiceReward": false,
+        "Reward_Group_ID": "Reward_DayRewardNewUser_6",
+        "Reward_Namekey": "",
+        "Reward_Image_Icon": "Texture2D'/Game/UI/Resource/Texture/Reward/T_Common_Icon_Reward_Renar.T_Common_Icon_Reward_Renar'",
+        "Reward_Image_Portrait": "Blueprint'/Game/OutGame/Actors/BP_RewardItem_Renar.BP_RewardItem_Renar_C'",
+        "Reward_Image_Portrait_Texture": ""
+      },
+      "7": {
+        "IsChoiceReward": true,
+        "Reward_Group_ID": "Reward_DayRewardNewUser_7",
+        "Reward_Namekey": "UI.Item_Ticket_Premium_SkinChoice",
+        "Reward_Image_Icon": "Texture2D'/Game/UI/Resource/Texture/Reward/T_Common_Icon_Reward_Premium_Skin.T_Common_Icon_Reward_Premium_Skin'",
+        "Reward_Image_Portrait": "Blueprint'/Game/OutGame/Actors/BP_RewardItem_Ticket_Premium.BP_RewardItem_Ticket_Premium_C'",
+        "Reward_Image_Portrait_Texture": "Texture2D'/Game/UI/Resource/Texture/Reward/T_Common_Icon_Reward_Premium_Skin_3D.T_Common_Icon_Reward_Premium_Skin_3D'"
+      }
+    }
+  }
+]

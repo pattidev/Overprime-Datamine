@@ -1,0 +1,290 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_Training_Cheat",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'TrainingCheatTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "101": {
+        "CheatCategory": "ECheatCategory::MyHero",
+        "CheatType": "ECheatType::Lv_Up",
+        "CheatValue": 1,
+        "UseType": "EUseType::Instant",
+        "DefaultCheat": false,
+        "CheatEnable": true,
+        "CheatOptionName": "UI.Cheat_Option_lv_up",
+        "CheatOptionActivateDesc": "",
+        "CheatOptionDeActivateDesc": ""
+      },
+      "102": {
+        "CheatCategory": "ECheatCategory::MyHero",
+        "CheatType": "ECheatType::Lv_Reset",
+        "CheatValue": 1,
+        "UseType": "EUseType::Instant",
+        "DefaultCheat": false,
+        "CheatEnable": true,
+        "CheatOptionName": "UI.Cheat_Option_lv_reset",
+        "CheatOptionActivateDesc": "UI.Cheat_Option_Activate_lv_reset",
+        "CheatOptionDeActivateDesc": ""
+      },
+      "103": {
+        "CheatCategory": "ECheatCategory::MyHero",
+        "CheatType": "ECheatType::Add_Gold",
+        "CheatValue": 10000,
+        "UseType": "EUseType::Instant",
+        "DefaultCheat": false,
+        "CheatEnable": true,
+        "CheatOptionName": "UI.Cheat_Option_add_gold",
+        "CheatOptionActivateDesc": "UI.Cheat_Option_Activate_add_gold",
+        "CheatOptionDeActivateDesc": ""
+      },
+      "104": {
+        "CheatCategory": "ECheatCategory::MyHero",
+        "CheatType": "ECheatType::Cooldown",
+        "CheatValue": 0,
+        "UseType": "EUseType::Instant",
+        "DefaultCheat": false,
+        "CheatEnable": true,
+        "CheatOptionName": "UI.Cheat_Option_cooldown",
+        "CheatOptionActivateDesc": "UI.Cheat_Option_Activate_cooldown",
+        "CheatOptionDeActivateDesc": ""
+      },
+      "105": {
+        "CheatCategory": "ECheatCategory::MyHero",
+        "CheatType": "ECheatType::Infinity_Hp",
+        "CheatValue": 0,
+        "UseType": "EUseType::Toggle",
+        "DefaultCheat": false,
+        "CheatEnable": true,
+        "CheatOptionName": "UI.Cheat_Option_Infinity_hp",
+        "CheatOptionActivateDesc": "UI.Cheat_Option_Activate_Infinity_hp",
+        "CheatOptionDeActivateDesc": "UI.Cheat_Option_DeActivate_Infinity_hp"
+      },
+      "106": {
+        "CheatCategory": "ECheatCategory::MyHero",
+        "CheatType": "ECheatType::Infinity_Mp",
+        "CheatValue": 0,
+        "UseType": "EUseType::Toggle",
+        "DefaultCheat": false,
+        "CheatEnable": true,
+        "CheatOptionName": "UI.Cheat_Option_Infinity_mp",
+        "CheatOptionActivateDesc": "UI.Cheat_Option_Activate_Infinity_mp",
+        "CheatOptionDeActivateDesc": "UI.Cheat_Option_DeActivate_Infinity_mp"
+      },
+      "107": {
+        "CheatCategory": "ECheatCategory::MyHero",
+        "CheatType": "ECheatType::Player_Dead",
+        "CheatValue": 0,
+        "UseType": "EUseType::Instant",
+        "DefaultCheat": false,
+        "CheatEnable": true,
+        "CheatOptionName": "UI.Cheat_Option_player_dead",
+        "CheatOptionActivateDesc": "UI.Cheat_Option_Activate_player_dead",
+        "CheatOptionDeActivateDesc": ""
+      },
+      "108": {
+        "CheatCategory": "ECheatCategory::MyHero",
+        "CheatType": "ECheatType::Player_Respawn",
+        "CheatValue": 0,
+        "UseType": "EUseType::Instant",
+        "DefaultCheat": false,
+        "CheatEnable": true,
+        "CheatOptionName": "UI.Cheat_Option_player_respawn",
+        "CheatOptionActivateDesc": "UI.Cheat_Option_Activate_player_respawn",
+        "CheatOptionDeActivateDesc": ""
+      },
+      "201": {
+        "CheatCategory": "ECheatCategory::Lane",
+        "CheatType": "ECheatType::Structure_Tower_Spawn",
+        "CheatValue": 0,
+        "UseType": "EUseType::Toggle",
+        "DefaultCheat": true,
+        "CheatEnable": true,
+        "CheatOptionName": "UI.Cheat_Option_structure_tower_spawn",
+        "CheatOptionActivateDesc": "UI.Cheat_Option_Activate_structure_tower_spawn",
+        "CheatOptionDeActivateDesc": "UI.Cheat_Option_DeActivate_structure_tower_spawn"
+      },
+      "202": {
+        "CheatCategory": "ECheatCategory::Lane",
+        "CheatType": "ECheatType::Structure_Unbreakable",
+        "CheatValue": 0,
+        "UseType": "EUseType::Toggle",
+        "DefaultCheat": false,
+        "CheatEnable": true,
+        "CheatOptionName": "UI.Cheat_Option_structure_unbreakable",
+        "CheatOptionActivateDesc": "UI.Cheat_Option_Activate_structure_unbreakable",
+        "CheatOptionDeActivateDesc": "UI.Cheat_Option_DeActivate_structure_unbreakable"
+      },
+      "203": {
+        "CheatCategory": "ECheatCategory::Lane",
+        "CheatType": "ECheatType::Minion_Auto_Spawn",
+        "CheatValue": 0,
+        "UseType": "EUseType::Toggle",
+        "DefaultCheat": true,
+        "CheatEnable": true,
+        "CheatOptionName": "UI.Cheat_Option_minion_auto_spawn",
+        "CheatOptionActivateDesc": "UI.Cheat_Option_Activate_minion_auto_spawn",
+        "CheatOptionDeActivateDesc": "UI.Cheat_Option_DeActivate_minion_auto_spawn"
+      },
+      "301": {
+        "CheatCategory": "ECheatCategory::Jungle_Monster",
+        "CheatType": "ECheatType::Jungle_All_Spawn",
+        "CheatValue": 0,
+        "UseType": "EUseType::Toggle",
+        "DefaultCheat": false,
+        "CheatEnable": false,
+        "CheatOptionName": "UI.Cheat_Option_jungle_All_spawn",
+        "CheatOptionActivateDesc": "UI.Cheat_Option_Activate_jungle_All_spawn",
+        "CheatOptionDeActivateDesc": "UI.Cheat_Option_DeActivate_jungle_All_spawn"
+      },
+      "302": {
+        "CheatCategory": "ECheatCategory::Jungle_Monster",
+        "CheatType": "ECheatType::Jungle_White_Spawn",
+        "CheatValue": 0,
+        "UseType": "EUseType::Toggle",
+        "DefaultCheat": true,
+        "CheatEnable": true,
+        "CheatOptionName": "UI.Cheat_Option_jungle_white_spawn",
+        "CheatOptionActivateDesc": "UI.Cheat_Option_Activate_jungle_white_spawn",
+        "CheatOptionDeActivateDesc": "UI.Cheat_Option_DeActivate_jungle_white_spawn"
+      },
+      "303": {
+        "CheatCategory": "ECheatCategory::Jungle_Monster",
+        "CheatType": "ECheatType::Jungle_Green_Spawn",
+        "CheatValue": 0,
+        "UseType": "EUseType::Toggle",
+        "DefaultCheat": true,
+        "CheatEnable": true,
+        "CheatOptionName": "UI.Cheat_Option_jungle_green_spawn",
+        "CheatOptionActivateDesc": "UI.Cheat_Option_Activate_jungle_green_spawn",
+        "CheatOptionDeActivateDesc": "UI.Cheat_Option_DeActivate_jungle_green_spawn"
+      },
+      "304": {
+        "CheatCategory": "ECheatCategory::Jungle_Monster",
+        "CheatType": "ECheatType::Jungle_Purple_Spawn",
+        "CheatValue": 0,
+        "UseType": "EUseType::Toggle",
+        "DefaultCheat": true,
+        "CheatEnable": true,
+        "CheatOptionName": "UI.Cheat_Option_jungle_purple_spawn",
+        "CheatOptionActivateDesc": "UI.Cheat_Option_Activate_jungle_purple_spawn",
+        "CheatOptionDeActivateDesc": "UI.Cheat_Option_DeActivate_jungle_purple_spawn"
+      },
+      "305": {
+        "CheatCategory": "ECheatCategory::Jungle_Monster",
+        "CheatType": "ECheatType::Jungle_Blue_Spawn",
+        "CheatValue": 0,
+        "UseType": "EUseType::Toggle",
+        "DefaultCheat": true,
+        "CheatEnable": true,
+        "CheatOptionName": "UI.Cheat_Option_jungle_blue_spawn",
+        "CheatOptionActivateDesc": "UI.Cheat_Option_Activate_jungle_blue_spawn",
+        "CheatOptionDeActivateDesc": "UI.Cheat_Option_DeActivate_jungle_blue_spawn"
+      },
+      "306": {
+        "CheatCategory": "ECheatCategory::Jungle_Monster",
+        "CheatType": "ECheatType::Jungle_River_Spawn",
+        "CheatValue": 0,
+        "UseType": "EUseType::Toggle",
+        "DefaultCheat": true,
+        "CheatEnable": true,
+        "CheatOptionName": "UI.Cheat_Option_jungle_river_spawn",
+        "CheatOptionActivateDesc": "UI.Cheat_Option_Activate_jungle_river_spawn",
+        "CheatOptionDeActivateDesc": "UI.Cheat_Option_DeActivate_jungle_river_spawn"
+      },
+      "307": {
+        "CheatCategory": "ECheatCategory::Jungle_Monster",
+        "CheatType": "ECheatType::Jungle_Red_Spawn",
+        "CheatValue": 0,
+        "UseType": "EUseType::Toggle",
+        "DefaultCheat": true,
+        "CheatEnable": true,
+        "CheatOptionName": "UI.Cheat_Option_jungle_red_spawn",
+        "CheatOptionActivateDesc": "UI.Cheat_Option_Activate_jungle_red_spawn",
+        "CheatOptionDeActivateDesc": "UI.Cheat_Option_DeActivate_jungle_red_spawn"
+      },
+      "401": {
+        "CheatCategory": "ECheatCategory::Prime_Monster",
+        "CheatType": "ECheatType::Spirit_All_Spawn",
+        "CheatValue": 0,
+        "UseType": "EUseType::Toggle",
+        "DefaultCheat": false,
+        "CheatEnable": false,
+        "CheatOptionName": "UI.Cheat_Option_spirit_All_spawn",
+        "CheatOptionActivateDesc": "UI.Cheat_Option_Activate_spirit_All_spawn",
+        "CheatOptionDeActivateDesc": "UI.Cheat_Option_DeActivate_spirit_All_spawn"
+      },
+      "402": {
+        "CheatCategory": "ECheatCategory::Prime_Monster",
+        "CheatType": "ECheatType::Spirit_Fire_Spawn",
+        "CheatValue": 0,
+        "UseType": "EUseType::Toggle",
+        "DefaultCheat": true,
+        "CheatEnable": true,
+        "CheatOptionName": "UI.Cheat_Option_spirit_fire_spawn",
+        "CheatOptionActivateDesc": "UI.Cheat_Option_Activate_spirit_fire_spawn",
+        "CheatOptionDeActivateDesc": "UI.Cheat_Option_DeActivate_spirit_fire_spawn"
+      },
+      "403": {
+        "CheatCategory": "ECheatCategory::Prime_Monster",
+        "CheatType": "ECheatType::Spirit_Water_Spawn",
+        "CheatValue": 0,
+        "UseType": "EUseType::Toggle",
+        "DefaultCheat": true,
+        "CheatEnable": true,
+        "CheatOptionName": "UI.Cheat_Option_spirit_water_spawn",
+        "CheatOptionActivateDesc": "UI.Cheat_Option_Activate_spirit_water_spawn",
+        "CheatOptionDeActivateDesc": "UI.Cheat_Option_DeActivate_spirit_water_spawn"
+      },
+      "404": {
+        "CheatCategory": "ECheatCategory::Prime_Monster",
+        "CheatType": "ECheatType::Spirit_Earth_Spawn",
+        "CheatValue": 0,
+        "UseType": "EUseType::Toggle",
+        "DefaultCheat": true,
+        "CheatEnable": true,
+        "CheatOptionName": "UI.Cheat_Option_spirit_earth_spawn",
+        "CheatOptionActivateDesc": "UI.Cheat_Option_Activate_spirit_earth_spawn",
+        "CheatOptionDeActivateDesc": "UI.Cheat_Option_DeActivate_spirit_earth_spawn"
+      },
+      "405": {
+        "CheatCategory": "ECheatCategory::Prime_Monster",
+        "CheatType": "ECheatType::Spirit_Wind_Spawn",
+        "CheatValue": 0,
+        "UseType": "EUseType::Toggle",
+        "DefaultCheat": true,
+        "CheatEnable": true,
+        "CheatOptionName": "UI.Cheat_Option_spirit_wind_spawn",
+        "CheatOptionActivateDesc": "UI.Cheat_Option_Activate_spirit_wind_spawn",
+        "CheatOptionDeActivateDesc": "UI.Cheat_Option_DeActivate_spirit_wind_spawn"
+      },
+      "406": {
+        "CheatCategory": "ECheatCategory::Prime_Monster",
+        "CheatType": "ECheatType::Guardian_Spawn",
+        "CheatValue": 0,
+        "UseType": "EUseType::Toggle",
+        "DefaultCheat": true,
+        "CheatEnable": true,
+        "CheatOptionName": "UI.Cheat_Option_guardian_spawn",
+        "CheatOptionActivateDesc": "UI.Cheat_Option_Activate_guardian_spawn",
+        "CheatOptionDeActivateDesc": "UI.Cheat_Option_DeActivate_guardian_spawn"
+      },
+      "407": {
+        "CheatCategory": "ECheatCategory::Prime_Monster",
+        "CheatType": "ECheatType::Prime_Buff_Reset",
+        "CheatValue": 0,
+        "UseType": "EUseType::Instant",
+        "DefaultCheat": false,
+        "CheatEnable": true,
+        "CheatOptionName": "UI.Cheat_Option_prime_buff_reset",
+        "CheatOptionActivateDesc": "UI.Cheat_Option_Activate_prime_buff_reset",
+        "CheatOptionDeActivateDesc": ""
+      }
+    }
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_UICommonSound",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPUICommonSoundDataTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "sound_button_clicked": {
+        "SoundCue": {
+          "ObjectName": "SoundCue'buttonclick_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/ui/buttonclick_01_cue.0"
+        }
+      },
+      "sound_button_hover": {
+        "SoundCue": {
+          "ObjectName": "SoundCue'overroll_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/ui/overroll_01_cue.0"
+        }
+      },
+      "sound_shop_select_item": {
+        "SoundCue": {
+          "ObjectName": "SoundCue'buttonclick_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/ui/buttonclick_01_cue.0"
+        }
+      },
+      "sound_shop_buy_item": {
+        "SoundCue": {
+          "ObjectName": "SoundCue'button_itembuy_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/ui/button_itembuy_01_cue.0"
+        }
+      },
+      "sound_shop_sell_item": {
+        "SoundCue": {
+          "ObjectName": "SoundCue'button_itemsell_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/ui/button_itemsell_01_cue.0"
+        }
+      },
+      "sound_shop_return_item": {
+        "SoundCue": {
+          "ObjectName": "SoundCue'button_itemreturn_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/ui/button_itemreturn_01_cue.0"
+        }
+      },
+      "sound_shop_upgrade_item": {
+        "SoundCue": {
+          "ObjectName": "SoundCue'button_itemupgrade_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/ui/button_itemupgrade_01_cue.0"
+        }
+      },
+      "sound_shop_not_enough_gold": {
+        "SoundCue": {
+          "ObjectName": "SoundCue'cantuseability_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/ui/cantuseability_01_cue.0"
+        }
+      },
+      "sound_shop_swap_item": {
+        "SoundCue": {
+          "ObjectName": "SoundCue'button_itemdrop_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/ui/button_itemdrop_01_cue.0"
+        }
+      },
+      "sound_shop_close": {
+        "SoundCue": {
+          "ObjectName": "SoundCue'button_cancel_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/ui/button_cancel_01_cue.0"
+        }
+      },
+      "sound_upgrade_skill": {
+        "SoundCue": {
+          "ObjectName": "SoundCue'ability_upgrade_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/ui/ability_upgrade_01_cue.0"
+        }
+      },
+      "sound_party_join_ok": {
+        "SoundCue": {
+          "ObjectName": "SoundCue'party_ok_alarm_cue'",
+          "ObjectPath": "Overprime/Content/Sound/ui/party/party_ok_alarm_cue.0"
+        }
+      },
+      "sound_party_join_cancel": {
+        "SoundCue": {
+          "ObjectName": "SoundCue'party_cancel_alarm_cue'",
+          "ObjectPath": "Overprime/Content/Sound/ui/party/party_cancel_alarm_cue.0"
+        }
+      }
+    }
+  }
+]

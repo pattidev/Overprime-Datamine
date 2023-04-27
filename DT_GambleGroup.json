@@ -1,0 +1,736 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_GambleGroup",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPGambleGroupTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40101001,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "2": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40101002,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "3": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40101003,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "4": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40101004,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "5": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40101005,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "6": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40101006,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "7": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40101007,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "8": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40101009,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "9": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40101010,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "10": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40101011,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "11": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40101012,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "12": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40101013,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "13": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40101014,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "14": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40101015,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "15": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40101017,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "16": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40101018,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "17": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40101019,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "18": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40101020,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "19": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40101025,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "20": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40101027,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "21": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201001,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "22": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201002,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "23": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201003,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "24": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201004,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "25": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201005,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "26": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201006,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "27": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201007,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "28": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201008,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "29": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201009,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "30": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201010,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "31": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201011,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "32": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201012,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "33": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201013,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "34": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201014,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "35": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201017,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "36": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201018,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "37": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201019,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "38": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201020,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "39": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201021,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "40": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201022,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "41": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201023,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "42": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201024,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "43": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201025,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "44": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201026,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "45": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201027,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "46": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201028,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "47": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201029,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "48": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201030,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "49": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201033,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "50": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201034,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "51": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201035,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "52": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201036,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "53": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201037,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "54": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201038,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "55": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201039,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "56": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201040,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "57": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201049,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "58": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201050,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "59": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201053,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "60": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201054,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "61": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201059,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "62": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201060,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "63": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201062,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "64": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201063,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "65": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201064,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "66": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201065,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "67": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201066,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "68": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201067,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "69": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201069,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "70": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201072,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "71": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201075,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "72": {
+        "GambleGroup": 50101001,
+        "Grade": 1,
+        "ProductID": 40201076,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "73": {
+        "GambleGroup": 50101001,
+        "Grade": 2,
+        "ProductID": 40202001,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "74": {
+        "GambleGroup": 50101001,
+        "Grade": 2,
+        "ProductID": 40202003,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "75": {
+        "GambleGroup": 50101001,
+        "Grade": 2,
+        "ProductID": 40202005,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "76": {
+        "GambleGroup": 50101001,
+        "Grade": 2,
+        "ProductID": 40202007,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "77": {
+        "GambleGroup": 50101001,
+        "Grade": 2,
+        "ProductID": 40202009,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "78": {
+        "GambleGroup": 50101001,
+        "Grade": 2,
+        "ProductID": 40202011,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "79": {
+        "GambleGroup": 50101001,
+        "Grade": 2,
+        "ProductID": 40202013,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "80": {
+        "GambleGroup": 50101001,
+        "Grade": 2,
+        "ProductID": 40202017,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "81": {
+        "GambleGroup": 50101001,
+        "Grade": 2,
+        "ProductID": 40202019,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "82": {
+        "GambleGroup": 50101001,
+        "Grade": 2,
+        "ProductID": 40202021,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "83": {
+        "GambleGroup": 50101001,
+        "Grade": 2,
+        "ProductID": 40202023,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "84": {
+        "GambleGroup": 50101001,
+        "Grade": 2,
+        "ProductID": 40202025,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "85": {
+        "GambleGroup": 50101001,
+        "Grade": 2,
+        "ProductID": 40202027,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "86": {
+        "GambleGroup": 50101001,
+        "Grade": 2,
+        "ProductID": 40202029,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "87": {
+        "GambleGroup": 50101001,
+        "Grade": 2,
+        "ProductID": 40202033,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "88": {
+        "GambleGroup": 50101001,
+        "Grade": 2,
+        "ProductID": 40202035,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "89": {
+        "GambleGroup": 50101001,
+        "Grade": 2,
+        "ProductID": 40202037,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "90": {
+        "GambleGroup": 50101001,
+        "Grade": 2,
+        "ProductID": 40202039,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "91": {
+        "GambleGroup": 50101001,
+        "Grade": 2,
+        "ProductID": 40202049,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "92": {
+        "GambleGroup": 50101001,
+        "Grade": 2,
+        "ProductID": 40202053,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "93": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40203001,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "94": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40203003,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "95": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40203007,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "96": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40203013,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "97": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40203019,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "98": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40203021,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "99": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40203023,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "100": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40203027,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "101": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40203029,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "102": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40203033,
+        "ItemCount": 1,
+        "Rating": 1
+      },
+      "103": {
+        "GambleGroup": 50101001,
+        "Grade": 3,
+        "ProductID": 40203039,
+        "ItemCount": 1,
+        "Rating": 1
+      }
+    }
+  }
+]

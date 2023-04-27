@@ -1,0 +1,135 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_Custom_Option",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'CustomOptionRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "101": {
+        "MapID": "LV_Agolith_P",
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "MapStringKey": "UI.Maps_Agolith_Name",
+        "PickType": [
+          "EGamePickType::EGPT_Ban_Draft_Type",
+          "EGamePickType::EGPT_Free_Choice_Type",
+          "EGamePickType::EGPT_Time_Limit_Type"
+        ],
+        "TeamSize": [
+          "ETeamSizeType::ETST_1vs1",
+          "ETeamSizeType::ETST_2vs2",
+          "ETeamSizeType::ETST_3vs3",
+          "ETeamSizeType::ETST_4vs4",
+          "ETeamSizeType::ETST_5vs5"
+        ],
+        "TimeLimit": [
+          "ETimeLimitType::ETLT_15min",
+          "ETimeLimitType::ETLT_20min",
+          "ETimeLimitType::ETLT_25min",
+          "ETimeLimitType::ETLT_30min",
+          "ETimeLimitType::ETLT_35min",
+          "ETimeLimitType::ETLT_40min",
+          "ETimeLimitType::ETLT_45min",
+          "ETimeLimitType::ETLT_50min"
+        ],
+        "Min_Spectators": 0,
+        "Max_Spectators": 4,
+        "MapEnable": true
+      },
+      "102": {
+        "MapID": "Legacy_NewAgora",
+        "MapType": "EOfficialMapType::EOMT_LegacyAgora",
+        "MapStringKey": "UI.Maps_NewAgora_Name",
+        "PickType": [
+          "EGamePickType::EGPT_Ban_Draft_Type",
+          "EGamePickType::EGPT_Free_Choice_Type",
+          "EGamePickType::EGPT_Time_Limit_Type"
+        ],
+        "TeamSize": [
+          "ETeamSizeType::ETST_1vs1",
+          "ETeamSizeType::ETST_2vs2",
+          "ETeamSizeType::ETST_3vs3",
+          "ETeamSizeType::ETST_4vs4",
+          "ETeamSizeType::ETST_5vs5"
+        ],
+        "TimeLimit": [
+          "ETimeLimitType::ETLT_15min",
+          "ETimeLimitType::ETLT_20min",
+          "ETimeLimitType::ETLT_25min",
+          "ETimeLimitType::ETLT_30min",
+          "ETimeLimitType::ETLT_35min",
+          "ETimeLimitType::ETLT_40min",
+          "ETimeLimitType::ETLT_45min",
+          "ETimeLimitType::ETLT_50min"
+        ],
+        "Min_Spectators": 0,
+        "Max_Spectators": 4,
+        "MapEnable": false
+      },
+      "103": {
+        "MapID": "NewAltarOfPower",
+        "MapType": "EOfficialMapType::EOMT_AltarOfPower",
+        "MapStringKey": "UI.Maps_AltarOfPower_Name",
+        "PickType": [
+          "EGamePickType::EGPT_Ban_Draft_Type",
+          "EGamePickType::EGPT_Free_Choice_Type",
+          "EGamePickType::EGPT_Time_Limit_Type"
+        ],
+        "TeamSize": [
+          "ETeamSizeType::ETST_1vs1",
+          "ETeamSizeType::ETST_2vs2",
+          "ETeamSizeType::ETST_3vs3",
+          "ETeamSizeType::ETST_4vs4",
+          "ETeamSizeType::ETST_5vs5"
+        ],
+        "TimeLimit": [
+          "ETimeLimitType::ETLT_15min",
+          "ETimeLimitType::ETLT_20min",
+          "ETimeLimitType::ETLT_25min",
+          "ETimeLimitType::ETLT_30min",
+          "ETimeLimitType::ETLT_35min",
+          "ETimeLimitType::ETLT_40min",
+          "ETimeLimitType::ETLT_45min",
+          "ETimeLimitType::ETLT_50min"
+        ],
+        "Min_Spectators": 0,
+        "Max_Spectators": 4,
+        "MapEnable": true
+      },
+      "104": {
+        "MapID": "RocketTest_P2",
+        "MapType": "EOfficialMapType::EOMT_ARAM",
+        "MapStringKey": "Aram",
+        "PickType": [
+          "EGamePickType::EGPT_Ban_Draft_Type",
+          "EGamePickType::EGPT_Free_Choice_Type",
+          "EGamePickType::EGPT_Time_Limit_Type"
+        ],
+        "TeamSize": [
+          "ETeamSizeType::ETST_1vs1",
+          "ETeamSizeType::ETST_2vs2",
+          "ETeamSizeType::ETST_3vs3",
+          "ETeamSizeType::ETST_4vs4",
+          "ETeamSizeType::ETST_5vs5"
+        ],
+        "TimeLimit": [
+          "ETimeLimitType::ETLT_15min",
+          "ETimeLimitType::ETLT_20min",
+          "ETimeLimitType::ETLT_25min",
+          "ETimeLimitType::ETLT_30min",
+          "ETimeLimitType::ETLT_35min",
+          "ETimeLimitType::ETLT_40min",
+          "ETimeLimitType::ETLT_45min",
+          "ETimeLimitType::ETLT_50min"
+        ],
+        "Min_Spectators": 0,
+        "Max_Spectators": 4,
+        "MapEnable": true
+      }
+    }
+  }
+]

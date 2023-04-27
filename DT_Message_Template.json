@@ -1,0 +1,511 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_Message_Template",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'MessageTemplateTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "100102": {
+        "MessageKey": "ERR.MsgTemplate_ServiceTool_Maintenance_Scheduled_Desc",
+        "KeyValue1": 10001,
+        "KeyValue2": 10002,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "100202": {
+        "MessageKey": "ERR.MsgTemplate_ServiceTool_Maintenance_Temporary_Desc",
+        "KeyValue1": 10001,
+        "KeyValue2": 10002,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "100302": {
+        "MessageKey": "ERR.MsgTemplate_ServiceTool_Maintenance_Emergency_Desc",
+        "KeyValue1": 10001,
+        "KeyValue2": 10002,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "100402": {
+        "MessageKey": "ERR.MsgTemplate_ServiceTool_Error_Hero_Desc",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "100502": {
+        "MessageKey": "ERR.MsgTemplate_ServiceTool_Error_HeroSkin_Desc",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "100602": {
+        "MessageKey": "ERR.MsgTemplate_ServiceTool_Error_System_MatchMaking_Desc",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "100702": {
+        "MessageKey": "ERR.MsgTemplate_ServiceTool_Error_System_Unknown_Desc",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "100801": {
+        "MessageKey": "UI.MsgTemplate_Mail_IGS_UserPenalty_Title",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "100802": {
+        "MessageKey": "LCLink.MsgTemplate_ServiceTool_UserPenalty_Desc_Ingame",
+        "KeyValue1": 0,
+        "KeyValue2": 2004,
+        "KeyValue3": 2005,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "200101": {
+        "MessageKey": "UI.MsgTemplate_Mail_Shop_PurchaseSuccess_Title",
+        "KeyValue1": 4001,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "200102": {
+        "MessageKey": "LCLink.MsgTemplate_Mail_Shop_PurchaseSuccess_Desc",
+        "KeyValue1": 1001,
+        "KeyValue2": 4006,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "200201": {
+        "MessageKey": "UI.MsgTemplate_Mail_CBT_Gift_Normal_Title",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "200202": {
+        "MessageKey": "LCLink.MsgTemplate_Mail_CBT_Gift_Normal_Desc",
+        "KeyValue1": 1001,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "200301": {
+        "MessageKey": "UI.MsgTemplate_Mail_CBT_Gift_Full_Title",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "200302": {
+        "MessageKey": "LCLink.MsgTemplate_Mail_CBT_Gift_Full_Desc",
+        "KeyValue1": 1001,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "200401": {
+        "MessageKey": "UI.MsgTemplate_Mail_Report_Penalty_Title",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "200402": {
+        "MessageKey": "LCLink.MsgTemplate_Mail_Report_Penalty_Desc",
+        "KeyValue1": 1001,
+        "KeyValue2": 2002,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "200501": {
+        "MessageKey": "UI.MsgTemplate_Mail_Report_ReportSuccess_Title",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "200502": {
+        "MessageKey": "LCLink.MsgTemplate_Mail_Report_ReportSuccess_Desc",
+        "KeyValue1": 2001,
+        "KeyValue2": 2002,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "200601": {
+        "MessageKey": "UI.MsgTemplate_Mail_Rank_SeasonEndReward_Title",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "200602": {
+        "MessageKey": "LCLink.MsgTemplate_Mail_Rank_SeasonEndReward_Desc",
+        "KeyValue1": 3001,
+        "KeyValue2": 3002,
+        "KeyValue3": 3003,
+        "KeyValue4": 1002,
+        "KeyValue5": 0
+      },
+      "200701": {
+        "MessageKey": "UI.MsgTemplate_Mail_Coupon_Reward_Title",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "200702": {
+        "MessageKey": "UI.MsgTemplate_Mail_Coupon_Reward_Desc",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "200801": {
+        "MessageKey": "UI.MsgTemplate_Mail_FinalTest_Gift_Normal_Title",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "200802": {
+        "MessageKey": "LCLink.MsgTemplate_Mail_FinalTest_Gift_Normal_Desc",
+        "KeyValue1": 1001,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "200901": {
+        "MessageKey": "UI.MsgTemplate_Mail_FinalTest_Gift_Full_Title",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "200902": {
+        "MessageKey": "LCLink.MsgTemplate_Mail_FinalTest_Gift_Full_Desc",
+        "KeyValue1": 1001,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "201001": {
+        "MessageKey": "UI.MsgTemplate_Mail_FinalTest_Rankin100_Title",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "201002": {
+        "MessageKey": "LCLink.MsgTemplate_Mail_FinalTest_Rankin100_Desc",
+        "KeyValue1": 1001,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "201101": {
+        "MessageKey": "UI.MsgTemplate_Mail_LoginEvent_ReturnedUser_Title",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "201102": {
+        "MessageKey": "UI.MsgTemplate_Mail_LoginEvent_ReturnedUser_Desc",
+        "KeyValue1": 1001,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "201201": {
+        "MessageKey": "UI.MsgTemplate_Mail_LoginEvent_Maintenance_Title",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "201202": {
+        "MessageKey": "UI.MsgTemplate_Mail_LoginEvent_Maintenance_Desc",
+        "KeyValue1": 1001,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "201301": {
+        "MessageKey": "UI.MsgTemplate_Mail_LoginEvent_CommonEventTime_Title",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "201302": {
+        "MessageKey": "UI.MsgTemplate_Mail_LoginEvent_CommonEventTime_Desc",
+        "KeyValue1": 1001,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "201401": {
+        "MessageKey": "UI.MsgTemplate_Mail_LoginEvent_HotTime_Title",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "201402": {
+        "MessageKey": "UI.MsgTemplate_Mail_LoginEvent_HotTime_Desc",
+        "KeyValue1": 1001,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "201501": {
+        "MessageKey": "UI.MsgTemplate_Mail_IGS_Maintenance_Title",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "201502": {
+        "MessageKey": "UI.MsgTemplate_Mail_IGS_Maintenance_Desc",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "201601": {
+        "MessageKey": "UI.MsgTemplate_Mail_IGS_MaintenanceExtend_Title",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "201602": {
+        "MessageKey": "UI.MsgTemplate_Mail_IGS_MaintenanceExtend_Desc",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "201701": {
+        "MessageKey": "UI.MsgTemplate_Mail_IGS_CommonEventReward_Title",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "201702": {
+        "MessageKey": "UI.MsgTemplate_Mail_IGS_CommonEventReward_Desc",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "201801": {
+        "MessageKey": "UI.MsgTemplate_Mail_IGS_Refund_Title",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "201802": {
+        "MessageKey": "UI.MsgTemplate_Mail_IGS_Refund_Desc",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "201901": {
+        "MessageKey": "UI.MsgTemplate_Mail_IGS_Recover_Title",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "201902": {
+        "MessageKey": "UI.MsgTemplate_Mail_IGS_Recover_Desc",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "202001": {
+        "MessageKey": "UI.MsgTemplate_Mail_IGS_BadIssue_1_Title",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "202002": {
+        "MessageKey": "UI.MsgTemplate_Mail_IGS_BadIssue_1_Desc",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "202101": {
+        "MessageKey": "UI.MsgTemplate_Mail_IGS_BadIssue_2_Title",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "202102": {
+        "MessageKey": "UI.MsgTemplate_Mail_IGS_BadIssue_2_Desc",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "202201": {
+        "MessageKey": "UI.MsgTemplate_Mail_IGS_PushEvent_Title",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "202202": {
+        "MessageKey": "UI.MsgTemplate_Mail_IGS_PushEvent_Desc",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "202301": {
+        "MessageKey": "UI.MsgTemplate_Mail_IGS_SkinLimitSaleNotice_Title",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "202302": {
+        "MessageKey": "UI.MsgTemplate_Mail_IGS_SkinLimitSaleNotice_Desc",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "202401": {
+        "MessageKey": "UI.MsgTemplate_Mail_Honor_GradeRewardFirst_Title",
+        "KeyValue1": 1004,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "202402": {
+        "MessageKey": "UI.MsgTemplate_Mail_Honor_GradeRewardFirst_Desc",
+        "KeyValue1": 1004,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "202501": {
+        "MessageKey": "UI.MsgTemplate_Mail_IGS_UserPenalty_Title",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "202502": {
+        "MessageKey": "LCLink.MsgTemplate_Mail_IGS_UserPenalty_Desc",
+        "KeyValue1": 2003,
+        "KeyValue2": 2004,
+        "KeyValue3": 2005,
+        "KeyValue4": 2006,
+        "KeyValue5": 0
+      },
+      "202701": {
+        "MessageKey": "UI.MsgTemplate_Mail_Rank_SeasonEndReward_Title",
+        "KeyValue1": 0,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      },
+      "202702": {
+        "MessageKey": "LCLink.MsgTemplate_Mail_Rank_SeasonEndReward_Simple_Desc",
+        "KeyValue1": 0,
+        "KeyValue2": 3002,
+        "KeyValue3": 3003,
+        "KeyValue4": 1002,
+        "KeyValue5": 0
+      },
+      "300102": {
+        "MessageKey": "LCLink.MsgTemplate_ErrorCode_User_DelAccount_Date_Desc",
+        "KeyValue1": 1003,
+        "KeyValue2": 0,
+        "KeyValue3": 0,
+        "KeyValue4": 0,
+        "KeyValue5": 0
+      }
+    }
+  }
+]

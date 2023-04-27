@@ -1,0 +1,22 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_GambleRatingPer",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPGambleRatingPerTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "GambleGroup": 50101001,
+        "Rating_1": 6000,
+        "Rating_2": 3500,
+        "Rating_3": 500,
+        "Rating_4": 0
+      }
+    }
+  }
+]

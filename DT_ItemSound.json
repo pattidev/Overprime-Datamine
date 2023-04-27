@@ -1,0 +1,455 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_ItemSound",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPSoundTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "SkinID": "None",
+        "SoundID": "bpitem_ready",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_ready_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/bpitem_ready_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "2": {
+        "SkinID": "None",
+        "SoundID": "bpitem_cancel",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_cancel_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/bpitem_cancel_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "3": {
+        "SkinID": "None",
+        "SoundID": "bpitem_101000",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_101000_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/BPitem_101000_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "4": {
+        "SkinID": "None",
+        "SoundID": "bpitem_203003",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_203003_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/BPitem_203003_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "5": {
+        "SkinID": "None",
+        "SoundID": "bpitem_204000",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_204000_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/BPitem_204000_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "6": {
+        "SkinID": "None",
+        "SoundID": "bpitem_204001",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_204001_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/BPitem_204001_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "7": {
+        "SkinID": "None",
+        "SoundID": "bpitem_204002",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_204002_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/BPitem_204002_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "8": {
+        "SkinID": "None",
+        "SoundID": "bpitem_204003",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_204003_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/BPitem_204003_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "9": {
+        "SkinID": "None",
+        "SoundID": "bpitem_301006",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_301006_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/BPitem_301006_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "10": {
+        "SkinID": "None",
+        "SoundID": "bpitem_301011",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_301011_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/BPItem_301011_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "11": {
+        "SkinID": "None",
+        "SoundID": "bpitem_302004",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_302004_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/BPitem_302004_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "12": {
+        "SkinID": "None",
+        "SoundID": "bpitem_30101000",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_30101000_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/bpitem_30101000_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "13": {
+        "SkinID": "None",
+        "SoundID": "bpitem_30201006",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_30201006_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/BPitem_30201006_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "14": {
+        "SkinID": "None",
+        "SoundID": "bpitem_30301000",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_30301000_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/BPitem_30301000_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "15": {
+        "SkinID": "None",
+        "SoundID": "bpitem_30301002",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_30301002_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/BPitem_30301002_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "16": {
+        "SkinID": "None",
+        "SoundID": "bpitem_30304002",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_30304002_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/bpitem_30304002_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "17": {
+        "SkinID": "None",
+        "SoundID": "bpitem_30304003",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_30304003_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/bpitem_30304003_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "18": {
+        "SkinID": "None",
+        "SoundID": "bpitem_30301009",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_30301009_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/bpitem_30301009_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "19": {
+        "SkinID": "None",
+        "SoundID": "bpitem_30301009_Hit",
+        "SoundVolume": 0.7,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_30301009_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/bpitem_30301009_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "20": {
+        "SkinID": "None",
+        "SoundID": "bpitem_30301010",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_30301010_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/bpitem_30301010_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "21": {
+        "SkinID": "None",
+        "SoundID": "bpitem_30302001",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_30302001_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/bpitem_30302001_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "22": {
+        "SkinID": "None",
+        "SoundID": "bpitem_30302001_02",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_30302001_02_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/bpitem_30302001_02_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "23": {
+        "SkinID": "None",
+        "SoundID": "bpitem_30302008",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_30302008_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/bpitem_30302008_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "24": {
+        "SkinID": "None",
+        "SoundID": "bpitem_30303008",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_30303008_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/bpitem_30303008_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "25": {
+        "SkinID": "None",
+        "SoundID": "bpitem_30304004",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_30304004_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/bpitem_30304004_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "26": {
+        "SkinID": "None",
+        "SoundID": "bpitem_304000",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_304000_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/BPitem_304000_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "27": {
+        "SkinID": "None",
+        "SoundID": "bpitem_304001",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_304001_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/BPitem_304001_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "28": {
+        "SkinID": "None",
+        "SoundID": "bpitem_900000",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_900000_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/BPItem_900000_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "29": {
+        "SkinID": "None",
+        "SoundID": "bpitem_900000_kill",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_900000_kill_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/bpitem_900000_kill_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "30": {
+        "SkinID": "None",
+        "SoundID": "bpitem_900001",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_900001_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/BPItem_900001_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "31": {
+        "SkinID": "None",
+        "SoundID": "bpitem_900001_end",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_900001_end_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/BPItem_900001_end_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "32": {
+        "SkinID": "None",
+        "SoundID": "bpitem_900001_loop",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_900001_loop_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/BPItem_900001_loop_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "33": {
+        "SkinID": "None",
+        "SoundID": "bpitem_900002",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_900002_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/BPItem_900002_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "34": {
+        "SkinID": "None",
+        "SoundID": "bpitem_900002_end",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_900002_end_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/BPItem_900002_end_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "35": {
+        "SkinID": "None",
+        "SoundID": "bpitem_900002_loop",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_900002_loop_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/bpitem_900002_loop_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "36": {
+        "SkinID": "None",
+        "SoundID": "bpitem_30900006",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_30900006_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/bpitem_30900006_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "37": {
+        "SkinID": "None",
+        "SoundID": "bpitem_30900007",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_30900007_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/bpitem_30900007_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "38": {
+        "SkinID": "None",
+        "SoundID": "bpitem_30900008",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_30900008_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/bpitem_30900008_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "39": {
+        "SkinID": "None",
+        "SoundID": "bpitem_30900009",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_30900009_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/bpitem_30900009_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "40": {
+        "SkinID": "None",
+        "SoundID": "bpitem_30301008",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_30301008_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/bpitem_30301008_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "41": {
+        "SkinID": "None",
+        "SoundID": "bpitem_30301012",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_30201012_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/bpitem_30201012_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "42": {
+        "SkinID": "None",
+        "SoundID": "bpitem_30301017",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_30301017_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/bpitem_30301017_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "43": {
+        "SkinID": "None",
+        "SoundID": "bpitem_30302020",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_30302020_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/bpitem_30302020_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "44": {
+        "SkinID": "None",
+        "SoundID": "bpitem_30303021",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'bpitem_30303021_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/item/bpitem_30303021_cue.0"
+        },
+        "SoundTableManagerObject": null
+      }
+    }
+  }
+]

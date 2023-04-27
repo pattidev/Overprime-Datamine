@@ -1,0 +1,63 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_GambleAction",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPGambleActionTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "GambleResult": 1,
+        "Action_1": "Appear_1",
+        "Action_2": "Open_1",
+        "Action_3": "sign_1",
+        "Action_4": "Throw_0",
+        "Action_5": "Flip_1",
+        "Action_6": "conversion",
+        "ChestBGName": "BG_LuckyBox",
+        "ChestResource": "LuckyBox",
+        "CardResource": "NormalCard"
+      },
+      "2": {
+        "GambleResult": 2,
+        "Action_1": "Appear_2",
+        "Action_2": "Open_2",
+        "Action_3": "sign_2",
+        "Action_4": "Throw_0",
+        "Action_5": "Flip_2",
+        "Action_6": "conversion",
+        "ChestBGName": "BG_LuckyBox",
+        "ChestResource": "LuckyBox",
+        "CardResource": "RareCard"
+      },
+      "3": {
+        "GambleResult": 3,
+        "Action_1": "Appear_3",
+        "Action_2": "Open_3",
+        "Action_3": "sign_3",
+        "Action_4": "Throw_0",
+        "Action_5": "Flip_3",
+        "Action_6": "conversion",
+        "ChestBGName": "BG_LuckyBox",
+        "ChestResource": "LuckyBox",
+        "CardResource": "HeroicCard"
+      },
+      "4": {
+        "GambleResult": 4,
+        "Action_1": "Appear_4",
+        "Action_2": "Open_4",
+        "Action_3": "sign_4",
+        "Action_4": "Throw_0",
+        "Action_5": "Flip_4",
+        "Action_6": "conversion",
+        "ChestBGName": "BG_LuckyBox",
+        "ChestResource": "LuckyBox",
+        "CardResource": "LegendaryCard"
+      }
+    }
+  }
+]

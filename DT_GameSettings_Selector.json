@@ -1,0 +1,342 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_GameSettings_Selector",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPGameSettingsSelectorTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_UseAutoTargetting",
+        "DefaultValue": 0,
+        "DisplayTexts": [
+          "UI.Setting_Dropdownlist_Common_Disable",
+          "UI.Setting_Dropdownlist_Common_Activation"
+        ]
+      },
+      "2": {
+        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_UseAutoTargettingWithCrosshair",
+        "DefaultValue": 0,
+        "DisplayTexts": [
+          "UI.Setting_Dropdownlist_Common_Disable",
+          "UI.Setting_Dropdownlist_Common_Activation"
+        ]
+      },
+      "3": {
+        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_UseDistanceDisplayer",
+        "DefaultValue": 1,
+        "DisplayTexts": [
+          "UI.Setting_Dropdownlist_Common_Disable",
+          "UI.Setting_Dropdownlist_Common_Activation"
+        ]
+      },
+      "4": {
+        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_RangeAttackDecalType",
+        "DefaultValue": 0,
+        "DisplayTexts": [
+          "UI.Setting_Atk_Range_Selector_Default",
+          "UI.Setting_Atk_Range_Selector_Mini",
+          "UI.Common_None"
+        ]
+      },
+      "5": {
+        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_UseMeter",
+        "DefaultValue": 1,
+        "DisplayTexts": [
+          "UI.Setting_Dropdownlist_Common_Disable",
+          "UI.Setting_Dropdownlist_Common_Activation"
+        ]
+      },
+      "6": {
+        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_UseMeterFollowAutoTargetting",
+        "DefaultValue": 1,
+        "DisplayTexts": [
+          "UI.Setting_Dropdownlist_Common_Disable",
+          "UI.Setting_Dropdownlist_Common_Activation"
+        ]
+      },
+      "7": {
+        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_UsePopupAlert",
+        "DefaultValue": 1,
+        "DisplayTexts": [
+          "UI.Setting_Dropdownlist_Common_Disable",
+          "UI.Setting_Dropdownlist_Common_Activation"
+        ]
+      },
+      "8": {
+        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_PingMessage",
+        "DefaultValue": 1,
+        "DisplayTexts": [
+          "UI.Setting_Dropdownlist_Common_Disable",
+          "UI.Setting_Dropdownlist_Common_Activation"
+        ]
+      },
+      "9": {
+        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_QuickBuy",
+        "DefaultValue": 1,
+        "DisplayTexts": [
+          "UI.Setting_Dropdownlist_Common_Disable",
+          "UI.Setting_Dropdownlist_Common_Activation"
+        ]
+      },
+      "10": {
+        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_ActivateIngameTeamChat",
+        "DefaultValue": 0,
+        "DisplayTexts": [
+          "UI.Setting_Dropdownlist_Common_Disable",
+          "UI.Setting_Dropdownlist_Common_Activation"
+        ]
+      },
+      "11": {
+        "DetailType": "EGameSettingDetailType::EGSD_Accessibility_ColorVisionType",
+        "DefaultValue": 0,
+        "DisplayTexts": [
+          "UI.Setting_Accessibility_ColorVision_Dropdownlist_Disabled",
+          "UI.Setting_Accessibility_ColorVision_Dropdownlist_Green",
+          "UI.Setting_Accessibility_ColorVision_Dropdownlist_Red",
+          "UI.Setting_Accessibility_ColorVision_Dropdownlist_Blue"
+        ]
+      },
+      "12": {
+        "DetailType": "EGameSettingDetailType::EGSD_Display_ScreenMode",
+        "DefaultValue": 1,
+        "DisplayTexts": [
+          "UI.Setting_Display_Screen_Mode_FullScreen",
+          "UI.Setting_Display_Screen_Mode_BorderlessWindow",
+          "UI.Setting_Display_Screen_Mode_WindowMode"
+        ]
+      },
+      "13": {
+        "DetailType": "EGameSettingDetailType::EGSD_Display_Resolution",
+        "DefaultValue": 3,
+        "DisplayTexts": []
+      },
+      "14": {
+        "DetailType": "EGameSettingDetailType::EGSD_Display_VSync",
+        "DefaultValue": 0,
+        "DisplayTexts": [
+          "UI.Setting_Dropdownlist_Common_Disable",
+          "UI.Setting_Dropdownlist_Common_Activation"
+        ]
+      },
+      "15": {
+        "DetailType": "EGameSettingDetailType::EGSD_Graphic_FSR_1_0",
+        "DefaultValue": 0,
+        "DisplayTexts": [
+          "UI.Setting_Graphic_FSR_Disable",
+          "UI.Setting_Graphic_FSR_UltraQuality",
+          "UI.Setting_Graphic_FSR_Grade_Quality",
+          "UI.Setting_Graphic_FSR_Balanced",
+          "UI.Setting_Graphic_FSR_Performance"
+        ]
+      },
+      "16": {
+        "DetailType": "EGameSettingDetailType::EGSD_Graphic_FSR_2_0",
+        "DefaultValue": 0,
+        "DisplayTexts": [
+          "UI.Setting_Graphic_FSR_Disable",
+          "UI.Setting_Graphic_FSR_Grade_Quality",
+          "UI.Setting_Graphic_FSR_Balanced",
+          "UI.Setting_Graphic_FSR_Performance",
+          "UI.Setting_Graphic_FSR_UltraPerformance"
+        ]
+      },
+      "17": {
+        "DetailType": "EGameSettingDetailType::EGSD_Graphic_XeSS",
+        "DefaultValue": 0,
+        "DisplayTexts": [
+          "Off",
+          "Performance",
+          "Balanced",
+          "Quality",
+          "UltraQuality"
+        ]
+      },
+      "18": {
+        "DetailType": "EGameSettingDetailType::EGSD_Graphic_DLSS",
+        "DefaultValue": 0,
+        "DisplayTexts": [
+          "OFF",
+          "AUTO",
+          "QUALITY",
+          "BALANCED",
+          "PERFORMANCE",
+          "ULTRAPERFORMANCE"
+        ]
+      },
+      "19": {
+        "DetailType": "EGameSettingDetailType::EGSD_Graphic_Graphic_All",
+        "DefaultValue": 0,
+        "DisplayTexts": [
+          "UI.Setting_Graphic_Dropdownlist_Common_Low",
+          "UI.Setting_Graphic_Dropdownlist_Common_Average",
+          "UI.Setting_Graphic_Dropdownlist_Common_High",
+          "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh",
+          "UI.Setting_Graphic_Dropdownlist_Common_Custom"
+        ]
+      },
+      "20": {
+        "DetailType": "EGameSettingDetailType::EGSD_Graphic_ViewDistance",
+        "DefaultValue": 0,
+        "DisplayTexts": [
+          "UI.Setting_Graphic_Dropdownlist_Common_Low",
+          "UI.Setting_Graphic_Dropdownlist_Common_Average",
+          "UI.Setting_Graphic_Dropdownlist_Common_High",
+          "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
+        ]
+      },
+      "21": {
+        "DetailType": "EGameSettingDetailType::EGSD_Graphic_AntiAliasing",
+        "DefaultValue": 0,
+        "DisplayTexts": [
+          "UI.Setting_Graphic_Dropdownlist_Common_Low",
+          "UI.Setting_Graphic_Dropdownlist_Common_Average",
+          "UI.Setting_Graphic_Dropdownlist_Common_High",
+          "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
+        ]
+      },
+      "22": {
+        "DetailType": "EGameSettingDetailType::EGSD_Graphic_Shadow",
+        "DefaultValue": 0,
+        "DisplayTexts": [
+          "UI.Setting_Graphic_Dropdownlist_Common_Low",
+          "UI.Setting_Graphic_Dropdownlist_Common_Average",
+          "UI.Setting_Graphic_Dropdownlist_Common_High",
+          "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
+        ]
+      },
+      "23": {
+        "DetailType": "EGameSettingDetailType::EGSD_Graphic_PostProcess",
+        "DefaultValue": 0,
+        "DisplayTexts": [
+          "UI.Setting_Graphic_Dropdownlist_Common_Low",
+          "UI.Setting_Graphic_Dropdownlist_Common_Average",
+          "UI.Setting_Graphic_Dropdownlist_Common_High",
+          "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
+        ]
+      },
+      "24": {
+        "DetailType": "EGameSettingDetailType::EGSD_Graphic_Texture",
+        "DefaultValue": 0,
+        "DisplayTexts": [
+          "UI.Setting_Graphic_Dropdownlist_Common_Low",
+          "UI.Setting_Graphic_Dropdownlist_Common_Average",
+          "UI.Setting_Graphic_Dropdownlist_Common_High",
+          "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
+        ]
+      },
+      "25": {
+        "DetailType": "EGameSettingDetailType::EGSD_Graphic_Effect",
+        "DefaultValue": 0,
+        "DisplayTexts": [
+          "UI.Setting_Graphic_Dropdownlist_Common_Low",
+          "UI.Setting_Graphic_Dropdownlist_Common_Average",
+          "UI.Setting_Graphic_Dropdownlist_Common_High",
+          "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
+        ]
+      },
+      "26": {
+        "DetailType": "EGameSettingDetailType::EGSD_Graphic_Foliage",
+        "DefaultValue": 0,
+        "DisplayTexts": [
+          "UI.Setting_Graphic_Dropdownlist_Common_Low",
+          "UI.Setting_Graphic_Dropdownlist_Common_Average",
+          "UI.Setting_Graphic_Dropdownlist_Common_High",
+          "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
+        ]
+      },
+      "27": {
+        "DetailType": "EGameSettingDetailType::EGSD_Graphic_Shader",
+        "DefaultValue": 0,
+        "DisplayTexts": [
+          "UI.Setting_Graphic_Dropdownlist_Common_Low",
+          "UI.Setting_Graphic_Dropdownlist_Common_Average",
+          "UI.Setting_Graphic_Dropdownlist_Common_High",
+          "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
+        ]
+      },
+      "28": {
+        "DetailType": "EGameSettingDetailType::EGSD_Graphic_StaticMesh_LOD_Distance",
+        "DefaultValue": 0,
+        "DisplayTexts": [
+          "UI.Setting_Graphic_Dropdownlist_Common_Low",
+          "UI.Setting_Graphic_Dropdownlist_Common_Average",
+          "UI.Setting_Graphic_Dropdownlist_Common_High",
+          "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
+        ]
+      },
+      "29": {
+        "DetailType": "EGameSettingDetailType::EGSD_Graphic_Landscape_LOD_Distribution",
+        "DefaultValue": 0,
+        "DisplayTexts": [
+          "UI.Setting_Graphic_Dropdownlist_Common_Low",
+          "UI.Setting_Graphic_Dropdownlist_Common_Average",
+          "UI.Setting_Graphic_Dropdownlist_Common_High",
+          "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
+        ]
+      },
+      "30": {
+        "DetailType": "EGameSettingDetailType::EGSD_Graphic_ScreenPercentage",
+        "DefaultValue": 0,
+        "DisplayTexts": [
+          "UI.Setting_Graphic_Dropdownlist_Common_Low",
+          "UI.Setting_Graphic_Dropdownlist_Common_Average",
+          "UI.Setting_Graphic_Dropdownlist_Common_High",
+          "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
+        ]
+      },
+      "31": {
+        "DetailType": "EGameSettingDetailType::EGSD_Graphic_RHI_Version",
+        "DefaultValue": 0,
+        "DisplayTexts": [
+          "UI.Setting_Graphic_DX11",
+          "UI.Setting_Graphic_DX12"
+        ]
+      },
+      "32": {
+        "DetailType": "EGameSettingDetailType::EGSD_Graphic_VolumetricFog",
+        "DefaultValue": 1,
+        "DisplayTexts": [
+          "UI.Setting_Dropdownlist_Common_Disable",
+          "UI.Setting_Dropdownlist_Common_Activation"
+        ]
+      },
+      "33": {
+        "DetailType": "EGameSettingDetailType::EGSD_Sound_App_Background_Volume",
+        "DefaultValue": 1,
+        "DisplayTexts": [
+          "UI.Setting_Dropdownlist_Common_Disable",
+          "UI.Setting_Dropdownlist_Common_Activation"
+        ]
+      },
+      "34": {
+        "DetailType": "EGameSettingDetailType::EGSD_Control_Mouse_Y_Reverse",
+        "DefaultValue": 0,
+        "DisplayTexts": [
+          "UI.Setting_Dropdownlist_Common_Disable",
+          "UI.Setting_Dropdownlist_Common_Activation"
+        ]
+      },
+      "35": {
+        "DetailType": "EGameSettingDetailType::EGSD_GamePad_X_Reverse",
+        "DefaultValue": 0,
+        "DisplayTexts": [
+          "UI.Setting_Dropdownlist_Common_Disable",
+          "UI.Setting_Dropdownlist_Common_Activation"
+        ]
+      },
+      "36": {
+        "DetailType": "EGameSettingDetailType::EGSD_GamePad_Y_Reverse",
+        "DefaultValue": 0,
+        "DisplayTexts": [
+          "UI.Setting_Dropdownlist_Common_Disable",
+          "UI.Setting_Dropdownlist_Common_Activation"
+        ]
+      }
+    }
+  }
+]

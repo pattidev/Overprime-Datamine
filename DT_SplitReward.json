@@ -1,0 +1,239 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_SplitReward",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'SplitRewardTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "SeasonID": 1,
+        "SplitID": 2,
+        "RewardStep": 1,
+        "RewardSplitPoint": 19,
+        "Item_Outgame_ID": 10000201,
+        "Item_Amount": 0
+      },
+      "2": {
+        "SeasonID": 1,
+        "SplitID": 2,
+        "RewardStep": 2,
+        "RewardSplitPoint": 39,
+        "Item_Outgame_ID": 10000201,
+        "Item_Amount": 0
+      },
+      "3": {
+        "SeasonID": 1,
+        "SplitID": 2,
+        "RewardStep": 3,
+        "RewardSplitPoint": 59,
+        "Item_Outgame_ID": 10000201,
+        "Item_Amount": 0
+      },
+      "4": {
+        "SeasonID": 1,
+        "SplitID": 2,
+        "RewardStep": 4,
+        "RewardSplitPoint": 79,
+        "Item_Outgame_ID": 10000201,
+        "Item_Amount": 0
+      },
+      "5": {
+        "SeasonID": 2,
+        "SplitID": 2,
+        "RewardStep": 1,
+        "RewardSplitPoint": 19,
+        "Item_Outgame_ID": 10000201,
+        "Item_Amount": 0
+      },
+      "6": {
+        "SeasonID": 2,
+        "SplitID": 2,
+        "RewardStep": 2,
+        "RewardSplitPoint": 39,
+        "Item_Outgame_ID": 10000201,
+        "Item_Amount": 0
+      },
+      "7": {
+        "SeasonID": 2,
+        "SplitID": 2,
+        "RewardStep": 3,
+        "RewardSplitPoint": 59,
+        "Item_Outgame_ID": 10000201,
+        "Item_Amount": 0
+      },
+      "8": {
+        "SeasonID": 2,
+        "SplitID": 2,
+        "RewardStep": 4,
+        "RewardSplitPoint": 79,
+        "Item_Outgame_ID": 10000201,
+        "Item_Amount": 0
+      },
+      "9": {
+        "SeasonID": 3,
+        "SplitID": 2,
+        "RewardStep": 1,
+        "RewardSplitPoint": 19,
+        "Item_Outgame_ID": 10000201,
+        "Item_Amount": 0
+      },
+      "10": {
+        "SeasonID": 3,
+        "SplitID": 2,
+        "RewardStep": 2,
+        "RewardSplitPoint": 39,
+        "Item_Outgame_ID": 10000201,
+        "Item_Amount": 0
+      },
+      "11": {
+        "SeasonID": 3,
+        "SplitID": 2,
+        "RewardStep": 3,
+        "RewardSplitPoint": 59,
+        "Item_Outgame_ID": 10000201,
+        "Item_Amount": 0
+      },
+      "12": {
+        "SeasonID": 3,
+        "SplitID": 2,
+        "RewardStep": 4,
+        "RewardSplitPoint": 79,
+        "Item_Outgame_ID": 10000201,
+        "Item_Amount": 0
+      },
+      "13": {
+        "SeasonID": 2022,
+        "SplitID": 2,
+        "RewardStep": 1,
+        "RewardSplitPoint": 150,
+        "Item_Outgame_ID": 10000201,
+        "Item_Amount": 0
+      },
+      "14": {
+        "SeasonID": 2022,
+        "SplitID": 2,
+        "RewardStep": 2,
+        "RewardSplitPoint": 250,
+        "Item_Outgame_ID": 10000201,
+        "Item_Amount": 0
+      },
+      "15": {
+        "SeasonID": 2022,
+        "SplitID": 2,
+        "RewardStep": 3,
+        "RewardSplitPoint": 500,
+        "Item_Outgame_ID": 10000201,
+        "Item_Amount": 0
+      },
+      "16": {
+        "SeasonID": 2022,
+        "SplitID": 2,
+        "RewardStep": 4,
+        "RewardSplitPoint": 750,
+        "Item_Outgame_ID": 10000201,
+        "Item_Amount": 0
+      },
+      "17": {
+        "SeasonID": 2023,
+        "SplitID": 2,
+        "RewardStep": 1,
+        "RewardSplitPoint": 150,
+        "Item_Outgame_ID": 10000201,
+        "Item_Amount": 0
+      },
+      "18": {
+        "SeasonID": 2023,
+        "SplitID": 2,
+        "RewardStep": 2,
+        "RewardSplitPoint": 250,
+        "Item_Outgame_ID": 10000201,
+        "Item_Amount": 0
+      },
+      "19": {
+        "SeasonID": 2023,
+        "SplitID": 2,
+        "RewardStep": 3,
+        "RewardSplitPoint": 500,
+        "Item_Outgame_ID": 10000201,
+        "Item_Amount": 0
+      },
+      "20": {
+        "SeasonID": 2023,
+        "SplitID": 2,
+        "RewardStep": 4,
+        "RewardSplitPoint": 750,
+        "Item_Outgame_ID": 10000201,
+        "Item_Amount": 0
+      },
+      "21": {
+        "SeasonID": 2023,
+        "SplitID": 3,
+        "RewardStep": 1,
+        "RewardSplitPoint": 150,
+        "Item_Outgame_ID": 10000201,
+        "Item_Amount": 0
+      },
+      "22": {
+        "SeasonID": 2023,
+        "SplitID": 3,
+        "RewardStep": 2,
+        "RewardSplitPoint": 250,
+        "Item_Outgame_ID": 10000201,
+        "Item_Amount": 0
+      },
+      "23": {
+        "SeasonID": 2023,
+        "SplitID": 3,
+        "RewardStep": 3,
+        "RewardSplitPoint": 500,
+        "Item_Outgame_ID": 10000201,
+        "Item_Amount": 0
+      },
+      "24": {
+        "SeasonID": 2023,
+        "SplitID": 3,
+        "RewardStep": 4,
+        "RewardSplitPoint": 750,
+        "Item_Outgame_ID": 10000201,
+        "Item_Amount": 0
+      },
+      "25": {
+        "SeasonID": 2023,
+        "SplitID": 4,
+        "RewardStep": 1,
+        "RewardSplitPoint": 150,
+        "Item_Outgame_ID": 10000201,
+        "Item_Amount": 0
+      },
+      "26": {
+        "SeasonID": 2023,
+        "SplitID": 4,
+        "RewardStep": 2,
+        "RewardSplitPoint": 250,
+        "Item_Outgame_ID": 10000201,
+        "Item_Amount": 0
+      },
+      "27": {
+        "SeasonID": 2023,
+        "SplitID": 4,
+        "RewardStep": 3,
+        "RewardSplitPoint": 500,
+        "Item_Outgame_ID": 10000201,
+        "Item_Amount": 0
+      },
+      "28": {
+        "SeasonID": 2023,
+        "SplitID": 4,
+        "RewardStep": 4,
+        "RewardSplitPoint": 750,
+        "Item_Outgame_ID": 10000201,
+        "Item_Amount": 0
+      }
+    }
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_Local_Link",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'LocalLinkTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "LCLink.MsgTemplate_Mail_Shop_PurchaseSuccess_Desc": {
+        "LocalText": "{Param_1}\n\n{Param_2}",
+        "Param_1": "UI.MsgTemplate_Mail_Shop_PurchaseSuccess_Desc_1",
+        "Param_2": "UI.MsgTemplate_Mail_Shop_PurchaseSuccess_Desc_2",
+        "Param_3": "",
+        "Param_4": "",
+        "Param_5": ""
+      },
+      "LCLink.MsgTemplate_Mail_CBT_Gift_Normal_Desc": {
+        "LocalText": "{Param_1}\n\n{Param_2}",
+        "Param_1": "UI.MsgTemplate_Mail_CBT_Gift_Normal_Desc_1",
+        "Param_2": "UI.MsgTemplate_Mail_CBT_Gift_Normal_Desc_2",
+        "Param_3": "",
+        "Param_4": "",
+        "Param_5": ""
+      },
+      "LCLink.MsgTemplate_Mail_CBT_Gift_Full_Desc": {
+        "LocalText": "{Param_1}\n\n{Param_2}",
+        "Param_1": "UI.MsgTemplate_Mail_CBT_Gift_Full_Desc_1",
+        "Param_2": "UI.MsgTemplate_Mail_CBT_Gift_Full_Desc_2",
+        "Param_3": "",
+        "Param_4": "",
+        "Param_5": ""
+      },
+      "LCLink.MsgTemplate_Mail_Report_Penalty_Desc": {
+        "LocalText": "{Param_1}\n\n{Param_2}",
+        "Param_1": "UI.MsgTemplate_Mail_Report_Penalty_Desc_1",
+        "Param_2": "UI.MsgTemplate_Mail_Report_Penalty_Desc_2",
+        "Param_3": "",
+        "Param_4": "",
+        "Param_5": ""
+      },
+      "LCLink.MsgTemplate_Mail_Report_ReportSuccess_Desc": {
+        "LocalText": "{Param_1}\n\n{Param_2}",
+        "Param_1": "UI.MsgTemplate_Mail_Report_ReportSuccess_Desc_1",
+        "Param_2": "UI.MsgTemplate_Mail_Report_ReportSuccess_Desc_2",
+        "Param_3": "",
+        "Param_4": "",
+        "Param_5": ""
+      },
+      "LCLink.MsgTemplate_Mail_Rank_SeasonEndReward_Desc": {
+        "LocalText": "{Param_1}\n\n{Param_2}",
+        "Param_1": "UI.MsgTemplate_Mail_Rank_SeasonEndReward_Desc_1",
+        "Param_2": "UI.MsgTemplate_Mail_Rank_SeasonEndReward_Desc_2",
+        "Param_3": "",
+        "Param_4": "",
+        "Param_5": ""
+      },
+      "LCLink.MsgTemplate_ErrorCode_User_DelAccount_Date_Desc": {
+        "LocalText": "{Param_1}\n\n{Param_2}",
+        "Param_1": "UI.AccountInfo_Popup_Withdrawal_Desc_1",
+        "Param_2": "UI.AccountInfo_Popup_Withdrawal_Desc_2",
+        "Param_3": "",
+        "Param_4": "",
+        "Param_5": ""
+      },
+      "LCLink.MsgTemplate_Mail_FinalTest_Gift_Normal_Desc": {
+        "LocalText": "{Param_1}\n\n{Param_2}",
+        "Param_1": "UI.MsgTemplate_Mail_FinalTest_Gift_Normal_Desc_1",
+        "Param_2": "UI.MsgTemplate_Mail_FinalTest_Gift_Normal_Desc_2",
+        "Param_3": "",
+        "Param_4": "",
+        "Param_5": ""
+      },
+      "LCLink.MsgTemplate_Mail_FinalTest_Gift_Full_Desc": {
+        "LocalText": "{Param_1}\n\n{Param_2}",
+        "Param_1": "UI.MsgTemplate_Mail_FinalTest_Gift_Full_Desc_1",
+        "Param_2": "UI.MsgTemplate_Mail_FinalTest_Gift_Full_Desc_2",
+        "Param_3": "",
+        "Param_4": "",
+        "Param_5": ""
+      },
+      "LCLink.MsgTemplate_Mail_FinalTest_Rankin100_Desc": {
+        "LocalText": "{Param_1}\n\n{Param_2}",
+        "Param_1": "UI.MsgTemplate_Mail_FinalTest_Rankin100_Desc_1",
+        "Param_2": "UI.MsgTemplate_Mail_FinalTest_Rankin100_Desc_2",
+        "Param_3": "",
+        "Param_4": "",
+        "Param_5": ""
+      },
+      "LCLink.PurchasePopup_Sale_Notice": {
+        "LocalText": "{Param_1}\n{Param_2}",
+        "Param_1": "UI.Purchase_Popup_ProductSaleDate",
+        "Param_2": "UI.Purchase_Popup_ProductSaleNotice",
+        "Param_3": "",
+        "Param_4": "",
+        "Param_5": ""
+      },
+      "LCLink.MsgTemplate_Mail_Honor_GradeRewardFirst_Title": {
+        "LocalText": "{Param_1}",
+        "Param_1": "UI.MsgTemplate_Mail_Honor_GradeRewardFirst_Title",
+        "Param_2": "",
+        "Param_3": "",
+        "Param_4": "",
+        "Param_5": ""
+      },
+      "LCLink.MsgTemplate_Mail_Honor_GradeRewardFirst_Desc": {
+        "LocalText": "{Param_1}",
+        "Param_1": "UI.MsgTemplate_Mail_Honor_GradeRewardFirst_Desc",
+        "Param_2": "",
+        "Param_3": "",
+        "Param_4": "",
+        "Param_5": ""
+      },
+      "LCLink.MsgTemplate_Mail_IGS_UserPenalty_Desc": {
+        "LocalText": "{Param_1}\n{Param_2}\n{Param_3}\n{Param_4}\n{Param_5}",
+        "Param_1": "UI.MsgTemplate_Mail_IGS_UserPenalty_Desc_1",
+        "Param_2": "UI.MsgTemplate_Mail_IGS_UserPenalty_Desc_2",
+        "Param_3": "UI.MsgTemplate_Mail_IGS_UserPenalty_Desc_3",
+        "Param_4": "UI.MsgTemplate_Mail_IGS_UserPenalty_Desc_4",
+        "Param_5": "UI.MsgTemplate_Mail_IGS_UserPenalty_Desc_5"
+      },
+      "LCLink.MsgTemplate_ServiceTool_UserPenalty_Desc_Ingame": {
+        "LocalText": "{Param_1}\n{Param_2}",
+        "Param_1": "UI.Account_usage_restrictions_Notice_RestrictedMatch",
+        "Param_2": "UI.MsgTemplate_Mail_IGS_UserPenalty_Desc_4",
+        "Param_3": "",
+        "Param_4": "",
+        "Param_5": ""
+      },
+      "LCLink.MsgTemplate_Mail_Rank_SeasonEndReward_Simple_Desc": {
+        "LocalText": "{Param_1}\n\n{Param_2}",
+        "Param_1": "UI.MsgTemplate_Mail_Rank_SeasonEndReward_Desc_tmp",
+        "Param_2": "UI.MsgTemplate_Mail_Rank_SeasonEndReward_Desc_2",
+        "Param_3": "",
+        "Param_4": "",
+        "Param_5": ""
+      }
+    }
+  }
+]

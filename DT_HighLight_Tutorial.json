@@ -1,0 +1,95 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_HighLight_Tutorial",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPHighLightTutorialTableData'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "Group": "HighlightTutorial_NewUser_Tutorial1st",
+        "Step": 1,
+        "Widget": "HighlightTutorial_NewUser_Tutorial1st_1",
+        "SkipSec": 0.0,
+        "StepProcessType": "EHighLightTutorialStepProcessType::EHLTSPT_Tutorial_1st",
+        "CanESC": false
+      },
+      "2": {
+        "Group": "HighlightTutorial_NewUser_Lobby_Banner",
+        "Step": 1,
+        "Widget": "HighlightTutorial_NewUser_Lobby_Banner_1",
+        "SkipSec": 0.0,
+        "StepProcessType": "EHighLightTutorialStepProcessType::EHLTSPT_MB",
+        "CanESC": false
+      },
+      "3": {
+        "Group": "HighlightTutorial_NewUser_Lobby_Banner",
+        "Step": 2,
+        "Widget": "HighlightTutorial_NewUser_Lobby_Banner_2",
+        "SkipSec": 0.0,
+        "StepProcessType": "EHighLightTutorialStepProcessType::EHLTSPT_MB",
+        "CanESC": false
+      },
+      "4": {
+        "Group": "HighlightTutorial_NewUser_Lobby_Banner",
+        "Step": 3,
+        "Widget": "HighlightTutorial_NewUser_Lobby_Banner_3",
+        "SkipSec": 0.0,
+        "StepProcessType": "EHighLightTutorialStepProcessType::EHLTSPT_MB",
+        "CanESC": false
+      },
+      "5": {
+        "Group": "HighlightTutorial_NewUser_Play1stMatch",
+        "Step": 1,
+        "Widget": "HighlightTutorial_NewUser_Play1stMatch_1",
+        "SkipSec": 0.0,
+        "StepProcessType": "EHighLightTutorialStepProcessType::EHLTSPT_Match_1st",
+        "CanESC": false
+      },
+      "6": {
+        "Group": "HighlightTutorial_NewUser_BattlePass",
+        "Step": 1,
+        "Widget": "HighlightTutorial_NewUser_BattlePass_1",
+        "SkipSec": 7.0,
+        "StepProcessType": "EHighLightTutorialStepProcessType::EHLTSPT_MB",
+        "CanESC": true
+      },
+      "7": {
+        "Group": "HighlightTutorial_NewUser_BattlePass",
+        "Step": 2,
+        "Widget": "HighlightTutorial_NewUser_BattlePass_2",
+        "SkipSec": 7.0,
+        "StepProcessType": "EHighLightTutorialStepProcessType::EHLTSPT_MB",
+        "CanESC": true
+      },
+      "8": {
+        "Group": "HighlightTutorial_Collection_1stEnter",
+        "Step": 1,
+        "Widget": "HighlightTutorial_Collection_1stEnter_1",
+        "SkipSec": 7.0,
+        "StepProcessType": "EHighLightTutorialStepProcessType::EHLTSPT_MB",
+        "CanESC": true
+      },
+      "9": {
+        "Group": "HighlightTutorial_Collection_1stEnter",
+        "Step": 2,
+        "Widget": "HighlightTutorial_Collection_1stEnter_2",
+        "SkipSec": 7.0,
+        "StepProcessType": "EHighLightTutorialStepProcessType::EHLTSPT_MB",
+        "CanESC": true
+      },
+      "10": {
+        "Group": "HighlightTutorial_Collection_1stEnter",
+        "Step": 3,
+        "Widget": "HighlightTutorial_Collection_1stEnter_3",
+        "SkipSec": 7.0,
+        "StepProcessType": "EHighLightTutorialStepProcessType::EHLTSPT_MB",
+        "CanESC": true
+      }
+    }
+  }
+]

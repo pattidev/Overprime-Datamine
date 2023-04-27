@@ -1,0 +1,43 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_MapConstantsData",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'MapConstantsDataTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "MapID": "EOfficialMapType::EOMT_AltarOfPower",
+        "StartingGoldValue": 1000.0,
+        "StartTime": 90.0,
+        "GoldGenerationInterval": 1.0,
+        "GenerationValue": 6.0
+      },
+      "2": {
+        "MapID": "EOfficialMapType::EOMT_LegacyAgora",
+        "StartingGoldValue": 500.0,
+        "StartTime": 90.0,
+        "GoldGenerationInterval": 1.0,
+        "GenerationValue": 4.0
+      },
+      "3": {
+        "MapID": "EOfficialMapType::EOMT_Agolith",
+        "StartingGoldValue": 500.0,
+        "StartTime": 90.0,
+        "GoldGenerationInterval": 1.0,
+        "GenerationValue": 4.0
+      },
+      "4": {
+        "MapID": "EOfficialMapType::EOMT_Monolith",
+        "StartingGoldValue": 500.0,
+        "StartTime": 90.0,
+        "GoldGenerationInterval": 1.0,
+        "GenerationValue": 4.0
+      }
+    }
+  }
+]

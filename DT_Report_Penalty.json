@@ -1,0 +1,87 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_Report_Penalty",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'ReportPenaltyTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "101": {
+        "Report_Type": "EReportType::ERC_NegativeAttitude",
+        "Report_Name": "UI.UI_GameResult_PopUp_Report_Case05",
+        "Report_Group": 1,
+        "Report_Lv": 1,
+        "Check_Period": 259200,
+        "Accumulated_Count": 1000000,
+        "Group_Count": 1000000,
+        "Penalty_Type": "EPenaltyType::PlayPenalty",
+        "Penalty_Value": 10800,
+        "Penalty_Desc": "UI.Lobby_Penalty_Report_Desc_NegativeAttitude"
+      },
+      "102": {
+        "Report_Type": "EReportType::ERC_Cussword",
+        "Report_Name": "UI.UI_GameResult_PopUp_Report_Case01",
+        "Report_Group": 1,
+        "Report_Lv": 2,
+        "Check_Period": 259200,
+        "Accumulated_Count": 1000000,
+        "Group_Count": 1000000,
+        "Penalty_Type": "EPenaltyType::PlayPenalty",
+        "Penalty_Value": 21600,
+        "Penalty_Desc": "UI.Lobby_Penalty_Report_Desc_Cussword"
+      },
+      "103": {
+        "Report_Type": "EReportType::ERC_AllyDisturbance",
+        "Report_Name": "UI.UI_GameResult_PopUp_Report_Case04",
+        "Report_Group": 1,
+        "Report_Lv": 3,
+        "Check_Period": 259200,
+        "Accumulated_Count": 1000000,
+        "Group_Count": 1000000,
+        "Penalty_Type": "EPenaltyType::PlayPenalty",
+        "Penalty_Value": 43200,
+        "Penalty_Desc": "UI.Lobby_Penalty_Report_Desc_AllyDisturbance"
+      },
+      "104": {
+        "Report_Type": "EReportType::ERC_NotAttend",
+        "Report_Name": "UI.UI_GameResult_PopUp_Report_Case02",
+        "Report_Group": 1,
+        "Report_Lv": 4,
+        "Check_Period": 259200,
+        "Accumulated_Count": 1000000,
+        "Group_Count": 1000000,
+        "Penalty_Type": "EPenaltyType::PlayPenalty",
+        "Penalty_Value": 64800,
+        "Penalty_Desc": "UI.Lobby_Penalty_Report_Desc_NotAttend"
+      },
+      "105": {
+        "Report_Type": "EReportType::ERC_Spam",
+        "Report_Name": "UI.UI_GameResult_PopUp_Report_Case06",
+        "Report_Group": 0,
+        "Report_Lv": 5,
+        "Check_Period": 86400,
+        "Accumulated_Count": 1000000,
+        "Group_Count": 1000000,
+        "Penalty_Type": "EPenaltyType::PlayPenalty",
+        "Penalty_Value": 86400,
+        "Penalty_Desc": "UI.Lobby_Penalty_Report_Desc_Spam"
+      },
+      "106": {
+        "Report_Type": "EReportType::ERC_Cheat",
+        "Report_Name": "UI.UI_GameResult_PopUp_Report_Case03",
+        "Report_Group": 0,
+        "Report_Lv": 6,
+        "Check_Period": 86400,
+        "Accumulated_Count": 1000000,
+        "Group_Count": 1000000,
+        "Penalty_Type": "EPenaltyType::PlayPenalty",
+        "Penalty_Value": 604800,
+        "Penalty_Desc": "UI.Lobby_Penalty_Report_Desc_Cheat"
+      }
+    }
+  }
+]

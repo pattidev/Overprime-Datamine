@@ -1,0 +1,1456 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_ProfileEmblem",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPEmblemTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1100001": {
+        "GainedType": "EEmblemGainedType::EEGT_Default",
+        "Arrangement": 1,
+        "NameKey": "UI.Common_Paragon",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Basic_Portrait.Hero_Icon_Basic_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100002": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 2,
+        "NameKey": "CHAR.Hero_Name_1001",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Murdock_Portrait.Hero_Icon_Murdock_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100003": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 3,
+        "NameKey": "CHAR.Hero_Name_1002",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Twin_Portrait.Hero_Icon_Twin_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100004": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 4,
+        "NameKey": "CHAR.Hero_Name_1003",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Muriel_Portrait.Hero_Icon_Muriel_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100005": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 5,
+        "NameKey": "CHAR.Hero_Name_1004",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Rampage_Portrait.Hero_Icon_Rampage_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100006": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 6,
+        "NameKey": "CHAR.Hero_Name_1005",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Kallari_Portrait.Hero_Icon_Kallari_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100007": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 7,
+        "NameKey": "CHAR.Hero_Name_1006",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Grux_Portrait.Hero_Icon_Grux_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100008": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 8,
+        "NameKey": "CHAR.Hero_Name_1007",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Still_Portrait.Hero_Icon_Still_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100009": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 9,
+        "NameKey": "CHAR.Hero_Name_1009",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Sparrow_Portrait.Hero_Icon_Sparrow_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100010": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 10,
+        "NameKey": "CHAR.Hero_Name_1010",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Sevarog_Portrait.Hero_Icon_Sevarog_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100011": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 11,
+        "NameKey": "CHAR.Hero_Name_1011",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Kwang_Portrait.Hero_Icon_Kwang_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100012": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 12,
+        "NameKey": "CHAR.Hero_Name_1012",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Gideon_Portrait.Hero_Icon_Gideon_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100013": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 13,
+        "NameKey": "CHAR.Hero_Name_1013",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Fey_Portrait.Hero_Icon_Fey_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100014": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 14,
+        "NameKey": "CHAR.Hero_Name_1014",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Shinbi_Portrait.Hero_Icon_Shinbi_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100015": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 15,
+        "NameKey": "CHAR.Hero_Name_1015",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Revenant_Portrait.Hero_Icon_Revenant_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100016": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 16,
+        "NameKey": "CHAR.Hero_Name_1016",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Aurora_Portrait.Hero_Icon_Aurora_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100017": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 17,
+        "NameKey": "CHAR.Hero_Name_1017",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Phase_Portrait.Hero_Icon_Phase_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100018": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 18,
+        "NameKey": "CHAR.Hero_Name_1019",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Lt_Belica_Portrait.Hero_Icon_Lt_Belica_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100019": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 19,
+        "NameKey": "CHAR.Hero_Name_1020",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Fengmao_Portrait.Hero_Icon_Fengmao_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100020": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 20,
+        "NameKey": "CHAR.Hero_Name_1022",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Howit_Portrait.Hero_Icon_Howit_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100021": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 21,
+        "NameKey": "CHAR.Hero_Name_1023",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Khaimera_Portrait.Hero_Icon_Khaimera_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100022": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 22,
+        "NameKey": "CHAR.Hero_Name_1025",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Narbash_Portrait.Hero_Icon_Narbash_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100023": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 23,
+        "NameKey": "CHAR.Hero_Name_1026",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Gadget_Portrait.Hero_Icon_Gadget_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100024": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 24,
+        "NameKey": "CHAR.Hero_Name_1027",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Countess_Portrait.Hero_Icon_Countess_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100025": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 25,
+        "NameKey": "CHAR.Hero_Name_1028",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Serath_Portrait.Hero_Icon_Serath_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100026": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 26,
+        "NameKey": "CHAR.Hero_Name_1030",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Zena_Portrait.Hero_Icon_Zena_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100027": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 27,
+        "NameKey": "CHAR.Hero_Name_1031",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Dekker_Portrait.Hero_Icon_Dekker_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100028": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 28,
+        "NameKey": "CHAR.Hero_Name_1033",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Wraith_Portrait.Hero_Icon_Wraith_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100029": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 35,
+        "NameKey": "UI.Emb_Greenstar_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Greenstar_0101.Emb_Greenstar_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100030": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 36,
+        "NameKey": "UI.Emb_DE_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_DE_0101.Emb_DE_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100031": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 37,
+        "NameKey": "UI.Emb_KI_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_KI_0101.Emb_KI_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100032": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 38,
+        "NameKey": "UI.Emb_MA_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_MA_0101.Emb_MA_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100033": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 39,
+        "NameKey": "UI.Emb_Quest_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Quest_0101.Emb_Quest_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100034": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 40,
+        "NameKey": "UI.Emb_Death_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Death_0101.Emb_Death_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100035": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 41,
+        "NameKey": "UI.Emb_P7_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_P7_0101.Emb_P7_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100036": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 7,
+        "NameKey": "UI.Emb_SDSteel_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDSteel_0101.Emb_SDSteel_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100037": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 42,
+        "NameKey": "UI.Emb_Silent_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Silent_0101.Emb_Silent_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100038": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 43,
+        "NameKey": "UI.Emb_Flower_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Flower_0101.Emb_Flower_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100039": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 44,
+        "NameKey": "UI.Emb_Nata_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Nata_0101.Emb_Nata_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100040": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 45,
+        "NameKey": "UI.Emb_Muse_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Muse_0101.Emb_Muse_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100041": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 46,
+        "NameKey": "UI.Emb_Shield_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Shield_0101.Emb_Shield_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100042": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 47,
+        "NameKey": "UI.Emb_JunkBurster_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_JunkBurster_0101.Emb_JunkBurster_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100043": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 48,
+        "NameKey": "UI.Emb_Flame_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Flame_0101.Emb_Flame_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100044": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 49,
+        "NameKey": "UI.Emb_Setar_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Setar_0101.Emb_Setar_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100045": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 50,
+        "NameKey": "UI.Emb_Skull_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Skull_0101.Emb_Skull_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100046": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 51,
+        "NameKey": "UI.Emb_GreenSmog_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_GreenSmog_0101.Emb_GreenSmog_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100047": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 52,
+        "NameKey": "UI.Emb_TheEtanus_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_TheEtanus_0101.Emb_TheEtanus_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100048": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 53,
+        "NameKey": "UI.Emb_Angel_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Angel_0101.Emb_Angel_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100049": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 54,
+        "NameKey": "UI.Emb_Dekima_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Dekima_0101.Emb_Dekima_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100050": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 55,
+        "NameKey": "UI.Emb_Crystal_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Crystal_0101.Emb_Crystal_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100051": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 56,
+        "NameKey": "UI.Emb_HH_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_HH_0101.Emb_HH_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100052": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 57,
+        "NameKey": "UI.Emb_Leaf_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Leaf_0101.Emb_Leaf_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100053": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 58,
+        "NameKey": "UI.Emb_Mark_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Mark_0101.Emb_Mark_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100054": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 59,
+        "NameKey": "UI.Emb_Mateth_DE_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Mateth_DE_0101.Emb_Mateth_DE_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100055": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 18,
+        "NameKey": "UI.Emb_SDMao_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDMao_0101.Emb_SDMao_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100056": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 60,
+        "NameKey": "UI.Emb_Mask_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Mask_0101.Emb_Mask_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100057": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 61,
+        "NameKey": "UI.Emb_Night_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Night_0101.Emb_Night_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100058": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 21,
+        "NameKey": "UI.Emb_SDNarbash_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDNarbash_0101.Emb_SDNarbash_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100059": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 62,
+        "NameKey": "UI.Emb_Wolf_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Wolf_0101.Emb_Wolf_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100060": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 63,
+        "NameKey": "UI.Emb_YellowHat_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_YellowHat_0101.Emb_YellowHat_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100061": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 64,
+        "NameKey": "UI.Emb_TheGuard_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_TheGuard_0101.Emb_TheGuard_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100062": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 65,
+        "NameKey": "UI.Emb_Spark_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Spark_0101.Emb_Spark_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100063": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 66,
+        "NameKey": "UI.Emb_Ruins_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Ruins_0101.Emb_Ruins_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100064": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 67,
+        "NameKey": "UI.Emb_JunkBot_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_JunkBot_0101.Emb_JunkBot_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100065": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 68,
+        "NameKey": "UI.Emb_TheTracer_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_TheTracer_0101.Emb_TheTracer_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100066": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 69,
+        "NameKey": "UI.Emb_totem_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_totem_0101.Emb_totem_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100067": {
+        "GainedType": "EEmblemGainedType::EEGT_CBT_Normal",
+        "Arrangement": 1,
+        "NameKey": "UI.Emb_RemeberOVERPRIME_0101",
+        "DescriptionKey": "UI.Emb_CBTNormal_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_RemeberOVERPRIME_0101.Emb_RemeberOVERPRIME_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100068": {
+        "GainedType": "EEmblemGainedType::EEGT_CBT_Full",
+        "Arrangement": 1,
+        "NameKey": "UI.Emb_BestPlayer_0101",
+        "DescriptionKey": "UI.Emb_CBTFull_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_BestPlayer_0101.Emb_BestPlayer_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100069": {
+        "GainedType": "EEmblemGainedType::EEGT_Netmarble_Coupon",
+        "Arrangement": 1,
+        "NameKey": "UI.Emb_GSTAR2022_0101",
+        "DescriptionKey": "UI.Emb_GSTAR2022_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_GSTAR2022_0101.Emb_GSTAR2022_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100070": {
+        "GainedType": "EEmblemGainedType::EEGT_Netmarble_Coupon",
+        "Arrangement": 2,
+        "NameKey": "UI.Emb_FinalTester_0101",
+        "DescriptionKey": "UI.Emb_FinalTester_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_FinalTester_0101.Emb_FinalTester_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100071": {
+        "GainedType": "EEmblemGainedType::EEGT_Netmarble_Coupon",
+        "Arrangement": 3,
+        "NameKey": "UI.Emb_PremiumFinalTester_0101",
+        "DescriptionKey": "UI.Emb_PremiumFinalTester_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_PremiumFinalTester_0101.Emb_PremiumFinalTester_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100072": {
+        "GainedType": "EEmblemGainedType::EEGT_Netmarble_Coupon",
+        "Arrangement": 4,
+        "NameKey": "UI.Emb_AgnisCup_0101",
+        "DescriptionKey": "UI.Emb_AgnisCup_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_AgnisCup_0101.Emb_AgnisCup_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100073": {
+        "GainedType": "EEmblemGainedType::EEGT_Netmarble_Coupon",
+        "Arrangement": 5,
+        "NameKey": "UI.Emb_PartnerStreamer_0101",
+        "DescriptionKey": "UI.Emb_PartnerStreamer_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_PartnerStreamer_0101.Emb_PartnerStreamer_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100074": {
+        "GainedType": "EEmblemGainedType::EEGT_Netmarble_Coupon",
+        "Arrangement": 6,
+        "NameKey": "UI.Emb_PlatformEpic_0101",
+        "DescriptionKey": "UI.Emb_PlatformEpic_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_PlatformEpic_0101.Emb_PlatformEpic_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100075": {
+        "GainedType": "EEmblemGainedType::EEGT_Netmarble_Coupon",
+        "Arrangement": 7,
+        "NameKey": "UI.Emb_SOULEVE_0101",
+        "DescriptionKey": "UI.Emb_SOULEVE_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SOULEVE_0101.Emb_SOULEVE_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100076": {
+        "GainedType": "EEmblemGainedType::EEGT_Netmarble_Coupon",
+        "Arrangement": 8,
+        "NameKey": "UI.Emb_FinalTesterInRank100_0101",
+        "DescriptionKey": "UI.Emb_FinalTesterInRank100_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_FinalTesterInRank100_0101.Emb_FinalTesterInRank100_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100077": {
+        "GainedType": "EEmblemGainedType::EEGT_Netmarble_Coupon",
+        "Arrangement": 9,
+        "NameKey": "UI.Emb_DiscordMember_0101",
+        "DescriptionKey": "UI.Emb_DiscordMember_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_DiscordMember_0101.Emb_DiscordMember_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100078": {
+        "GainedType": "EEmblemGainedType::EEGT_Netmarble_Coupon",
+        "Arrangement": 10,
+        "NameKey": "UI.Emb_YoutubeMember_0101",
+        "DescriptionKey": "UI.Emb_YoutubeMember_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_YoutubeMember_0101.Emb_YoutubeMember_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100079": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 29,
+        "NameKey": "CHAR.Hero_Name_1036",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Wukong_Portrait.Hero_Icon_Wukong_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100080": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 31,
+        "NameKey": "CHAR.Hero_Name_1040",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Crunch_Portrait.Hero_Icon_Crunch_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100081": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 30,
+        "NameKey": "CHAR.Hero_Name_1037",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Iggy_Portrait.Hero_Icon_Iggy_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100082": {
+        "GainedType": "EEmblemGainedType::EEGT_Honor",
+        "Arrangement": 12,
+        "NameKey": "UI.Honor_HonorGrade_Honor3",
+        "DescriptionKey": "UI.Emb_Honor_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Honor3_0101.Emb_Honor3_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100083": {
+        "GainedType": "EEmblemGainedType::EEGT_Honor",
+        "Arrangement": 13,
+        "NameKey": "UI.Honor_HonorGrade_Honor2",
+        "DescriptionKey": "UI.Emb_Honor_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Honor2_0201.Emb_Honor2_0201",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100084": {
+        "GainedType": "EEmblemGainedType::EEGT_Honor",
+        "Arrangement": 14,
+        "NameKey": "UI.Honor_HonorGrade_Honor1",
+        "DescriptionKey": "UI.Emb_Honor_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Honor1_0301.Emb_Honor1_0301",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100085": {
+        "GainedType": "EEmblemGainedType::EEGT_Netmarble_Coupon",
+        "Arrangement": 11,
+        "NameKey": "UI.Emb_Moderator_0101",
+        "DescriptionKey": "UI.Emb_Moderator_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Moderator_0101.Emb_Moderator_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100086": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 32,
+        "NameKey": "CHAR.Hero_Name_1042",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Maco_Portrait.Hero_Icon_Maco_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100087": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 33,
+        "NameKey": "CHAR.Hero_Name_1032",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Drongo_Portrait.Hero_Icon_Drongo_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100088": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 70,
+        "NameKey": "UI.Emb_Ocean_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Ocean_0101.Emb_Ocean_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100089": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 71,
+        "NameKey": "UI.Emb_Heart_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Heart_0101.Emb_Heart_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100090": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 1,
+        "NameKey": "UI.Emb_SDMurdock_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDMurdock_0101.Emb_SDMurdock_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100091": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 2,
+        "NameKey": "UI.Emb_SDTwinblast_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDTwinblast_0101.Emb_SDTwinblast_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100092": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 3,
+        "NameKey": "UI.Emb_SDMuriel_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDMuriel_0101.Emb_SDMuriel_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100093": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 4,
+        "NameKey": "UI.Emb_SDRampage_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDRampage_0101.Emb_SDRampage_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100094": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 5,
+        "NameKey": "UI.Emb_SDKallari_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDKallari_0101.Emb_SDKallari_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100095": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 6,
+        "NameKey": "UI.Emb_SDGrux_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDGrux_0101.Emb_SDGrux_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100096": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 8,
+        "NameKey": "UI.Emb_SDSparrow_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDSparrow_0101.Emb_SDSparrow_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100097": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 9,
+        "NameKey": "UI.Emb_SDSevarog_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDSevarog_0101.Emb_SDSevarog_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100098": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 10,
+        "NameKey": "UI.Emb_SDKwang_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDKwang_0101.Emb_SDKwang_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100099": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 11,
+        "NameKey": "UI.Emb_SDGideon_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDGideon_0101.Emb_SDGideon_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100100": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 12,
+        "NameKey": "UI.Emb_SDTheFey_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDTheFey_0101.Emb_SDTheFey_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100101": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 13,
+        "NameKey": "UI.Emb_SDShinbi_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDShinbi_0101.Emb_SDShinbi_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100102": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 14,
+        "NameKey": "UI.Emb_SDRevenant_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDRevenant_0101.Emb_SDRevenant_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100103": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 15,
+        "NameKey": "UI.Emb_SDAurora_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDAurora_0101.Emb_SDAurora_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100104": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 16,
+        "NameKey": "UI.Emb_SDPhase_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDPhase_0101.Emb_SDPhase_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100105": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 17,
+        "NameKey": "UI.Emb_SDBelica_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDBelica_0101.Emb_SDBelica_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100106": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 34,
+        "NameKey": "UI.Emb_SDGRIMexe_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDGRIMexe_0101.Emb_SDGRIMexe_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100107": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 19,
+        "NameKey": "UI.Emb_SDHowitzer_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDHowitzer_0101.Emb_SDHowitzer_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100108": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 20,
+        "NameKey": "UI.Emb_SDKhaimera_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDKhaimera_0101.Emb_SDKhaimera_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100109": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 22,
+        "NameKey": "UI.Emb_SDGadget_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDGadget_0101.Emb_SDGadget_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100110": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 23,
+        "NameKey": "UI.Emb_SDCountess_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDCountess_0101.Emb_SDCountess_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100111": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 24,
+        "NameKey": "UI.Emb_SDSerath_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDSerath_0101.Emb_SDSerath_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100112": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 33,
+        "NameKey": "UI.Emb_SDGreystone_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDGreystone_0101.Emb_SDGreystone_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100113": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 25,
+        "NameKey": "UI.Emb_SDZena_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDZena_0101.Emb_SDZena_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100114": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 26,
+        "NameKey": "UI.Emb_SDDekker_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDDekker_0101.Emb_SDDekker_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100115": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 32,
+        "NameKey": "UI.Emb_SDDrongo_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDDrongo_0101.Emb_SDDrongo_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100116": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 27,
+        "NameKey": "UI.Emb_SDWraith_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDWraith_0101.Emb_SDWraith_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100117": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 28,
+        "NameKey": "UI.Emb_SDWukong_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDWukong_0101.Emb_SDWukong_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100118": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 29,
+        "NameKey": "UI.Emb_SDIggyScorch_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDIggyScorch_0101.Emb_SDIggyScorch_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100119": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 30,
+        "NameKey": "UI.Emb_SDCrunch_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDCrunch_0101.Emb_SDCrunch_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100120": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 31,
+        "NameKey": "UI.Emb_SDMaco_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDMaco_0101.Emb_SDMaco_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100121": {
+        "GainedType": "EEmblemGainedType::EEGT_Common_Contents",
+        "Arrangement": 1,
+        "NameKey": "UI.Emb_TheExploreMedal_0101",
+        "DescriptionKey": "UI.Emb_NewUserContentsReward_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_TheExploreMedal_0101.Emb_TheExploreMedal_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100122": {
+        "GainedType": "EEmblemGainedType::EEGT_Common_Contents",
+        "Arrangement": 2,
+        "NameKey": "UI.Emb_SpacePirate_0101",
+        "DescriptionKey": "UI.Emb_NewUserContentsReward_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SpacePirate_0101.Emb_SpacePirate_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100123": {
+        "GainedType": "EEmblemGainedType::EEGT_Common_Contents",
+        "Arrangement": 3,
+        "NameKey": "UI.Emb_Assemble_0101",
+        "DescriptionKey": "UI.Emb_NewUserContentsReward_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Assemble_0101.Emb_Assemble_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100124": {
+        "GainedType": "EEmblemGainedType::EEGT_Common_Contents",
+        "Arrangement": 4,
+        "NameKey": "UI.Emb_IamAngry_0101",
+        "DescriptionKey": "UI.Emb_NewUserContentsReward_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_IamAngry_0101.Emb_IamAngry_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100125": {
+        "GainedType": "EEmblemGainedType::EEGT_Common_Contents",
+        "Arrangement": 5,
+        "NameKey": "UI.Emb_WAYD_0101",
+        "DescriptionKey": "UI.Emb_NewUserContentsReward_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_WAYD_0101.Emb_WAYD_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100126": {
+        "GainedType": "EEmblemGainedType::EEGT_Common_Contents",
+        "Arrangement": 6,
+        "NameKey": "UI.Emb_EatIt_0101",
+        "DescriptionKey": "UI.Emb_NewUserContentsReward_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_EatIt_0101.Emb_EatIt_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100127": {
+        "GainedType": "EEmblemGainedType::EEGT_Common_Contents",
+        "Arrangement": 7,
+        "NameKey": "UI.Emb_ThumbsUp_0101",
+        "DescriptionKey": "UI.Emb_NewUserContentsReward_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_ThumbsUp_0101.Emb_ThumbsUp_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100128": {
+        "GainedType": "EEmblemGainedType::EEGT_Common_Contents",
+        "Arrangement": 8,
+        "NameKey": "UI.Emb_Resolve_0101",
+        "DescriptionKey": "UI.Emb_NewUserContentsReward_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Resolve_0101.Emb_Resolve_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100129": {
+        "GainedType": "EEmblemGainedType::EEGT_Common_Contents",
+        "Arrangement": 9,
+        "NameKey": "UI.Emb_Scared_0101",
+        "DescriptionKey": "UI.Emb_NewUserContentsReward_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Scared_0101.Emb_Scared_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100130": {
+        "GainedType": "EEmblemGainedType::EEGT_Common_Contents",
+        "Arrangement": 10,
+        "NameKey": "UI.Emb_Love_0101",
+        "DescriptionKey": "UI.Emb_NewUserContentsReward_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Love_0101.Emb_Love_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100131": {
+        "GainedType": "EEmblemGainedType::EEGT_Common_Contents",
+        "Arrangement": 11,
+        "NameKey": "UI.Emb_Cooperation_0101",
+        "DescriptionKey": "UI.Emb_NewUserContentsReward_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_Cooperation_0101.Emb_Cooperation_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      }
+    }
+  }
+]

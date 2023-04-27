@@ -1,0 +1,235 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_BattlePass_Level",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'BattlePassLevelRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "BattlePass_Group": "EBattlePassGroupType::EBPGT_NewUser",
+        "Level": 1,
+        "NeedEXP": 0,
+        "AccumulateExp": 0,
+        "Reward_ID": "Reward_BattlePass_EBPGT_NewUser_LV1",
+        "Reward_NameKey": "",
+        "Reward_Image_Icon": "Texture2D'/Game/UI/Resource/Texture/Reward/T_Common_Icon_Reward_Renar.T_Common_Icon_Reward_Renar'",
+        "Reward_Image_Portrait": "Blueprint'/Game/OutGame/Actors/BP_RewardItem_Renar.BP_RewardItem_Renar_C'",
+        "Reward_Image_Portrait_Texture": ""
+      },
+      "2": {
+        "BattlePass_Group": "EBattlePassGroupType::EBPGT_NewUser",
+        "Level": 2,
+        "NeedEXP": 500,
+        "AccumulateExp": 500,
+        "Reward_ID": "Reward_BattlePass_EBPGT_NewUser_LV2",
+        "Reward_NameKey": "",
+        "Reward_Image_Icon": "",
+        "Reward_Image_Portrait": "",
+        "Reward_Image_Portrait_Texture": ""
+      },
+      "3": {
+        "BattlePass_Group": "EBattlePassGroupType::EBPGT_NewUser",
+        "Level": 3,
+        "NeedEXP": 500,
+        "AccumulateExp": 1000,
+        "Reward_ID": "Reward_BattlePass_EBPGT_NewUser_LV3",
+        "Reward_NameKey": "",
+        "Reward_Image_Icon": "",
+        "Reward_Image_Portrait": "Blueprint'/Game/OutGame/Actors/BP_RewardItem_Emblem.BP_RewardItem_Emblem_C'",
+        "Reward_Image_Portrait_Texture": ""
+      },
+      "4": {
+        "BattlePass_Group": "EBattlePassGroupType::EBPGT_NewUser",
+        "Level": 4,
+        "NeedEXP": 500,
+        "AccumulateExp": 1500,
+        "Reward_ID": "Reward_BattlePass_EBPGT_NewUser_LV4",
+        "Reward_NameKey": "",
+        "Reward_Image_Icon": "",
+        "Reward_Image_Portrait": "",
+        "Reward_Image_Portrait_Texture": ""
+      },
+      "5": {
+        "BattlePass_Group": "EBattlePassGroupType::EBPGT_NewUser",
+        "Level": 5,
+        "NeedEXP": 500,
+        "AccumulateExp": 2000,
+        "Reward_ID": "Reward_BattlePass_EBPGT_NewUser_LV5",
+        "Reward_NameKey": "",
+        "Reward_Image_Icon": "",
+        "Reward_Image_Portrait": "Blueprint'/Game/OutGame/Actors/BP_RewardItem_Emblem.BP_RewardItem_Emblem_C'",
+        "Reward_Image_Portrait_Texture": ""
+      },
+      "6": {
+        "BattlePass_Group": "EBattlePassGroupType::EBPGT_NewUser",
+        "Level": 6,
+        "NeedEXP": 500,
+        "AccumulateExp": 2500,
+        "Reward_ID": "Reward_BattlePass_EBPGT_NewUser_LV6",
+        "Reward_NameKey": "",
+        "Reward_Image_Icon": "",
+        "Reward_Image_Portrait": "",
+        "Reward_Image_Portrait_Texture": ""
+      },
+      "7": {
+        "BattlePass_Group": "EBattlePassGroupType::EBPGT_NewUser",
+        "Level": 7,
+        "NeedEXP": 500,
+        "AccumulateExp": 3000,
+        "Reward_ID": "Reward_BattlePass_EBPGT_NewUser_LV7",
+        "Reward_NameKey": "",
+        "Reward_Image_Icon": "Texture2D'/Game/UI/Resource/Texture/Reward/T_Common_Icon_Reward_Renar.T_Common_Icon_Reward_Renar'",
+        "Reward_Image_Portrait": "Blueprint'/Game/OutGame/Actors/BP_RewardItem_Renar.BP_RewardItem_Renar_C'",
+        "Reward_Image_Portrait_Texture": ""
+      },
+      "8": {
+        "BattlePass_Group": "EBattlePassGroupType::EBPGT_NewUser",
+        "Level": 8,
+        "NeedEXP": 600,
+        "AccumulateExp": 3600,
+        "Reward_ID": "Reward_BattlePass_EBPGT_NewUser_LV8",
+        "Reward_NameKey": "",
+        "Reward_Image_Icon": "",
+        "Reward_Image_Portrait": "Blueprint'/Game/OutGame/Actors/BP_RewardItem_Emblem.BP_RewardItem_Emblem_C'",
+        "Reward_Image_Portrait_Texture": ""
+      },
+      "9": {
+        "BattlePass_Group": "EBattlePassGroupType::EBPGT_NewUser",
+        "Level": 9,
+        "NeedEXP": 600,
+        "AccumulateExp": 4200,
+        "Reward_ID": "Reward_BattlePass_EBPGT_NewUser_LV9",
+        "Reward_NameKey": "",
+        "Reward_Image_Icon": "",
+        "Reward_Image_Portrait": "",
+        "Reward_Image_Portrait_Texture": ""
+      },
+      "10": {
+        "BattlePass_Group": "EBattlePassGroupType::EBPGT_NewUser",
+        "Level": 10,
+        "NeedEXP": 600,
+        "AccumulateExp": 4800,
+        "Reward_ID": "Reward_BattlePass_EBPGT_NewUser_LV10",
+        "Reward_NameKey": "",
+        "Reward_Image_Icon": "",
+        "Reward_Image_Portrait": "",
+        "Reward_Image_Portrait_Texture": ""
+      },
+      "11": {
+        "BattlePass_Group": "EBattlePassGroupType::EBPGT_NewUser",
+        "Level": 11,
+        "NeedEXP": 750,
+        "AccumulateExp": 5550,
+        "Reward_ID": "Reward_BattlePass_EBPGT_NewUser_LV11",
+        "Reward_NameKey": "",
+        "Reward_Image_Icon": "",
+        "Reward_Image_Portrait": "",
+        "Reward_Image_Portrait_Texture": ""
+      },
+      "12": {
+        "BattlePass_Group": "EBattlePassGroupType::EBPGT_NewUser",
+        "Level": 12,
+        "NeedEXP": 750,
+        "AccumulateExp": 6300,
+        "Reward_ID": "Reward_BattlePass_EBPGT_NewUser_LV12",
+        "Reward_NameKey": "",
+        "Reward_Image_Icon": "",
+        "Reward_Image_Portrait": "Blueprint'/Game/OutGame/Actors/BP_RewardItem_Emblem.BP_RewardItem_Emblem_C'",
+        "Reward_Image_Portrait_Texture": ""
+      },
+      "13": {
+        "BattlePass_Group": "EBattlePassGroupType::EBPGT_NewUser",
+        "Level": 13,
+        "NeedEXP": 750,
+        "AccumulateExp": 7050,
+        "Reward_ID": "Reward_BattlePass_EBPGT_NewUser_LV13",
+        "Reward_NameKey": "",
+        "Reward_Image_Icon": "Texture2D'/Game/UI/Resource/Texture/Reward/T_Common_Icon_Reward_Renar.T_Common_Icon_Reward_Renar'",
+        "Reward_Image_Portrait": "Blueprint'/Game/OutGame/Actors/BP_RewardItem_Renar.BP_RewardItem_Renar_C'",
+        "Reward_Image_Portrait_Texture": ""
+      },
+      "14": {
+        "BattlePass_Group": "EBattlePassGroupType::EBPGT_NewUser",
+        "Level": 14,
+        "NeedEXP": 900,
+        "AccumulateExp": 7950,
+        "Reward_ID": "Reward_BattlePass_EBPGT_NewUser_LV14",
+        "Reward_NameKey": "",
+        "Reward_Image_Icon": "",
+        "Reward_Image_Portrait": "",
+        "Reward_Image_Portrait_Texture": ""
+      },
+      "15": {
+        "BattlePass_Group": "EBattlePassGroupType::EBPGT_NewUser",
+        "Level": 15,
+        "NeedEXP": 900,
+        "AccumulateExp": 8850,
+        "Reward_ID": "Reward_BattlePass_EBPGT_NewUser_LV15",
+        "Reward_NameKey": "",
+        "Reward_Image_Icon": "",
+        "Reward_Image_Portrait": "Blueprint'/Game/OutGame/Actors/BP_RewardItem_Emblem.BP_RewardItem_Emblem_C'",
+        "Reward_Image_Portrait_Texture": ""
+      },
+      "16": {
+        "BattlePass_Group": "EBattlePassGroupType::EBPGT_NewUser",
+        "Level": 16,
+        "NeedEXP": 900,
+        "AccumulateExp": 9750,
+        "Reward_ID": "Reward_BattlePass_EBPGT_NewUser_LV16",
+        "Reward_NameKey": "",
+        "Reward_Image_Icon": "",
+        "Reward_Image_Portrait": "",
+        "Reward_Image_Portrait_Texture": ""
+      },
+      "17": {
+        "BattlePass_Group": "EBattlePassGroupType::EBPGT_NewUser",
+        "Level": 17,
+        "NeedEXP": 1100,
+        "AccumulateExp": 10850,
+        "Reward_ID": "Reward_BattlePass_EBPGT_NewUser_LV17",
+        "Reward_NameKey": "",
+        "Reward_Image_Icon": "",
+        "Reward_Image_Portrait": "Blueprint'/Game/OutGame/Actors/BP_RewardItem_Emblem.BP_RewardItem_Emblem_C'",
+        "Reward_Image_Portrait_Texture": ""
+      },
+      "18": {
+        "BattlePass_Group": "EBattlePassGroupType::EBPGT_NewUser",
+        "Level": 18,
+        "NeedEXP": 1100,
+        "AccumulateExp": 11950,
+        "Reward_ID": "Reward_BattlePass_EBPGT_NewUser_LV18",
+        "Reward_NameKey": "",
+        "Reward_Image_Icon": "Texture2D'/Game/UI/Resource/Texture/Reward/T_Common_Icon_Reward_Renar.T_Common_Icon_Reward_Renar'",
+        "Reward_Image_Portrait": "Blueprint'/Game/OutGame/Actors/BP_RewardItem_Renar.BP_RewardItem_Renar_C'",
+        "Reward_Image_Portrait_Texture": ""
+      },
+      "19": {
+        "BattlePass_Group": "EBattlePassGroupType::EBPGT_NewUser",
+        "Level": 19,
+        "NeedEXP": 1100,
+        "AccumulateExp": 13050,
+        "Reward_ID": "Reward_BattlePass_EBPGT_NewUser_LV19",
+        "Reward_NameKey": "",
+        "Reward_Image_Icon": "",
+        "Reward_Image_Portrait": "Blueprint'/Game/OutGame/Actors/BP_RewardItem_Emblem.BP_RewardItem_Emblem_C'",
+        "Reward_Image_Portrait_Texture": ""
+      },
+      "20": {
+        "BattlePass_Group": "EBattlePassGroupType::EBPGT_NewUser",
+        "Level": 20,
+        "NeedEXP": 1100,
+        "AccumulateExp": 14150,
+        "Reward_ID": "Reward_BattlePass_EBPGT_NewUser_LV20",
+        "Reward_NameKey": "",
+        "Reward_Image_Icon": "",
+        "Reward_Image_Portrait": "",
+        "Reward_Image_Portrait_Texture": ""
+      }
+    }
+  }
+]

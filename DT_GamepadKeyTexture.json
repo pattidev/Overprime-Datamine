@@ -1,0 +1,191 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_GamepadKeyTexture",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'GamepadKeyTextureTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "Gamepad_RightTrigger": {
+        "KeyType": "Gamepad_RightTrigger",
+        "Texture_XBox": {
+          "ObjectName": "Texture2D'T_Console_XBox_12'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Xbox/T_Console_XBox_12.0"
+        },
+        "Texture_PS": {
+          "ObjectName": "Texture2D'T_Console_Ps_12'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Ps/T_Console_Ps_12.0"
+        }
+      },
+      "Gamepad_RightShoulder": {
+        "KeyType": "Gamepad_RightShoulder",
+        "Texture_XBox": {
+          "ObjectName": "Texture2D'T_Console_XBox_10'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Xbox/T_Console_XBox_10.0"
+        },
+        "Texture_PS": {
+          "ObjectName": "Texture2D'T_Console_Ps_10'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Ps/T_Console_Ps_10.0"
+        }
+      },
+      "Gamepad_LeftTrigger": {
+        "KeyType": "Gamepad_LeftTrigger",
+        "Texture_XBox": {
+          "ObjectName": "Texture2D'T_Console_XBox_11'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Xbox/T_Console_XBox_11.0"
+        },
+        "Texture_PS": {
+          "ObjectName": "Texture2D'T_Console_Ps_11'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Ps/T_Console_Ps_11.0"
+        }
+      },
+      "Gamepad_LeftShoulder": {
+        "KeyType": "Gamepad_LeftShoulder",
+        "Texture_XBox": {
+          "ObjectName": "Texture2D'T_Console_XBox_09'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Xbox/T_Console_XBox_09.0"
+        },
+        "Texture_PS": {
+          "ObjectName": "Texture2D'T_Console_Ps_09'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Ps/T_Console_Ps_09.0"
+        }
+      },
+      "Gamepad_DPad_Up": {
+        "KeyType": "Gamepad_DPad_Up",
+        "Texture_XBox": {
+          "ObjectName": "Texture2D'T_Console_XBox_07'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Xbox/T_Console_XBox_07.0"
+        },
+        "Texture_PS": {
+          "ObjectName": "Texture2D'T_Console_Ps_07'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Ps/T_Console_Ps_07.0"
+        }
+      },
+      "Gamepad_DPad_Down": {
+        "KeyType": "Gamepad_DPad_Down",
+        "Texture_XBox": {
+          "ObjectName": "Texture2D'T_Console_XBox_08'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Xbox/T_Console_XBox_08.0"
+        },
+        "Texture_PS": {
+          "ObjectName": "Texture2D'T_Console_Ps_08'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Ps/T_Console_Ps_08.0"
+        }
+      },
+      "Gamepad_DPad_Right": {
+        "KeyType": "Gamepad_DPad_Right",
+        "Texture_XBox": {
+          "ObjectName": "Texture2D'T_Console_XBox_06'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Xbox/T_Console_XBox_06.0"
+        },
+        "Texture_PS": {
+          "ObjectName": "Texture2D'T_Console_Ps_06'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Ps/T_Console_Ps_06.0"
+        }
+      },
+      "Gamepad_DPad_Left": {
+        "KeyType": "Gamepad_DPad_Left",
+        "Texture_XBox": {
+          "ObjectName": "Texture2D'T_Console_XBox_05'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Xbox/T_Console_XBox_05.0"
+        },
+        "Texture_PS": {
+          "ObjectName": "Texture2D'T_Console_Ps_05'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Ps/T_Console_Ps_05.0"
+        }
+      },
+      "Gamepad_FaceButton_Bottom": {
+        "KeyType": "Gamepad_FaceButton_Bottom",
+        "Texture_XBox": {
+          "ObjectName": "Texture2D'T_Console_XBox_01'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Xbox/T_Console_XBox_01.0"
+        },
+        "Texture_PS": {
+          "ObjectName": "Texture2D'T_Console_Ps_01'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Ps/T_Console_Ps_01.0"
+        }
+      },
+      "Gamepad_FaceButton_Right": {
+        "KeyType": "Gamepad_FaceButton_Right",
+        "Texture_XBox": {
+          "ObjectName": "Texture2D'T_Console_XBox_02'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Xbox/T_Console_XBox_02.0"
+        },
+        "Texture_PS": {
+          "ObjectName": "Texture2D'T_Console_Ps_02'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Ps/T_Console_Ps_02.0"
+        }
+      },
+      "Gamepad_FaceButton_Left": {
+        "KeyType": "Gamepad_FaceButton_Left",
+        "Texture_XBox": {
+          "ObjectName": "Texture2D'T_Console_XBox_03'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Xbox/T_Console_XBox_03.0"
+        },
+        "Texture_PS": {
+          "ObjectName": "Texture2D'T_Console_Ps_03'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Ps/T_Console_Ps_03.0"
+        }
+      },
+      "Gamepad_FaceButton_Top": {
+        "KeyType": "Gamepad_FaceButton_Top",
+        "Texture_XBox": {
+          "ObjectName": "Texture2D'T_Console_XBox_04'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Xbox/T_Console_XBox_04.0"
+        },
+        "Texture_PS": {
+          "ObjectName": "Texture2D'T_Console_Ps_04'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Ps/T_Console_Ps_04.0"
+        }
+      },
+      "Gamepad_LeftThumbstick": {
+        "KeyType": "Gamepad_LeftThumbstick",
+        "Texture_XBox": {
+          "ObjectName": "Texture2D'T_Console_XBox_15'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Xbox/T_Console_XBox_15.0"
+        },
+        "Texture_PS": {
+          "ObjectName": "Texture2D'T_Console_Ps_15'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Ps/T_Console_Ps_15.0"
+        }
+      },
+      "Gamepad_RightThumbstick": {
+        "KeyType": "Gamepad_RightThumbstick",
+        "Texture_XBox": {
+          "ObjectName": "Texture2D'T_Console_XBox_16'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Xbox/T_Console_XBox_16.0"
+        },
+        "Texture_PS": {
+          "ObjectName": "Texture2D'T_Console_Ps_16'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Ps/T_Console_Ps_16.0"
+        }
+      },
+      "Gamepad_Special_Left": {
+        "KeyType": "Gamepad_Special_Left",
+        "Texture_XBox": {
+          "ObjectName": "Texture2D'T_Console_XBox_13'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Xbox/T_Console_XBox_13.0"
+        },
+        "Texture_PS": {
+          "ObjectName": "Texture2D'T_Console_Ps_13'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Ps/T_Console_Ps_13.0"
+        }
+      },
+      "Gamepad_Special_Right": {
+        "KeyType": "Gamepad_Special_Right",
+        "Texture_XBox": {
+          "ObjectName": "Texture2D'T_Console_XBox_14'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Xbox/T_Console_XBox_14.0"
+        },
+        "Texture_PS": {
+          "ObjectName": "Texture2D'T_Console_Ps_14'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Console/Ps/T_Console_Ps_14.0"
+        }
+      }
+    }
+  }
+]

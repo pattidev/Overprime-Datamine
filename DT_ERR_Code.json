@@ -1,0 +1,387 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_ERR_Code",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPServerErrorCodeTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "StringKey": "ERR.EC_1_Custom"
+      },
+      "2": {
+        "StringKey": "ERR.EC_2_Custom"
+      },
+      "3": {
+        "StringKey": "ERR.EC_3_Custom"
+      },
+      "4": {
+        "StringKey": "ERR.EC_4_Custom"
+      },
+      "5": {
+        "StringKey": "ERR.EC_5_Custom"
+      },
+      "6": {
+        "StringKey": "ERR.EC_6_Custom"
+      },
+      "7": {
+        "StringKey": "ERR.EC_7_Custom"
+      },
+      "8": {
+        "StringKey": "ERR.EC_8_Custom"
+      },
+      "9": {
+        "StringKey": "ERR.EC_9_Custom"
+      },
+      "10": {
+        "StringKey": "ERR.EC_10_Custom"
+      },
+      "11": {
+        "StringKey": "ERR.EC_11_Custom"
+      },
+      "12": {
+        "StringKey": "ERR.EC_12_Custom"
+      },
+      "13": {
+        "StringKey": "ERR.EC_13_Custom"
+      },
+      "14": {
+        "StringKey": "ERR.EC_14_Custom"
+      },
+      "15": {
+        "StringKey": "ERR.EC_15_Custom"
+      },
+      "16": {
+        "StringKey": "ERR.EC_Common_Party_1"
+      },
+      "17": {
+        "StringKey": "ERR.EC_17_Custom"
+      },
+      "18": {
+        "StringKey": "ERR.EC_18_Custom"
+      },
+      "19": {
+        "StringKey": "ERR.EC_Common_1"
+      },
+      "20": {
+        "StringKey": "ERR.EC_Common_2"
+      },
+      "21": {
+        "StringKey": "ERR.EC_21_Custom"
+      },
+      "22": {
+        "StringKey": "ERR.EC_22_Custom"
+      },
+      "23": {
+        "StringKey": "ERR.EC_23_Custom"
+      },
+      "24": {
+        "StringKey": "ERR.EC_24_Custom"
+      },
+      "25": {
+        "StringKey": "ERR.EC_25_Custom"
+      },
+      "26": {
+        "StringKey": "ERR.EC_26_Custom"
+      },
+      "27": {
+        "StringKey": "ERR.EC_27_Custom"
+      },
+      "28": {
+        "StringKey": "ERR.EC_28_Custom"
+      },
+      "29": {
+        "StringKey": "ERR.EC_29_Custom"
+      },
+      "30": {
+        "StringKey": "ERR.EC_30_Custom"
+      },
+      "31": {
+        "StringKey": "ERR.EC_31_Custom"
+      },
+      "32": {
+        "StringKey": "ERR.EC_32_Custom"
+      },
+      "33": {
+        "StringKey": "ERR.EC_33_Custom"
+      },
+      "34": {
+        "StringKey": "ERR.EC_34_Custom"
+      },
+      "35": {
+        "StringKey": "ERR.EC_Common_1"
+      },
+      "98": {
+        "StringKey": "ERR.EC_98_Service"
+      },
+      "99": {
+        "StringKey": "ERR.EC_99_Service"
+      },
+      "100": {
+        "StringKey": "Service_100"
+      },
+      "101": {
+        "StringKey": "Service_101"
+      },
+      "102": {
+        "StringKey": "Service_102"
+      },
+      "10000": {
+        "StringKey": "ERR.EC_10000_Party"
+      },
+      "10001": {
+        "StringKey": "ERR.EC_10001_Party"
+      },
+      "10002": {
+        "StringKey": "ERR.EC_10002_Party"
+      },
+      "10003": {
+        "StringKey": "ERR.EC_10003_Party"
+      },
+      "10004": {
+        "StringKey": "ERR.EC_Common_Party_1"
+      },
+      "10005": {
+        "StringKey": "ERR.EC_Common_2"
+      },
+      "10006": {
+        "StringKey": "ERR.EC_10006_Party"
+      },
+      "10007": {
+        "StringKey": "ERR.EC_10007_Party"
+      },
+      "10008": {
+        "StringKey": "ERR.EC_Common_Party_2"
+      },
+      "10009": {
+        "StringKey": "ERR.EC_Common_Party_2"
+      },
+      "10010": {
+        "StringKey": "ERR.EC_10010_Party"
+      },
+      "10011": {
+        "StringKey": "ERR.EC_10011_Party"
+      },
+      "10012": {
+        "StringKey": "ERR.EC_Common_2"
+      },
+      "10013": {
+        "StringKey": "ERR.EC_Common_Party_3"
+      },
+      "10014": {
+        "StringKey": "ERR.EC_Common_Party_3"
+      },
+      "10015": {
+        "StringKey": "ERR.EC_10015_Party"
+      },
+      "10016": {
+        "StringKey": "ERR.EC_10016_Party"
+      },
+      "10017": {
+        "StringKey": "ERR.EC_10017_Party"
+      },
+      "10018": {
+        "StringKey": "ERR.EC_10018_Party"
+      },
+      "11000": {
+        "StringKey": "ERR.EC_11000_Party"
+      },
+      "11001": {
+        "StringKey": "ERR.EC_11001_Party"
+      },
+      "11002": {
+        "StringKey": "ERR.EC_11002_Party"
+      },
+      "11003": {
+        "StringKey": "ERR.EC_11003_Party"
+      },
+      "12000": {
+        "StringKey": "ERR.EC_12000_Party"
+      },
+      "20000": {
+        "StringKey": "ERR.EC_20000_Match"
+      },
+      "20001": {
+        "StringKey": "ERR.EC_Common_Party_1"
+      },
+      "20002": {
+        "StringKey": "ERR.EC_20002_Match"
+      },
+      "20003": {
+        "StringKey": "ERR.EC_20003_Match"
+      },
+      "20004": {
+        "StringKey": "ERR.EC_20004_Match"
+      },
+      "20005": {
+        "StringKey": "ERR.EC_20005_Match"
+      },
+      "20006": {
+        "StringKey": "ERR.EC_20006_Match"
+      },
+      "20007": {
+        "StringKey": "ERR.EC_20007_Match"
+      },
+      "20010": {
+        "StringKey": "ERR.EC_20010_Match"
+      },
+      "20011": {
+        "StringKey": "ERR.EC_20011_Match"
+      },
+      "20012": {
+        "StringKey": "ERR.EC_20012_Match"
+      },
+      "20013": {
+        "StringKey": "ERR.EC_20013_Match"
+      },
+      "20014": {
+        "StringKey": "ERR.EC_20014_Placement"
+      },
+      "21000": {
+        "StringKey": "ERR.EC_Common_Party_4"
+      },
+      "21001": {
+        "StringKey": "ERR.EC_Common_Party_4"
+      },
+      "21002": {
+        "StringKey": "ERR.EC_21002_Match"
+      },
+      "22000": {
+        "StringKey": "ERR.EC_22000_Match"
+      },
+      "30000": {
+        "StringKey": "ERR.EC_30000_Chat"
+      },
+      "30001": {
+        "StringKey": "ERR.EC_Common_Chat_1"
+      },
+      "30002": {
+        "StringKey": "ERR.EC_30002_Chat"
+      },
+      "30003": {
+        "StringKey": "ERR.EC_Common_Chat_1"
+      },
+      "30004": {
+        "StringKey": "ERR.EC_30004_Chat"
+      },
+      "30005": {
+        "StringKey": "ERR.EC_30005_Chat"
+      },
+      "30006": {
+        "StringKey": "ERR.EC_30006_Chat"
+      },
+      "30007": {
+        "StringKey": "ERR.EC_30007_Chat"
+      },
+      "30008": {
+        "StringKey": "ERR.EC_30008_Chat"
+      },
+      "40000": {
+        "StringKey": "ERR.EC_40000_Friends"
+      },
+      "40001": {
+        "StringKey": "ERR.EC_40001_Friends"
+      },
+      "40002": {
+        "StringKey": "ERR.EC_40002_Friends"
+      },
+      "40003": {
+        "StringKey": "ERR.EC_40003_Friends"
+      },
+      "40004": {
+        "StringKey": "ERR.EC_40004_Friends"
+      },
+      "40005": {
+        "StringKey": "ERR.EC_40005_Friends"
+      },
+      "40006": {
+        "StringKey": "ERR.EC_40006_Friends"
+      },
+      "50000": {
+        "StringKey": "ERR.EC_50000_Lobby"
+      },
+      "50001": {
+        "StringKey": "ERR.EC_50001_Lobby"
+      },
+      "50002": {
+        "StringKey": "ERR.EC_50002_Lobby"
+      },
+      "50003": {
+        "StringKey": "ERR.EC_50003_Lobby"
+      },
+      "50004": {
+        "StringKey": "ERR.EC_Common_1"
+      },
+      "51000": {
+        "StringKey": "ERR.EC_Common_3"
+      },
+      "52000": {
+        "StringKey": "ERR.EC_Common_3"
+      },
+      "52001": {
+        "StringKey": "ERR.EC_52001_Penalty"
+      },
+      "52002": {
+        "StringKey": "ERR.EC_52002_Penalty"
+      },
+      "52003": {
+        "StringKey": "ERR.EC_52003_Penalty"
+      },
+      "53000": {
+        "StringKey": "ERR.EC_53000_Mail"
+      },
+      "53001": {
+        "StringKey": "ERR.EC_53001_Mail"
+      },
+      "53002": {
+        "StringKey": "ERR.EC_53002_Mail"
+      },
+      "54000": {
+        "StringKey": "ERR.EC_54000_Report"
+      },
+      "54001": {
+        "StringKey": "ERR.EC_54001_Report"
+      },
+      "60001": {
+        "StringKey": "ERR.EC_Common_4"
+      },
+      "61000": {
+        "StringKey": "ERR.EC_Common_3"
+      },
+      "61001": {
+        "StringKey": "ERR.EC_61001_Purchase"
+      },
+      "62000": {
+        "StringKey": "ERR.EC_62000_Leaderboards"
+      },
+      "62001": {
+        "StringKey": "ERR.EC_62001_Leaderboards"
+      },
+      "63000": {
+        "StringKey": "ERR.EC_Common_1"
+      },
+      "65000": {
+        "StringKey": "ERR.EC_Common_3"
+      },
+      "66000": {
+        "StringKey": "ERR.EC_Common_1"
+      },
+      "66001": {
+        "StringKey": "ERR.EC_Common_1"
+      },
+      "66002": {
+        "StringKey": "ERR.EC_Common_1"
+      },
+      "67000": {
+        "StringKey": "ERR.EC_Common_1"
+      },
+      "67001": {
+        "StringKey": "ERR.EC_Common_1"
+      }
+    }
+  }
+]

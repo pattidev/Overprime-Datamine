@@ -1,0 +1,867 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_PositionGuide",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PositionGuideTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "MapType": "EOfficialMapType::EOMT_LegacyAgora",
+        "MapName": "LegacyNewAgora",
+        "TeamNum": 1,
+        "PositionType": "EPositionType::EPT_GuardianLane",
+        "Finish": {
+          "X": 12110.0,
+          "Y": 2970.0,
+          "Z": 1260.0
+        },
+        "PathList": [
+          {
+            "X": 430.0,
+            "Y": 13900.0,
+            "Z": 1260.0
+          },
+          {
+            "X": 3500.0,
+            "Y": 10890.0,
+            "Z": 950.0
+          },
+          {
+            "X": 5220.0,
+            "Y": 10800.0,
+            "Z": 950.0
+          },
+          {
+            "X": 7380.0,
+            "Y": 8580.0,
+            "Z": 920.0
+          },
+          {
+            "X": 10680.0,
+            "Y": 6460.0,
+            "Z": 1260.0
+          },
+          {
+            "X": 11020.0,
+            "Y": 4520.0,
+            "Z": 1260.0
+          }
+        ]
+      },
+      "2": {
+        "MapType": "EOfficialMapType::EOMT_LegacyAgora",
+        "MapName": "LegacyNewAgora",
+        "TeamNum": 1,
+        "PositionType": "EPositionType::EPT_MAX",
+        "Finish": {
+          "X": -12490.0,
+          "Y": 2970.0,
+          "Z": -640.0
+        },
+        "PathList": [
+          {
+            "X": -670.0,
+            "Y": 13900.0,
+            "Z": 1260.0
+          },
+          {
+            "X": -3750.0,
+            "Y": 10930.0,
+            "Z": 950.0
+          },
+          {
+            "X": -5520.0,
+            "Y": 10750.0,
+            "Z": 950.0
+          },
+          {
+            "X": -7380.0,
+            "Y": 8940.0,
+            "Z": 860.0
+          },
+          {
+            "X": -10680.0,
+            "Y": 7710.0,
+            "Z": -160.0
+          },
+          {
+            "X": -11580.0,
+            "Y": 5090.0,
+            "Z": -630.0
+          }
+        ]
+      },
+      "3": {
+        "MapType": "EOfficialMapType::EOMT_LegacyAgora",
+        "MapName": "LegacyNewAgora",
+        "TeamNum": 1,
+        "PositionType": "EPositionType::EPT_MidLane",
+        "Finish": {
+          "X": -1240.0,
+          "Y": 1950.0,
+          "Z": 300.0
+        },
+        "PathList": [
+          {
+            "X": -120.0,
+            "Y": 13610.0,
+            "Z": 1260.0
+          },
+          {
+            "X": -120.0,
+            "Y": 10490.0,
+            "Z": 970.0
+          },
+          {
+            "X": -860.0,
+            "Y": 9380.0,
+            "Z": 970.0
+          },
+          {
+            "X": -610.0,
+            "Y": 6210.0,
+            "Z": 820.0
+          },
+          {
+            "X": -140.0,
+            "Y": 3680.0,
+            "Z": 330.0
+          }
+        ]
+      },
+      "4": {
+        "MapType": "EOfficialMapType::EOMT_LegacyAgora",
+        "MapName": "LegacyNewAgora",
+        "TeamNum": 1,
+        "PositionType": "EPositionType::EPT_Jungle",
+        "Finish": {
+          "X": -6930.0,
+          "Y": 5340.0,
+          "Z": -470.0
+        },
+        "PathList": [
+          {
+            "X": -670.0,
+            "Y": 13900.0,
+            "Z": 1260.0
+          },
+          {
+            "X": -3750.0,
+            "Y": 10930.0,
+            "Z": 950.0
+          },
+          {
+            "X": -4060.0,
+            "Y": 8920.0,
+            "Z": 950.0
+          },
+          {
+            "X": -4990.0,
+            "Y": 7940.0,
+            "Z": 950.0
+          },
+          {
+            "X": -4900.0,
+            "Y": 5950.0,
+            "Z": -100.0
+          },
+          {
+            "X": -5370.0,
+            "Y": 4870.0,
+            "Z": -440.0
+          }
+        ]
+      },
+      "5": {
+        "MapType": "EOfficialMapType::EOMT_LegacyAgora",
+        "MapName": "LegacyNewAgora",
+        "TeamNum": 2,
+        "PositionType": "EPositionType::EPT_GuardianLane",
+        "Finish": {
+          "X": 12110.0,
+          "Y": -2970.0,
+          "Z": 1260.0
+        },
+        "PathList": [
+          {
+            "X": 430.0,
+            "Y": -13900.0,
+            "Z": 1260.0
+          },
+          {
+            "X": 3500.0,
+            "Y": -10890.0,
+            "Z": 950.0
+          },
+          {
+            "X": 5220.0,
+            "Y": -10800.0,
+            "Z": 950.0
+          },
+          {
+            "X": 7380.0,
+            "Y": -8580.0,
+            "Z": 920.0
+          },
+          {
+            "X": 10680.0,
+            "Y": -6460.0,
+            "Z": 1260.0
+          },
+          {
+            "X": 11020.0,
+            "Y": -4520.0,
+            "Z": 1260.0
+          }
+        ]
+      },
+      "6": {
+        "MapType": "EOfficialMapType::EOMT_LegacyAgora",
+        "MapName": "LegacyNewAgora",
+        "TeamNum": 2,
+        "PositionType": "EPositionType::EPT_MAX",
+        "Finish": {
+          "X": -12490.0,
+          "Y": -2970.0,
+          "Z": -640.0
+        },
+        "PathList": [
+          {
+            "X": -670.0,
+            "Y": -13900.0,
+            "Z": 1260.0
+          },
+          {
+            "X": -3750.0,
+            "Y": -10930.0,
+            "Z": 950.0
+          },
+          {
+            "X": -5520.0,
+            "Y": -10750.0,
+            "Z": 950.0
+          },
+          {
+            "X": -7380.0,
+            "Y": -8940.0,
+            "Z": 860.0
+          },
+          {
+            "X": -10680.0,
+            "Y": -7710.0,
+            "Z": -160.0
+          },
+          {
+            "X": -11580.0,
+            "Y": -5090.0,
+            "Z": -630.0
+          }
+        ]
+      },
+      "7": {
+        "MapType": "EOfficialMapType::EOMT_LegacyAgora",
+        "MapName": "LegacyNewAgora",
+        "TeamNum": 2,
+        "PositionType": "EPositionType::EPT_MidLane",
+        "Finish": {
+          "X": -1240.0,
+          "Y": -1870.0,
+          "Z": 300.0
+        },
+        "PathList": [
+          {
+            "X": -120.0,
+            "Y": -13610.0,
+            "Z": 1260.0
+          },
+          {
+            "X": -120.0,
+            "Y": -10490.0,
+            "Z": 970.0
+          },
+          {
+            "X": -800.0,
+            "Y": -9230.0,
+            "Z": 960.0
+          },
+          {
+            "X": -490.0,
+            "Y": -6250.0,
+            "Z": 790.0
+          },
+          {
+            "X": -210.0,
+            "Y": -3560.0,
+            "Z": 330.0
+          }
+        ]
+      },
+      "8": {
+        "MapType": "EOfficialMapType::EOMT_LegacyAgora",
+        "MapName": "LegacyNewAgora",
+        "TeamNum": 2,
+        "PositionType": "EPositionType::EPT_Jungle",
+        "Finish": {
+          "X": -6930.0,
+          "Y": -5340.0,
+          "Z": -470.0
+        },
+        "PathList": [
+          {
+            "X": -670.0,
+            "Y": -13900.0,
+            "Z": 1260.0
+          },
+          {
+            "X": -3750.0,
+            "Y": -10930.0,
+            "Z": 950.0
+          },
+          {
+            "X": -4060.0,
+            "Y": -8920.0,
+            "Z": 950.0
+          },
+          {
+            "X": -4990.0,
+            "Y": -7940.0,
+            "Z": 950.0
+          },
+          {
+            "X": -4900.0,
+            "Y": -5950.0,
+            "Z": -100.0
+          },
+          {
+            "X": -5370.0,
+            "Y": -4870.0,
+            "Z": -440.0
+          }
+        ]
+      },
+      "9": {
+        "MapType": "EOfficialMapType::EOMT_LegacyAgora",
+        "MapName": "Agolith",
+        "TeamNum": 1,
+        "PositionType": "EPositionType::EPT_GuardianLane",
+        "Finish": {
+          "X": 12110.0,
+          "Y": 2970.0,
+          "Z": 1260.0
+        },
+        "PathList": [
+          {
+            "X": 430.0,
+            "Y": 13900.0,
+            "Z": 1260.0
+          },
+          {
+            "X": 3500.0,
+            "Y": 10890.0,
+            "Z": 950.0
+          },
+          {
+            "X": 5220.0,
+            "Y": 10800.0,
+            "Z": 950.0
+          },
+          {
+            "X": 7380.0,
+            "Y": 8580.0,
+            "Z": 920.0
+          },
+          {
+            "X": 10680.0,
+            "Y": 6460.0,
+            "Z": 1260.0
+          },
+          {
+            "X": 11020.0,
+            "Y": 4520.0,
+            "Z": 1260.0
+          }
+        ]
+      },
+      "10": {
+        "MapType": "EOfficialMapType::EOMT_LegacyAgora",
+        "MapName": "Agolith",
+        "TeamNum": 1,
+        "PositionType": "EPositionType::EPT_MAX",
+        "Finish": {
+          "X": -12490.0,
+          "Y": 2970.0,
+          "Z": -640.0
+        },
+        "PathList": [
+          {
+            "X": -670.0,
+            "Y": 13900.0,
+            "Z": 1260.0
+          },
+          {
+            "X": -3750.0,
+            "Y": 10930.0,
+            "Z": 950.0
+          },
+          {
+            "X": -5520.0,
+            "Y": 10750.0,
+            "Z": 950.0
+          },
+          {
+            "X": -7380.0,
+            "Y": 8940.0,
+            "Z": 860.0
+          },
+          {
+            "X": -10680.0,
+            "Y": 7710.0,
+            "Z": -160.0
+          },
+          {
+            "X": -11580.0,
+            "Y": 5090.0,
+            "Z": -630.0
+          }
+        ]
+      },
+      "11": {
+        "MapType": "EOfficialMapType::EOMT_LegacyAgora",
+        "MapName": "Agolith",
+        "TeamNum": 1,
+        "PositionType": "EPositionType::EPT_MidLane",
+        "Finish": {
+          "X": -1240.0,
+          "Y": 1950.0,
+          "Z": 300.0
+        },
+        "PathList": [
+          {
+            "X": -120.0,
+            "Y": 13610.0,
+            "Z": 1260.0
+          },
+          {
+            "X": -120.0,
+            "Y": 10490.0,
+            "Z": 970.0
+          },
+          {
+            "X": -860.0,
+            "Y": 9380.0,
+            "Z": 970.0
+          },
+          {
+            "X": -610.0,
+            "Y": 6210.0,
+            "Z": 820.0
+          },
+          {
+            "X": -140.0,
+            "Y": 3680.0,
+            "Z": 330.0
+          }
+        ]
+      },
+      "12": {
+        "MapType": "EOfficialMapType::EOMT_LegacyAgora",
+        "MapName": "Agolith",
+        "TeamNum": 1,
+        "PositionType": "EPositionType::EPT_Jungle",
+        "Finish": {
+          "X": -6930.0,
+          "Y": 5340.0,
+          "Z": -470.0
+        },
+        "PathList": [
+          {
+            "X": -670.0,
+            "Y": 13900.0,
+            "Z": 1260.0
+          },
+          {
+            "X": -3750.0,
+            "Y": 10930.0,
+            "Z": 950.0
+          },
+          {
+            "X": -4060.0,
+            "Y": 8920.0,
+            "Z": 950.0
+          },
+          {
+            "X": -4990.0,
+            "Y": 7940.0,
+            "Z": 950.0
+          },
+          {
+            "X": -4900.0,
+            "Y": 5950.0,
+            "Z": -100.0
+          },
+          {
+            "X": -5370.0,
+            "Y": 4870.0,
+            "Z": -440.0
+          }
+        ]
+      },
+      "13": {
+        "MapType": "EOfficialMapType::EOMT_LegacyAgora",
+        "MapName": "Agolith",
+        "TeamNum": 2,
+        "PositionType": "EPositionType::EPT_GuardianLane",
+        "Finish": {
+          "X": 12110.0,
+          "Y": -2970.0,
+          "Z": 1260.0
+        },
+        "PathList": [
+          {
+            "X": 430.0,
+            "Y": -13900.0,
+            "Z": 1260.0
+          },
+          {
+            "X": 3500.0,
+            "Y": -10890.0,
+            "Z": 950.0
+          },
+          {
+            "X": 5220.0,
+            "Y": -10800.0,
+            "Z": 950.0
+          },
+          {
+            "X": 7380.0,
+            "Y": -8580.0,
+            "Z": 920.0
+          },
+          {
+            "X": 10680.0,
+            "Y": -6460.0,
+            "Z": 1260.0
+          },
+          {
+            "X": 11020.0,
+            "Y": -4520.0,
+            "Z": 1260.0
+          }
+        ]
+      },
+      "14": {
+        "MapType": "EOfficialMapType::EOMT_LegacyAgora",
+        "MapName": "Agolith",
+        "TeamNum": 2,
+        "PositionType": "EPositionType::EPT_MAX",
+        "Finish": {
+          "X": -12490.0,
+          "Y": -2970.0,
+          "Z": -640.0
+        },
+        "PathList": [
+          {
+            "X": -670.0,
+            "Y": -13900.0,
+            "Z": 1260.0
+          },
+          {
+            "X": -3750.0,
+            "Y": -10930.0,
+            "Z": 950.0
+          },
+          {
+            "X": -5520.0,
+            "Y": -10750.0,
+            "Z": 950.0
+          },
+          {
+            "X": -7380.0,
+            "Y": -8940.0,
+            "Z": 860.0
+          },
+          {
+            "X": -10680.0,
+            "Y": -7710.0,
+            "Z": -160.0
+          },
+          {
+            "X": -11580.0,
+            "Y": -5090.0,
+            "Z": -630.0
+          }
+        ]
+      },
+      "15": {
+        "MapType": "EOfficialMapType::EOMT_LegacyAgora",
+        "MapName": "Agolith",
+        "TeamNum": 2,
+        "PositionType": "EPositionType::EPT_MidLane",
+        "Finish": {
+          "X": -1240.0,
+          "Y": -1870.0,
+          "Z": 300.0
+        },
+        "PathList": [
+          {
+            "X": -120.0,
+            "Y": -13610.0,
+            "Z": 1260.0
+          },
+          {
+            "X": -120.0,
+            "Y": -10490.0,
+            "Z": 970.0
+          },
+          {
+            "X": -800.0,
+            "Y": -9230.0,
+            "Z": 960.0
+          },
+          {
+            "X": -490.0,
+            "Y": -6250.0,
+            "Z": 790.0
+          },
+          {
+            "X": -210.0,
+            "Y": -3560.0,
+            "Z": 330.0
+          }
+        ]
+      },
+      "16": {
+        "MapType": "EOfficialMapType::EOMT_LegacyAgora",
+        "MapName": "Agolith",
+        "TeamNum": 2,
+        "PositionType": "EPositionType::EPT_Jungle",
+        "Finish": {
+          "X": -6930.0,
+          "Y": -5340.0,
+          "Z": -470.0
+        },
+        "PathList": [
+          {
+            "X": -670.0,
+            "Y": -13900.0,
+            "Z": 1260.0
+          },
+          {
+            "X": -3750.0,
+            "Y": -10930.0,
+            "Z": 950.0
+          },
+          {
+            "X": -4060.0,
+            "Y": -8920.0,
+            "Z": 950.0
+          },
+          {
+            "X": -4990.0,
+            "Y": -7940.0,
+            "Z": 950.0
+          },
+          {
+            "X": -4900.0,
+            "Y": -5950.0,
+            "Z": -100.0
+          },
+          {
+            "X": -5370.0,
+            "Y": -4870.0,
+            "Z": -440.0
+          }
+        ]
+      },
+      "17": {
+        "MapType": "EOfficialMapType::EOMT_LegacyAgora",
+        "MapName": "OPTestSimple",
+        "TeamNum": 1,
+        "PositionType": "EPositionType::EPT_GuardianLane",
+        "Finish": {
+          "X": 5690.0,
+          "Y": -1520.0,
+          "Z": 20.0
+        },
+        "PathList": [
+          {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          {
+            "X": 2000.0,
+            "Y": -500.0,
+            "Z": 10.0
+          }
+        ]
+      },
+      "18": {
+        "MapType": "EOfficialMapType::EOMT_LegacyAgora",
+        "MapName": "OPTestSimple",
+        "TeamNum": 1,
+        "PositionType": "EPositionType::EPT_MAX",
+        "Finish": {
+          "X": 5690.0,
+          "Y": -1520.0,
+          "Z": 20.0
+        },
+        "PathList": [
+          {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          {
+            "X": 2000.0,
+            "Y": -500.0,
+            "Z": 10.0
+          }
+        ]
+      },
+      "19": {
+        "MapType": "EOfficialMapType::EOMT_LegacyAgora",
+        "MapName": "OPTestSimple",
+        "TeamNum": 1,
+        "PositionType": "EPositionType::EPT_MidLane",
+        "Finish": {
+          "X": 5690.0,
+          "Y": -1520.0,
+          "Z": 20.0
+        },
+        "PathList": [
+          {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          {
+            "X": 2000.0,
+            "Y": -500.0,
+            "Z": 10.0
+          }
+        ]
+      },
+      "20": {
+        "MapType": "EOfficialMapType::EOMT_LegacyAgora",
+        "MapName": "OPTestSimple",
+        "TeamNum": 1,
+        "PositionType": "EPositionType::EPT_Jungle",
+        "Finish": {
+          "X": 5690.0,
+          "Y": -1520.0,
+          "Z": 20.0
+        },
+        "PathList": [
+          {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          {
+            "X": 2000.0,
+            "Y": -500.0,
+            "Z": 10.0
+          }
+        ]
+      },
+      "21": {
+        "MapType": "EOfficialMapType::EOMT_LegacyAgora",
+        "MapName": "OPTestSimple",
+        "TeamNum": 2,
+        "PositionType": "EPositionType::EPT_GuardianLane",
+        "Finish": {
+          "X": 5690.0,
+          "Y": -1520.0,
+          "Z": 20.0
+        },
+        "PathList": [
+          {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          {
+            "X": 2000.0,
+            "Y": -500.0,
+            "Z": 10.0
+          }
+        ]
+      },
+      "22": {
+        "MapType": "EOfficialMapType::EOMT_LegacyAgora",
+        "MapName": "OPTestSimple",
+        "TeamNum": 2,
+        "PositionType": "EPositionType::EPT_MAX",
+        "Finish": {
+          "X": 5690.0,
+          "Y": -1520.0,
+          "Z": 20.0
+        },
+        "PathList": [
+          {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          {
+            "X": 2000.0,
+            "Y": -500.0,
+            "Z": 10.0
+          }
+        ]
+      },
+      "23": {
+        "MapType": "EOfficialMapType::EOMT_LegacyAgora",
+        "MapName": "OPTestSimple",
+        "TeamNum": 2,
+        "PositionType": "EPositionType::EPT_MidLane",
+        "Finish": {
+          "X": 5690.0,
+          "Y": -1520.0,
+          "Z": 20.0
+        },
+        "PathList": [
+          {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          {
+            "X": 2000.0,
+            "Y": -500.0,
+            "Z": 10.0
+          }
+        ]
+      },
+      "24": {
+        "MapType": "EOfficialMapType::EOMT_LegacyAgora",
+        "MapName": "OPTestSimple",
+        "TeamNum": 2,
+        "PositionType": "EPositionType::EPT_Jungle",
+        "Finish": {
+          "X": 5690.0,
+          "Y": -1520.0,
+          "Z": 20.0
+        },
+        "PathList": [
+          {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          {
+            "X": 2000.0,
+            "Y": -500.0,
+            "Z": 10.0
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_HeroListForEditor",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'HeroListForEditorData'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "FileName": "Hero_Murdock",
+        "HeroGroupID": "1001",
+        "bEnabled": true,
+        "bDisableOnDraftMenu": false
+      }
+    }
+  }
+]

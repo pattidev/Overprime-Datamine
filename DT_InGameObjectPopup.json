@@ -1,0 +1,357 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_InGameObjectPopup",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPIngameObjectivePopupDataTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "TableID": "1",
+        "HeroID": "2052",
+        "StackNum": 0,
+        "ShowType": "EIngameObjectivePopupShowType::EIOPST_OnKilled",
+        "BonusGold": 0.0,
+        "Title": "UI.STR_UI_Object_Name_Red",
+        "Description": "UI.STR_UI_Object_Desc_Red",
+        "Icon": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Ingame_Top_Buff_icon_Red_Inst'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/MAT_Ingame_Top_Buff_icon_Red_Inst.0"
+        },
+        "IconGlowing": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Ingame_Top_Buff_icon_Red_Inst_Add'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/MAT_Ingame_Top_Buff_icon_Red_Inst_Add.0"
+        },
+        "AllySound": "None",
+        "EnemySound": "None",
+        "BGM": []
+      },
+      "2": {
+        "TableID": "2",
+        "HeroID": "2053",
+        "StackNum": 0,
+        "ShowType": "EIngameObjectivePopupShowType::EIOPST_OnKilled",
+        "BonusGold": 0.0,
+        "Title": "UI.STR_UI_Object_Name_Blue",
+        "Description": "UI.STR_UI_Object_Desc_Blue",
+        "Icon": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Ingame_Top_Buff_icon_Blue_Inst'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/MAT_Ingame_Top_Buff_icon_Blue_Inst.0"
+        },
+        "IconGlowing": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Ingame_Top_Buff_icon_Blue_Inst_Add'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/MAT_Ingame_Top_Buff_icon_Blue_Inst_Add.0"
+        },
+        "AllySound": "None",
+        "EnemySound": "None",
+        "BGM": []
+      },
+      "3": {
+        "TableID": "3",
+        "HeroID": "2054",
+        "StackNum": 0,
+        "ShowType": "EIngameObjectivePopupShowType::EIOPST_OnKilled",
+        "BonusGold": 0.0,
+        "Title": "UI.STR_UI_Object_Name_ManaSpirit",
+        "Description": "UI.STR_UI_Object_Desc_ManaSpirit",
+        "Icon": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Ingame_Top_Buff_icon_Blue_Inst'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/MAT_Ingame_Top_Buff_icon_Blue_Inst.0"
+        },
+        "IconGlowing": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Ingame_Top_Buff_icon_Blue_Inst_Add'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/MAT_Ingame_Top_Buff_icon_Blue_Inst_Add.0"
+        },
+        "AllySound": "None",
+        "EnemySound": "None",
+        "BGM": []
+      },
+      "4": {
+        "TableID": "4",
+        "HeroID": "2055",
+        "StackNum": 0,
+        "ShowType": "EIngameObjectivePopupShowType::EIOPST_OnKilledGlobal",
+        "BonusGold": 100.0,
+        "Title": "UI.InGame_Monster_Kill_Spirit_Buff_Title",
+        "Description": "SYS.STR_SYS_object_Overstack",
+        "Icon": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Ingame_Top_Buff_icon_Gold_Inst'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/MAT_Ingame_Top_Buff_icon_Gold_Inst.0"
+        },
+        "IconGlowing": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Ingame_Top_Buff_icon_Gold_Inst_Add'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/MAT_Ingame_Top_Buff_icon_Gold_Inst_Add.0"
+        },
+        "AllySound": "sound_systemvoice_objectivekill_fengtooth",
+        "EnemySound": "sound_systemvoice_objectivekill_fengtooth",
+        "BGM": [
+          "Global_Common_Battle_Event_040"
+        ]
+      },
+      "5": {
+        "TableID": "5",
+        "HeroID": "2055",
+        "StackNum": 1,
+        "ShowType": "EIngameObjectivePopupShowType::EIOPST_OnKilledGlobal",
+        "BonusGold": 100.0,
+        "Title": "UI.InGame_Monster_Kill_Spirit_Buff_Title",
+        "Description": "SYS.STR_SYS_object_1stack",
+        "Icon": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Ingame_Top_Buff_icon_Gold_Inst'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/MAT_Ingame_Top_Buff_icon_Gold_Inst.0"
+        },
+        "IconGlowing": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Ingame_Top_Buff_icon_Gold_Inst_Add'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/MAT_Ingame_Top_Buff_icon_Gold_Inst_Add.0"
+        },
+        "AllySound": "sound_systemvoice_objectivekill_fengtooth",
+        "EnemySound": "sound_systemvoice_objectivekill_fengtooth",
+        "BGM": [
+          "Global_Common_Battle_Event_040"
+        ]
+      },
+      "6": {
+        "TableID": "6",
+        "HeroID": "2055",
+        "StackNum": 2,
+        "ShowType": "EIngameObjectivePopupShowType::EIOPST_OnKilledGlobal",
+        "BonusGold": 100.0,
+        "Title": "UI.InGame_Monster_Kill_Spirit_Buff_Title",
+        "Description": "SYS.STR_SYS_object_2stack",
+        "Icon": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Ingame_Top_Buff_icon_Gold_Inst'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/MAT_Ingame_Top_Buff_icon_Gold_Inst.0"
+        },
+        "IconGlowing": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Ingame_Top_Buff_icon_Gold_Inst_Add'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/MAT_Ingame_Top_Buff_icon_Gold_Inst_Add.0"
+        },
+        "AllySound": "sound_systemvoice_objectivekill_fengtooth",
+        "EnemySound": "sound_systemvoice_objectivekill_fengtooth",
+        "BGM": [
+          "Global_Common_Battle_Event_040"
+        ]
+      },
+      "7": {
+        "TableID": "7",
+        "HeroID": "2055",
+        "StackNum": 3,
+        "ShowType": "EIngameObjectivePopupShowType::EIOPST_OnKilledGlobal",
+        "BonusGold": 100.0,
+        "Title": "UI.InGame_Monster_Kill_Spirit_Buff_Title",
+        "Description": "SYS.STR_SYS_object_3stack",
+        "Icon": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Ingame_Top_Buff_icon_Gold_Inst'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/MAT_Ingame_Top_Buff_icon_Gold_Inst.0"
+        },
+        "IconGlowing": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Ingame_Top_Buff_icon_Gold_Inst_Add'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/MAT_Ingame_Top_Buff_icon_Gold_Inst_Add.0"
+        },
+        "AllySound": "sound_systemvoice_objectivekill_fengtooth",
+        "EnemySound": "sound_systemvoice_objectivekill_fengtooth",
+        "BGM": [
+          "Global_Common_Battle_Event_040"
+        ]
+      },
+      "8": {
+        "TableID": "8",
+        "HeroID": "2055",
+        "StackNum": 4,
+        "ShowType": "EIngameObjectivePopupShowType::EIOPST_OnKilledGlobal",
+        "BonusGold": 100.0,
+        "Title": "UI.InGame_Monster_Kill_Spirit_Buff_Title",
+        "Description": "SYS.STR_SYS_object_4stack",
+        "Icon": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Ingame_Top_Buff_icon_Gold_Inst'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/MAT_Ingame_Top_Buff_icon_Gold_Inst.0"
+        },
+        "IconGlowing": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Ingame_Top_Buff_icon_Gold_Inst_Add'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/MAT_Ingame_Top_Buff_icon_Gold_Inst_Add.0"
+        },
+        "AllySound": "sound_systemvoice_objectivekill_fengtooth",
+        "EnemySound": "sound_systemvoice_objectivekill_fengtooth",
+        "BGM": [
+          "Global_Common_Battle_Event_040"
+        ]
+      },
+      "9": {
+        "TableID": "9",
+        "HeroID": "2055",
+        "StackNum": 5,
+        "ShowType": "EIngameObjectivePopupShowType::EIOPST_OnKilledGlobal",
+        "BonusGold": 100.0,
+        "Title": "UI.InGame_Monster_Kill_Spirit_Buff_Title",
+        "Description": "SYS.STR_SYS_object_5stack",
+        "Icon": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Ingame_Top_Buff_icon_Gold_Inst'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/MAT_Ingame_Top_Buff_icon_Gold_Inst.0"
+        },
+        "IconGlowing": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Ingame_Top_Buff_icon_Gold_Inst_Add'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/MAT_Ingame_Top_Buff_icon_Gold_Inst_Add.0"
+        },
+        "AllySound": "sound_systemvoice_objectivekill_fengtooth",
+        "EnemySound": "sound_systemvoice_objectivekill_fengtooth",
+        "BGM": [
+          "Global_Common_Battle_Event_040"
+        ]
+      },
+      "10": {
+        "TableID": "10",
+        "HeroID": "2056",
+        "StackNum": 0,
+        "ShowType": "EIngameObjectivePopupShowType::EIOPST_OnKilledGlobal",
+        "BonusGold": 300.0,
+        "Title": "UI.InGame_Monster_Kill_Guardian_Buff_Title",
+        "Description": "UI.InGame_Monster_Kill_Guardian_Buff_Desc",
+        "Icon": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Ingame_Top_Buff_icon_Prime_Inst'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/MAT_Ingame_Top_Buff_icon_Prime_Inst.0"
+        },
+        "IconGlowing": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Ingame_Top_Buff_icon_Prime_Inst_Add'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/MAT_Ingame_Top_Buff_icon_Prime_Inst_Add.0"
+        },
+        "AllySound": "sound_systemvoice_orb_team_taken",
+        "EnemySound": "sound_systemvoice_orb_enemy_taken",
+        "BGM": []
+      },
+      "11": {
+        "TableID": "11",
+        "HeroID": "2057",
+        "StackNum": 0,
+        "ShowType": "EIngameObjectivePopupShowType::EIOPST_OnRespawned",
+        "BonusGold": 0.0,
+        "Title": "UI.InGame_Prime_Guardian_Dunk_Title",
+        "Description": "UI.InGame_Prime_Guardian_Dunk_Desc",
+        "Icon": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Ingame_Top_Buff_icon_Prime_Inst'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/MAT_Ingame_Top_Buff_icon_Prime_Inst.0"
+        },
+        "IconGlowing": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Ingame_Top_Buff_icon_Prime_Inst_Add'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/MAT_Ingame_Top_Buff_icon_Prime_Inst_Add.0"
+        },
+        "AllySound": "sound_systemvoice_orb_ally_activated",
+        "EnemySound": "sound_systemvoice_orb_enemy_activated",
+        "BGM": []
+      },
+      "12": {
+        "TableID": "12",
+        "HeroID": "2055",
+        "StackNum": 0,
+        "ShowType": "EIngameObjectivePopupShowType::EIOPST_OnRespawned",
+        "BonusGold": 0.0,
+        "Title": "",
+        "Description": "",
+        "Icon": null,
+        "IconGlowing": null,
+        "AllySound": "sound_systemvoice_objective_fengtooth_spawn",
+        "EnemySound": "sound_systemvoice_objective_fengtooth_spawn",
+        "BGM": [
+          "Global_Common_Battle_Event_039"
+        ]
+      },
+      "13": {
+        "TableID": "13",
+        "HeroID": "2055",
+        "StackNum": 1,
+        "ShowType": "EIngameObjectivePopupShowType::EIOPST_OnRespawned",
+        "BonusGold": 0.0,
+        "Title": "",
+        "Description": "",
+        "Icon": null,
+        "IconGlowing": null,
+        "AllySound": "sound_systemvoice_objective_fengtooth_spawn",
+        "EnemySound": "sound_systemvoice_objective_fengtooth_spawn",
+        "BGM": [
+          "Global_Common_Battle_Event_039"
+        ]
+      },
+      "14": {
+        "TableID": "14",
+        "HeroID": "2055",
+        "StackNum": 2,
+        "ShowType": "EIngameObjectivePopupShowType::EIOPST_OnRespawned",
+        "BonusGold": 0.0,
+        "Title": "",
+        "Description": "",
+        "Icon": null,
+        "IconGlowing": null,
+        "AllySound": "sound_systemvoice_objective_fengtooth_spawn",
+        "EnemySound": "sound_systemvoice_objective_fengtooth_spawn",
+        "BGM": [
+          "Global_Common_Battle_Event_039"
+        ]
+      },
+      "15": {
+        "TableID": "15",
+        "HeroID": "2055",
+        "StackNum": 3,
+        "ShowType": "EIngameObjectivePopupShowType::EIOPST_OnRespawned",
+        "BonusGold": 0.0,
+        "Title": "",
+        "Description": "",
+        "Icon": null,
+        "IconGlowing": null,
+        "AllySound": "sound_systemvoice_objective_fengtooth_spawn",
+        "EnemySound": "sound_systemvoice_objective_fengtooth_spawn",
+        "BGM": [
+          "Global_Common_Battle_Event_039"
+        ]
+      },
+      "16": {
+        "TableID": "16",
+        "HeroID": "2055",
+        "StackNum": 4,
+        "ShowType": "EIngameObjectivePopupShowType::EIOPST_OnRespawned",
+        "BonusGold": 0.0,
+        "Title": "",
+        "Description": "",
+        "Icon": null,
+        "IconGlowing": null,
+        "AllySound": "sound_systemvoice_objective_fengtooth_spawn",
+        "EnemySound": "sound_systemvoice_objective_fengtooth_spawn",
+        "BGM": [
+          "Global_Common_Battle_Event_039"
+        ]
+      },
+      "17": {
+        "TableID": "17",
+        "HeroID": "2055",
+        "StackNum": 5,
+        "ShowType": "EIngameObjectivePopupShowType::EIOPST_OnRespawned",
+        "BonusGold": 0.0,
+        "Title": "",
+        "Description": "",
+        "Icon": null,
+        "IconGlowing": null,
+        "AllySound": "sound_systemvoice_objective_fengtooth_spawn",
+        "EnemySound": "sound_systemvoice_objective_fengtooth_spawn",
+        "BGM": [
+          "Global_Common_Battle_Event_039"
+        ]
+      },
+      "18": {
+        "TableID": "18",
+        "HeroID": "2056",
+        "StackNum": 0,
+        "ShowType": "EIngameObjectivePopupShowType::EIOPST_OnRespawned",
+        "BonusGold": 0.0,
+        "Title": "",
+        "Description": "",
+        "Icon": null,
+        "IconGlowing": null,
+        "AllySound": "sound_systemvoice_objective_prime_spawn",
+        "EnemySound": "sound_systemvoice_objective_prime_spawn",
+        "BGM": []
+      }
+    }
+  }
+]

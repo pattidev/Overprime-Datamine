@@ -1,0 +1,321 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_Validation_ActionKeyword",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPTableValidation_ActionKeyword_TableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "ActionKeyword": "Dash",
+        "Argument1": "ETableValidationArgumentType::ETVAT_NUMBER",
+        "Argument2": "ETableValidationArgumentType::ETVAT_NUMBER",
+        "Argument3": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument4": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument5": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      },
+      "2": {
+        "ActionKeyword": "Blink",
+        "Argument1": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument2": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument3": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument4": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument5": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      },
+      "3": {
+        "ActionKeyword": "SpawnCollider_Target_Attached_Keep_LifeTime",
+        "Argument1": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument2": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument3": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument4": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument5": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      },
+      "4": {
+        "ActionKeyword": "Summon",
+        "Argument1": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument2": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument3": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument4": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument5": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      },
+      "5": {
+        "ActionKeyword": "Rise",
+        "Argument1": "ETableValidationArgumentType::ETVAT_NUMBER",
+        "Argument2": "ETableValidationArgumentType::ETVAT_NUMBER",
+        "Argument3": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument4": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument5": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      },
+      "6": {
+        "ActionKeyword": "Fly",
+        "Argument1": "ETableValidationArgumentType::ETVAT_NUMBER",
+        "Argument2": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument3": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument4": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument5": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      },
+      "7": {
+        "ActionKeyword": "Unfly",
+        "Argument1": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument2": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument3": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument4": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument5": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      },
+      "8": {
+        "ActionKeyword": "Fall",
+        "Argument1": "ETableValidationArgumentType::ETVAT_NUMBER",
+        "Argument2": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument3": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument4": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument5": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      },
+      "9": {
+        "ActionKeyword": "Recall",
+        "Argument1": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument2": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument3": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument4": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument5": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      },
+      "10": {
+        "ActionKeyword": "LeapJump",
+        "Argument1": "ETableValidationArgumentType::ETVAT_NUMBER",
+        "Argument2": "ETableValidationArgumentType::ETVAT_NUMBER",
+        "Argument3": "ETableValidationArgumentType::ETVAT_NUMBER",
+        "Argument4": "ETableValidationArgumentType::ETVAT_NUMBER",
+        "Argument5": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      },
+      "11": {
+        "ActionKeyword": "GuideTarget",
+        "Argument1": "ETableValidationArgumentType::ETVAT_NUMBER",
+        "Argument2": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument3": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument4": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument5": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      },
+      "12": {
+        "ActionKeyword": "AniStateChange",
+        "Argument1": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument2": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument3": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument4": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument5": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      },
+      "13": {
+        "ActionKeyword": "RemoveCollider",
+        "Argument1": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument2": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument3": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument4": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument5": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      },
+      "14": {
+        "ActionKeyword": "SpawnCollider",
+        "Argument1": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument2": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument3": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument4": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument5": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      },
+      "15": {
+        "ActionKeyword": "BaseAttack_Range",
+        "Argument1": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument2": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument3": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument4": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument5": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      },
+      "16": {
+        "ActionKeyword": "BaseAttack_Melee",
+        "Argument1": "ETableValidationArgumentType::ETVAT_ERROR",
+        "Argument2": "ETableValidationArgumentType::ETVAT_ERROR",
+        "Argument3": "ETableValidationArgumentType::ETVAT_ERROR",
+        "Argument4": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument5": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      },
+      "17": {
+        "ActionKeyword": "FlyDash",
+        "Argument1": "ETableValidationArgumentType::ETVAT_NUMBER",
+        "Argument2": "ETableValidationArgumentType::ETVAT_NUMBER",
+        "Argument3": "ETableValidationArgumentType::ETVAT_NUMBER",
+        "Argument4": "ETableValidationArgumentType::ETVAT_NUMBER",
+        "Argument5": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      },
+      "18": {
+        "ActionKeyword": "AttachActor",
+        "Argument1": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument2": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument3": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument4": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument5": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      },
+      "19": {
+        "ActionKeyword": "DetachActor",
+        "Argument1": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument2": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument3": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument4": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument5": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      },
+      "20": {
+        "ActionKeyword": "Summonward",
+        "Argument1": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument2": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument3": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument4": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument5": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      },
+      "21": {
+        "ActionKeyword": "Attack_Damage",
+        "Argument1": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument2": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument3": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument4": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument5": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      },
+      "22": {
+        "ActionKeyword": "CacheTargetsInCollinderRange",
+        "Argument1": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument2": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument3": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument4": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument5": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      },
+      "23": {
+        "ActionKeyword": "SpawnCollider_RandomCachedTarget",
+        "Argument1": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument2": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument3": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument4": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument5": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      },
+      "24": {
+        "ActionKeyword": "SpawnCollider_SkillEffectStack",
+        "Argument1": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument2": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument3": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument4": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument5": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument6": "ETableValidationArgumentType::ETVAT_STRING"
+      },
+      "25": {
+        "ActionKeyword": "Rise_While_Skill",
+        "Argument1": "ETableValidationArgumentType::ETVAT_NUMBER",
+        "Argument2": "ETableValidationArgumentType::ETVAT_NUMBER",
+        "Argument3": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument4": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument5": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      },
+      "26": {
+        "ActionKeyword": "Fly_While_Skill",
+        "Argument1": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument2": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument3": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument4": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument5": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      },
+      "27": {
+        "ActionKeyword": "SpawnCollider_OnCollider",
+        "Argument1": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument2": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument3": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument4": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument5": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument6": "ETableValidationArgumentType::ETVAT_STRING"
+      },
+      "28": {
+        "ActionKeyword": "Click_AnotherSkillSlot",
+        "Argument1": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument2": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument3": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument4": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument5": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      },
+      "29": {
+        "ActionKeyword": "LeapJump_Target_SkillEffect",
+        "Argument1": "ETableValidationArgumentType::ETVAT_NUMBER",
+        "Argument2": "ETableValidationArgumentType::ETVAT_NUMBER",
+        "Argument3": "ETableValidationArgumentType::ETVAT_NUMBER",
+        "Argument4": "ETableValidationArgumentType::ETVAT_NUMBER",
+        "Argument5": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NUMBER"
+      },
+      "30": {
+        "ActionKeyword": "SpawnCollider_SkillEffectStack_Caster",
+        "Argument1": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument2": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument3": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument4": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument5": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument6": "ETableValidationArgumentType::ETVAT_STRING"
+      },
+      "31": {
+        "ActionKeyword": "Dash_8way",
+        "Argument1": "ETableValidationArgumentType::ETVAT_NUMBER",
+        "Argument2": "ETableValidationArgumentType::ETVAT_NUMBER",
+        "Argument3": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument4": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument5": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      },
+      "32": {
+        "ActionKeyword": "Dash_Target_Unit",
+        "Argument1": "ETableValidationArgumentType::ETVAT_NUMBER",
+        "Argument2": "ETableValidationArgumentType::ETVAT_NUMBER",
+        "Argument3": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument4": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument5": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      },
+      "33": {
+        "ActionKeyword": "Dash_Target_Collider",
+        "Argument1": "ETableValidationArgumentType::ETVAT_NUMBER",
+        "Argument2": "ETableValidationArgumentType::ETVAT_NUMBER",
+        "Argument3": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument4": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument5": "ETableValidationArgumentType::ETVAT_NONE",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      },
+      "34": {
+        "ActionKeyword": "ActiveSkillEffect",
+        "Argument1": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument2": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument3": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument4": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument5": "ETableValidationArgumentType::ETVAT_STRING",
+        "Argument6": "ETableValidationArgumentType::ETVAT_NONE"
+      }
+    }
+  }
+]

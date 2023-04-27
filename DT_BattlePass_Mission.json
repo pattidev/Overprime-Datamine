@@ -1,0 +1,47 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_BattlePass_Mission",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'BattlePassMissionRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "BattlePass_Group": "EBattlePassGroupType::EBPGT_NewUser",
+        "MissionID": 3501001
+      },
+      "2": {
+        "BattlePass_Group": "EBattlePassGroupType::EBPGT_NewUser",
+        "MissionID": 3020002
+      },
+      "3": {
+        "BattlePass_Group": "EBattlePassGroupType::EBPGT_NewUser",
+        "MissionID": 3500003
+      },
+      "4": {
+        "BattlePass_Group": "EBattlePassGroupType::EBPGT_NewUser",
+        "MissionID": 4010001
+      },
+      "5": {
+        "BattlePass_Group": "EBattlePassGroupType::EBPGT_NewUser",
+        "MissionID": 4045004
+      },
+      "6": {
+        "BattlePass_Group": "EBattlePassGroupType::EBPGT_NewUser",
+        "MissionID": 4046005
+      },
+      "7": {
+        "BattlePass_Group": "EBattlePassGroupType::EBPGT_NewUser",
+        "MissionID": 4043002
+      },
+      "8": {
+        "BattlePass_Group": "EBattlePassGroupType::EBPGT_NewUser",
+        "MissionID": 4044003
+      }
+    }
+  }
+]

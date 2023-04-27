@@ -1,0 +1,2082 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_AnnounceVoiceSound",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPSoundTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_001_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_enemytower_underattack_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_enemytower_underattack_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "2": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_002_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_enemytower_destroyed_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_enemytower_destroyed_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "3": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_003_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_allytower_underattack_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_allytower_underattack_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "4": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_004_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_allytower_destroyed_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_allytower_destroyed_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "5": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_005_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_enemyinhibitor_destroyed_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_enemyinhibitor_destroyed_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "6": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_006_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_enemyinhibitor_underattack_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_enemyinhibitor_underattack_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "7": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_007_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_allyinhibitor_destroyed_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_allyinhibitor_destroyed_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "8": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_008_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_allyinhibitor_underattack_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_allyinhibitor_underattack_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "9": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_009_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_enemycore_underattack_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_enemycore_underattack_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "10": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_010_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_allycore_underattack_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_allycore_underattack_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "11": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_011_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_team_victory_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_team_victory_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "12": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_012_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_team_defeat_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_team_defeat_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "13": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_013_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_spirit_shila_spawn_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_spirit_shila_spawn_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "14": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_013_A_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_spirit_shila_destroyed_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_spirit_shila_destroyed_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "15": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_013_B_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_spirit_shila_destroyed_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_spirit_shila_destroyed_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "16": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_014_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_puppet_spawn_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_puppet_spawn_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "17": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_014_A_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_puppet_destroyed_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_puppet_destroyed_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "18": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_014_B_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_puppet_destroyed_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_puppet_destroyed_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "19": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_015_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_ruled_puppet_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_ruled_puppet_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "20": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_015_B_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_ruled_puppet_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_ruled_puppet_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "21": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_016_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_kalkan_spawn_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_kalkan_spawn_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "22": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_016_A_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_kalkan_destroyed_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_kalkan_destroyed_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "23": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_016_B_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_kalkan_destroyed_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_kalkan_destroyed_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "24": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_017_A_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_slain_ally_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_slain_ally_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "25": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_017_B_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_slain_me_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_slain_me_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "26": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_018_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_slain_enemy_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_slain_enemy_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "27": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_019_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_ally_2_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_killstreak_ally_2_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "28": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_020_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_ally_3_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_killstreak_ally_3_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "29": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_021_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_ally_4_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_killstreak_ally_4_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "30": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_022_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_ally_5_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_killstreak_ally_5_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "31": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_023_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_enemy_2_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_killstreak_enemy_2_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "32": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_024_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_enemy_3_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_killstreak_enemy_3_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "33": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_025_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_enemy_4_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_killstreak_enemy_4_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "34": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_026_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_enemy_5_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_killstreak_enemy_5_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "35": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_027_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_firstblood_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_killstreak_firstblood_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "36": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_028_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_firstblood_enemy_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_killstreak_firstblood_enemy_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "37": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_029_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_4spirit_spawn_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_4spirit_spawn_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "38": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_030_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_objectivekill_fengtooth_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_objectivekill_fengtooth_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "39": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_030_A_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_4spirit_destroyed_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_4spirit_destroyed_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "40": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_030_B_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_4spirit_destroyed_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_4spirit_destroyed_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "41": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_031_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_objectivekill_prime_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_objectivekill_prime_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "42": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_032_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_minions_spawning_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_minions_spawning_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "43": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_033_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_prepare_battle_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_prepare_battle_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "44": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_034_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_player_levelup_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_player_levelup_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "45": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_035_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_objective_prime_spawn_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_objective_prime_spawn_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "46": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_036_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_all_kill_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_all_kill_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "47": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_037_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_all_kill_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_all_kill_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "48": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_038_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_domination_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_domination_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "49": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_039_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_domination_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_domination_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "50": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_040_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_domination_me_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_domination_me_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "51": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_041_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_enemyinhibitor_restoring_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_enemyinhibitor_restoring_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "52": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_042_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_enemyinhibitor_restored_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_enemyinhibitor_restored_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "53": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_043_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_allyinhibitor_restoring_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_allyinhibitor_restoring_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "54": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_044_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_allyinhibitor_restored_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_allyinhibitor_restored_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "55": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_045_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_portal_spawning_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_portal_spawning_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "56": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_04_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_4kill_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_accrue_4kill_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "57": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_05_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_5kill_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_accrue_5kill_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "58": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_06_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_6kill_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_accrue_6kill_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "59": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_07_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_7kill_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_accrue_7kill_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "60": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_08_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_8kill_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_accrue_8kill_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "61": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_09_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_9kill_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_accrue_9kill_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "62": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_10_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_10kill_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_accrue_10kill_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "63": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_04_enemy_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_4kill_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_accrue_4kill_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "64": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_05_enemy_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_5kill_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_accrue_5kill_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "65": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_06_enemy_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_6kill_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_accrue_6kill_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "66": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_07_enemy_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_7kill_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_accrue_7kill_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "67": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_08_enemy_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_8kill_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_accrue_8kill_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "68": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_09_enemy_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_9kill_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_accrue_9kill_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "69": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_10_enemy_en",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_10kill_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/en/sound_systemvoice_accrue_10kill_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "70": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_001_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_enemytower_underattack_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_enemytower_underattack_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "71": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_002_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_enemytower_destroyed_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_enemytower_destroyed_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "72": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_003_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_allytower_underattack_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_allytower_underattack_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "73": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_004_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_allytower_destroyed_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_allytower_destroyed_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "74": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_005_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_enemyinhibitor_destroyed_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_enemyinhibitor_destroyed_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "75": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_006_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_enemyinhibitor_underattack_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_enemyinhibitor_underattack_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "76": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_007_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_allyinhibitor_destroyed_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_allyinhibitor_destroyed_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "77": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_008_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_allyinhibitor_underattack_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_allyinhibitor_underattack_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "78": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_009_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_enemycore_underattack_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_enemycore_underattack_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "79": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_010_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_allycore_underattack_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_allycore_underattack_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "80": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_011_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_team_victory_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_team_victory_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "81": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_012_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_team_defeat_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_team_defeat_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "82": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_013_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_spirit_shila_spawn_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_spirit_shila_spawn_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "83": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_013_A_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_spirit_shila_destroyed_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_spirit_shila_destroyed_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "84": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_013_B_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_spirit_shila_destroyed_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_spirit_shila_destroyed_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "85": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_014_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_puppet_spawn_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_puppet_spawn_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "86": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_014_A_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_puppet_destroyed_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_puppet_destroyed_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "87": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_014_B_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_puppet_destroyed_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_puppet_destroyed_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "88": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_015_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_ruled_puppet_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_ruled_puppet_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "89": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_015_B_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_ruled_puppet_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_ruled_puppet_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "90": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_016_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_kalkan_spawn_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_kalkan_spawn_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "91": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_016_A_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_kalkan_destroyed_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_kalkan_destroyed_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "92": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_016_B_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_kalkan_destroyed_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_kalkan_destroyed_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "93": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_017_A_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_slain_ally_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_slain_ally_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "94": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_017_B_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_slain_me_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_slain_me_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "95": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_018_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_slain_enemy_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_slain_enemy_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "96": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_019_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_ally_2_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_killstreak_ally_2_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "97": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_020_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_ally_3_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_killstreak_ally_3_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "98": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_021_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_ally_4_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_killstreak_ally_4_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "99": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_022_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_ally_5_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_killstreak_ally_5_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "100": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_023_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_enemy_2_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_killstreak_enemy_2_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "101": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_024_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_enemy_3_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_killstreak_enemy_3_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "102": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_025_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_enemy_4_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_killstreak_enemy_4_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "103": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_026_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_enemy_5_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_killstreak_enemy_5_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "104": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_027_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_firstblood_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_killstreak_firstblood_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "105": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_028_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_firstblood_enemy_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_killstreak_firstblood_enemy_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "106": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_029_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_4spirit_spawn_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_4spirit_spawn_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "107": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_030_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_objectivekill_fengtooth_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_objectivekill_fengtooth_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "108": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_030_A_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_4spirit_destroyed_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_4spirit_destroyed_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "109": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_030_B_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_4spirit_destroyed_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_4spirit_destroyed_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "110": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_031_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_objectivekill_prime_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_objectivekill_prime_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "111": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_032_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_minions_spawning_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_minions_spawning_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "112": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_033_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_prepare_battle_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_prepare_battle_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "113": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_034_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_player_levelup_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_player_levelup_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "114": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_035_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_objective_prime_spawn_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_objective_prime_spawn_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "115": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_036_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_all_kill_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_all_kill_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "116": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_037_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_all_kill_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_all_kill_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "117": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_038_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_domination_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_domination_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "118": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_039_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_domination_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_domination_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "119": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_040_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_domination_me_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_domination_me_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "120": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_041_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_enemyinhibitor_restoring_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_enemyinhibitor_restoring_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "121": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_042_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_enemyinhibitor_restored_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_enemyinhibitor_restored_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "122": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_043_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_allyinhibitor_restoring_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_allyinhibitor_restoring_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "123": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_044_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_allyinhibitor_restored_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_allyinhibitor_restored_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "124": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_045_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_portal_spawning_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_portal_spawning_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "125": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_04_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_4kill_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_accrue_4kill_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "126": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_05_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_5kill_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_accrue_5kill_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "127": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_06_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_6kill_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_accrue_6kill_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "128": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_07_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_7kill_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_accrue_7kill_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "129": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_08_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_8kill_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_accrue_8kill_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "130": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_09_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_9kill_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_accrue_9kill_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "131": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_10_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_10kill_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_accrue_10kill_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "132": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_04_enemy_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_4kill_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_accrue_4kill_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "133": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_05_enemy_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_5kill_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_accrue_5kill_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "134": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_06_enemy_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_6kill_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_accrue_6kill_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "135": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_07_enemy_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_7kill_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_accrue_7kill_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "136": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_08_enemy_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_8kill_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_accrue_8kill_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "137": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_09_enemy_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_9kill_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_accrue_9kill_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "138": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_10_enemy_kr",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_10kill_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/kr/sound_systemvoice_accrue_10kill_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "139": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_001_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_enemytower_underattack_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_enemytower_underattack_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "140": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_002_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_enemytower_destroyed_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_enemytower_destroyed_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "141": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_003_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "142": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_004_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_allytower_destroyed_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_allytower_destroyed_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "143": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_005_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_enemyinhibitor_destroyed_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_enemyinhibitor_destroyed_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "144": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_006_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_enemyinhibitor_underattack_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_enemyinhibitor_underattack_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "145": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_007_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_allyinhibitor_destroyed_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_allyinhibitor_destroyed_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "146": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_008_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_allyinhibitor_underattack_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_allyinhibitor_underattack_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "147": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_009_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_enemycore_underattack_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_enemycore_underattack_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "148": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_010_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_allycore_underattack_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_allycore_underattack_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "149": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_011_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_team_victory_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_team_victory_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "150": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_012_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_team_defeat_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_team_defeat_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "151": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_013_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_spirit_shila_spawn_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_spirit_shila_spawn_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "152": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_013_A_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_spirit_shila_destroyed_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_spirit_shila_destroyed_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "153": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_013_B_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_spirit_shila_destroyed_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_spirit_shila_destroyed_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "154": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_014_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_puppet_spawn_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_puppet_spawn_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "155": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_014_A_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_puppet_destroyed_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_puppet_destroyed_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "156": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_014_B_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_puppet_destroyed_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_puppet_destroyed_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "157": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_015_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_ruled_puppet_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_ruled_puppet_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "158": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_015_B_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_ruled_puppet_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_ruled_puppet_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "159": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_016_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_kalkan_spawn_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_kalkan_spawn_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "160": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_016_A_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_kalkan_destroyed_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_kalkan_destroyed_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "161": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_016_B_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_kalkan_destroyed_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_kalkan_destroyed_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "162": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_017_A_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_slain_ally_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_slain_ally_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "163": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_017_B_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_slain_me_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_slain_me_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "164": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_018_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_slain_enemy_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_slain_enemy_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "165": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_019_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_ally_2_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_killstreak_ally_2_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "166": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_020_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_ally_3_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_killstreak_ally_3_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "167": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_021_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_ally_4_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_killstreak_ally_4_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "168": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_022_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_ally_5_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_killstreak_ally_5_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "169": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_023_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_enemy_2_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_killstreak_enemy_2_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "170": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_024_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_enemy_3_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_killstreak_enemy_3_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "171": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_025_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_enemy_4_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_killstreak_enemy_4_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "172": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_026_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_enemy_5_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_killstreak_enemy_5_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "173": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_027_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_firstblood_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_killstreak_firstblood_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "174": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_028_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_killstreak_firstblood_enemy_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_killstreak_firstblood_enemy_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "175": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_029_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_4spirit_spawn_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_4spirit_spawn_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "176": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_030_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_objectivekill_fengtooth_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_objectivekill_fengtooth_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "177": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_030_A_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_4spirit_destroyed_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_4spirit_destroyed_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "178": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_030_B_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_4spirit_destroyed_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_4spirit_destroyed_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "179": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_031_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_objectivekill_prime_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_objectivekill_prime_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "180": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_032_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_minions_spawning_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_minions_spawning_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "181": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_033_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_prepare_battle_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_prepare_battle_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "182": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_034_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_player_levelup_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_player_levelup_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "183": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_035_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_objective_prime_spawn_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_objective_prime_spawn_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "184": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_036_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_all_kill_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_all_kill_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "185": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_037_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_all_kill_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_all_kill_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "186": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_038_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_domination_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_domination_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "187": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_039_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_domination_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_domination_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "188": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_040_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_domination_me_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_domination_me_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "189": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_041_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_enemyinhibitor_restoring_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_enemyinhibitor_restoring_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "190": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_042_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_enemyinhibitor_restored_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_enemyinhibitor_restored_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "191": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_043_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_allyinhibitor_restoring_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_allyinhibitor_restoring_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "192": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_044_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_allyinhibitor_restored_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_allyinhibitor_restored_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "193": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_045_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_portal_spawning_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_portal_spawning_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "194": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_04_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_4kill_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_accrue_4kill_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "195": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_05_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_5kill_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_accrue_5kill_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "196": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_06_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_6kill_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_accrue_6kill_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "197": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_07_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_7kill_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_accrue_7kill_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "198": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_08_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_8kill_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_accrue_8kill_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "199": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_09_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_9kill_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_accrue_9kill_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "200": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_10_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_10kill_ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_accrue_10kill_ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "201": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_04_enemy_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_4kill_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_accrue_4kill_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "202": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_05_enemy_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_5kill_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_accrue_5kill_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "203": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_06_enemy_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_6kill_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_accrue_6kill_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "204": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_07_enemy_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_7kill_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_accrue_7kill_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "205": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_08_enemy_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_8kill_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_accrue_8kill_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "206": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_09_enemy_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_9kill_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_accrue_9kill_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "207": {
+        "SkinID": "None",
+        "SoundID": "System_Common_Notice_accure_10_enemy_ch",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sound_systemvoice_accrue_10kill_enemy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/announce_Voice/ch/sound_systemvoice_accrue_10kill_enemy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      }
+    }
+  }
+]

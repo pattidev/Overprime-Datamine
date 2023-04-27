@@ -1,0 +1,239 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_SkillStatIcon",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'SkillStatIconTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "Damage_Physical": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.T_UI_Ingame_Common_Icon_Attack",
+          "SubPathString": ""
+        },
+        "StatName": "SKILL.Skill_info_Damage"
+      },
+      "Damage_Magical": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Magic.T_UI_Ingame_Common_Icon_Magic",
+          "SubPathString": ""
+        },
+        "StatName": "SKILL.Skill_info_Damage"
+      },
+      "Cooldown": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_CoolTime.T_UI_Ingame_Common_Icon_CoolTime",
+          "SubPathString": ""
+        },
+        "StatName": "SKILL.Skill_info_Cooldown"
+      },
+      "ManaCost": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Mana.T_UI_Ingame_Common_Icon_Mana",
+          "SubPathString": ""
+        },
+        "StatName": "SKILL.Skill_info_ManaCost"
+      },
+      "Duration": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_duration.T_UI_Ingame_Common_Icon_duration",
+          "SubPathString": ""
+        },
+        "StatName": "SKILL.Skill_info_Duration"
+      },
+      "Shield": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Shield.T_UI_Ingame_Common_Icon_Shield",
+          "SubPathString": ""
+        },
+        "StatName": "SKILL.Skill_info_Shield"
+      },
+      "MoveMent": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_MoveMent.T_UI_Ingame_Common_Icon_MoveMent",
+          "SubPathString": ""
+        },
+        "StatName": "SKILL.Skill_info_MovementSpeed"
+      },
+      "Slow": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_MoveSpeed_Down.T_UI_Ingame_Common_Icon_MoveSpeed_Down",
+          "SubPathString": ""
+        },
+        "StatName": "SKILL.Skill_info_Slow"
+      },
+      "HP_Max": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Health.T_UI_Ingame_Common_Icon_Health",
+          "SubPathString": ""
+        },
+        "StatName": "SKILL.Skill_info_MaxHP"
+      },
+      "HP_Regen": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Health_Reg.T_UI_Ingame_Common_Icon_Health_Reg",
+          "SubPathString": ""
+        },
+        "StatName": "SKILL.Skill_info_PerHpregen"
+      },
+      "HP_Recover": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_health_Recover.T_UI_Ingame_Common_Icon_health_Recover",
+          "SubPathString": ""
+        },
+        "StatName": "SKILL.Skill_info_PerHpregen"
+      },
+      "Hide": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Clocking.T_UI_Ingame_Common_Icon_Clocking",
+          "SubPathString": ""
+        },
+        "StatName": "SKILL.Skill_info_Hide"
+      },
+      "Stun": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Stun.T_UI_Ingame_Common_Icon_Stun",
+          "SubPathString": ""
+        },
+        "StatName": "None"
+      },
+      "BonusDamage_Up": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_OutGoing_Damage_In.T_UI_Ingame_Common_Icon_OutGoing_Damage_In",
+          "SubPathString": ""
+        },
+        "StatName": "SKILL.Skill_info_BonusDamagePercent"
+      },
+      "BonusDamage_Down": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_OutGoing_Damage_De.T_UI_Ingame_Common_Icon_OutGoing_Damage_De",
+          "SubPathString": ""
+        },
+        "StatName": "SKILL.Skill_info_BonusDamagePercent"
+      },
+      "HP_Recover_Down": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Incoming_Damage_In.T_UI_Ingame_Common_Icon_Incoming_Damage_In",
+          "SubPathString": ""
+        },
+        "StatName": "SKILL.Skill_info_MaxHP"
+      },
+      "AttackSpeed": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack_Speed.T_UI_Ingame_Common_Icon_Attack_Speed",
+          "SubPathString": ""
+        },
+        "StatName": "SKILL.Skill_info_AttackSpeed"
+      },
+      "Mana_Max": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Mana.T_UI_Ingame_Common_Icon_Mana",
+          "SubPathString": ""
+        },
+        "StatName": "SKILL.Skill_info_PerHpregen"
+      },
+      "Mana_Regen": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Mana_Reg.T_UI_Ingame_Common_Icon_Mana_Reg",
+          "SubPathString": ""
+        },
+        "StatName": "SKILL.Skill_info_PerHpregen"
+      },
+      "Mana_Recover": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Mana_Recover.T_UI_Ingame_Common_Icon_Mana_Recover",
+          "SubPathString": ""
+        },
+        "StatName": "SKILL.Skill_info_PerHpregen"
+      },
+      "Mana_Down": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Mana_Down.T_UI_Ingame_Common_Icon_Mana_Down",
+          "SubPathString": ""
+        },
+        "StatName": "SKILL.Skill_info_PerHpregen"
+      },
+      "invincibility": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_invincibility.T_UI_Ingame_Common_Icon_invincibility",
+          "SubPathString": ""
+        },
+        "StatName": "SKILL.Skill_info_PerHpregen"
+      },
+      "TrueDamage": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_True.T_UI_Ingame_Common_Icon_True",
+          "SubPathString": ""
+        },
+        "StatName": "None"
+      },
+      "TrueDamage_Melee": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Melee_Def_Pierce.T_UI_Ingame_Common_Icon_Melee_Def_Pierce",
+          "SubPathString": ""
+        },
+        "StatName": "SKILL.Skill_info_BonusTrueDamage"
+      },
+      "TrueDamage_Magic": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Magic_Def_Pierce.T_UI_Ingame_Common_Icon_Magic_Def_Pierce",
+          "SubPathString": ""
+        },
+        "StatName": "SKILL.Skill_info_BonusTrueDamage"
+      },
+      "Hold": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Root.T_UI_Ingame_Common_Icon_Root",
+          "SubPathString": ""
+        },
+        "StatName": "SKILL.Skill_info_Hold"
+      },
+      "Blind": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Blind.T_UI_Ingame_Common_Icon_Blind",
+          "SubPathString": ""
+        },
+        "StatName": "SKILL.Skill_info_Hold"
+      },
+      "ExecutionHP": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Damage.T_UI_Ingame_Common_Icon_Damage",
+          "SubPathString": ""
+        },
+        "StatName": "SKILL.Skill_info_ExecutionHP"
+      },
+      "DefDown_Melee": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack_Ignore.T_UI_Ingame_Common_Icon_Attack_Ignore",
+          "SubPathString": ""
+        },
+        "StatName": "SKILL.Skill_info_ExecutionHP"
+      },
+      "DefDown_Magic": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Magic_Ignore.T_UI_Ingame_Common_Icon_Magic_Ignore",
+          "SubPathString": ""
+        },
+        "StatName": "SKILL.Skill_info_ExecutionHP"
+      },
+      "DefUp_Melee": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Melee_Def.T_UI_Ingame_Common_Icon_Melee_Def",
+          "SubPathString": ""
+        },
+        "StatName": "None"
+      },
+      "DefUp_Magic": {
+        "StatIcon": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Magic_Def.T_UI_Ingame_Common_Icon_Magic_Def",
+          "SubPathString": ""
+        },
+        "StatName": "None"
+      }
+    }
+  }
+]

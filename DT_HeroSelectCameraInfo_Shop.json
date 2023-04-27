@@ -1,0 +1,894 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_HeroSelectCameraInfo_Shop",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'HeroSelectStudioData'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "Hero_Aurora_C": {
+        "ManualFocalLength": 500.0,
+        "CameraDistance": {
+          "X": 79.58425,
+          "Y": -7.94062,
+          "Z": -6.67578
+        },
+        "CameraPitch": 2.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBp_Aurora_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Aurora/AnimBp_Aurora_OutGame_Base.3"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_Belica_C": {
+        "ManualFocalLength": 419.0,
+        "CameraDistance": {
+          "X": 285.16595,
+          "Y": -40.303177,
+          "Z": -52.758785
+        },
+        "CameraPitch": 5.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Belica_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Belica/AnimBP_Belica_OutGame_Base.4"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_Boris_C": {
+        "ManualFocalLength": 807.0,
+        "CameraDistance": {
+          "X": -112.23216,
+          "Y": -39.235313,
+          "Z": 10.915552
+        },
+        "CameraPitch": 2.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": null,
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_Countess_C": {
+        "ManualFocalLength": 410.0,
+        "CameraDistance": {
+          "X": 302.221,
+          "Y": -38.28349,
+          "Z": -55.545815
+        },
+        "CameraPitch": 5.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Countess_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Countess/AnimBP_Countess_OutGame_Base.3"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_FengMao_C": {
+        "ManualFocalLength": 464.0,
+        "CameraDistance": {
+          "X": 246.93541,
+          "Y": -46.738525,
+          "Z": -45.89131
+        },
+        "CameraPitch": 5.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Fengmao_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Fengmao/AnimBP_Fengmao_OutGame_Base.3"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_Gadget_C": {
+        "ManualFocalLength": 702.0,
+        "CameraDistance": {
+          "X": 67.85507,
+          "Y": -1.09182,
+          "Z": -5.738451
+        },
+        "CameraPitch": 2.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Gadget_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Gadget/AnimBP_Gadget_OutGame_Base.3"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_Gideon_C": {
+        "ManualFocalLength": 424.0,
+        "CameraDistance": {
+          "X": 286.15036,
+          "Y": -43.872948,
+          "Z": -52.55787
+        },
+        "CameraPitch": 5.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Gideon_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Gideon/AnimBP_Gideon_OutGame_Base.3"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_Greystone_C": {
+        "ManualFocalLength": 762.0,
+        "CameraDistance": {
+          "X": 3.737195,
+          "Y": -19.633663,
+          "Z": -0.000793
+        },
+        "CameraPitch": 2.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": null,
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_GrimEXE_C": {
+        "ManualFocalLength": 990.0,
+        "CameraDistance": {
+          "X": -241.97899,
+          "Y": -61.59526,
+          "Z": 22.522913
+        },
+        "CameraPitch": 2.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": null,
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_Grux_C": {
+        "ManualFocalLength": 453.0,
+        "CameraDistance": {
+          "X": 228.36253,
+          "Y": -47.231598,
+          "Z": -42.545113
+        },
+        "CameraPitch": 5.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Grux_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Grux/AnimBP_Grux_OutGame_Base.3"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_Howitzer_C": {
+        "ManualFocalLength": 822.0,
+        "CameraDistance": {
+          "X": -81.08866,
+          "Y": -29.934364,
+          "Z": 8.079093
+        },
+        "CameraPitch": 2.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'Howitzer_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Howitzer/Howitzer_OutGame_Base.3"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_Kallari_C": {
+        "ManualFocalLength": 412.0,
+        "CameraDistance": {
+          "X": 275.12057,
+          "Y": -41.217644,
+          "Z": -50.930576
+        },
+        "CameraPitch": 5.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Kallari_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Kallari/AnimBP_Kallari_OutGame_Base.3"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_Khaimera_C": {
+        "ManualFocalLength": 691.0,
+        "CameraDistance": {
+          "X": 33.045868,
+          "Y": -28.004543,
+          "Z": -2.640063
+        },
+        "CameraPitch": 2.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'Khaimera_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Khaimera/Khaimera_OutGame_Base.3"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_Kwang_C": {
+        "ManualFocalLength": 430.0,
+        "CameraDistance": {
+          "X": 269.03638,
+          "Y": -35.620068,
+          "Z": -50.042767
+        },
+        "CameraPitch": 5.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Kwang_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Kwang/AnimBP_Kwang_OutGame_Base.3"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_Murdock_C": {
+        "ManualFocalLength": 425.0,
+        "CameraDistance": {
+          "X": 285.94675,
+          "Y": -37.516697,
+          "Z": -52.93222
+        },
+        "CameraPitch": 5.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Murdock_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Mudock/AnimBP_Murdock_OutGame_Base.3"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_Muriel_C": {
+        "ManualFocalLength": 447.0,
+        "CameraDistance": {
+          "X": 256.81772,
+          "Y": -40.644768,
+          "Z": -47.90918
+        },
+        "CameraPitch": 5.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Muriel_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Muriel/AnimBP_Muriel_OutGame_Base.3"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_Narbash_C": {
+        "ManualFocalLength": 445.0,
+        "CameraDistance": {
+          "X": 265.04712,
+          "Y": -31.747908,
+          "Z": -49.303444
+        },
+        "CameraPitch": 5.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Narbashi_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Narbashi/AnimBP_Narbashi_OutGame_Base.3"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_Phase_C": {
+        "ManualFocalLength": 407.0,
+        "CameraDistance": {
+          "X": 308.8698,
+          "Y": -35.683723,
+          "Z": -56.677643
+        },
+        "CameraPitch": 5.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Phase_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Phase/AnimBP_Phase_OutGame_Base.3"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_Rampage_C": {
+        "ManualFocalLength": 420.0,
+        "CameraDistance": {
+          "X": 250.33524,
+          "Y": -42.202957,
+          "Z": -46.815098
+        },
+        "CameraPitch": 5.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Rampage_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Rampage/AnimBP_Rampage_OutGame_Base.3"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_Revenant_C": {
+        "ManualFocalLength": 477.0,
+        "CameraDistance": {
+          "X": 235.0271,
+          "Y": -53.056507,
+          "Z": -43.910572
+        },
+        "CameraPitch": 5.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Revenant_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Revenant/AnimBP_Revenant_OutGame_Base.3"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_Serath_C": {
+        "ManualFocalLength": 689.0,
+        "CameraDistance": {
+          "X": 75.533516,
+          "Y": -0.031181,
+          "Z": -6.84341
+        },
+        "CameraPitch": 2.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Serath_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Serath/AnimBP_Serath_OutGame_Base.3"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_Sevarog_C": {
+        "ManualFocalLength": 527.0,
+        "CameraDistance": {
+          "X": 188.3514,
+          "Y": -58.617508,
+          "Z": -36.24137
+        },
+        "CameraPitch": 5.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Sevarog_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Sevarog/AnimBP_Sevarog_OutGame_Base.4"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_Shinbi_C": {
+        "ManualFocalLength": 414.0,
+        "CameraDistance": {
+          "X": 300.2365,
+          "Y": -31.894434,
+          "Z": -55.18098
+        },
+        "CameraPitch": 5.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Shinbi_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Shinbi/AnimBP_Shinbi_OutGame_Base.4"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_Sparrow_C": {
+        "ManualFocalLength": 415.0,
+        "CameraDistance": {
+          "X": 282.87463,
+          "Y": -34.12692,
+          "Z": -52.31009
+        },
+        "CameraPitch": 5.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Sparrow_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Sparrow/AnimBP_Sparrow_OutGame_Base.3"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_Steel_C": {
+        "ManualFocalLength": 490.0,
+        "CameraDistance": {
+          "X": 195.46208,
+          "Y": -63.8082,
+          "Z": -37.028614
+        },
+        "CameraPitch": 5.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Steel_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Steel/AnimBP_Steel_OutGame_Base.3"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_TheFey_C": {
+        "ManualFocalLength": 394.0,
+        "CameraDistance": {
+          "X": 317.54092,
+          "Y": -16.109451,
+          "Z": -63.38875
+        },
+        "CameraPitch": 5.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Fey_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Fey/AnimBP_Fey_OutGame_Base.5"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_Twinblast_C": {
+        "ManualFocalLength": 430.0,
+        "CameraDistance": {
+          "X": 274.06348,
+          "Y": -34.622757,
+          "Z": -50.983036
+        },
+        "CameraPitch": 5.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Twinblast_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Twinblast/AnimBP_Twinblast_OutGame_Base.3"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_Zena_C": {
+        "ManualFocalLength": 809.0,
+        "CameraDistance": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 2.7E-05
+        },
+        "CameraPitch": 0.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBp_Zena_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Zena/AnimBp_Zena_OutGame_Base.4"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "DefaultLocation": {
+        "ManualFocalLength": 857.0,
+        "CameraDistance": {
+          "X": 0.0,
+          "Y": 1357.6619,
+          "Z": -1.377459
+        },
+        "CameraPitch": 3.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": null,
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_Adele_C": {
+        "ManualFocalLength": 535.0,
+        "CameraDistance": {
+          "X": 164.64151,
+          "Y": -30.138283,
+          "Z": -41.458168
+        },
+        "CameraPitch": 2.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Adele_Store__C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Adel/AnimBP_Adele_Store_.2"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_Dekker_C": {
+        "ManualFocalLength": 535.0,
+        "CameraDistance": {
+          "X": 164.64151,
+          "Y": -30.138283,
+          "Z": -41.458168
+        },
+        "CameraPitch": 2.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBp_Dekker_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Dekker/AnimBp_Dekker_OutGame_Base.4"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_Wraith_C": {
+        "ManualFocalLength": 535.0,
+        "CameraDistance": {
+          "X": 164.64151,
+          "Y": -30.138283,
+          "Z": -41.458168
+        },
+        "CameraPitch": 2.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Wraith_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Wraith/AnimBP_Wraith_OutGame_Base.4"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_Wukong_C": {
+        "ManualFocalLength": 430.0,
+        "CameraDistance": {
+          "X": 274.06348,
+          "Y": -34.622757,
+          "Z": -50.983036
+        },
+        "CameraPitch": 5.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Wukong_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Wukong/AnimBP_Wukong_OutGame_Base.5"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      }
+    }
+  }
+]

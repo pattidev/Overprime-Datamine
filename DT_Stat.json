@@ -1,0 +1,465 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_Stat",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'StatDataTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "StatType": "EStatusType::Health",
+        "PrintName": "UI.Stat_Health",
+        "Description": "UI.Stat_Health_Desc",
+        "MinValue": 1.0,
+        "MaxValue": 99999.0,
+        "StatBaseFactor": 1.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Value",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Health'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Health.0"
+        },
+        "Order": 15,
+        "StatCategory": "EStatCategory::Defensive"
+      },
+      "2": {
+        "StatType": "EStatusType::Mana",
+        "PrintName": "UI.Stat_Mana",
+        "Description": "UI.Stat_Mana_Desc",
+        "MinValue": 0.0,
+        "MaxValue": 9999.0,
+        "StatBaseFactor": 1.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Value",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Mana'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Mana.0"
+        },
+        "Order": 16,
+        "StatCategory": "EStatCategory::Defensive"
+      },
+      "3": {
+        "StatType": "EStatusType::HealthRegen",
+        "PrintName": "UI.Stat_HealthRegen",
+        "Description": "UI.Stat_HealthRegen_Desc",
+        "MinValue": 0.0,
+        "MaxValue": 999.0,
+        "StatBaseFactor": 1.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Value",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Health_Reg'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Health_Reg.0"
+        },
+        "Order": 17,
+        "StatCategory": "EStatCategory::Defensive"
+      },
+      "4": {
+        "StatType": "EStatusType::ManaRegen",
+        "PrintName": "UI.Stat_ManaRegen",
+        "Description": "UI.Stat_ManaRegen_Desc",
+        "MinValue": 0.0,
+        "MaxValue": 999.0,
+        "StatBaseFactor": 1.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Value",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Mana_Reg'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Mana_Reg.0"
+        },
+        "Order": 18,
+        "StatCategory": "EStatCategory::Defensive"
+      },
+      "5": {
+        "StatType": "EStatusType::PhysicalPower",
+        "PrintName": "UI.Stat_PhysicalPower",
+        "Description": "UI.Stat_PhysicalPower_Desc",
+        "MinValue": 0.0,
+        "MaxValue": 10000.0,
+        "StatBaseFactor": 1.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Value",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.0"
+        },
+        "Order": 1,
+        "StatCategory": "EStatCategory::Offensive"
+      },
+      "6": {
+        "StatType": "EStatusType::MagicalPower",
+        "PrintName": "UI.Stat_MagicalPower",
+        "Description": "UI.Stat_MagicalPower_Desc",
+        "MinValue": 0.0,
+        "MaxValue": 10000.0,
+        "StatBaseFactor": 1.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Value",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Magic'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Magic.0"
+        },
+        "Order": 4,
+        "StatCategory": "EStatCategory::Offensive"
+      },
+      "7": {
+        "StatType": "EStatusType::AttackSpeed",
+        "PrintName": "UI.Stat_AttackSpeed",
+        "Description": "UI.Stat_AttackSpeed_Desc",
+        "MinValue": 0.001,
+        "MaxValue": 2.3,
+        "StatBaseFactor": 1.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Value",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack_Speed'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack_Speed.0"
+        },
+        "Order": 7,
+        "StatCategory": "EStatCategory::Offensive"
+      },
+      "8": {
+        "StatType": "EStatusType::MovementSpeed",
+        "PrintName": "UI.Stat_MovementSpeed",
+        "Description": "UI.Stat_MovementSpeed_Desc",
+        "MinValue": 1.0,
+        "MaxValue": 2000.0,
+        "StatBaseFactor": 1.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Value",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_MoveMent'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_MoveMent.0"
+        },
+        "Order": 21,
+        "StatCategory": "EStatCategory::Utility"
+      },
+      "9": {
+        "StatType": "EStatusType::JumpZVelocity",
+        "PrintName": "UI.Stat_JumpZVelocity",
+        "Description": "UI.Stat_JumpZVelocity_Desc",
+        "MinValue": 0.0,
+        "MaxValue": 650.0,
+        "StatBaseFactor": 1.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Value",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Move'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Move.0"
+        },
+        "Order": 0,
+        "StatCategory": "EStatCategory::None"
+      },
+      "10": {
+        "StatType": "EStatusType::NormalLifesteal",
+        "PrintName": "UI.Stat_NormalLifesteal",
+        "Description": "UI.Stat_NormalLifesteal_Desc",
+        "MinValue": 0.0,
+        "MaxValue": 99.0,
+        "StatBaseFactor": 0.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Percent",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Vampire'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Vampire.0"
+        },
+        "Order": 9,
+        "StatCategory": "EStatCategory::Offensive"
+      },
+      "11": {
+        "StatType": "EStatusType::SkillPhysicalLifesteal",
+        "PrintName": "UI.Stat_SkillPhysicalLifesteal",
+        "Description": "UI.Stat_SkillPhysicalLifesteal_Desc",
+        "MinValue": 0.0,
+        "MaxValue": 99.0,
+        "StatBaseFactor": 0.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Percent",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Vampire_Melee_Skill'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Vampire_Melee_Skill.0"
+        },
+        "Order": 10,
+        "StatCategory": "EStatCategory::Offensive"
+      },
+      "12": {
+        "StatType": "EStatusType::SkillMagicalLifesteal",
+        "PrintName": "UI.Stat_SkillMagicalLifesteal",
+        "Description": "UI.Stat_SkillMagicalLifesteal_Desc",
+        "MinValue": 0.0,
+        "MaxValue": 99.0,
+        "StatBaseFactor": 0.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Percent",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Vampire_Mana'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Vampire_Mana.0"
+        },
+        "Order": 11,
+        "StatCategory": "EStatCategory::Offensive"
+      },
+      "13": {
+        "StatType": "EStatusType::AllLifesteal",
+        "PrintName": "UI.Stat_AllLifesteal",
+        "Description": "UI.Stat_AllLifesteal_Desc",
+        "MinValue": 0.0,
+        "MaxValue": 99.0,
+        "StatBaseFactor": 0.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Percent",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Vampire_All'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Vampire_All.0"
+        },
+        "Order": 12,
+        "StatCategory": "EStatCategory::Offensive"
+      },
+      "14": {
+        "StatType": "EStatusType::Cooldown",
+        "PrintName": "UI.Stat_Cooldown",
+        "Description": "UI.Stat_Cooldown_Desc",
+        "MinValue": 0.0,
+        "MaxValue": 0.4,
+        "StatBaseFactor": 0.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Percent",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_CoolTime'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_CoolTime.0"
+        },
+        "Order": 20,
+        "StatCategory": "EStatCategory::Utility"
+      },
+      "15": {
+        "StatType": "EStatusType::PhysicalProtection",
+        "PrintName": "UI.Stat_PhysicalProtection",
+        "Description": "UI.Stat_PhysicalProtection_Desc",
+        "MinValue": 0.0,
+        "MaxValue": 999.0,
+        "StatBaseFactor": 1.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Value",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Melee_Def'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Melee_Def.0"
+        },
+        "Order": 13,
+        "StatCategory": "EStatCategory::Defensive"
+      },
+      "16": {
+        "StatType": "EStatusType::MagicalProtection",
+        "PrintName": "UI.Stat_MagicalProtection",
+        "Description": "UI.Stat_MagicalProtection_Desc",
+        "MinValue": 0.0,
+        "MaxValue": 999.0,
+        "StatBaseFactor": 1.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Value",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Magic_Def'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Magic_Def.0"
+        },
+        "Order": 14,
+        "StatCategory": "EStatCategory::Defensive"
+      },
+      "17": {
+        "StatType": "EStatusType::PhysicalPenetrationValue",
+        "PrintName": "UI.Stat_PhysicalPenetrationValue",
+        "Description": "UI.Stat_PhysicalPenetrationValue_Desc",
+        "MinValue": 0.0,
+        "MaxValue": 999.0,
+        "StatBaseFactor": 0.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Value",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Melee_Def_Pierce'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Melee_Def_Pierce.0"
+        },
+        "Order": 2,
+        "StatCategory": "EStatCategory::Offensive"
+      },
+      "18": {
+        "StatType": "EStatusType::PhysicalPenetrationPercent",
+        "PrintName": "UI.Stat_PhysicalPenetrationPercent",
+        "Description": "UI.Stat_PhysicalPenetrationPercent_Desc",
+        "MinValue": 0.0,
+        "MaxValue": 0.5,
+        "StatBaseFactor": 0.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Percent",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack_Ignore'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack_Ignore.0"
+        },
+        "Order": 3,
+        "StatCategory": "EStatCategory::None"
+      },
+      "19": {
+        "StatType": "EStatusType::MagicalPenetrationValue",
+        "PrintName": "UI.Stat_MagicalPenetrationValue",
+        "Description": "UI.Stat_MagicalPenetrationValue_Desc",
+        "MinValue": 0.0,
+        "MaxValue": 999.0,
+        "StatBaseFactor": 0.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Value",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Magic_Def_Pierce'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Magic_Def_Pierce.0"
+        },
+        "Order": 5,
+        "StatCategory": "EStatCategory::Offensive"
+      },
+      "20": {
+        "StatType": "EStatusType::MagicalPenetrationPercent",
+        "PrintName": "UI.Stat_MagicalPenetrationPercent",
+        "Description": "UI.Stat_MagicalPenetrationPercent_Desc",
+        "MinValue": 0.0,
+        "MaxValue": 0.5,
+        "StatBaseFactor": 0.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Percent",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Magic_Ignore'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Magic_Ignore.0"
+        },
+        "Order": 6,
+        "StatCategory": "EStatCategory::None"
+      },
+      "21": {
+        "StatType": "EStatusType::CriticalChance",
+        "PrintName": "UI.Stat_CriticalChance",
+        "Description": "UI.Stat_CriticalChance_Desc",
+        "MinValue": 0.0,
+        "MaxValue": 1.0,
+        "StatBaseFactor": 0.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Percent",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Critical'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Critical.0"
+        },
+        "Order": 7,
+        "StatCategory": "EStatCategory::Offensive"
+      },
+      "22": {
+        "StatType": "EStatusType::CriticalDamage",
+        "PrintName": "UI.Stat_CriticalDamage",
+        "Description": "UI.Stat_CriticalDamage_Desc",
+        "MinValue": 1.0,
+        "MaxValue": 9.99,
+        "StatBaseFactor": 1.75,
+        "BaseUnitType": "EStatusUnitType::ESUT_Percent",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Critical_Damage'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Critical_Damage.0"
+        },
+        "Order": 8,
+        "StatCategory": "EStatCategory::Offensive"
+      },
+      "23": {
+        "StatType": "EStatusType::CCR",
+        "PrintName": "UI.Stat_CCR",
+        "Description": "UI.Stat_CCR_Desc",
+        "MinValue": 0.0,
+        "MaxValue": 0.5,
+        "StatBaseFactor": 0.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Percent",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Strength'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Strength.0"
+        },
+        "Order": 19,
+        "StatCategory": "EStatCategory::Utility"
+      },
+      "24": {
+        "StatType": "EStatusType::Range",
+        "PrintName": "UI.Stat_Range",
+        "Description": "UI.Stat_Range_Desc",
+        "MinValue": 0.0,
+        "MaxValue": 99999.0,
+        "StatBaseFactor": 1.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Value",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Range'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Range.0"
+        },
+        "Order": 0,
+        "StatCategory": "EStatCategory::None"
+      },
+      "27": {
+        "StatType": "EStatusType::Splash",
+        "PrintName": "UI.Stat_Splash",
+        "Description": "UI.Stat_Splash_Desc",
+        "MinValue": 0.0,
+        "MaxValue": 9999.0,
+        "StatBaseFactor": 1.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Value",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Splash'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Splash.0"
+        },
+        "Order": 0,
+        "StatCategory": "EStatCategory::None"
+      },
+      "28": {
+        "StatType": "EStatusType::CriticalDamageProtection",
+        "PrintName": "UI.Stat_CriticalDamageProtection",
+        "Description": "UI.Stat_CriticalDamageProtection_Desc",
+        "MinValue": 0.0,
+        "MaxValue": 1.0,
+        "StatBaseFactor": 0.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Percent",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Critical_Damage_Def'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Critical_Damage_Def.0"
+        },
+        "Order": 0,
+        "StatCategory": "EStatCategory::None"
+      },
+      "29": {
+        "StatType": "EStatusType::InComingDamageIncrement",
+        "PrintName": "UI.Stat_InComingDamageIncrement",
+        "Description": "UI.Stat_InComingDamageIncrement_Desc",
+        "MinValue": 0.0,
+        "MaxValue": 9.99,
+        "StatBaseFactor": 0.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Percent",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Incoming_Damage_In'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Incoming_Damage_In.0"
+        },
+        "Order": 0,
+        "StatCategory": "EStatCategory::None"
+      },
+      "30": {
+        "StatType": "EStatusType::InComingDamageDecrement",
+        "PrintName": "UI.Stat_InComingDamageDecrement",
+        "Description": "UI.Stat_InComingDamageDecrement_Desc",
+        "MinValue": 0.0,
+        "MaxValue": 1.0,
+        "StatBaseFactor": 0.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Percent",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Incoming_Damage_De'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Incoming_Damage_De.0"
+        },
+        "Order": 0,
+        "StatCategory": "EStatCategory::None"
+      },
+      "31": {
+        "StatType": "EStatusType::OutGoingDamageIncrement",
+        "PrintName": "UI.Stat_OutGoingDamageIncrement",
+        "Description": "UI.Stat_OutGoingDamageIncrement_Desc",
+        "MinValue": 0.0,
+        "MaxValue": 9.99,
+        "StatBaseFactor": 0.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Percent",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_OutGoing_Damage_In'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_OutGoing_Damage_In.0"
+        },
+        "Order": 0,
+        "StatCategory": "EStatCategory::None"
+      },
+      "32": {
+        "StatType": "EStatusType::OutGoingDamageDecrement",
+        "PrintName": "UI.Stat_OutGoingDamageDecrement",
+        "Description": "UI.Stat_OutGoingDamageDecrement_Desc",
+        "MinValue": 0.0,
+        "MaxValue": 1.0,
+        "StatBaseFactor": 0.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Percent",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_OutGoing_Damage_De'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_OutGoing_Damage_De.0"
+        },
+        "Order": 0,
+        "StatCategory": "EStatCategory::None"
+      }
+    }
+  }
+]

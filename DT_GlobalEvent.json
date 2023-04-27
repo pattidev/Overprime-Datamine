@@ -1,0 +1,99 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_GlobalEvent",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPGlobalEventDataTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "gevent_skill_levelup": {
+        "DirectionTableIndex": "Global_Common_Battle_Event_001"
+      },
+      "gevent_shield_creation": {
+        "DirectionTableIndex": "Global_Common_Battle_Event_002"
+      },
+      "gevent_shield_hit": {
+        "DirectionTableIndex": "Global_Common_Battle_Event_003"
+      },
+      "gevent_shield_removal": {
+        "DirectionTableIndex": "Global_Common_Battle_Event_004"
+      },
+      "gevent_hero_lvup": {
+        "DirectionTableIndex": "Global_Common_Battle_Event_008"
+      },
+      "gevent_hero_danger": {
+        "DirectionTableIndex": "Global_Common_Battle_Event_009"
+      },
+      "gevent_expeffect_played": {
+        "DirectionTableIndex": "Global_Common_Battle_Event_010"
+      },
+      "gevent_hero_death_beam_ally": {
+        "DirectionTableIndex": "Global_Common_Battle_Event_011"
+      },
+      "gevent_hero_death_beam_enemy": {
+        "DirectionTableIndex": "Global_Common_Battle_Event_012"
+      },
+      "gevent_exp_effect_npc": {
+        "DirectionTableIndex": "Global_Common_Battle_Event_013"
+      },
+      "gevent_exp_effect_npc_hit": {
+        "DirectionTableIndex": "Global_Common_Battle_Event_014"
+      },
+      "gevent_exp_effect_hero": {
+        "DirectionTableIndex": "Global_Common_Battle_Event_015"
+      },
+      "gevent_exp_effect_hero_hit": {
+        "DirectionTableIndex": "Global_Common_Battle_Event_016"
+      },
+      "gevent_travelmode_start": {
+        "DirectionTableIndex": "Global_Common_Battle_Event_017"
+      },
+      "gevent_travelmode_loop": {
+        "DirectionTableIndex": "Global_Common_Battle_Event_018"
+      },
+      "gevent_screenparticle_circle_progressbar": {
+        "DirectionTableIndex": "Global_Common_Battle_Event_019"
+      },
+      "gevent_exp_effect_jungle_guardian": {
+        "DirectionTableIndex": "Global_Common_Battle_Event_020"
+      },
+      "gevent_exp_effect_jungle_guardian_hit": {
+        "DirectionTableIndex": "Global_Common_Battle_Event_021"
+      },
+      "gevent_exp_effect_jungle_sprit": {
+        "DirectionTableIndex": "Global_Common_Battle_Event_022"
+      },
+      "gevent_exp_effect_jungle_sprit_hit": {
+        "DirectionTableIndex": "Global_Common_Battle_Event_023"
+      },
+      "gevent_exp_effect_jungle_normal": {
+        "DirectionTableIndex": "Global_Common_Battle_Event_024"
+      },
+      "gevent_exp_effect_jungle_normal_hit": {
+        "DirectionTableIndex": "Global_Common_Battle_Event_025"
+      },
+      "gevent_exp_effect_tower": {
+        "DirectionTableIndex": "Global_Common_Battle_Event_026"
+      },
+      "gevent_exp_effect_tower_hit": {
+        "DirectionTableIndex": "Global_Common_Battle_Event_027"
+      },
+      "gevent_jumplanding_shake": {
+        "DirectionTableIndex": "Global_Common_Battle_Event_028"
+      },
+      "gevent_jumplanding": {
+        "DirectionTableIndex": "Global_Common_Battle_Event_100"
+      },
+      "gevent_effect_respawn": {
+        "DirectionTableIndex": "Global_Common_Battle_Event_101"
+      },
+      "gevent_effect_recall_arrive": {
+        "DirectionTableIndex": "Global_Common_Battle_Event_102"
+      }
+    }
+  }
+]

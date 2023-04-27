@@ -1,0 +1,567 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_Constant",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'ConstantTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "ingame_shop_sell_rate": {
+        "ConstantValue": "0.7"
+      },
+      "ingame_kill_exp_rate_finish": {
+        "ConstantValue": "0.2"
+      },
+      "ingame_kill_exp_rate_assist": {
+        "ConstantValue": "0.2"
+      },
+      "ingame_kill_timecheck_assist": {
+        "ConstantValue": "10.0"
+      },
+      "ingame_travelmode_speed_rate": {
+        "ConstantValue": "0.3"
+      },
+      "ingame_prime_orb_holding_time": {
+        "ConstantValue": "180"
+      },
+      "ingame_ping_hold_start_time": {
+        "ConstantValue": "0.15"
+      },
+      "ingame_behit_freezing_time": {
+        "ConstantValue": "0.06"
+      },
+      "ingame_behit_freezing_time_limit": {
+        "ConstantValue": "0.25"
+      },
+      "ingame_hit_freezing_time": {
+        "ConstantValue": "0.06"
+      },
+      "ingame_hit_freezing_time_limit": {
+        "ConstantValue": "0.25"
+      },
+      "ingame_ping_input_limit_time": {
+        "ConstantValue": "5.0"
+      },
+      "ingame_ping_input_limit_count": {
+        "ConstantValue": "8"
+      },
+      "ingame_ping_input_inhibit_time": {
+        "ConstantValue": "10.0"
+      },
+      "ingame_hero_jumppower": {
+        "ConstantValue": "3000"
+      },
+      "ingame_hero_travelmode_time": {
+        "ConstantValue": "1.75"
+      },
+      "ingame_tower_damage_rate_minion_warrior": {
+        "ConstantValue": "0.45"
+      },
+      "ingame_tower_damage_rate_minion_ranger": {
+        "ConstantValue": "0.7"
+      },
+      "ingame_tower_damage_rate_minion_siege": {
+        "ConstantValue": "0.14"
+      },
+      "ingame_tower_damage_rate_minion_super": {
+        "ConstantValue": "0.05"
+      },
+      "ingame_tower_damage_rate_minion_monkey": {
+        "ConstantValue": "0.01"
+      },
+      "ingame_tower_damage_effect_increase": {
+        "ConstantValue": "0.4"
+      },
+      "ingame_immortality_fix_hp": {
+        "ConstantValue": "1"
+      },
+      "ingame_lifesteal_total_limit": {
+        "ConstantValue": "1"
+      },
+      "ingame_sound_behit_probability": {
+        "ConstantValue": "0.3"
+      },
+      "ingame_sound_cooltime_repeat_restrict_time": {
+        "ConstantValue": "4"
+      },
+      "ingame_sound_volume_footstep_myself": {
+        "ConstantValue": "0.5"
+      },
+      "ingame_tower_sight_height": {
+        "ConstantValue": "2200"
+      },
+      "ingame_inhibitor_sight_height": {
+        "ConstantValue": "2200"
+      },
+      "ingame_core_sight_height": {
+        "ConstantValue": "2200"
+      },
+      "ingame_minion_headBar_magnification_lockon": {
+        "ConstantValue": "1.7"
+      },
+      "ingame_hero_headBar_magnification_lockon": {
+        "ConstantValue": "1.4"
+      },
+      "ingame_tower_headBar_magnification_lockon": {
+        "ConstantValue": "1.2"
+      },
+      "ingame_minion_headBar_MaxDrawDistance": {
+        "ConstantValue": "2300"
+      },
+      "ingame_minion_instantkilling_hp_rate": {
+        "ConstantValue": "0.35"
+      },
+      "ingame_headbar_hpvalue_per_slot": {
+        "ConstantValue": "100"
+      },
+      "ingame_npc_spwan_first_time_nomal_jungle_temp": {
+        "ConstantValue": "100"
+      },
+      "ingame_npc_spwan_first_time_buff_jungle_temp": {
+        "ConstantValue": "90"
+      },
+      "ingame_npc_spwan_first_time_prime_jungle_temp": {
+        "ConstantValue": "900"
+      },
+      "ingame_npc_spwan_first_time_raptor_jungle_temp": {
+        "ConstantValue": "180"
+      },
+      "ingame_npc_spwan_first_time_minion_temp": {
+        "ConstantValue": "65"
+      },
+      "ingame_npc_spwan_first_time_riverbuff_temp": {
+        "ConstantValue": "90"
+      },
+      "ingame_damage_splash_side_melee_baseattack": {
+        "ConstantValue": "0.15"
+      },
+      "ingame_unit_divider_hpbar_slot_value_small": {
+        "ConstantValue": "100"
+      },
+      "ingame_unit_divider_hpbar_slot_value_medium": {
+        "ConstantValue": "500"
+      },
+      "ingame_unit_divider_hpbar_slot_value_large": {
+        "ConstantValue": "1000"
+      },
+      "ingame_exporb_speed_total_second": {
+        "ConstantValue": "0.5"
+      },
+      "ingame_position_guideline_retain_time": {
+        "ConstantValue": "80"
+      },
+      "ingame_ping_use_limit_count": {
+        "ConstantValue": "5"
+      },
+      "ingame_JungleMonster_LocationInfo_Exposure_MinDistance": {
+        "ConstantValue": "500"
+      },
+      "ingame_JungleMonster_LocationInfo_Exposure_MaxDistance": {
+        "ConstantValue": "3100"
+      },
+      "ingame_minion_aggro_reset_distance": {
+        "ConstantValue": "1000"
+      },
+      "ingame_minion_tominion_add_damage": {
+        "ConstantValue": "0.428572"
+      },
+      "ingame_effect_indicator_expose_distance": {
+        "ConstantValue": "3000"
+      },
+      "ingame_minion_aggro_check_distance": {
+        "ConstantValue": "1300"
+      },
+      "ingame_sound_volume_footstep_ally": {
+        "ConstantValue": "0.2"
+      },
+      "ingame_sound_volume_footstep_enemy": {
+        "ConstantValue": "1.5"
+      },
+      "ingame_ping_use_duplication_limit_count": {
+        "ConstantValue": "3"
+      },
+      "ingame_auto_skill_use_tooltip": {
+        "ConstantValue": "180"
+      },
+      "ingame_auto_skill_show_title": {
+        "ConstantValue": "3"
+      },
+      "outgame_custom_mode_gamelist_maximum_list": {
+        "ConstantValue": "30"
+      },
+      "outgame_custom_mode_gamelist_refresh_cooltime": {
+        "ConstantValue": "5"
+      },
+      "ingame_body_expansion_time": {
+        "ConstantValue": "1.8"
+      },
+      "ingame_disconnection_penalty_escape_invalidity_time": {
+        "ConstantValue": "180"
+      },
+      "ingame_TrainingMode_Dead_Respawn_Time": {
+        "ConstantValue": "3"
+      },
+      "ingame_TrainingMode_Cheat_CoolDown_Time": {
+        "ConstantValue": "2"
+      },
+      "outgame_option_homepageurl": {
+        "ConstantValue": "https://discord.com/invite/yTn63c6qhR"
+      },
+      "ingame_ward_construct_limit_count_supporter": {
+        "ConstantValue": "3"
+      },
+      "ingame_ward_construct_limit_count_normal": {
+        "ConstantValue": "1"
+      },
+      "ingame_hpbar_distance_max": {
+        "ConstantValue": "2000"
+      },
+      "ingame_hpbar_distance_min": {
+        "ConstantValue": "4000"
+      },
+      "ingame_hpbar_rate_max_hero": {
+        "ConstantValue": "1"
+      },
+      "ingame_hpbar_rate_min_hero": {
+        "ConstantValue": "0.5"
+      },
+      "ingame_hpbar_rate_max_minion": {
+        "ConstantValue": "1"
+      },
+      "ingame_hpbar_rate_min_minion": {
+        "ConstantValue": "0.5"
+      },
+      "ingame_hpbar_rate_max_struct": {
+        "ConstantValue": "1"
+      },
+      "ingame_hpbar_rate_min_struct": {
+        "ConstantValue": "0.5"
+      },
+      "ingame_hpbar_scale_per_height": {
+        "ConstantValue": "20"
+      },
+      "ingame_friends_maximum_registration": {
+        "ConstantValue": "100"
+      },
+      "ingame_decimalpoint_limit": {
+        "ConstantValue": "5"
+      },
+      "ingame_out_of_battle_time": {
+        "ConstantValue": "6"
+      },
+      "Ingame_Ally_Hero_Attacked_Time_Check": {
+        "ConstantValue": "15"
+      },
+      "Ingame_Ally_Structure_Attacked_Time_Check": {
+        "ConstantValue": "15"
+      },
+      "Ingame_Enemy_Structure_Attack_Time_Check": {
+        "ConstantValue": "15"
+      },
+      "outgame_draft_ready_time": {
+        "ConstantValue": "3"
+      },
+      "outgame_draft_skin_time": {
+        "ConstantValue": "10"
+      },
+      "outgame_draft_pick_time": {
+        "ConstantValue": "60"
+      },
+      "outgame_draft_all_ready_time": {
+        "ConstantValue": "5"
+      },
+      "Ingame_resistance_air_default": {
+        "ConstantValue": "0"
+      },
+      "Ingame_resistance_frictional_default": {
+        "ConstantValue": "8"
+      },
+      "Ingame_gravity_default": {
+        "ConstantValue": "1.6"
+      },
+      "Ingame_resistance_air_change": {
+        "ConstantValue": "5000"
+      },
+      "Ingame_KillStreak_Retain_Time": {
+        "ConstantValue": "3"
+      },
+      "Ingame_Travelmode_SkillEffectGroup": {
+        "ConstantValue": "1000_01"
+      },
+      "Ingame_MeleeMinion_ApproachRange_ToHero_Min": {
+        "ConstantValue": "260"
+      },
+      "Ingame_Input_Skill_Queue_Keep_Time": {
+        "ConstantValue": "0.5"
+      },
+      "Ingame_Decal_Height": {
+        "ConstantValue": "128"
+      },
+      "Ingame_elevationangle_up_limit": {
+        "ConstantValue": "85"
+      },
+      "outgame_url_notice": {
+        "ConstantValue": "https://www.youtube.com/c/OverPrime"
+      },
+      "outgame_url_notice_zh-hans": {
+        "ConstantValue": "https://www.douyin.com/user/MS4wLjABAAAABOkK4VFMVob_NBloGom2lJt4wJLzw3ZlG69aVEt8fh02qZigOWgaslxR5ZEnX8CP"
+      },
+      "outgame_url_survey": {
+        "ConstantValue": "https://docs.google.com/forms/d/1sr15bgOOvIM0zcFxCqz-YeV-tE2fAiirORUd0V-4m5A/viewform?edit_requested=true"
+      },
+      "Ingame_sound_vol_inbattle": {
+        "ConstantValue": "0.7"
+      },
+      "Ingame_Monster_hpregen": {
+        "ConstantValue": "0.1"
+      },
+      "chat_maintain_time": {
+        "ConstantValue": "10"
+      },
+      "Chat_Input_LimitTime": {
+        "ConstantValue": "1"
+      },
+      "Chat_Input_LimitCount": {
+        "ConstantValue": "5"
+      },
+      "Chat_Input_InhibitTime": {
+        "ConstantValue": "5"
+      },
+      "Chat_ProhibitedWordCheckSide": {
+        "ConstantValue": "2"
+      },
+      "chat_maximum_message_count": {
+        "ConstantValue": "50"
+      },
+      "Ingame_siegeminion_range_to_minion": {
+        "ConstantValue": "900"
+      },
+      "Ingame_siegeminion_range_to_tower": {
+        "ConstantValue": "1900"
+      },
+      "Ingame_siegeminion_range_to_core": {
+        "ConstantValue": "1900"
+      },
+      "ingame_sound_duplicate_footstep": {
+        "ConstantValue": "0.3"
+      },
+      "ingame_respawntime_basetime": {
+        "ConstantValue": "10"
+      },
+      "ingame_respawntime_levelmultiple": {
+        "ConstantValue": "2.9"
+      },
+      "ingame_respawntime_secdivide": {
+        "ConstantValue": "4000"
+      },
+      "ingame_rangehero_add_speed": {
+        "ConstantValue": "0.4"
+      },
+      "ingame_emotion_icon_lifetime": {
+        "ConstantValue": "2.5"
+      },
+      "ingame_emotion_icon_cooldown": {
+        "ConstantValue": "0.1"
+      },
+      "outgame_url_survey_ko": {
+        "ConstantValue": "https://docs.google.com/forms/d/e/1FAIpQLSeEL1ukZMSZp5ubddOXnusK7EywXvRJ_oQOk4n2G6bvwDWFIQ/viewform"
+      },
+      "outgame_url_survey_ja": {
+        "ConstantValue": "https://docs.google.com/forms/d/e/1FAIpQLSfyf_cghzlCdyC9vQtzTzD4BfgTrNqjsi_5ZhqzIF_u-5YCQw/viewform"
+      },
+      "outgame_url_survey_en": {
+        "ConstantValue": "https://docs.google.com/forms/d/e/1FAIpQLSfR2X_yj12yaNtbsgLLojT0xG1S0-kIpE5pksBKzSkR6cQqAg/viewform"
+      },
+      "outgame_url_survey_fr": {
+        "ConstantValue": "https://docs.google.com/forms/d/e/1FAIpQLSeTw2fAUUFOgzinCdmFjYq-6FTRDTlBACCiDes8n91NLnLAGQ/viewform"
+      },
+      "outgame_url_survey_de": {
+        "ConstantValue": "https://docs.google.com/forms/d/e/1FAIpQLSfaTMDAsW4s1QxBWheDMp1RRSrIKoOhInM42-WeEv8lp7YMfQ/viewform"
+      },
+      "outgame_url_survey_es": {
+        "ConstantValue": "https://docs.google.com/forms/d/e/1FAIpQLSds-rXwf-QbxXGti-KkyoMU17uPXBtlbld5Wi7rODv2kHuy8w/viewform"
+      },
+      "outgame_url_survey_ru": {
+        "ConstantValue": "https://docs.google.com/forms/d/e/1FAIpQLSciLx8sVaR3QmOmdGCakKZA9sq-qICLDrqmo3o5hiOcQJVZ3w/viewform"
+      },
+      "outgame_url_survey_ar": {
+        "ConstantValue": "https://docs.google.com/forms/d/e/1FAIpQLScEXAOCJjPGBFZx8sFGRgOvraJ6m8d9YhNlS9kfCRdeLxPjhg/viewform"
+      },
+      "outgame_url_survey_zh-hans": {
+        "ConstantValue": "http://jp.mikecrm.com/8cibnvU"
+      },
+      "outgame_url_survey_zh-hant": {
+        "ConstantValue": "https://docs.google.com/forms/d/e/1FAIpQLSdn6COrtjcdiOHSmo7_ji8lS0ORD2RDLmXW7wcfytos2aOb1A/viewform"
+      },
+      "outgame_url_survey_tr": {
+        "ConstantValue": "https://docs.google.com/forms/d/e/1FAIpQLSc72c4XPsUndNXzRTT_FdXwrhW7C5T1fP9aH8kpJpgEjq47fA/viewform"
+      },
+      "outgame_url_survey_pt": {
+        "ConstantValue": "https://docs.google.com/forms/d/e/1FAIpQLSf-C6DGcTCxnJhmLsfVuu0aMzatEcH2ZyamxnkUaWKSCnjwwQ/viewform"
+      },
+      "outgame_url_survey_pl": {
+        "ConstantValue": "https://docs.google.com/forms/d/e/1FAIpQLSeRKP_zCAOJ4jdbFnntG_8myNWaQX7k3DDFg6-v3cQ-CoJ79A/viewform"
+      },
+      "ingame_object_check_distance": {
+        "ConstantValue": "2000"
+      },
+      "ingame_hero_check_distance": {
+        "ConstantValue": "2500"
+      },
+      "ingame_dead_marker_remain_time": {
+        "ConstantValue": "5"
+      },
+      "ingame_ignore_footstepsound_distance": {
+        "ConstantValue": "7000"
+      },
+      "ingame_Battle_Notice_Hero_Check_Distance": {
+        "ConstantValue": "3200"
+      },
+      "Ingame_Battle_Notice_No_Duplicates_Time": {
+        "ConstantValue": "10"
+      },
+      "Ingame_Battle_Notice_marker_remain_time": {
+        "ConstantValue": "3"
+      },
+      "Ingame_sound_battlestate_distance": {
+        "ConstantValue": "2000"
+      },
+      "ingame_respawn_hero_basefactor1": {
+        "ConstantValue": "2.5"
+      },
+      "ingame_respawn_hero_basefactor2": {
+        "ConstantValue": "8.25"
+      },
+      "ingame_respawn_hero_FhaseFactor1": {
+        "ConstantValue": "0.6"
+      },
+      "ingame_respawn_hero_FhaseFactor2": {
+        "ConstantValue": "0.5"
+      },
+      "ingame_respawn_hero_FhaseFactor3": {
+        "ConstantValue": "1.3"
+      },
+      "ingame_respawn_separate_time_1": {
+        "ConstantValue": "15"
+      },
+      "ingame_respawn_separate_time_2": {
+        "ConstantValue": "30"
+      },
+      "ingame_respawn_separate_time_3": {
+        "ConstantValue": "45"
+      },
+      "ingame_spawn_rate_infernal": {
+        "ConstantValue": "25"
+      },
+      "ingame_spawn_rate_ocean": {
+        "ConstantValue": "25"
+      },
+      "ingame_spawn_rate_cloud": {
+        "ConstantValue": "25"
+      },
+      "ingame_spawn_rate_mountain": {
+        "ConstantValue": "25"
+      },
+      "ingame_Heal_Indicator_use": {
+        "ConstantValue": "200_200,200_201,200_202,200_203,200_204,200_205,200_206,200_207,200_208,200_209"
+      },
+      "Ingame_elevationangle_down_limit": {
+        "ConstantValue": "5"
+      },
+      "ingame_minion_hero_vs_hero_aggro_time": {
+        "ConstantValue": "3"
+      },
+      "ObserverSoundMuteRate": {
+        "ConstantValue": "0.5"
+      },
+      "ingame_multikill_killstreak_timer": {
+        "ConstantValue": "10"
+      },
+      "Ingame_BabyPrimeRespawnMax": {
+        "ConstantValue": "2"
+      },
+      "Ingame_BabyPrimeDestroyTime": {
+        "ConstantValue": "0"
+      },
+      "ingame_Early_Surrender_Limit_Time": {
+        "ConstantValue": "2"
+      },
+      "ingame_Early_Surrender_Remain_Time": {
+        "ConstantValue": "3"
+      },
+      "ingame_Early_Surrender_Start_Time": {
+        "ConstantValue": "5"
+      },
+      "Mail_Count_Per_Page": {
+        "ConstantValue": "20"
+      },
+      "outgame_URL_OfficialDiscord": {
+        "ConstantValue": "https://discord.gg/paragontheoverprime"
+      },
+      "ingame_unit_divider_hpbar_slot_value_Tiny": {
+        "ConstantValue": "1"
+      },
+      "outgame_url_terms_kr": {
+        "ConstantValue": "https://help.netmarble.com/terms/terms_of_service_pc_ko"
+      },
+      "outgame_url_terms_en": {
+        "ConstantValue": "https://help.netmarble.com/terms/terms_of_service_pc_en"
+      },
+      "outgame_url_terms_jp": {
+        "ConstantValue": "https://help.netmarble.com/terms/terms_of_service_pc_jp"
+      },
+      "outgame_url_policy_ko": {
+        "ConstantValue": "https://help.netmarble.com/terms/privacy_policy_ko"
+      },
+      "outgame_url_policy_en": {
+        "ConstantValue": "https://help.netmarble.com/terms/privacy_policy_en"
+      },
+      "outgame_url_policy_jp": {
+        "ConstantValue": "https://help.netmarble.com/terms/privacy_policy_ja"
+      },
+      "outmage_url_rulesofconduct_kr": {
+        "ConstantValue": "https://help.netmarble.com/web/overprime/policy"
+      },
+      "outgame_url_fundsettlement_jp": {
+        "ConstantValue": "https://help.netmarble.com/terms/legal_policies_ja_legal03"
+      },
+      "ingame_jungle_spawner_vision_check_range": {
+        "ConstantValue": "4000"
+      },
+      "outgame_usagegate_allowage": {
+        "ConstantValue": "13"
+      },
+      "outgame_setting_cscenter": {
+        "ConstantValue": "https://help.netmarble.com/game/overprime"
+      },
+      "Common_Overimmersion_PlayTime": {
+        "ConstantValue": "3600"
+      },
+      "outgame_Item_Preset_Built_in_Count": {
+        "ConstantValue": "5"
+      },
+      "ingame_Game_Invalidation_Handling_Time": {
+        "ConstantValue": "5"
+      },
+      "Outgame_Matching_RegionChange_Time_Check": {
+        "ConstantValue": "2"
+      },
+      "Delay_Time_for_Force_Join": {
+        "ConstantValue": "2"
+      },
+      "FakeMatch_Rejoin_Time": {
+        "ConstantValue": "180"
+      },
+      "ingame_TeamChat_Check_Time": {
+        "ConstantValue": "300"
+      },
+      "ingame_Spawn_Babyprime_Core_Attack_Allow_Distance": {
+        "ConstantValue": "30"
+      }
+    }
+  }
+]

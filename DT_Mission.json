@@ -1,0 +1,1031 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_Mission",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPMissionTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1010001": {
+        "MissionType": "EMissionType::Daily",
+        "MissionGroup": 2,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::PlayCount",
+        "CompleteCount": 3,
+        "CompleteReward": 10000201,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.Mission_Name_10",
+        "MissionDescKey": "UI.Mission_Desc_10",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Play_Game'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Play_Game.0"
+        },
+        "MissionEnable": true
+      },
+      "1011002": {
+        "MissionType": "EMissionType::Daily",
+        "MissionGroup": 2,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::PlayCount_NormalMode",
+        "CompleteCount": 3,
+        "CompleteReward": 10000201,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.Mission_Name_11",
+        "MissionDescKey": "UI.Mission_Desc_11",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Play_Game'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Play_Game.0"
+        },
+        "MissionEnable": false
+      },
+      "1012003": {
+        "MissionType": "EMissionType::Daily",
+        "MissionGroup": 2,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::PlayCount_RankMode",
+        "CompleteCount": 3,
+        "CompleteReward": 10000201,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.Mission_Name_12",
+        "MissionDescKey": "UI.Mission_Desc_12",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Play_Game'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Play_Game.0"
+        },
+        "MissionEnable": false
+      },
+      "1020004": {
+        "MissionType": "EMissionType::Daily",
+        "MissionGroup": 2,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::PlayVictory",
+        "CompleteCount": 1,
+        "CompleteReward": 10000201,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.Mission_Name_20",
+        "MissionDescKey": "UI.Mission_Desc_20",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Play_Victory'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Play_Victory.0"
+        },
+        "MissionEnable": true
+      },
+      "1021005": {
+        "MissionType": "EMissionType::Daily",
+        "MissionGroup": 2,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::PlayVictory_NormalMode",
+        "CompleteCount": 1,
+        "CompleteReward": 10000201,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.Mission_Name_21",
+        "MissionDescKey": "UI.Mission_Desc_21",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Play_Victory'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Play_Victory.0"
+        },
+        "MissionEnable": false
+      },
+      "1022006": {
+        "MissionType": "EMissionType::Daily",
+        "MissionGroup": 2,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::PlayVictory_RankMode",
+        "CompleteCount": 1,
+        "CompleteReward": 10000201,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.Mission_Name_22",
+        "MissionDescKey": "UI.Mission_Desc_22",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Play_Victory'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Play_Victory.0"
+        },
+        "MissionEnable": false
+      },
+      "1030007": {
+        "MissionType": "EMissionType::Daily",
+        "MissionGroup": 2,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::HeroPlay_Rotation",
+        "CompleteCount": 2,
+        "CompleteReward": 10000201,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.Mission_Name_30",
+        "MissionDescKey": "UI.Mission_Desc_30",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Hero_Rotation'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Hero_Rotation.0"
+        },
+        "MissionEnable": false
+      },
+      "1031008": {
+        "MissionType": "EMissionType::Daily",
+        "MissionGroup": 2,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::HeroPlay_Tanker",
+        "CompleteCount": 2,
+        "CompleteReward": 10000201,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.Mission_Name_31",
+        "MissionDescKey": "UI.Mission_Desc_31",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Hero_Tanker'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Hero_Tanker.0"
+        },
+        "MissionEnable": true
+      },
+      "1032009": {
+        "MissionType": "EMissionType::Daily",
+        "MissionGroup": 2,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::HeroPlay_Warrior",
+        "CompleteCount": 2,
+        "CompleteReward": 10000201,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.Mission_Name_32",
+        "MissionDescKey": "UI.Mission_Desc_32",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Hero_Warrior'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Hero_Warrior.0"
+        },
+        "MissionEnable": true
+      },
+      "1033010": {
+        "MissionType": "EMissionType::Daily",
+        "MissionGroup": 2,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::HeroPlay_Assassin",
+        "CompleteCount": 2,
+        "CompleteReward": 10000201,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.Mission_Name_33",
+        "MissionDescKey": "UI.Mission_Desc_33",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Hero_Assassin'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Hero_Assassin.0"
+        },
+        "MissionEnable": true
+      },
+      "1034011": {
+        "MissionType": "EMissionType::Daily",
+        "MissionGroup": 2,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::HeroPlay_Caster",
+        "CompleteCount": 2,
+        "CompleteReward": 10000201,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.Mission_Name_34",
+        "MissionDescKey": "UI.Mission_Desc_34",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Hero_Caster'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Hero_Caster.0"
+        },
+        "MissionEnable": true
+      },
+      "1035012": {
+        "MissionType": "EMissionType::Daily",
+        "MissionGroup": 2,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::HeroPlay_ADCarry",
+        "CompleteCount": 2,
+        "CompleteReward": 10000201,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.Mission_Name_35",
+        "MissionDescKey": "UI.Mission_Desc_35",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Hero_ADCarry'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Hero_ADCarry.0"
+        },
+        "MissionEnable": true
+      },
+      "1036013": {
+        "MissionType": "EMissionType::Daily",
+        "MissionGroup": 2,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::HeroPlay_Supporter",
+        "CompleteCount": 2,
+        "CompleteReward": 10000201,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.Mission_Name_36",
+        "MissionDescKey": "UI.Mission_Desc_36",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Hero_Supporter'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Hero_Supporter.0"
+        },
+        "MissionEnable": true
+      },
+      "1040014": {
+        "MissionType": "EMissionType::Daily",
+        "MissionGroup": 3,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_MVP",
+        "CompleteCount": 2,
+        "CompleteReward": 10000201,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.Mission_Name_40",
+        "MissionDescKey": "UI.Mission_Desc_40",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_MVP'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_MVP.0"
+        },
+        "MissionEnable": false
+      },
+      "1041015": {
+        "MissionType": "EMissionType::Daily",
+        "MissionGroup": 3,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_WinningStreak",
+        "CompleteCount": 2,
+        "CompleteReward": 10000201,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.Mission_Name_41",
+        "MissionDescKey": "UI.Mission_Desc_41",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_WinningStreak'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_WinningStreak.0"
+        },
+        "MissionEnable": false
+      },
+      "1042016": {
+        "MissionType": "EMissionType::Daily",
+        "MissionGroup": 3,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_TowerDestroy",
+        "CompleteCount": 3,
+        "CompleteReward": 10000201,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.Mission_Name_42",
+        "MissionDescKey": "UI.Mission_Desc_42",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_TowerDestroy'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_TowerDestroy.0"
+        },
+        "MissionEnable": true
+      },
+      "1043017": {
+        "MissionType": "EMissionType::Daily",
+        "MissionGroup": 3,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_Kill",
+        "CompleteCount": 3,
+        "CompleteReward": 10000201,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.Mission_Name_43",
+        "MissionDescKey": "UI.Mission_Desc_43",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Hero_Kill'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Hero_Kill.0"
+        },
+        "MissionEnable": true
+      },
+      "1044018": {
+        "MissionType": "EMissionType::Daily",
+        "MissionGroup": 3,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_Assist",
+        "CompleteCount": 5,
+        "CompleteReward": 10000201,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.Mission_Name_44",
+        "MissionDescKey": "UI.Mission_Desc_44",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Hero_Assist'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Hero_Assist.0"
+        },
+        "MissionEnable": true
+      },
+      "1050019": {
+        "MissionType": "EMissionType::Daily",
+        "MissionGroup": 3,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_MVP_NormalMode",
+        "CompleteCount": 3,
+        "CompleteReward": 10000201,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.Mission_Name_50",
+        "MissionDescKey": "UI.Mission_Desc_50",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_MVP'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_MVP.0"
+        },
+        "MissionEnable": false
+      },
+      "1051020": {
+        "MissionType": "EMissionType::Daily",
+        "MissionGroup": 3,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_WinningStreak_NormalMode",
+        "CompleteCount": 3,
+        "CompleteReward": 10000201,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.Mission_Name_51",
+        "MissionDescKey": "UI.Mission_Desc_51",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_WinningStreak'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_WinningStreak.0"
+        },
+        "MissionEnable": false
+      },
+      "1052021": {
+        "MissionType": "EMissionType::Daily",
+        "MissionGroup": 3,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_TowerDestroy_NormalMode",
+        "CompleteCount": 3,
+        "CompleteReward": 10000201,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.Mission_Name_52",
+        "MissionDescKey": "UI.Mission_Desc_52",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_TowerDestroy'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_TowerDestroy.0"
+        },
+        "MissionEnable": false
+      },
+      "1053022": {
+        "MissionType": "EMissionType::Daily",
+        "MissionGroup": 3,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_Kill_NormalMode",
+        "CompleteCount": 3,
+        "CompleteReward": 10000201,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.Mission_Name_53",
+        "MissionDescKey": "UI.Mission_Desc_53",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Hero_Kill'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Hero_Kill.0"
+        },
+        "MissionEnable": false
+      },
+      "1054023": {
+        "MissionType": "EMissionType::Daily",
+        "MissionGroup": 3,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_Assist_NormalMode",
+        "CompleteCount": 5,
+        "CompleteReward": 10000201,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.Mission_Name_54",
+        "MissionDescKey": "UI.Mission_Desc_54",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Hero_Assist'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Hero_Assist.0"
+        },
+        "MissionEnable": false
+      },
+      "1060024": {
+        "MissionType": "EMissionType::Daily",
+        "MissionGroup": 3,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_MVP_RankMode",
+        "CompleteCount": 3,
+        "CompleteReward": 10000201,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.Mission_Name_60",
+        "MissionDescKey": "UI.Mission_Desc_60",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_MVP'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_MVP.0"
+        },
+        "MissionEnable": false
+      },
+      "1061025": {
+        "MissionType": "EMissionType::Daily",
+        "MissionGroup": 3,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_WinningStreak_RankMode",
+        "CompleteCount": 3,
+        "CompleteReward": 10000201,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.Mission_Name_61",
+        "MissionDescKey": "UI.Mission_Desc_61",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_WinningStreak'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_WinningStreak.0"
+        },
+        "MissionEnable": false
+      },
+      "1062026": {
+        "MissionType": "EMissionType::Daily",
+        "MissionGroup": 3,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_TowerDestroy_RankMode",
+        "CompleteCount": 3,
+        "CompleteReward": 10000201,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.Mission_Name_62",
+        "MissionDescKey": "UI.Mission_Desc_62",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_TowerDestroy'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_TowerDestroy.0"
+        },
+        "MissionEnable": false
+      },
+      "1063027": {
+        "MissionType": "EMissionType::Daily",
+        "MissionGroup": 3,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_Kill_RankMode",
+        "CompleteCount": 5,
+        "CompleteReward": 10000201,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.Mission_Name_63",
+        "MissionDescKey": "UI.Mission_Desc_63",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Hero_Kill'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Hero_Kill.0"
+        },
+        "MissionEnable": false
+      },
+      "1064028": {
+        "MissionType": "EMissionType::Daily",
+        "MissionGroup": 3,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_Assist_RankMode",
+        "CompleteCount": 5,
+        "CompleteReward": 10000201,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.Mission_Name_64",
+        "MissionDescKey": "UI.Mission_Desc_64",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Hero_Assist'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Hero_Assist.0"
+        },
+        "MissionEnable": false
+      },
+      "1100001": {
+        "MissionType": "EMissionType::Daily",
+        "MissionGroup": 1,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::Daily_First_Login",
+        "CompleteCount": 1,
+        "CompleteReward": 10000201,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.Mission_Name_100",
+        "MissionDescKey": "UI.Mission_Desc_100",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Hero_Rotation'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Hero_Rotation.0"
+        },
+        "MissionEnable": true
+      },
+      "2010001": {
+        "MissionType": "EMissionType::Weekly",
+        "MissionGroup": 4,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::PlayCount",
+        "CompleteCount": 10,
+        "CompleteReward": 10000201,
+        "RewardAmount": 500,
+        "MissionNameKey": "UI.Mission_Name_10",
+        "MissionDescKey": "UI.Mission_Desc_10",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Play_Game'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Play_Game.0"
+        },
+        "MissionEnable": true
+      },
+      "2011002": {
+        "MissionType": "EMissionType::Weekly",
+        "MissionGroup": 4,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::PlayCount_NormalMode",
+        "CompleteCount": 10,
+        "CompleteReward": 10000201,
+        "RewardAmount": 500,
+        "MissionNameKey": "UI.Mission_Name_11",
+        "MissionDescKey": "UI.Mission_Desc_11",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Play_Game'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Play_Game.0"
+        },
+        "MissionEnable": false
+      },
+      "2012003": {
+        "MissionType": "EMissionType::Weekly",
+        "MissionGroup": 4,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::PlayCount_RankMode",
+        "CompleteCount": 5,
+        "CompleteReward": 10000201,
+        "RewardAmount": 500,
+        "MissionNameKey": "UI.Mission_Name_12",
+        "MissionDescKey": "UI.Mission_Desc_12",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Play_Game'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Play_Game.0"
+        },
+        "MissionEnable": false
+      },
+      "2020004": {
+        "MissionType": "EMissionType::Weekly",
+        "MissionGroup": 4,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::PlayVictory",
+        "CompleteCount": 5,
+        "CompleteReward": 10000201,
+        "RewardAmount": 500,
+        "MissionNameKey": "UI.Mission_Name_20",
+        "MissionDescKey": "UI.Mission_Desc_20",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Play_Victory'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Play_Victory.0"
+        },
+        "MissionEnable": true
+      },
+      "2021005": {
+        "MissionType": "EMissionType::Weekly",
+        "MissionGroup": 4,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::PlayVictory_NormalMode",
+        "CompleteCount": 5,
+        "CompleteReward": 10000201,
+        "RewardAmount": 500,
+        "MissionNameKey": "UI.Mission_Name_21",
+        "MissionDescKey": "UI.Mission_Desc_21",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Play_Victory'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Play_Victory.0"
+        },
+        "MissionEnable": false
+      },
+      "2022006": {
+        "MissionType": "EMissionType::Weekly",
+        "MissionGroup": 4,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::PlayVictory_RankMode",
+        "CompleteCount": 3,
+        "CompleteReward": 10000201,
+        "RewardAmount": 500,
+        "MissionNameKey": "UI.Mission_Name_22",
+        "MissionDescKey": "UI.Mission_Desc_22",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Play_Victory'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Play_Victory.0"
+        },
+        "MissionEnable": false
+      },
+      "2030007": {
+        "MissionType": "EMissionType::Weekly",
+        "MissionGroup": 4,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::HeroPlay_Rotation",
+        "CompleteCount": 7,
+        "CompleteReward": 10000201,
+        "RewardAmount": 500,
+        "MissionNameKey": "UI.Mission_Name_30",
+        "MissionDescKey": "UI.Mission_Desc_30",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Hero_Rotation'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Hero_Rotation.0"
+        },
+        "MissionEnable": false
+      },
+      "2031008": {
+        "MissionType": "EMissionType::Weekly",
+        "MissionGroup": 4,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::HeroPlay_Tanker",
+        "CompleteCount": 7,
+        "CompleteReward": 10000201,
+        "RewardAmount": 500,
+        "MissionNameKey": "UI.Mission_Name_31",
+        "MissionDescKey": "UI.Mission_Desc_31",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Hero_Tanker'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Hero_Tanker.0"
+        },
+        "MissionEnable": true
+      },
+      "2032009": {
+        "MissionType": "EMissionType::Weekly",
+        "MissionGroup": 4,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::HeroPlay_Warrior",
+        "CompleteCount": 7,
+        "CompleteReward": 10000201,
+        "RewardAmount": 500,
+        "MissionNameKey": "UI.Mission_Name_32",
+        "MissionDescKey": "UI.Mission_Desc_32",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Hero_Warrior'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Hero_Warrior.0"
+        },
+        "MissionEnable": true
+      },
+      "2033010": {
+        "MissionType": "EMissionType::Weekly",
+        "MissionGroup": 4,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::HeroPlay_Assassin",
+        "CompleteCount": 7,
+        "CompleteReward": 10000201,
+        "RewardAmount": 500,
+        "MissionNameKey": "UI.Mission_Name_33",
+        "MissionDescKey": "UI.Mission_Desc_33",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Hero_Assassin'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Hero_Assassin.0"
+        },
+        "MissionEnable": true
+      },
+      "2034011": {
+        "MissionType": "EMissionType::Weekly",
+        "MissionGroup": 4,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::HeroPlay_Caster",
+        "CompleteCount": 7,
+        "CompleteReward": 10000201,
+        "RewardAmount": 500,
+        "MissionNameKey": "UI.Mission_Name_34",
+        "MissionDescKey": "UI.Mission_Desc_34",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Hero_Caster'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Hero_Caster.0"
+        },
+        "MissionEnable": true
+      },
+      "2035012": {
+        "MissionType": "EMissionType::Weekly",
+        "MissionGroup": 4,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::HeroPlay_ADCarry",
+        "CompleteCount": 7,
+        "CompleteReward": 10000201,
+        "RewardAmount": 500,
+        "MissionNameKey": "UI.Mission_Name_35",
+        "MissionDescKey": "UI.Mission_Desc_35",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Hero_ADCarry'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Hero_ADCarry.0"
+        },
+        "MissionEnable": true
+      },
+      "2036013": {
+        "MissionType": "EMissionType::Weekly",
+        "MissionGroup": 4,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::HeroPlay_Supporter",
+        "CompleteCount": 7,
+        "CompleteReward": 10000201,
+        "RewardAmount": 500,
+        "MissionNameKey": "UI.Mission_Name_36",
+        "MissionDescKey": "UI.Mission_Desc_36",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Hero_Supporter'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Hero_Supporter.0"
+        },
+        "MissionEnable": true
+      },
+      "2040014": {
+        "MissionType": "EMissionType::Weekly",
+        "MissionGroup": 4,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_MVP",
+        "CompleteCount": 3,
+        "CompleteReward": 10000201,
+        "RewardAmount": 500,
+        "MissionNameKey": "UI.Mission_Name_40",
+        "MissionDescKey": "UI.Mission_Desc_40",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_MVP'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_MVP.0"
+        },
+        "MissionEnable": false
+      },
+      "2041015": {
+        "MissionType": "EMissionType::Weekly",
+        "MissionGroup": 4,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_WinningStreak",
+        "CompleteCount": 3,
+        "CompleteReward": 10000201,
+        "RewardAmount": 500,
+        "MissionNameKey": "UI.Mission_Name_41",
+        "MissionDescKey": "UI.Mission_Desc_41",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_WinningStreak'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_WinningStreak.0"
+        },
+        "MissionEnable": false
+      },
+      "2042016": {
+        "MissionType": "EMissionType::Weekly",
+        "MissionGroup": 4,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_TowerDestroy",
+        "CompleteCount": 10,
+        "CompleteReward": 10000201,
+        "RewardAmount": 500,
+        "MissionNameKey": "UI.Mission_Name_42",
+        "MissionDescKey": "UI.Mission_Desc_42",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_TowerDestroy'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_TowerDestroy.0"
+        },
+        "MissionEnable": true
+      },
+      "2043017": {
+        "MissionType": "EMissionType::Weekly",
+        "MissionGroup": 4,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_Kill",
+        "CompleteCount": 10,
+        "CompleteReward": 10000201,
+        "RewardAmount": 500,
+        "MissionNameKey": "UI.Mission_Name_43",
+        "MissionDescKey": "UI.Mission_Desc_43",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Hero_Kill'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Hero_Kill.0"
+        },
+        "MissionEnable": true
+      },
+      "2044018": {
+        "MissionType": "EMissionType::Weekly",
+        "MissionGroup": 4,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_Assist",
+        "CompleteCount": 15,
+        "CompleteReward": 10000201,
+        "RewardAmount": 500,
+        "MissionNameKey": "UI.Mission_Name_44",
+        "MissionDescKey": "UI.Mission_Desc_44",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Hero_Assist'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Hero_Assist.0"
+        },
+        "MissionEnable": true
+      },
+      "2050019": {
+        "MissionType": "EMissionType::Weekly",
+        "MissionGroup": 4,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_MVP_NormalMode",
+        "CompleteCount": 3,
+        "CompleteReward": 10000201,
+        "RewardAmount": 500,
+        "MissionNameKey": "UI.Mission_Name_50",
+        "MissionDescKey": "UI.Mission_Desc_50",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_MVP'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_MVP.0"
+        },
+        "MissionEnable": false
+      },
+      "2051020": {
+        "MissionType": "EMissionType::Weekly",
+        "MissionGroup": 4,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_WinningStreak_NormalMode",
+        "CompleteCount": 3,
+        "CompleteReward": 10000201,
+        "RewardAmount": 500,
+        "MissionNameKey": "UI.Mission_Name_51",
+        "MissionDescKey": "UI.Mission_Desc_51",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_WinningStreak'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_WinningStreak.0"
+        },
+        "MissionEnable": false
+      },
+      "2052021": {
+        "MissionType": "EMissionType::Weekly",
+        "MissionGroup": 4,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_TowerDestroy_NormalMode",
+        "CompleteCount": 10,
+        "CompleteReward": 10000201,
+        "RewardAmount": 500,
+        "MissionNameKey": "UI.Mission_Name_52",
+        "MissionDescKey": "UI.Mission_Desc_52",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_TowerDestroy'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_TowerDestroy.0"
+        },
+        "MissionEnable": false
+      },
+      "2053022": {
+        "MissionType": "EMissionType::Weekly",
+        "MissionGroup": 4,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_Kill_NormalMode",
+        "CompleteCount": 10,
+        "CompleteReward": 10000201,
+        "RewardAmount": 500,
+        "MissionNameKey": "UI.Mission_Name_53",
+        "MissionDescKey": "UI.Mission_Desc_53",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Hero_Kill'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Hero_Kill.0"
+        },
+        "MissionEnable": false
+      },
+      "2054023": {
+        "MissionType": "EMissionType::Weekly",
+        "MissionGroup": 4,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_Assist_NormalMode",
+        "CompleteCount": 15,
+        "CompleteReward": 10000201,
+        "RewardAmount": 500,
+        "MissionNameKey": "UI.Mission_Name_54",
+        "MissionDescKey": "UI.Mission_Desc_54",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Hero_Assist'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Hero_Assist.0"
+        },
+        "MissionEnable": false
+      },
+      "2060024": {
+        "MissionType": "EMissionType::Weekly",
+        "MissionGroup": 4,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_MVP_RankMode",
+        "CompleteCount": 3,
+        "CompleteReward": 10000201,
+        "RewardAmount": 500,
+        "MissionNameKey": "UI.Mission_Name_60",
+        "MissionDescKey": "UI.Mission_Desc_60",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_MVP'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_MVP.0"
+        },
+        "MissionEnable": false
+      },
+      "2061025": {
+        "MissionType": "EMissionType::Weekly",
+        "MissionGroup": 4,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_WinningStreak_RankMode",
+        "CompleteCount": 3,
+        "CompleteReward": 10000201,
+        "RewardAmount": 500,
+        "MissionNameKey": "UI.Mission_Name_61",
+        "MissionDescKey": "UI.Mission_Desc_61",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_WinningStreak'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_WinningStreak.0"
+        },
+        "MissionEnable": false
+      },
+      "2062026": {
+        "MissionType": "EMissionType::Weekly",
+        "MissionGroup": 4,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_TowerDestroy_RankMode",
+        "CompleteCount": 10,
+        "CompleteReward": 10000201,
+        "RewardAmount": 500,
+        "MissionNameKey": "UI.Mission_Name_62",
+        "MissionDescKey": "UI.Mission_Desc_62",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_TowerDestroy'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_TowerDestroy.0"
+        },
+        "MissionEnable": false
+      },
+      "2063027": {
+        "MissionType": "EMissionType::Weekly",
+        "MissionGroup": 4,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_Kill_RankMode",
+        "CompleteCount": 10,
+        "CompleteReward": 10000201,
+        "RewardAmount": 500,
+        "MissionNameKey": "UI.Mission_Name_63",
+        "MissionDescKey": "UI.Mission_Desc_63",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Hero_Kill'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Hero_Kill.0"
+        },
+        "MissionEnable": false
+      },
+      "2064028": {
+        "MissionType": "EMissionType::Weekly",
+        "MissionGroup": 4,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_Assist_RankMode",
+        "CompleteCount": 15,
+        "CompleteReward": 10000201,
+        "RewardAmount": 500,
+        "MissionNameKey": "UI.Mission_Name_64",
+        "MissionDescKey": "UI.Mission_Desc_64",
+        "MissionImgResource": {
+          "ObjectName": "MaterialInstanceConstant'MAT_Mission_Type_Hero_Assist'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Mission/MAT_Mission_Type_Hero_Assist.0"
+        },
+        "MissionEnable": false
+      },
+      "3501001": {
+        "MissionType": "EMissionType::OneTime_Mission",
+        "MissionGroup": 0,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::None",
+        "CompleteCount": 6,
+        "CompleteReward": 10000902,
+        "RewardAmount": 1000,
+        "MissionNameKey": "UI.BattlePass_Common_CompleteMission",
+        "MissionDescKey": "UI.Mission_Desc_501",
+        "MissionImgResource": null,
+        "MissionEnable": true
+      },
+      "3020002": {
+        "MissionType": "EMissionType::OneTime_Mission",
+        "MissionGroup": 0,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::PlayVictory",
+        "CompleteCount": 5,
+        "CompleteReward": 10000902,
+        "RewardAmount": 700,
+        "MissionNameKey": "UI.BattlePass_Common_CompleteMission",
+        "MissionDescKey": "UI.Mission_Desc_20_NewUser",
+        "MissionImgResource": null,
+        "MissionEnable": true
+      },
+      "3500003": {
+        "MissionType": "EMissionType::OneTime_Mission",
+        "MissionGroup": 0,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::None",
+        "CompleteCount": 1,
+        "CompleteReward": 10000902,
+        "RewardAmount": 500,
+        "MissionNameKey": "UI.BattlePass_Common_CompleteMission",
+        "MissionDescKey": "UI.Mission_Desc_500",
+        "MissionImgResource": null,
+        "MissionEnable": true
+      },
+      "4010001": {
+        "MissionType": "EMissionType::Repeat_Mission",
+        "MissionGroup": 0,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::PlayCount",
+        "CompleteCount": 1,
+        "CompleteReward": 10000902,
+        "RewardAmount": 200,
+        "MissionNameKey": "UI.BattlePass_Common_CompleteMission",
+        "MissionDescKey": "UI.Mission_Desc_11",
+        "MissionImgResource": null,
+        "MissionEnable": true
+      },
+      "4043002": {
+        "MissionType": "EMissionType::Repeat_Mission",
+        "MissionGroup": 0,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_Kill",
+        "CompleteCount": 1,
+        "CompleteReward": 10000902,
+        "RewardAmount": 50,
+        "MissionNameKey": "UI.BattlePass_Common_CompleteMission",
+        "MissionDescKey": "UI.Mission_Desc_53",
+        "MissionImgResource": null,
+        "MissionEnable": true
+      },
+      "4044003": {
+        "MissionType": "EMissionType::Repeat_Mission",
+        "MissionGroup": 0,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::BattleLog_Assist",
+        "CompleteCount": 1,
+        "CompleteReward": 10000902,
+        "RewardAmount": 50,
+        "MissionNameKey": "UI.BattlePass_Common_CompleteMission",
+        "MissionDescKey": "UI.Mission_Desc_54",
+        "MissionImgResource": null,
+        "MissionEnable": true
+      },
+      "4045004": {
+        "MissionType": "EMissionType::Repeat_Mission",
+        "MissionGroup": 0,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::None",
+        "CompleteCount": 3,
+        "CompleteReward": 10000902,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.BattlePass_Common_CompleteMission",
+        "MissionDescKey": "UI.Mission_Desc_55",
+        "MissionImgResource": null,
+        "MissionEnable": true
+      },
+      "4046005": {
+        "MissionType": "EMissionType::Repeat_Mission",
+        "MissionGroup": 0,
+        "MaxAccountLevel": 200,
+        "CompleteType": "EMissionCompleteType::None",
+        "CompleteCount": 2000,
+        "CompleteReward": 10000902,
+        "RewardAmount": 100,
+        "MissionNameKey": "UI.BattlePass_Common_CompleteMission",
+        "MissionDescKey": "UI.Mission_Desc_56",
+        "MissionImgResource": null,
+        "MissionEnable": true
+      }
+    }
+  }
+]

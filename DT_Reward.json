@@ -1,0 +1,999 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_Reward",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'RewardTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "Group_ID": "Reward_DayRewardNewUser_1",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 1000
+      },
+      "2": {
+        "Group_ID": "Reward_DayRewardNewUser_2",
+        "Seq": 1,
+        "Reward_Item_ID": 31002011,
+        "Reward_Item_Amount": 1
+      },
+      "3": {
+        "Group_ID": "Reward_DayRewardNewUser_2",
+        "Seq": 2,
+        "Reward_Item_ID": 31012005,
+        "Reward_Item_Amount": 1
+      },
+      "4": {
+        "Group_ID": "Reward_DayRewardNewUser_2",
+        "Seq": 3,
+        "Reward_Item_ID": 31003005,
+        "Reward_Item_Amount": 1
+      },
+      "5": {
+        "Group_ID": "Reward_DayRewardNewUser_3",
+        "Seq": 1,
+        "Reward_Item_ID": 41100122,
+        "Reward_Item_Amount": 1
+      },
+      "6": {
+        "Group_ID": "Reward_DayRewardNewUser_4",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 1000
+      },
+      "7": {
+        "Group_ID": "Reward_DayRewardNewUser_5",
+        "Seq": 1,
+        "Reward_Item_ID": 41100130,
+        "Reward_Item_Amount": 1
+      },
+      "8": {
+        "Group_ID": "Reward_DayRewardNewUser_6",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 1000
+      },
+      "9": {
+        "Group_ID": "Reward_DayRewardNewUser_7",
+        "Seq": 1,
+        "Reward_Item_ID": 31006006,
+        "Reward_Item_Amount": 1
+      },
+      "10": {
+        "Group_ID": "Reward_DayRewardNewUser_7",
+        "Seq": 2,
+        "Reward_Item_ID": 31002006,
+        "Reward_Item_Amount": 1
+      },
+      "11": {
+        "Group_ID": "Reward_DayRewardNewUser_7",
+        "Seq": 3,
+        "Reward_Item_ID": 31031007,
+        "Reward_Item_Amount": 1
+      },
+      "12": {
+        "Group_ID": "Reward_BattlePass_EBPGT_NewUser_LV1",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 1000
+      },
+      "13": {
+        "Group_ID": "Reward_BattlePass_EBPGT_NewUser_LV2",
+        "Seq": 1,
+        "Reward_Item_ID": 20001006,
+        "Reward_Item_Amount": 1
+      },
+      "14": {
+        "Group_ID": "Reward_BattlePass_EBPGT_NewUser_LV3",
+        "Seq": 1,
+        "Reward_Item_ID": 41100127,
+        "Reward_Item_Amount": 1
+      },
+      "15": {
+        "Group_ID": "Reward_BattlePass_EBPGT_NewUser_LV4",
+        "Seq": 1,
+        "Reward_Item_ID": 20001013,
+        "Reward_Item_Amount": 1
+      },
+      "16": {
+        "Group_ID": "Reward_BattlePass_EBPGT_NewUser_LV5",
+        "Seq": 1,
+        "Reward_Item_ID": 41100128,
+        "Reward_Item_Amount": 1
+      },
+      "17": {
+        "Group_ID": "Reward_BattlePass_EBPGT_NewUser_LV6",
+        "Seq": 1,
+        "Reward_Item_ID": 20001033,
+        "Reward_Item_Amount": 1
+      },
+      "18": {
+        "Group_ID": "Reward_BattlePass_EBPGT_NewUser_LV7",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 500
+      },
+      "19": {
+        "Group_ID": "Reward_BattlePass_EBPGT_NewUser_LV8",
+        "Seq": 1,
+        "Reward_Item_ID": 41100126,
+        "Reward_Item_Amount": 1
+      },
+      "20": {
+        "Group_ID": "Reward_BattlePass_EBPGT_NewUser_LV9",
+        "Seq": 1,
+        "Reward_Item_ID": 20001009,
+        "Reward_Item_Amount": 1
+      },
+      "21": {
+        "Group_ID": "Reward_BattlePass_EBPGT_NewUser_LV10",
+        "Seq": 1,
+        "Reward_Item_ID": 31009005,
+        "Reward_Item_Amount": 1
+      },
+      "22": {
+        "Group_ID": "Reward_BattlePass_EBPGT_NewUser_LV11",
+        "Seq": 1,
+        "Reward_Item_ID": 20001014,
+        "Reward_Item_Amount": 1
+      },
+      "23": {
+        "Group_ID": "Reward_BattlePass_EBPGT_NewUser_LV12",
+        "Seq": 1,
+        "Reward_Item_ID": 41100123,
+        "Reward_Item_Amount": 1
+      },
+      "24": {
+        "Group_ID": "Reward_BattlePass_EBPGT_NewUser_LV13",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 500
+      },
+      "25": {
+        "Group_ID": "Reward_BattlePass_EBPGT_NewUser_LV14",
+        "Seq": 1,
+        "Reward_Item_ID": 20001015,
+        "Reward_Item_Amount": 1
+      },
+      "26": {
+        "Group_ID": "Reward_BattlePass_EBPGT_NewUser_LV15",
+        "Seq": 1,
+        "Reward_Item_ID": 41100124,
+        "Reward_Item_Amount": 1
+      },
+      "27": {
+        "Group_ID": "Reward_BattlePass_EBPGT_NewUser_LV16",
+        "Seq": 1,
+        "Reward_Item_ID": 20001022,
+        "Reward_Item_Amount": 1
+      },
+      "28": {
+        "Group_ID": "Reward_BattlePass_EBPGT_NewUser_LV17",
+        "Seq": 1,
+        "Reward_Item_ID": 41100125,
+        "Reward_Item_Amount": 1
+      },
+      "29": {
+        "Group_ID": "Reward_BattlePass_EBPGT_NewUser_LV18",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 1000
+      },
+      "30": {
+        "Group_ID": "Reward_BattlePass_EBPGT_NewUser_LV19",
+        "Seq": 1,
+        "Reward_Item_ID": 41100121,
+        "Reward_Item_Amount": 1
+      },
+      "31": {
+        "Group_ID": "Reward_BattlePass_EBPGT_NewUser_LV20",
+        "Seq": 1,
+        "Reward_Item_ID": 31001006,
+        "Reward_Item_Amount": 1
+      },
+      "32": {
+        "Group_ID": "Reward_UserCheckPoint_NewUser_Tutorial1st",
+        "Seq": 1,
+        "Reward_Item_ID": 20001020,
+        "Reward_Item_Amount": 1
+      },
+      "33": {
+        "Group_ID": "Reward_UserCheckPoint_NewUser_Tutorial1st",
+        "Seq": 2,
+        "Reward_Item_ID": 20001023,
+        "Reward_Item_Amount": 1
+      },
+      "34": {
+        "Group_ID": "Reward_UserCheckPoint_NewUser_Tutorial1st",
+        "Seq": 3,
+        "Reward_Item_ID": 20001012,
+        "Reward_Item_Amount": 1
+      },
+      "35": {
+        "Group_ID": "Reward_UserCheckPoint_NewUser_Tutorial1st",
+        "Seq": 4,
+        "Reward_Item_ID": 20001002,
+        "Reward_Item_Amount": 1
+      },
+      "36": {
+        "Group_ID": "Reward_UserCheckPoint_NewUser_Tutorial1st",
+        "Seq": 5,
+        "Reward_Item_ID": 20001003,
+        "Reward_Item_Amount": 1
+      },
+      "37": {
+        "Group_ID": "Reward_UserCheckPoint_Reward_FirstWin",
+        "Seq": 1,
+        "Reward_Item_ID": 20001010,
+        "Reward_Item_Amount": 1
+      },
+      "38": {
+        "Group_ID": "Reward_UserCheckPoint_Reward_FirstWin",
+        "Seq": 2,
+        "Reward_Item_ID": 20001004,
+        "Reward_Item_Amount": 1
+      },
+      "39": {
+        "Group_ID": "Reward_UserCheckPoint_Reward_FirstWin",
+        "Seq": 3,
+        "Reward_Item_ID": 20001019,
+        "Reward_Item_Amount": 1
+      },
+      "40": {
+        "Group_ID": "Reward_UserCheckPoint_Reward_FirstWin",
+        "Seq": 4,
+        "Reward_Item_ID": 20001001,
+        "Reward_Item_Amount": 1
+      },
+      "41": {
+        "Group_ID": "Reward_UserCheckPoint_Reward_FirstWin",
+        "Seq": 5,
+        "Reward_Item_ID": 20001007,
+        "Reward_Item_Amount": 1
+      },
+      "42": {
+        "Group_ID": "Reward_UserCheckPoint_Reward_FirstLose",
+        "Seq": 1,
+        "Reward_Item_ID": 41100129,
+        "Reward_Item_Amount": 1
+      },
+      "43": {
+        "Group_ID": "Reward_UserCheckPoint_Reward_FirstLose",
+        "Seq": 2,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 500
+      },
+      "44": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001001",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "45": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001002",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "46": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001003",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "47": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001004",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "48": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001005",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "49": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001006",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "50": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001007",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "51": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001009",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "52": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001010",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "53": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001011",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "54": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001012",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "55": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001013",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "56": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001014",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "57": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001015",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "58": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001016",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "59": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001017",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "60": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001019",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "61": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001020",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "62": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001022",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "63": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001023",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "64": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001025",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "65": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001026",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "66": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001027",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "67": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001028",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "68": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001030",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 6000
+      },
+      "69": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001031",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "70": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001032",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "71": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001033",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "72": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001036",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "73": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001037",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "74": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001040",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "75": {
+        "Group_ID": "Reward_Refund_ItemOutgame_20001042",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 3000
+      },
+      "76": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31001002",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "77": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31001003",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "78": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31001005",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 70
+      },
+      "79": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31001006",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 210
+      },
+      "80": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31001008",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 100
+      },
+      "81": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31002004",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "82": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31002005",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 70
+      },
+      "83": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31002006",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 210
+      },
+      "84": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31002008",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 100
+      },
+      "85": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31002011",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 70
+      },
+      "86": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31003002",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "87": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31003003",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "88": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31003004",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "89": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31003005",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 70
+      },
+      "90": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31003007",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 100
+      },
+      "91": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31003011",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "92": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31004003",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "93": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31004004",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "94": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31004005",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 70
+      },
+      "95": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31004008",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 210
+      },
+      "96": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31005005",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 70
+      },
+      "97": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31005006",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 210
+      },
+      "98": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31005011",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 70
+      },
+      "99": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31006005",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 70
+      },
+      "100": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31006006",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 210
+      },
+      "101": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31007002",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "102": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31007004",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "103": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31007006",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 210
+      },
+      "104": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31009003",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "105": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31009004",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "106": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31009005",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 70
+      },
+      "107": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31009007",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 100
+      },
+      "108": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31009011",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 70
+      },
+      "109": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31010005",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 70
+      },
+      "110": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31011004",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "111": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31011007",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 210
+      },
+      "112": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31012003",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "113": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31012004",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "114": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31012005",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 70
+      },
+      "115": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31012006",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 210
+      },
+      "116": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31013002",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "117": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31013005",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 70
+      },
+      "118": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31014003",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "119": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31014004",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "120": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31014006",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 210
+      },
+      "121": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31014009",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 210
+      },
+      "122": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31015003",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "123": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31015005",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 70
+      },
+      "124": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31015006",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 210
+      },
+      "125": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31016003",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "126": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31016004",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "127": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31016006",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 210
+      },
+      "128": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31017002",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "129": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31017004",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "130": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31017006",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 210
+      },
+      "131": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31019002",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "132": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31019004",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "133": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31019005",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 70
+      },
+      "134": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31019008",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 100
+      },
+      "135": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31020003",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "136": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31020004",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "137": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31020005",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 70
+      },
+      "138": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31020011",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 70
+      },
+      "139": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31022004",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 70
+      },
+      "140": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31022005",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 70
+      },
+      "141": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31022006",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 210
+      },
+      "142": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31023002",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "143": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31023006",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 100
+      },
+      "144": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31025003",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "145": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31025006",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 210
+      },
+      "146": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31026003",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 70
+      },
+      "147": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31026004",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 70
+      },
+      "148": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31026006",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 210
+      },
+      "149": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31026008",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 100
+      },
+      "150": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31027004",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "151": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31027005",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 70
+      },
+      "152": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31027007",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 210
+      },
+      "153": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31028006",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 210
+      },
+      "154": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31030002",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 70
+      },
+      "155": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31031002",
+        "Seq": 1,
+        "Reward_Item_ID": 10000201,
+        "Reward_Item_Amount": 2000
+      },
+      "156": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31031007",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 210
+      },
+      "157": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31032006",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 100
+      },
+      "158": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31033002",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 70
+      },
+      "159": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31036006",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 210
+      },
+      "160": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31037005",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 70
+      },
+      "161": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31037006",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 100
+      },
+      "162": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31040006",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 100
+      },
+      "163": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31042002",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 70
+      },
+      "164": {
+        "Group_ID": "Reward_Refund_ItemOutgame_31042006",
+        "Seq": 1,
+        "Reward_Item_ID": 10000102,
+        "Reward_Item_Amount": 100
+      }
+    }
+  }
+]

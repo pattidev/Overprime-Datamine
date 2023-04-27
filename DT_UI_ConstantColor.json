@@ -1,0 +1,185 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_UI_ConstantColor",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPUIConstantColorDataTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "hero_grade_normal": {
+        "ColorValue": {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 1.0,
+          "A": 1.0,
+          "Hex": "FFFFFFFF"
+        },
+        "FloatValue": 0.0
+      },
+      "hero_grade_rare": {
+        "ColorValue": {
+          "R": 0.072272,
+          "G": 0.371238,
+          "B": 1.0,
+          "A": 1.0,
+          "Hex": "FF4CA4FF"
+        },
+        "FloatValue": 0.0
+      },
+      "hero_grade_hero": {
+        "ColorValue": {
+          "R": 0.361307,
+          "G": 0.132868,
+          "B": 0.745404,
+          "A": 1.0,
+          "Hex": "FFA266E0"
+        },
+        "FloatValue": 0.0
+      },
+      "hero_grade_legend": {
+        "ColorValue": {
+          "R": 1.0,
+          "G": 0.617207,
+          "B": 0.05448,
+          "A": 1.0,
+          "Hex": "FFFFCE42"
+        },
+        "FloatValue": 0.0
+      },
+      "hero_grade_normal_used": {
+        "ColorValue": {
+          "R": 0.099899,
+          "G": 0.099899,
+          "B": 0.099899,
+          "A": 1.0,
+          "Hex": "FF595959"
+        },
+        "FloatValue": 0.0
+      },
+      "hero_grade_rare_used": {
+        "ColorValue": {
+          "R": 0.025187,
+          "G": 0.056128,
+          "B": 0.102242,
+          "A": 1.0,
+          "Hex": "FF2C435A"
+        },
+        "FloatValue": 0.0
+      },
+      "hero_grade_hero_used": {
+        "ColorValue": {
+          "R": 0.066626,
+          "G": 0.017642,
+          "B": 0.162029,
+          "A": 1.0,
+          "Hex": "FF492470"
+        },
+        "FloatValue": 0.0
+      },
+      "hero_grade_legend_used": {
+        "ColorValue": {
+          "R": 0.078187,
+          "G": 0.057805,
+          "B": 0.016807,
+          "A": 1.0,
+          "Hex": "FF4F4423"
+        },
+        "FloatValue": 0.0
+      },
+      "UI_Common_Normal": {
+        "ColorValue": {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 1.0,
+          "A": 0.4,
+          "Hex": "66FFFFFF"
+        },
+        "FloatValue": 0.0
+      },
+      "UI_Common_Hover": {
+        "ColorValue": {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 1.0,
+          "A": 1.0,
+          "Hex": "FFFFFFFF"
+        },
+        "FloatValue": 0.0
+      },
+      "UI_Common_Selected": {
+        "ColorValue": {
+          "R": 0.223228,
+          "G": 0.223228,
+          "B": 0.223228,
+          "A": 1.0,
+          "Hex": "FF828282"
+        },
+        "FloatValue": 0.0
+      },
+      "UI_Common_Disable": {
+        "ColorValue": {
+          "R": 0.223228,
+          "G": 0.223228,
+          "B": 0.223228,
+          "A": 0.4,
+          "Hex": "66828282"
+        },
+        "FloatValue": 0.0
+      },
+      "chat_mode_color_party": {
+        "ColorValue": {
+          "R": 0.0,
+          "G": 0.309804,
+          "B": 1.0,
+          "A": 1.0,
+          "Hex": "FF0097FF"
+        },
+        "FloatValue": 0.0
+      },
+      "chat_mode_color_whisper": {
+        "ColorValue": {
+          "R": 1.0,
+          "G": 0.317647,
+          "B": 0.886275,
+          "A": 1.0,
+          "Hex": "FFFF99F2"
+        },
+        "FloatValue": 0.0
+      },
+      "chat_mode_color_chat_all": {
+        "ColorValue": {
+          "R": 1.0,
+          "G": 0.615686,
+          "B": 0.105882,
+          "A": 1.0,
+          "Hex": "FFFFCE5B"
+        },
+        "FloatValue": 0.0
+      },
+      "chat_mode_color_system": {
+        "ColorValue": {
+          "R": 0.352941,
+          "G": 1.0,
+          "B": 0.34902,
+          "A": 1.0,
+          "Hex": "FFA0FFA0"
+        },
+        "FloatValue": 0.0
+      },
+      "chat_mode_color_default": {
+        "ColorValue": {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 1.0,
+          "A": 1.0,
+          "Hex": "FFFFFFFF"
+        },
+        "FloatValue": 0.0
+      }
+    }
+  }
+]

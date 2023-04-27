@@ -1,0 +1,335 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_Monster_SkillAI",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'MonsterSkillAITableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "HeroID": "2056",
+        "PrioritySkill_1": 0,
+        "PrioritySkill_2": 0,
+        "RandomCount": 1,
+        "RandomValues_1": 0.3,
+        "RandomValues_2": 0.15,
+        "RandomValues_3": 0.0,
+        "RandomValues_4": 0.0
+      },
+      "2": {
+        "HeroID": "2060",
+        "PrioritySkill_1": 0,
+        "PrioritySkill_2": 0,
+        "RandomCount": 1,
+        "RandomValues_1": 0.3,
+        "RandomValues_2": 0.15,
+        "RandomValues_3": 0.0,
+        "RandomValues_4": 0.0
+      },
+      "3": {
+        "HeroID": "2061",
+        "PrioritySkill_1": 2,
+        "PrioritySkill_2": 0,
+        "RandomCount": 1,
+        "RandomValues_1": 0.0,
+        "RandomValues_2": 1.0,
+        "RandomValues_3": 0.0,
+        "RandomValues_4": 0.0
+      },
+      "4": {
+        "HeroID": "2055",
+        "PrioritySkill_1": 0,
+        "PrioritySkill_2": 0,
+        "RandomCount": 1,
+        "RandomValues_1": 0.2,
+        "RandomValues_2": 0.2,
+        "RandomValues_3": 0.15,
+        "RandomValues_4": 0.0
+      },
+      "5": {
+        "HeroID": "2070",
+        "PrioritySkill_1": 0,
+        "PrioritySkill_2": 0,
+        "RandomCount": 1,
+        "RandomValues_1": 0.2,
+        "RandomValues_2": 0.35,
+        "RandomValues_3": 0.15,
+        "RandomValues_4": 0.0
+      },
+      "6": {
+        "HeroID": "2071",
+        "PrioritySkill_1": 0,
+        "PrioritySkill_2": 0,
+        "RandomCount": 1,
+        "RandomValues_1": 0.35,
+        "RandomValues_2": 0.2,
+        "RandomValues_3": 0.15,
+        "RandomValues_4": 0.0
+      },
+      "7": {
+        "HeroID": "2072",
+        "PrioritySkill_1": 0,
+        "PrioritySkill_2": 0,
+        "RandomCount": 1,
+        "RandomValues_1": 0.2,
+        "RandomValues_2": 0.35,
+        "RandomValues_3": 0.15,
+        "RandomValues_4": 0.0
+      },
+      "8": {
+        "HeroID": "2073",
+        "PrioritySkill_1": 0,
+        "PrioritySkill_2": 0,
+        "RandomCount": 1,
+        "RandomValues_1": 0.2,
+        "RandomValues_2": 0.35,
+        "RandomValues_3": 0.15,
+        "RandomValues_4": 0.0
+      },
+      "9": {
+        "HeroID": "2500",
+        "PrioritySkill_1": 0,
+        "PrioritySkill_2": 0,
+        "RandomCount": 1,
+        "RandomValues_1": 0.2,
+        "RandomValues_2": 0.0,
+        "RandomValues_3": 0.0,
+        "RandomValues_4": 0.0
+      },
+      "10": {
+        "HeroID": "2501",
+        "PrioritySkill_1": 2,
+        "PrioritySkill_2": 0,
+        "RandomCount": 1,
+        "RandomValues_1": 0.2,
+        "RandomValues_2": 0.0,
+        "RandomValues_3": 0.0,
+        "RandomValues_4": 0.0
+      },
+      "11": {
+        "HeroID": "2502",
+        "PrioritySkill_1": 2,
+        "PrioritySkill_2": 0,
+        "RandomCount": 1,
+        "RandomValues_1": 0.2,
+        "RandomValues_2": 0.0,
+        "RandomValues_3": 0.0,
+        "RandomValues_4": 0.0
+      },
+      "12": {
+        "HeroID": "2503",
+        "PrioritySkill_1": 0,
+        "PrioritySkill_2": 0,
+        "RandomCount": 1,
+        "RandomValues_1": 0.0,
+        "RandomValues_2": 0.0,
+        "RandomValues_3": 0.0,
+        "RandomValues_4": 0.0
+      },
+      "13": {
+        "HeroID": "2504",
+        "PrioritySkill_1": 0,
+        "PrioritySkill_2": 0,
+        "RandomCount": 1,
+        "RandomValues_1": 0.5,
+        "RandomValues_2": 0.0,
+        "RandomValues_3": 0.0,
+        "RandomValues_4": 0.0
+      },
+      "14": {
+        "HeroID": "2505",
+        "PrioritySkill_1": 0,
+        "PrioritySkill_2": 0,
+        "RandomCount": 1,
+        "RandomValues_1": 0.5,
+        "RandomValues_2": 0.0,
+        "RandomValues_3": 0.0,
+        "RandomValues_4": 0.0
+      },
+      "15": {
+        "HeroID": "2509",
+        "PrioritySkill_1": 1,
+        "PrioritySkill_2": 0,
+        "RandomCount": 1,
+        "RandomValues_1": 0.0,
+        "RandomValues_2": 0.0,
+        "RandomValues_3": 0.0,
+        "RandomValues_4": 0.0
+      },
+      "16": {
+        "HeroID": "2510",
+        "PrioritySkill_1": 1,
+        "PrioritySkill_2": 0,
+        "RandomCount": 1,
+        "RandomValues_1": 0.0,
+        "RandomValues_2": 0.3,
+        "RandomValues_3": 0.0,
+        "RandomValues_4": 0.0
+      },
+      "17": {
+        "HeroID": "2511",
+        "PrioritySkill_1": 1,
+        "PrioritySkill_2": 0,
+        "RandomCount": 1,
+        "RandomValues_1": 0.0,
+        "RandomValues_2": 0.3,
+        "RandomValues_3": 0.0,
+        "RandomValues_4": 0.0
+      },
+      "18": {
+        "HeroID": "2515",
+        "PrioritySkill_1": 0,
+        "PrioritySkill_2": 0,
+        "RandomCount": 0,
+        "RandomValues_1": 0.0,
+        "RandomValues_2": 0.0,
+        "RandomValues_3": 0.0,
+        "RandomValues_4": 0.0
+      },
+      "19": {
+        "HeroID": "2516",
+        "PrioritySkill_1": 0,
+        "PrioritySkill_2": 0,
+        "RandomCount": 0,
+        "RandomValues_1": 0.0,
+        "RandomValues_2": 0.0,
+        "RandomValues_3": 0.0,
+        "RandomValues_4": 0.0
+      },
+      "20": {
+        "HeroID": "2517",
+        "PrioritySkill_1": 0,
+        "PrioritySkill_2": 0,
+        "RandomCount": 0,
+        "RandomValues_1": 0.0,
+        "RandomValues_2": 0.0,
+        "RandomValues_3": 0.0,
+        "RandomValues_4": 0.0
+      },
+      "21": {
+        "HeroID": "2521",
+        "PrioritySkill_1": 0,
+        "PrioritySkill_2": 0,
+        "RandomCount": 1,
+        "RandomValues_1": 0.6,
+        "RandomValues_2": 0.0,
+        "RandomValues_3": 0.0,
+        "RandomValues_4": 0.0
+      },
+      "22": {
+        "HeroID": "2522",
+        "PrioritySkill_1": 0,
+        "PrioritySkill_2": 0,
+        "RandomCount": 1,
+        "RandomValues_1": 0.35,
+        "RandomValues_2": 0.15,
+        "RandomValues_3": 0.0,
+        "RandomValues_4": 0.0
+      },
+      "23": {
+        "HeroID": "2523",
+        "PrioritySkill_1": 0,
+        "PrioritySkill_2": 0,
+        "RandomCount": 1,
+        "RandomValues_1": 0.35,
+        "RandomValues_2": 0.15,
+        "RandomValues_3": 0.0,
+        "RandomValues_4": 0.0
+      },
+      "24": {
+        "HeroID": "2524",
+        "PrioritySkill_1": 0,
+        "PrioritySkill_2": 0,
+        "RandomCount": 1,
+        "RandomValues_1": 0.15,
+        "RandomValues_2": 0.0,
+        "RandomValues_3": 0.0,
+        "RandomValues_4": 0.0
+      },
+      "25": {
+        "HeroID": "2525",
+        "PrioritySkill_1": 0,
+        "PrioritySkill_2": 0,
+        "RandomCount": 1,
+        "RandomValues_1": 0.15,
+        "RandomValues_2": 0.0,
+        "RandomValues_3": 0.0,
+        "RandomValues_4": 0.0
+      },
+      "26": {
+        "HeroID": "2526",
+        "PrioritySkill_1": 0,
+        "PrioritySkill_2": 0,
+        "RandomCount": 1,
+        "RandomValues_1": 0.15,
+        "RandomValues_2": 0.0,
+        "RandomValues_3": 0.0,
+        "RandomValues_4": 0.0
+      },
+      "27": {
+        "HeroID": "2530",
+        "PrioritySkill_1": 1,
+        "PrioritySkill_2": 0,
+        "RandomCount": 1,
+        "RandomValues_1": 0.2,
+        "RandomValues_2": 0.1,
+        "RandomValues_3": 0.0,
+        "RandomValues_4": 0.0
+      },
+      "28": {
+        "HeroID": "2531",
+        "PrioritySkill_1": 1,
+        "PrioritySkill_2": 0,
+        "RandomCount": 1,
+        "RandomValues_1": 0.2,
+        "RandomValues_2": 0.1,
+        "RandomValues_3": 0.0,
+        "RandomValues_4": 0.0
+      },
+      "29": {
+        "HeroID": "2532",
+        "PrioritySkill_1": 1,
+        "PrioritySkill_2": 0,
+        "RandomCount": 1,
+        "RandomValues_1": 0.2,
+        "RandomValues_2": 0.1,
+        "RandomValues_3": 0.0,
+        "RandomValues_4": 0.0
+      },
+      "30": {
+        "HeroID": "2536",
+        "PrioritySkill_1": 0,
+        "PrioritySkill_2": 0,
+        "RandomCount": 1,
+        "RandomValues_1": 0.5,
+        "RandomValues_2": 0.0,
+        "RandomValues_3": 0.0,
+        "RandomValues_4": 0.0
+      },
+      "31": {
+        "HeroID": "2537",
+        "PrioritySkill_1": 0,
+        "PrioritySkill_2": 0,
+        "RandomCount": 1,
+        "RandomValues_1": 0.5,
+        "RandomValues_2": 0.0,
+        "RandomValues_3": 0.0,
+        "RandomValues_4": 0.0
+      },
+      "32": {
+        "HeroID": "2538",
+        "PrioritySkill_1": 0,
+        "PrioritySkill_2": 0,
+        "RandomCount": 1,
+        "RandomValues_1": 0.5,
+        "RandomValues_2": 0.0,
+        "RandomValues_3": 0.0,
+        "RandomValues_4": 0.0
+      }
+    }
+  }
+]

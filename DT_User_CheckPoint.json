@@ -1,0 +1,205 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_User_CheckPoint",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'UserCheckPointRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "GroupID": 1,
+        "Step": 1,
+        "Seq": 1,
+        "ProcessType": "EUserCheckPointProcessType::EUCPPT_Popup",
+        "ProcessValue": "/Game/UI/Lobby/Popup/Content_notice/Popup_Introduction_Contents_NewUser_FirstLogin.Popup_Introduction_Contents_NewUser_FirstLogin_C",
+        "StepCompleteDirect": false,
+        "SubValue_1": "",
+        "SubValue_2": ""
+      },
+      "2": {
+        "GroupID": 1,
+        "Step": 1,
+        "Seq": 2,
+        "ProcessType": "EUserCheckPointProcessType::EUCPPT_ELobbyScene",
+        "ProcessValue": "Play_Tutorial",
+        "StepCompleteDirect": false,
+        "SubValue_1": "",
+        "SubValue_2": ""
+      },
+      "3": {
+        "GroupID": 1,
+        "Step": 1,
+        "Seq": 3,
+        "ProcessType": "EUserCheckPointProcessType::EUCPPT_HighlightTutorial",
+        "ProcessValue": "HighlightTutorial_NewUser_Tutorial1st",
+        "StepCompleteDirect": false,
+        "SubValue_1": "",
+        "SubValue_2": ""
+      },
+      "4": {
+        "GroupID": 1,
+        "Step": 1,
+        "Seq": 4,
+        "ProcessType": "EUserCheckPointProcessType::EUCPPT_CompleteTutorial",
+        "ProcessValue": "1",
+        "StepCompleteDirect": false,
+        "SubValue_1": "",
+        "SubValue_2": ""
+      },
+      "5": {
+        "GroupID": 1,
+        "Step": 2,
+        "Seq": 1,
+        "ProcessType": "EUserCheckPointProcessType::EUCPPT_Reward",
+        "ProcessValue": "Reward_UserCheckPoint_NewUser_Tutorial1st",
+        "StepCompleteDirect": true,
+        "SubValue_1": "",
+        "SubValue_2": ""
+      },
+      "6": {
+        "GroupID": 1,
+        "Step": 2,
+        "Seq": 2,
+        "ProcessType": "EUserCheckPointProcessType::EUCPPT_Popup",
+        "ProcessValue": "/Game/UI/Lobby/Popup/Popup_ExceedItemRewardWidget.Popup_ExceedItemRewardWidget_C",
+        "StepCompleteDirect": true,
+        "SubValue_1": "UI.UserCheckPoint_NewUser_Reward_FirstTutorial_Title",
+        "SubValue_2": "UI.UserCheckPoint_NewUser_Reward_FirstTutorial_Desc"
+      },
+      "7": {
+        "GroupID": 1,
+        "Step": 3,
+        "Seq": 1,
+        "ProcessType": "EUserCheckPointProcessType::EUCPPT_ELobbyScene",
+        "ProcessValue": "Home",
+        "StepCompleteDirect": false,
+        "SubValue_1": "",
+        "SubValue_2": ""
+      },
+      "8": {
+        "GroupID": 1,
+        "Step": 3,
+        "Seq": 2,
+        "ProcessType": "EUserCheckPointProcessType::EUCPPT_HighlightTutorial",
+        "ProcessValue": "HighlightTutorial_NewUser_Lobby_Banner",
+        "StepCompleteDirect": false,
+        "SubValue_1": "",
+        "SubValue_2": ""
+      },
+      "9": {
+        "GroupID": 1,
+        "Step": 3,
+        "Seq": 3,
+        "ProcessType": "EUserCheckPointProcessType::EUCPPT_ELobbyScene",
+        "ProcessValue": "Play_Normal",
+        "StepCompleteDirect": false,
+        "SubValue_1": "",
+        "SubValue_2": ""
+      },
+      "10": {
+        "GroupID": 1,
+        "Step": 3,
+        "Seq": 4,
+        "ProcessType": "EUserCheckPointProcessType::EUCPPT_HighlightTutorial",
+        "ProcessValue": "HighlightTutorial_NewUser_Play1stMatch",
+        "StepCompleteDirect": false,
+        "SubValue_1": "",
+        "SubValue_2": ""
+      },
+      "11": {
+        "GroupID": 2,
+        "Step": 1,
+        "Seq": 1,
+        "ProcessType": "EUserCheckPointProcessType::EUCPPT_Reward",
+        "ProcessValue": "Reward_UserCheckPoint_Reward_FirstWin",
+        "StepCompleteDirect": true,
+        "SubValue_1": "",
+        "SubValue_2": ""
+      },
+      "12": {
+        "GroupID": 2,
+        "Step": 1,
+        "Seq": 2,
+        "ProcessType": "EUserCheckPointProcessType::EUCPPT_Popup",
+        "ProcessValue": "/Game/UI/Lobby/Popup/Popup_ExceedItemRewardWidget.Popup_ExceedItemRewardWidget_C",
+        "StepCompleteDirect": true,
+        "SubValue_1": "UI.UserCheckPoint_NewUser_Reward_FirstMatchWin_Title",
+        "SubValue_2": "UI.UserCheckPoint_NewUser_Reward_FirstMatchWin_Desc"
+      },
+      "13": {
+        "GroupID": 2,
+        "Step": 1,
+        "Seq": 3,
+        "ProcessType": "EUserCheckPointProcessType::EUCPPT_Popup",
+        "ProcessValue": "/Game/UI/Lobby/Popup/Content_notice/Popup_Introduction_Contents_NewUser_FirstWin.Popup_Introduction_Contents_NewUser_FirstWin_C",
+        "StepCompleteDirect": true,
+        "SubValue_1": "",
+        "SubValue_2": ""
+      },
+      "14": {
+        "GroupID": 3,
+        "Step": 1,
+        "Seq": 1,
+        "ProcessType": "EUserCheckPointProcessType::EUCPPT_Reward",
+        "ProcessValue": "Reward_UserCheckPoint_Reward_FirstLose",
+        "StepCompleteDirect": true,
+        "SubValue_1": "",
+        "SubValue_2": ""
+      },
+      "15": {
+        "GroupID": 3,
+        "Step": 1,
+        "Seq": 2,
+        "ProcessType": "EUserCheckPointProcessType::EUCPPT_Popup",
+        "ProcessValue": "/Game/UI/Lobby/Popup/Popup_ExceedItemRewardWidget.Popup_ExceedItemRewardWidget_C",
+        "StepCompleteDirect": true,
+        "SubValue_1": "UI.UserCheckPoint_NewUser_Reward_FirstMatchLose_Title",
+        "SubValue_2": "UI.UserCheckPoint_NewUser_Reward_FirstMatchLose_Desc"
+      },
+      "16": {
+        "GroupID": 3,
+        "Step": 1,
+        "Seq": 3,
+        "ProcessType": "EUserCheckPointProcessType::EUCPPT_Popup",
+        "ProcessValue": "/Game/UI/Lobby/Popup/Content_notice/Popup_Introduction_Contents_NewUser_FirstLose.Popup_Introduction_Contents_NewUser_FirstLose_C",
+        "StepCompleteDirect": true,
+        "SubValue_1": "",
+        "SubValue_2": ""
+      },
+      "17": {
+        "GroupID": 4,
+        "Step": 1,
+        "Seq": 1,
+        "ProcessType": "EUserCheckPointProcessType::EUCPPT_Popup",
+        "ProcessValue": "/Game/UI/Lobby/Popup/Content_notice/Popup_Introduction_Contents_NewUser_CanPlayRank.Popup_Introduction_Contents_NewUser_CanPlayRank_C",
+        "StepCompleteDirect": true,
+        "SubValue_1": "",
+        "SubValue_2": ""
+      },
+      "18": {
+        "GroupID": 5,
+        "Step": 1,
+        "Seq": 1,
+        "ProcessType": "EUserCheckPointProcessType::EUCPPT_HighlightTutorial",
+        "ProcessValue": "HighlightTutorial_NewUser_BattlePass",
+        "StepCompleteDirect": true,
+        "SubValue_1": "",
+        "SubValue_2": ""
+      },
+      "19": {
+        "GroupID": 6,
+        "Step": 1,
+        "Seq": 1,
+        "ProcessType": "EUserCheckPointProcessType::EUCPPT_HighlightTutorial",
+        "ProcessValue": "HighlightTutorial_Collection_1stEnter",
+        "StepCompleteDirect": true,
+        "SubValue_1": "",
+        "SubValue_2": ""
+      }
+    }
+  }
+]

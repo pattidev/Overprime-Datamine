@@ -1,0 +1,87 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_TutorialPage",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'TutorialPageTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "101": {
+        "TutorialNum": 1,
+        "TutorialNumEnableTrigger": 0,
+        "Reward_Item": 10000201,
+        "RewardValue": 100,
+        "TutorialEnable": true,
+        "TutorialLock": false,
+        "TutorialNumKey": "UI.TutorialPage_Step_001",
+        "TutorialNameKey": "UI.TutorialPage_Step_001_Name",
+        "Tutorial_TitleImage": {
+          "ObjectName": "Texture2D'T_UI_Tutorial_Step_001'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Tutorial/T_UI_Tutorial_Step_001.0"
+        },
+        "Tutorial_DirectingImage": {
+          "ObjectName": "MaterialInstanceConstant'MAT_UI_Tutorial_Step_Add_001_Inst'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Tutorial/StepAddInstances/MAT_UI_Tutorial_Step_Add_001_Inst.0"
+        }
+      },
+      "102": {
+        "TutorialNum": 2,
+        "TutorialNumEnableTrigger": 1,
+        "Reward_Item": 10000201,
+        "RewardValue": 100,
+        "TutorialEnable": true,
+        "TutorialLock": false,
+        "TutorialNumKey": "UI.TutorialPage_Step_002",
+        "TutorialNameKey": "UI.TutorialPage_Step_002_Name",
+        "Tutorial_TitleImage": {
+          "ObjectName": "Texture2D'T_UI_Tutorial_Step_002'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Tutorial/T_UI_Tutorial_Step_002.0"
+        },
+        "Tutorial_DirectingImage": {
+          "ObjectName": "MaterialInstanceConstant'MAT_UI_Tutorial_Step_Add_002_Inst'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Tutorial/StepAddInstances/MAT_UI_Tutorial_Step_Add_002_Inst.0"
+        }
+      },
+      "103": {
+        "TutorialNum": 3,
+        "TutorialNumEnableTrigger": 2,
+        "Reward_Item": 10000201,
+        "RewardValue": 100,
+        "TutorialEnable": true,
+        "TutorialLock": false,
+        "TutorialNumKey": "UI.TutorialPage_Step_003",
+        "TutorialNameKey": "UI.TutorialPage_Step_003_Name",
+        "Tutorial_TitleImage": {
+          "ObjectName": "Texture2D'T_UI_Tutorial_Step_003'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Tutorial/T_UI_Tutorial_Step_003.0"
+        },
+        "Tutorial_DirectingImage": {
+          "ObjectName": "MaterialInstanceConstant'MAT_UI_Tutorial_Step_Add_003_Inst'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Tutorial/StepAddInstances/MAT_UI_Tutorial_Step_Add_003_Inst.0"
+        }
+      },
+      "104": {
+        "TutorialNum": 4,
+        "TutorialNumEnableTrigger": 3,
+        "Reward_Item": 10000201,
+        "RewardValue": 100,
+        "TutorialEnable": true,
+        "TutorialLock": false,
+        "TutorialNumKey": "UI.TutorialPage_Step_004",
+        "TutorialNameKey": "UI.TutorialPage_Step_004_Name",
+        "Tutorial_TitleImage": {
+          "ObjectName": "Texture2D'T_UI_Tutorial_Step_004'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Tutorial/T_UI_Tutorial_Step_004.0"
+        },
+        "Tutorial_DirectingImage": {
+          "ObjectName": "MaterialInstanceConstant'MAT_UI_Tutorial_Step_Add_004_Inst'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Tutorial/StepAddInstances/MAT_UI_Tutorial_Step_Add_004_Inst.0"
+        }
+      }
+    }
+  }
+]
