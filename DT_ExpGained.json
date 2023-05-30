@@ -16,7 +16,7 @@
         "MapType": "EOfficialMapType::EOMT_Agolith",
         "DefaultValue": 40.0,
         "GainedType": "ERewardGainedType::ERGT_Local",
-        "AssistRevise": 1.4,
+        "AssistRevise": 1.6,
         "GainedRange": 2200.0,
         "GainedTime": 0.0,
         "STDEV_Ratio": 0.02,
@@ -28,7 +28,7 @@
         "MapType": "EOfficialMapType::EOMT_Agolith",
         "DefaultValue": 25.0,
         "GainedType": "ERewardGainedType::ERGT_Local",
-        "AssistRevise": 1.4,
+        "AssistRevise": 1.6,
         "GainedRange": 2200.0,
         "GainedTime": 0.0,
         "STDEV_Ratio": 0.02,
@@ -40,7 +40,7 @@
         "MapType": "EOfficialMapType::EOMT_Agolith",
         "DefaultValue": 80.0,
         "GainedType": "ERewardGainedType::ERGT_Local",
-        "AssistRevise": 1.4,
+        "AssistRevise": 1.6,
         "GainedRange": 2200.0,
         "GainedTime": 0.0,
         "STDEV_Ratio": 0.02,
@@ -52,7 +52,7 @@
         "MapType": "EOfficialMapType::EOMT_Agolith",
         "DefaultValue": 90.0,
         "GainedType": "ERewardGainedType::ERGT_Local",
-        "AssistRevise": 1.4,
+        "AssistRevise": 1.6,
         "GainedRange": 2200.0,
         "GainedTime": 0.0,
         "STDEV_Ratio": 0.02,
@@ -64,7 +64,7 @@
         "MapType": "EOfficialMapType::EOMT_Agolith",
         "DefaultValue": 40.0,
         "GainedType": "ERewardGainedType::ERGT_Local",
-        "AssistRevise": 1.4,
+        "AssistRevise": 1.6,
         "GainedRange": 2200.0,
         "GainedTime": 0.0,
         "STDEV_Ratio": 0.02,
@@ -76,7 +76,7 @@
         "MapType": "EOfficialMapType::EOMT_Agolith",
         "DefaultValue": 25.0,
         "GainedType": "ERewardGainedType::ERGT_Local",
-        "AssistRevise": 1.4,
+        "AssistRevise": 1.6,
         "GainedRange": 2200.0,
         "GainedTime": 0.0,
         "STDEV_Ratio": 0.02,
@@ -88,7 +88,7 @@
         "MapType": "EOfficialMapType::EOMT_Agolith",
         "DefaultValue": 80.0,
         "GainedType": "ERewardGainedType::ERGT_Local",
-        "AssistRevise": 1.4,
+        "AssistRevise": 1.6,
         "GainedRange": 2200.0,
         "GainedTime": 0.0,
         "STDEV_Ratio": 0.02,
@@ -100,13 +100,109 @@
         "MapType": "EOfficialMapType::EOMT_Agolith",
         "DefaultValue": 90.0,
         "GainedType": "ERewardGainedType::ERGT_Local",
-        "AssistRevise": 1.4,
+        "AssistRevise": 1.6,
         "GainedRange": 2200.0,
         "GainedTime": 0.0,
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
       "9": {
+        "ActorID": "2018",
+        "ActorType": "EActorType::EAT_Minion_Melee",
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "DefaultValue": 40.0,
+        "GainedType": "ERewardGainedType::ERGT_Local",
+        "AssistRevise": 1.6,
+        "GainedRange": 2200.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "10": {
+        "ActorID": "2019",
+        "ActorType": "EActorType::EAT_Minion_Range",
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "DefaultValue": 25.0,
+        "GainedType": "ERewardGainedType::ERGT_Local",
+        "AssistRevise": 1.6,
+        "GainedRange": 2200.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "11": {
+        "ActorID": "2020",
+        "ActorType": "EActorType::EAT_Minion_Siege",
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "DefaultValue": 80.0,
+        "GainedType": "ERewardGainedType::ERGT_Local",
+        "AssistRevise": 1.6,
+        "GainedRange": 2200.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "12": {
+        "ActorID": "2021",
+        "ActorType": "EActorType::EAT_Minion_Super",
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "DefaultValue": 90.0,
+        "GainedType": "ERewardGainedType::ERGT_Local",
+        "AssistRevise": 1.6,
+        "GainedRange": 2200.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "13": {
+        "ActorID": "2022",
+        "ActorType": "EActorType::EAT_Minion_Melee",
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "DefaultValue": 40.0,
+        "GainedType": "ERewardGainedType::ERGT_Local",
+        "AssistRevise": 1.6,
+        "GainedRange": 2200.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "14": {
+        "ActorID": "2023",
+        "ActorType": "EActorType::EAT_Minion_Range",
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "DefaultValue": 25.0,
+        "GainedType": "ERewardGainedType::ERGT_Local",
+        "AssistRevise": 1.6,
+        "GainedRange": 2200.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "15": {
+        "ActorID": "2024",
+        "ActorType": "EActorType::EAT_Minion_Siege",
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "DefaultValue": 80.0,
+        "GainedType": "ERewardGainedType::ERGT_Local",
+        "AssistRevise": 1.6,
+        "GainedRange": 2200.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "16": {
+        "ActorID": "2025",
+        "ActorType": "EActorType::EAT_Minion_Super",
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "DefaultValue": 90.0,
+        "GainedType": "ERewardGainedType::ERGT_Local",
+        "AssistRevise": 1.6,
+        "GainedRange": 2200.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "17": {
         "ActorID": "2101",
         "ActorType": "EActorType::EAT_Tower",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -118,7 +214,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "10": {
+      "18": {
         "ActorID": "2102",
         "ActorType": "EActorType::EAT_Inhibitor",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -130,7 +226,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "11": {
+      "19": {
         "ActorID": "2103",
         "ActorType": "EActorType::EAT_Inhibitor",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -142,7 +238,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "12": {
+      "20": {
         "ActorID": "2104",
         "ActorType": "EActorType::EAT_Inhibitor",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -154,7 +250,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "13": {
+      "21": {
         "ActorID": "2105",
         "ActorType": "EActorType::EAT_Core",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -166,7 +262,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "14": {
+      "22": {
         "ActorID": "2106",
         "ActorType": "EActorType::EAT_Tower",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -178,7 +274,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "15": {
+      "23": {
         "ActorID": "2107",
         "ActorType": "EActorType::EAT_Inhibitor",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -190,7 +286,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "16": {
+      "24": {
         "ActorID": "2108",
         "ActorType": "EActorType::EAT_Inhibitor",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -202,7 +298,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "17": {
+      "25": {
         "ActorID": "2109",
         "ActorType": "EActorType::EAT_Inhibitor",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -214,7 +310,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "18": {
+      "26": {
         "ActorID": "2110",
         "ActorType": "EActorType::EAT_Core",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -226,7 +322,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "19": {
+      "27": {
         "ActorID": "2050",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -238,7 +334,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "20": {
+      "28": {
         "ActorID": "2051",
         "ActorType": "EActorType::EAT_Jungle_WhiteKing",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -250,7 +346,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "21": {
+      "29": {
         "ActorID": "2052",
         "ActorType": "EActorType::EAT_Jungle_Red",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -262,7 +358,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "22": {
+      "30": {
         "ActorID": "2053",
         "ActorType": "EActorType::EAT_Jungle_Blue",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -274,7 +370,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "23": {
+      "31": {
         "ActorID": "2054",
         "ActorType": "EActorType::EAT_Jungle_River",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -286,19 +382,19 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "24": {
+      "32": {
         "ActorID": "2055",
         "ActorType": "EActorType::EAT_Prime_Spirit",
         "MapType": "EOfficialMapType::EOMT_Agolith",
         "DefaultValue": 200.0,
-        "GainedType": "ERewardGainedType::ERGT_Local",
+        "GainedType": "ERewardGainedType::ERGT_Global",
         "AssistRevise": 1.0,
         "GainedRange": 2200.0,
         "GainedTime": 0.0,
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "25": {
+      "33": {
         "ActorID": "2056",
         "ActorType": "EActorType::EAT_Prime_Guardian",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -310,7 +406,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "26": {
+      "34": {
         "ActorID": "2057",
         "ActorType": "EActorType::EAT_Prime_Baby",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -322,7 +418,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "27": {
+      "35": {
         "ActorID": "2058",
         "ActorType": "EActorType::EAT_Jungle_Gold",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -334,7 +430,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "28": {
+      "36": {
         "ActorID": "2059",
         "ActorType": "EActorType::EAT_Jungle_Purple",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -346,19 +442,19 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "29": {
+      "37": {
         "ActorID": "2060",
         "ActorType": "EActorType::EAT_Jungle_Baby_Prime",
         "MapType": "EOfficialMapType::EOMT_Agolith",
         "DefaultValue": 200.0,
-        "GainedType": "ERewardGainedType::ERGT_Global",
+        "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
         "GainedTime": 0.0,
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "30": {
+      "38": {
         "ActorID": "2070",
         "ActorType": "EActorType::EAT_Prime_Spirit",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -370,7 +466,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "31": {
+      "39": {
         "ActorID": "2071",
         "ActorType": "EActorType::EAT_Prime_Spirit",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -382,7 +478,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "32": {
+      "40": {
         "ActorID": "2072",
         "ActorType": "EActorType::EAT_Prime_Spirit",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -394,7 +490,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "33": {
+      "41": {
         "ActorID": "2073",
         "ActorType": "EActorType::EAT_Prime_Spirit",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -406,7 +502,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "34": {
+      "42": {
         "ActorID": "2151",
         "ActorType": "EActorType::EAT_Ward_Normal",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -418,7 +514,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "35": {
+      "43": {
         "ActorID": "2152",
         "ActorType": "EActorType::EAT_Ward_Supporter",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -430,7 +526,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "36": {
+      "44": {
         "ActorID": "2010",
         "ActorType": "EActorType::EAT_Minion_Melee",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -442,7 +538,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "37": {
+      "45": {
         "ActorID": "2011",
         "ActorType": "EActorType::EAT_Minion_Range",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -454,7 +550,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "38": {
+      "46": {
         "ActorID": "2012",
         "ActorType": "EActorType::EAT_Minion_Siege",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -466,7 +562,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "39": {
+      "47": {
         "ActorID": "2013",
         "ActorType": "EActorType::EAT_Minion_Super",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -478,7 +574,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "40": {
+      "48": {
         "ActorID": "2014",
         "ActorType": "EActorType::EAT_Minion_Melee",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -490,7 +586,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "41": {
+      "49": {
         "ActorID": "2015",
         "ActorType": "EActorType::EAT_Minion_Range",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -502,7 +598,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "42": {
+      "50": {
         "ActorID": "2016",
         "ActorType": "EActorType::EAT_Minion_Siege",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -514,7 +610,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "43": {
+      "51": {
         "ActorID": "2017",
         "ActorType": "EActorType::EAT_Minion_Super",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -526,7 +622,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "44": {
+      "52": {
         "ActorID": "2101",
         "ActorType": "EActorType::EAT_Tower",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -538,7 +634,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "45": {
+      "53": {
         "ActorID": "2102",
         "ActorType": "EActorType::EAT_Inhibitor",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -550,7 +646,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "46": {
+      "54": {
         "ActorID": "2103",
         "ActorType": "EActorType::EAT_Inhibitor",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -562,7 +658,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "47": {
+      "55": {
         "ActorID": "2104",
         "ActorType": "EActorType::EAT_Inhibitor",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -574,7 +670,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "48": {
+      "56": {
         "ActorID": "2105",
         "ActorType": "EActorType::EAT_Core",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -586,7 +682,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "49": {
+      "57": {
         "ActorID": "2106",
         "ActorType": "EActorType::EAT_Tower",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -598,7 +694,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "50": {
+      "58": {
         "ActorID": "2107",
         "ActorType": "EActorType::EAT_Inhibitor",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -610,7 +706,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "51": {
+      "59": {
         "ActorID": "2108",
         "ActorType": "EActorType::EAT_Inhibitor",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -622,7 +718,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "52": {
+      "60": {
         "ActorID": "2109",
         "ActorType": "EActorType::EAT_Inhibitor",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -634,7 +730,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "53": {
+      "61": {
         "ActorID": "2110",
         "ActorType": "EActorType::EAT_Core",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -646,7 +742,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "54": {
+      "62": {
         "ActorID": "2050",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -658,7 +754,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "55": {
+      "63": {
         "ActorID": "2051",
         "ActorType": "EActorType::EAT_Jungle_WhiteKing",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -670,7 +766,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "56": {
+      "64": {
         "ActorID": "2052",
         "ActorType": "EActorType::EAT_Jungle_Red",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -682,7 +778,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "57": {
+      "65": {
         "ActorID": "2053",
         "ActorType": "EActorType::EAT_Jungle_Blue",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -694,7 +790,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "58": {
+      "66": {
         "ActorID": "2054",
         "ActorType": "EActorType::EAT_Jungle_River",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -706,104 +802,8 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "59": {
-        "ActorID": "2055",
-        "ActorType": "EActorType::EAT_Prime_Spirit",
-        "MapType": "EOfficialMapType::EOMT_Training",
-        "DefaultValue": 150.0,
-        "GainedType": "ERewardGainedType::ERGT_Local",
-        "AssistRevise": 1.0,
-        "GainedRange": 2200.0,
-        "GainedTime": 0.0,
-        "STDEV_Ratio": 0.02,
-        "STDEV_Ratio_BlockTime": 600.0
-      },
-      "60": {
-        "ActorID": "2056",
-        "ActorType": "EActorType::EAT_Prime_Guardian",
-        "MapType": "EOfficialMapType::EOMT_Training",
-        "DefaultValue": 400.0,
-        "GainedType": "ERewardGainedType::ERGT_Global",
-        "AssistRevise": 1.0,
-        "GainedRange": 0.0,
-        "GainedTime": 0.0,
-        "STDEV_Ratio": 0.02,
-        "STDEV_Ratio_BlockTime": 600.0
-      },
-      "61": {
-        "ActorID": "2057",
-        "ActorType": "EActorType::EAT_Prime_Baby",
-        "MapType": "EOfficialMapType::EOMT_Training",
-        "DefaultValue": 0.0,
-        "GainedType": "ERewardGainedType::ERGT_None",
-        "AssistRevise": 0.0,
-        "GainedRange": 0.0,
-        "GainedTime": 0.0,
-        "STDEV_Ratio": 0.02,
-        "STDEV_Ratio_BlockTime": 600.0
-      },
-      "62": {
-        "ActorID": "2058",
-        "ActorType": "EActorType::EAT_Jungle_Gold",
-        "MapType": "EOfficialMapType::EOMT_Training",
-        "DefaultValue": 0.0,
-        "GainedType": "ERewardGainedType::ERGT_None",
-        "AssistRevise": 1.0,
-        "GainedRange": 0.0,
-        "GainedTime": 0.0,
-        "STDEV_Ratio": 0.02,
-        "STDEV_Ratio_BlockTime": 600.0
-      },
-      "63": {
-        "ActorID": "2059",
-        "ActorType": "EActorType::EAT_Jungle_Purple",
-        "MapType": "EOfficialMapType::EOMT_Training",
-        "DefaultValue": 0.0,
-        "GainedType": "ERewardGainedType::ERGT_None",
-        "AssistRevise": 1.0,
-        "GainedRange": 0.0,
-        "GainedTime": 0.0,
-        "STDEV_Ratio": 0.02,
-        "STDEV_Ratio_BlockTime": 600.0
-      },
-      "64": {
-        "ActorID": "2070",
-        "ActorType": "EActorType::EAT_Prime_Spirit",
-        "MapType": "EOfficialMapType::EOMT_Training",
-        "DefaultValue": 150.0,
-        "GainedType": "ERewardGainedType::ERGT_Local",
-        "AssistRevise": 1.0,
-        "GainedRange": 2200.0,
-        "GainedTime": 0.0,
-        "STDEV_Ratio": 0.02,
-        "STDEV_Ratio_BlockTime": 600.0
-      },
-      "65": {
-        "ActorID": "2071",
-        "ActorType": "EActorType::EAT_Prime_Spirit",
-        "MapType": "EOfficialMapType::EOMT_Training",
-        "DefaultValue": 150.0,
-        "GainedType": "ERewardGainedType::ERGT_Local",
-        "AssistRevise": 1.0,
-        "GainedRange": 2200.0,
-        "GainedTime": 0.0,
-        "STDEV_Ratio": 0.02,
-        "STDEV_Ratio_BlockTime": 600.0
-      },
-      "66": {
-        "ActorID": "2072",
-        "ActorType": "EActorType::EAT_Prime_Spirit",
-        "MapType": "EOfficialMapType::EOMT_Training",
-        "DefaultValue": 150.0,
-        "GainedType": "ERewardGainedType::ERGT_Local",
-        "AssistRevise": 1.0,
-        "GainedRange": 2200.0,
-        "GainedTime": 0.0,
-        "STDEV_Ratio": 0.02,
-        "STDEV_Ratio_BlockTime": 600.0
-      },
       "67": {
-        "ActorID": "2073",
+        "ActorID": "2055",
         "ActorType": "EActorType::EAT_Prime_Spirit",
         "MapType": "EOfficialMapType::EOMT_Training",
         "DefaultValue": 150.0,
@@ -815,6 +815,102 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "68": {
+        "ActorID": "2056",
+        "ActorType": "EActorType::EAT_Prime_Guardian",
+        "MapType": "EOfficialMapType::EOMT_Training",
+        "DefaultValue": 400.0,
+        "GainedType": "ERewardGainedType::ERGT_Global",
+        "AssistRevise": 1.0,
+        "GainedRange": 0.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "69": {
+        "ActorID": "2057",
+        "ActorType": "EActorType::EAT_Prime_Baby",
+        "MapType": "EOfficialMapType::EOMT_Training",
+        "DefaultValue": 0.0,
+        "GainedType": "ERewardGainedType::ERGT_None",
+        "AssistRevise": 0.0,
+        "GainedRange": 0.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "70": {
+        "ActorID": "2058",
+        "ActorType": "EActorType::EAT_Jungle_Gold",
+        "MapType": "EOfficialMapType::EOMT_Training",
+        "DefaultValue": 0.0,
+        "GainedType": "ERewardGainedType::ERGT_None",
+        "AssistRevise": 1.0,
+        "GainedRange": 0.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "71": {
+        "ActorID": "2059",
+        "ActorType": "EActorType::EAT_Jungle_Purple",
+        "MapType": "EOfficialMapType::EOMT_Training",
+        "DefaultValue": 0.0,
+        "GainedType": "ERewardGainedType::ERGT_None",
+        "AssistRevise": 1.0,
+        "GainedRange": 0.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "72": {
+        "ActorID": "2070",
+        "ActorType": "EActorType::EAT_Prime_Spirit",
+        "MapType": "EOfficialMapType::EOMT_Training",
+        "DefaultValue": 150.0,
+        "GainedType": "ERewardGainedType::ERGT_Local",
+        "AssistRevise": 1.0,
+        "GainedRange": 2200.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "73": {
+        "ActorID": "2071",
+        "ActorType": "EActorType::EAT_Prime_Spirit",
+        "MapType": "EOfficialMapType::EOMT_Training",
+        "DefaultValue": 150.0,
+        "GainedType": "ERewardGainedType::ERGT_Local",
+        "AssistRevise": 1.0,
+        "GainedRange": 2200.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "74": {
+        "ActorID": "2072",
+        "ActorType": "EActorType::EAT_Prime_Spirit",
+        "MapType": "EOfficialMapType::EOMT_Training",
+        "DefaultValue": 150.0,
+        "GainedType": "ERewardGainedType::ERGT_Local",
+        "AssistRevise": 1.0,
+        "GainedRange": 2200.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "75": {
+        "ActorID": "2073",
+        "ActorType": "EActorType::EAT_Prime_Spirit",
+        "MapType": "EOfficialMapType::EOMT_Training",
+        "DefaultValue": 150.0,
+        "GainedType": "ERewardGainedType::ERGT_Local",
+        "AssistRevise": 1.0,
+        "GainedRange": 2200.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "76": {
         "ActorID": "2151",
         "ActorType": "EActorType::EAT_Ward_Normal",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -826,7 +922,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "69": {
+      "77": {
         "ActorID": "2152",
         "ActorType": "EActorType::EAT_Ward_Supporter",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -838,7 +934,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "70": {
+      "78": {
         "ActorID": "2201",
         "ActorType": "EActorType::EAT_Prime_Guardian",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -850,7 +946,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "71": {
+      "79": {
         "ActorID": "2410",
         "ActorType": "EActorType::EAT_Minion_Melee",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -862,7 +958,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "72": {
+      "80": {
         "ActorID": "2411",
         "ActorType": "EActorType::EAT_Minion_Range",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -874,7 +970,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "73": {
+      "81": {
         "ActorID": "2412",
         "ActorType": "EActorType::EAT_Minion_Siege",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -886,7 +982,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "74": {
+      "82": {
         "ActorID": "2413",
         "ActorType": "EActorType::EAT_Minion_Super",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -898,7 +994,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "75": {
+      "83": {
         "ActorID": "2414",
         "ActorType": "EActorType::EAT_Minion_Melee",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -910,7 +1006,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "76": {
+      "84": {
         "ActorID": "2415",
         "ActorType": "EActorType::EAT_Minion_Range",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -922,7 +1018,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "77": {
+      "85": {
         "ActorID": "2416",
         "ActorType": "EActorType::EAT_Minion_Siege",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -934,7 +1030,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "78": {
+      "86": {
         "ActorID": "2417",
         "ActorType": "EActorType::EAT_Minion_Super",
         "MapType": "EOfficialMapType::EOMT_Agolith",
@@ -946,107 +1042,11 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "79": {
+      "87": {
         "ActorID": "2500",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 120.0,
-        "GainedType": "ERewardGainedType::ERGT_OnlySelf",
-        "AssistRevise": 1.0,
-        "GainedRange": 0.0,
-        "GainedTime": 0.0,
-        "STDEV_Ratio": 0.02,
-        "STDEV_Ratio_BlockTime": 600.0
-      },
-      "80": {
-        "ActorID": "2501",
-        "ActorType": "EActorType::EAT_Jungle_White",
-        "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 132.0,
-        "GainedType": "ERewardGainedType::ERGT_OnlySelf",
-        "AssistRevise": 1.0,
-        "GainedRange": 0.0,
-        "GainedTime": 0.0,
-        "STDEV_Ratio": 0.02,
-        "STDEV_Ratio_BlockTime": 600.0
-      },
-      "81": {
-        "ActorID": "2502",
-        "ActorType": "EActorType::EAT_Jungle_White",
-        "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 155.0,
-        "GainedType": "ERewardGainedType::ERGT_OnlySelf",
-        "AssistRevise": 1.0,
-        "GainedRange": 0.0,
-        "GainedTime": 0.0,
-        "STDEV_Ratio": 0.02,
-        "STDEV_Ratio_BlockTime": 600.0
-      },
-      "82": {
-        "ActorID": "2503",
-        "ActorType": "EActorType::EAT_Jungle_White",
-        "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 90.0,
-        "GainedType": "ERewardGainedType::ERGT_OnlySelf",
-        "AssistRevise": 1.0,
-        "GainedRange": 0.0,
-        "GainedTime": 0.0,
-        "STDEV_Ratio": 0.02,
-        "STDEV_Ratio_BlockTime": 600.0
-      },
-      "83": {
-        "ActorID": "2504",
-        "ActorType": "EActorType::EAT_Jungle_White",
-        "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 99.0,
-        "GainedType": "ERewardGainedType::ERGT_OnlySelf",
-        "AssistRevise": 1.0,
-        "GainedRange": 0.0,
-        "GainedTime": 0.0,
-        "STDEV_Ratio": 0.02,
-        "STDEV_Ratio_BlockTime": 600.0
-      },
-      "84": {
-        "ActorID": "2505",
-        "ActorType": "EActorType::EAT_Jungle_White",
-        "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 117.0,
-        "GainedType": "ERewardGainedType::ERGT_OnlySelf",
-        "AssistRevise": 1.0,
-        "GainedRange": 0.0,
-        "GainedTime": 0.0,
-        "STDEV_Ratio": 0.02,
-        "STDEV_Ratio_BlockTime": 600.0
-      },
-      "85": {
-        "ActorID": "2506",
-        "ActorType": "EActorType::EAT_Jungle_White",
-        "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 80.0,
-        "GainedType": "ERewardGainedType::ERGT_OnlySelf",
-        "AssistRevise": 1.0,
-        "GainedRange": 0.0,
-        "GainedTime": 0.0,
-        "STDEV_Ratio": 0.02,
-        "STDEV_Ratio_BlockTime": 600.0
-      },
-      "86": {
-        "ActorID": "2507",
-        "ActorType": "EActorType::EAT_Jungle_White",
-        "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 88.0,
-        "GainedType": "ERewardGainedType::ERGT_OnlySelf",
-        "AssistRevise": 1.0,
-        "GainedRange": 0.0,
-        "GainedTime": 0.0,
-        "STDEV_Ratio": 0.02,
-        "STDEV_Ratio_BlockTime": 600.0
-      },
-      "87": {
-        "ActorID": "2508",
-        "ActorType": "EActorType::EAT_Jungle_White",
-        "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 105.0,
+        "DefaultValue": 80.04,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1055,10 +1055,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "88": {
-        "ActorID": "2509",
+        "ActorID": "2501",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 100.0,
+        "DefaultValue": 88.044,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1067,10 +1067,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "89": {
-        "ActorID": "2510",
+        "ActorID": "2502",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 110.0,
+        "DefaultValue": 103.385,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1079,10 +1079,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "90": {
-        "ActorID": "2511",
+        "ActorID": "2503",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 130.0,
+        "DefaultValue": 60.03,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1091,10 +1091,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "91": {
-        "ActorID": "2512",
+        "ActorID": "2504",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 50.0,
+        "DefaultValue": 66.033,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1103,10 +1103,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "92": {
-        "ActorID": "2513",
+        "ActorID": "2505",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 55.0,
+        "DefaultValue": 78.039,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1115,10 +1115,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "93": {
-        "ActorID": "2514",
+        "ActorID": "2506",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 65.0,
+        "DefaultValue": 53.36,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1127,10 +1127,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "94": {
-        "ActorID": "2515",
+        "ActorID": "2507",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 90.0,
+        "DefaultValue": 58.696,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1139,10 +1139,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "95": {
-        "ActorID": "2516",
+        "ActorID": "2508",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 100.0,
+        "DefaultValue": 70.035,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1151,10 +1151,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "96": {
-        "ActorID": "2517",
+        "ActorID": "2509",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 120.0,
+        "DefaultValue": 66.7,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1163,10 +1163,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "97": {
-        "ActorID": "2518",
+        "ActorID": "2510",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 55.0,
+        "DefaultValue": 73.37,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1175,10 +1175,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "98": {
-        "ActorID": "2519",
+        "ActorID": "2511",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 60.0,
+        "DefaultValue": 86.71,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1187,10 +1187,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "99": {
-        "ActorID": "2520",
+        "ActorID": "2512",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 70.0,
+        "DefaultValue": 33.35,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1199,10 +1199,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "100": {
-        "ActorID": "2521",
+        "ActorID": "2513",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 120.0,
+        "DefaultValue": 36.685,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1211,10 +1211,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "101": {
-        "ActorID": "2522",
+        "ActorID": "2514",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 132.0,
+        "DefaultValue": 43.355,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1223,10 +1223,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "102": {
-        "ActorID": "2523",
+        "ActorID": "2515",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 155.0,
+        "DefaultValue": 60.03,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1235,10 +1235,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "103": {
-        "ActorID": "2524",
+        "ActorID": "2516",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 90.0,
+        "DefaultValue": 66.7,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1247,10 +1247,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "104": {
-        "ActorID": "2525",
+        "ActorID": "2517",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 99.0,
+        "DefaultValue": 80.04,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1259,10 +1259,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "105": {
-        "ActorID": "2526",
+        "ActorID": "2518",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 117.0,
+        "DefaultValue": 36.685,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1271,10 +1271,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "106": {
-        "ActorID": "2527",
+        "ActorID": "2519",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 80.0,
+        "DefaultValue": 40.02,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1283,10 +1283,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "107": {
-        "ActorID": "2528",
+        "ActorID": "2520",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 88.0,
+        "DefaultValue": 46.69,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1295,10 +1295,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "108": {
-        "ActorID": "2529",
+        "ActorID": "2521",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 105.0,
+        "DefaultValue": 80.04,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1307,10 +1307,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "109": {
-        "ActorID": "2530",
+        "ActorID": "2522",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 100.0,
+        "DefaultValue": 88.044,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1319,10 +1319,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "110": {
-        "ActorID": "2531",
+        "ActorID": "2523",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 110.0,
+        "DefaultValue": 103.385,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1331,10 +1331,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "111": {
-        "ActorID": "2532",
+        "ActorID": "2524",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 130.0,
+        "DefaultValue": 60.03,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1343,10 +1343,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "112": {
-        "ActorID": "2533",
+        "ActorID": "2525",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 50.0,
+        "DefaultValue": 66.033,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1355,10 +1355,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "113": {
-        "ActorID": "2534",
+        "ActorID": "2526",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 55.0,
+        "DefaultValue": 78.039,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1367,10 +1367,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "114": {
-        "ActorID": "2535",
+        "ActorID": "2527",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 65.0,
+        "DefaultValue": 53.36,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1379,10 +1379,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "115": {
-        "ActorID": "2536",
+        "ActorID": "2528",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 90.0,
+        "DefaultValue": 58.696,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1391,10 +1391,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "116": {
-        "ActorID": "2537",
+        "ActorID": "2529",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 100.0,
+        "DefaultValue": 70.035,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1403,10 +1403,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "117": {
-        "ActorID": "2538",
+        "ActorID": "2530",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 120.0,
+        "DefaultValue": 66.7,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1415,10 +1415,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "118": {
-        "ActorID": "2539",
+        "ActorID": "2531",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 55.0,
+        "DefaultValue": 73.37,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1427,10 +1427,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "119": {
-        "ActorID": "2540",
+        "ActorID": "2532",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 60.0,
+        "DefaultValue": 86.71,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1439,10 +1439,10 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "120": {
-        "ActorID": "2541",
+        "ActorID": "2533",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Agolith",
-        "DefaultValue": 70.0,
+        "DefaultValue": 33.35,
         "GainedType": "ERewardGainedType::ERGT_OnlySelf",
         "AssistRevise": 1.0,
         "GainedRange": 0.0,
@@ -1451,6 +1451,102 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "121": {
+        "ActorID": "2534",
+        "ActorType": "EActorType::EAT_Jungle_White",
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "DefaultValue": 36.685,
+        "GainedType": "ERewardGainedType::ERGT_OnlySelf",
+        "AssistRevise": 1.0,
+        "GainedRange": 0.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "122": {
+        "ActorID": "2535",
+        "ActorType": "EActorType::EAT_Jungle_White",
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "DefaultValue": 43.355,
+        "GainedType": "ERewardGainedType::ERGT_OnlySelf",
+        "AssistRevise": 1.0,
+        "GainedRange": 0.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "123": {
+        "ActorID": "2536",
+        "ActorType": "EActorType::EAT_Jungle_White",
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "DefaultValue": 60.03,
+        "GainedType": "ERewardGainedType::ERGT_OnlySelf",
+        "AssistRevise": 1.0,
+        "GainedRange": 0.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "124": {
+        "ActorID": "2537",
+        "ActorType": "EActorType::EAT_Jungle_White",
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "DefaultValue": 66.7,
+        "GainedType": "ERewardGainedType::ERGT_OnlySelf",
+        "AssistRevise": 1.0,
+        "GainedRange": 0.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "125": {
+        "ActorID": "2538",
+        "ActorType": "EActorType::EAT_Jungle_White",
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "DefaultValue": 80.04,
+        "GainedType": "ERewardGainedType::ERGT_OnlySelf",
+        "AssistRevise": 1.0,
+        "GainedRange": 0.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "126": {
+        "ActorID": "2539",
+        "ActorType": "EActorType::EAT_Jungle_White",
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "DefaultValue": 36.685,
+        "GainedType": "ERewardGainedType::ERGT_OnlySelf",
+        "AssistRevise": 1.0,
+        "GainedRange": 0.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "127": {
+        "ActorID": "2540",
+        "ActorType": "EActorType::EAT_Jungle_White",
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "DefaultValue": 40.02,
+        "GainedType": "ERewardGainedType::ERGT_OnlySelf",
+        "AssistRevise": 1.0,
+        "GainedRange": 0.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "128": {
+        "ActorID": "2541",
+        "ActorType": "EActorType::EAT_Jungle_White",
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "DefaultValue": 46.69,
+        "GainedType": "ERewardGainedType::ERGT_OnlySelf",
+        "AssistRevise": 1.0,
+        "GainedRange": 0.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "129": {
         "ActorID": "2500",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1462,7 +1558,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "122": {
+      "130": {
         "ActorID": "2501",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1474,7 +1570,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "123": {
+      "131": {
         "ActorID": "2502",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1486,7 +1582,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "124": {
+      "132": {
         "ActorID": "2503",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1498,7 +1594,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "125": {
+      "133": {
         "ActorID": "2504",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1510,7 +1606,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "126": {
+      "134": {
         "ActorID": "2505",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1522,7 +1618,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "127": {
+      "135": {
         "ActorID": "2506",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1534,7 +1630,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "128": {
+      "136": {
         "ActorID": "2507",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1546,7 +1642,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "129": {
+      "137": {
         "ActorID": "2508",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1558,7 +1654,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "130": {
+      "138": {
         "ActorID": "2509",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1570,7 +1666,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "131": {
+      "139": {
         "ActorID": "2510",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1582,7 +1678,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "132": {
+      "140": {
         "ActorID": "2511",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1594,7 +1690,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "133": {
+      "141": {
         "ActorID": "2512",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1606,7 +1702,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "134": {
+      "142": {
         "ActorID": "2513",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1618,7 +1714,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "135": {
+      "143": {
         "ActorID": "2514",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1630,7 +1726,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "136": {
+      "144": {
         "ActorID": "2515",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1642,7 +1738,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "137": {
+      "145": {
         "ActorID": "2516",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1654,7 +1750,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "138": {
+      "146": {
         "ActorID": "2517",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1666,7 +1762,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "139": {
+      "147": {
         "ActorID": "2518",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1678,7 +1774,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "140": {
+      "148": {
         "ActorID": "2519",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1690,7 +1786,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "141": {
+      "149": {
         "ActorID": "2520",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1702,7 +1798,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "142": {
+      "150": {
         "ActorID": "2521",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1714,7 +1810,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "143": {
+      "151": {
         "ActorID": "2522",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1726,7 +1822,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "144": {
+      "152": {
         "ActorID": "2523",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1738,7 +1834,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "145": {
+      "153": {
         "ActorID": "2524",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1750,7 +1846,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "146": {
+      "154": {
         "ActorID": "2525",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1762,7 +1858,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "147": {
+      "155": {
         "ActorID": "2526",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1774,7 +1870,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "148": {
+      "156": {
         "ActorID": "2527",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1786,7 +1882,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "149": {
+      "157": {
         "ActorID": "2528",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1798,7 +1894,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "150": {
+      "158": {
         "ActorID": "2529",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1810,7 +1906,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "151": {
+      "159": {
         "ActorID": "2530",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1822,7 +1918,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "152": {
+      "160": {
         "ActorID": "2531",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1834,7 +1930,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "153": {
+      "161": {
         "ActorID": "2532",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1846,7 +1942,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "154": {
+      "162": {
         "ActorID": "2533",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1858,7 +1954,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "155": {
+      "163": {
         "ActorID": "2534",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1870,7 +1966,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "156": {
+      "164": {
         "ActorID": "2535",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1882,7 +1978,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "157": {
+      "165": {
         "ActorID": "2536",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1894,7 +1990,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "158": {
+      "166": {
         "ActorID": "2537",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1906,7 +2002,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "159": {
+      "167": {
         "ActorID": "2538",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1918,7 +2014,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "160": {
+      "168": {
         "ActorID": "2539",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1930,7 +2026,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "161": {
+      "169": {
         "ActorID": "2540",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1942,7 +2038,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "162": {
+      "170": {
         "ActorID": "2541",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Training",
@@ -1954,7 +2050,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "163": {
+      "171": {
         "ActorID": "2010",
         "ActorType": "EActorType::EAT_Minion_Melee",
         "MapType": "EOfficialMapType::EOMT_Tutorial01",
@@ -1966,7 +2062,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "164": {
+      "172": {
         "ActorID": "2011",
         "ActorType": "EActorType::EAT_Minion_Range",
         "MapType": "EOfficialMapType::EOMT_Tutorial01",
@@ -1978,7 +2074,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "165": {
+      "173": {
         "ActorID": "2012",
         "ActorType": "EActorType::EAT_Minion_Siege",
         "MapType": "EOfficialMapType::EOMT_Tutorial01",
@@ -1990,7 +2086,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "166": {
+      "174": {
         "ActorID": "2013",
         "ActorType": "EActorType::EAT_Minion_Super",
         "MapType": "EOfficialMapType::EOMT_Tutorial01",
@@ -2002,7 +2098,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "167": {
+      "175": {
         "ActorID": "2014",
         "ActorType": "EActorType::EAT_Minion_Melee",
         "MapType": "EOfficialMapType::EOMT_Tutorial01",
@@ -2014,7 +2110,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "168": {
+      "176": {
         "ActorID": "2015",
         "ActorType": "EActorType::EAT_Minion_Range",
         "MapType": "EOfficialMapType::EOMT_Tutorial01",
@@ -2026,7 +2122,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "169": {
+      "177": {
         "ActorID": "2016",
         "ActorType": "EActorType::EAT_Minion_Siege",
         "MapType": "EOfficialMapType::EOMT_Tutorial01",
@@ -2038,7 +2134,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "170": {
+      "178": {
         "ActorID": "2017",
         "ActorType": "EActorType::EAT_Minion_Super",
         "MapType": "EOfficialMapType::EOMT_Tutorial01",
@@ -2050,7 +2146,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "171": {
+      "179": {
         "ActorID": "2403",
         "ActorType": "EActorType::EAT_Tower",
         "MapType": "EOfficialMapType::EOMT_Tutorial01",
@@ -2062,7 +2158,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "172": {
+      "180": {
         "ActorID": "2405",
         "ActorType": "EActorType::EAT_Core",
         "MapType": "EOfficialMapType::EOMT_Tutorial01",
@@ -2074,7 +2170,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "173": {
+      "181": {
         "ActorID": "2010",
         "ActorType": "EActorType::EAT_Minion_Melee",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2086,7 +2182,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "174": {
+      "182": {
         "ActorID": "2011",
         "ActorType": "EActorType::EAT_Minion_Range",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2098,7 +2194,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "175": {
+      "183": {
         "ActorID": "2012",
         "ActorType": "EActorType::EAT_Minion_Siege",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2110,7 +2206,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "176": {
+      "184": {
         "ActorID": "2013",
         "ActorType": "EActorType::EAT_Minion_Super",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2122,7 +2218,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "177": {
+      "185": {
         "ActorID": "2014",
         "ActorType": "EActorType::EAT_Minion_Melee",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2134,7 +2230,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "178": {
+      "186": {
         "ActorID": "2015",
         "ActorType": "EActorType::EAT_Minion_Range",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2146,7 +2242,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "179": {
+      "187": {
         "ActorID": "2016",
         "ActorType": "EActorType::EAT_Minion_Siege",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2158,7 +2254,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "180": {
+      "188": {
         "ActorID": "2017",
         "ActorType": "EActorType::EAT_Minion_Super",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2170,7 +2266,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "181": {
+      "189": {
         "ActorID": "2101",
         "ActorType": "EActorType::EAT_Tower",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2182,7 +2278,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "182": {
+      "190": {
         "ActorID": "2102",
         "ActorType": "EActorType::EAT_Inhibitor",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2194,7 +2290,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "183": {
+      "191": {
         "ActorID": "2103",
         "ActorType": "EActorType::EAT_Inhibitor",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2206,7 +2302,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "184": {
+      "192": {
         "ActorID": "2104",
         "ActorType": "EActorType::EAT_Inhibitor",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2218,7 +2314,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "185": {
+      "193": {
         "ActorID": "2105",
         "ActorType": "EActorType::EAT_Core",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2230,7 +2326,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "186": {
+      "194": {
         "ActorID": "2106",
         "ActorType": "EActorType::EAT_Tower",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2242,7 +2338,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "187": {
+      "195": {
         "ActorID": "2107",
         "ActorType": "EActorType::EAT_Inhibitor",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2254,7 +2350,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "188": {
+      "196": {
         "ActorID": "2108",
         "ActorType": "EActorType::EAT_Inhibitor",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2266,7 +2362,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "189": {
+      "197": {
         "ActorID": "2109",
         "ActorType": "EActorType::EAT_Inhibitor",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2278,7 +2374,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "190": {
+      "198": {
         "ActorID": "2110",
         "ActorType": "EActorType::EAT_Core",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2290,7 +2386,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "191": {
+      "199": {
         "ActorID": "2050",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2302,7 +2398,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "192": {
+      "200": {
         "ActorID": "2051",
         "ActorType": "EActorType::EAT_Jungle_WhiteKing",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2314,7 +2410,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "193": {
+      "201": {
         "ActorID": "2052",
         "ActorType": "EActorType::EAT_Jungle_Red",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2326,7 +2422,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "194": {
+      "202": {
         "ActorID": "2053",
         "ActorType": "EActorType::EAT_Jungle_Blue",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2338,7 +2434,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "195": {
+      "203": {
         "ActorID": "2054",
         "ActorType": "EActorType::EAT_Jungle_River",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2350,104 +2446,8 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "196": {
-        "ActorID": "2055",
-        "ActorType": "EActorType::EAT_Prime_Spirit",
-        "MapType": "EOfficialMapType::EOMT_Monolith",
-        "DefaultValue": 200.0,
-        "GainedType": "ERewardGainedType::ERGT_Local",
-        "AssistRevise": 1.0,
-        "GainedRange": 2200.0,
-        "GainedTime": 0.0,
-        "STDEV_Ratio": 0.02,
-        "STDEV_Ratio_BlockTime": 600.0
-      },
-      "197": {
-        "ActorID": "2056",
-        "ActorType": "EActorType::EAT_Prime_Guardian",
-        "MapType": "EOfficialMapType::EOMT_Monolith",
-        "DefaultValue": 400.0,
-        "GainedType": "ERewardGainedType::ERGT_Global",
-        "AssistRevise": 1.0,
-        "GainedRange": 0.0,
-        "GainedTime": 0.0,
-        "STDEV_Ratio": 0.02,
-        "STDEV_Ratio_BlockTime": 600.0
-      },
-      "198": {
-        "ActorID": "2057",
-        "ActorType": "EActorType::EAT_Prime_Baby",
-        "MapType": "EOfficialMapType::EOMT_Monolith",
-        "DefaultValue": 0.0,
-        "GainedType": "ERewardGainedType::ERGT_None",
-        "AssistRevise": 0.0,
-        "GainedRange": 0.0,
-        "GainedTime": 0.0,
-        "STDEV_Ratio": 0.02,
-        "STDEV_Ratio_BlockTime": 600.0
-      },
-      "199": {
-        "ActorID": "2058",
-        "ActorType": "EActorType::EAT_Jungle_Gold",
-        "MapType": "EOfficialMapType::EOMT_Monolith",
-        "DefaultValue": 0.0,
-        "GainedType": "ERewardGainedType::ERGT_None",
-        "AssistRevise": 1.0,
-        "GainedRange": 0.0,
-        "GainedTime": 0.0,
-        "STDEV_Ratio": 0.02,
-        "STDEV_Ratio_BlockTime": 600.0
-      },
-      "200": {
-        "ActorID": "2059",
-        "ActorType": "EActorType::EAT_Jungle_Purple",
-        "MapType": "EOfficialMapType::EOMT_Monolith",
-        "DefaultValue": 0.0,
-        "GainedType": "ERewardGainedType::ERGT_None",
-        "AssistRevise": 1.0,
-        "GainedRange": 0.0,
-        "GainedTime": 0.0,
-        "STDEV_Ratio": 0.02,
-        "STDEV_Ratio_BlockTime": 600.0
-      },
-      "201": {
-        "ActorID": "2060",
-        "ActorType": "EActorType::EAT_Jungle_Baby_Prime",
-        "MapType": "EOfficialMapType::EOMT_Monolith",
-        "DefaultValue": 200.0,
-        "GainedType": "ERewardGainedType::ERGT_Global",
-        "AssistRevise": 1.0,
-        "GainedRange": 0.0,
-        "GainedTime": 0.0,
-        "STDEV_Ratio": 0.02,
-        "STDEV_Ratio_BlockTime": 600.0
-      },
-      "202": {
-        "ActorID": "2070",
-        "ActorType": "EActorType::EAT_Prime_Spirit",
-        "MapType": "EOfficialMapType::EOMT_Monolith",
-        "DefaultValue": 200.0,
-        "GainedType": "ERewardGainedType::ERGT_Local",
-        "AssistRevise": 1.0,
-        "GainedRange": 2200.0,
-        "GainedTime": 0.0,
-        "STDEV_Ratio": 0.02,
-        "STDEV_Ratio_BlockTime": 600.0
-      },
-      "203": {
-        "ActorID": "2071",
-        "ActorType": "EActorType::EAT_Prime_Spirit",
-        "MapType": "EOfficialMapType::EOMT_Monolith",
-        "DefaultValue": 200.0,
-        "GainedType": "ERewardGainedType::ERGT_Local",
-        "AssistRevise": 1.0,
-        "GainedRange": 2200.0,
-        "GainedTime": 0.0,
-        "STDEV_Ratio": 0.02,
-        "STDEV_Ratio_BlockTime": 600.0
-      },
       "204": {
-        "ActorID": "2072",
+        "ActorID": "2055",
         "ActorType": "EActorType::EAT_Prime_Spirit",
         "MapType": "EOfficialMapType::EOMT_Monolith",
         "DefaultValue": 200.0,
@@ -2459,6 +2459,102 @@
         "STDEV_Ratio_BlockTime": 600.0
       },
       "205": {
+        "ActorID": "2056",
+        "ActorType": "EActorType::EAT_Prime_Guardian",
+        "MapType": "EOfficialMapType::EOMT_Monolith",
+        "DefaultValue": 400.0,
+        "GainedType": "ERewardGainedType::ERGT_Global",
+        "AssistRevise": 1.0,
+        "GainedRange": 0.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "206": {
+        "ActorID": "2057",
+        "ActorType": "EActorType::EAT_Prime_Baby",
+        "MapType": "EOfficialMapType::EOMT_Monolith",
+        "DefaultValue": 0.0,
+        "GainedType": "ERewardGainedType::ERGT_None",
+        "AssistRevise": 0.0,
+        "GainedRange": 0.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "207": {
+        "ActorID": "2058",
+        "ActorType": "EActorType::EAT_Jungle_Gold",
+        "MapType": "EOfficialMapType::EOMT_Monolith",
+        "DefaultValue": 0.0,
+        "GainedType": "ERewardGainedType::ERGT_None",
+        "AssistRevise": 1.0,
+        "GainedRange": 0.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "208": {
+        "ActorID": "2059",
+        "ActorType": "EActorType::EAT_Jungle_Purple",
+        "MapType": "EOfficialMapType::EOMT_Monolith",
+        "DefaultValue": 0.0,
+        "GainedType": "ERewardGainedType::ERGT_None",
+        "AssistRevise": 1.0,
+        "GainedRange": 0.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "209": {
+        "ActorID": "2060",
+        "ActorType": "EActorType::EAT_Jungle_Baby_Prime",
+        "MapType": "EOfficialMapType::EOMT_Monolith",
+        "DefaultValue": 200.0,
+        "GainedType": "ERewardGainedType::ERGT_Global",
+        "AssistRevise": 1.0,
+        "GainedRange": 0.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "210": {
+        "ActorID": "2070",
+        "ActorType": "EActorType::EAT_Prime_Spirit",
+        "MapType": "EOfficialMapType::EOMT_Monolith",
+        "DefaultValue": 200.0,
+        "GainedType": "ERewardGainedType::ERGT_Local",
+        "AssistRevise": 1.0,
+        "GainedRange": 2200.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "211": {
+        "ActorID": "2071",
+        "ActorType": "EActorType::EAT_Prime_Spirit",
+        "MapType": "EOfficialMapType::EOMT_Monolith",
+        "DefaultValue": 200.0,
+        "GainedType": "ERewardGainedType::ERGT_Local",
+        "AssistRevise": 1.0,
+        "GainedRange": 2200.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "212": {
+        "ActorID": "2072",
+        "ActorType": "EActorType::EAT_Prime_Spirit",
+        "MapType": "EOfficialMapType::EOMT_Monolith",
+        "DefaultValue": 200.0,
+        "GainedType": "ERewardGainedType::ERGT_Local",
+        "AssistRevise": 1.0,
+        "GainedRange": 2200.0,
+        "GainedTime": 0.0,
+        "STDEV_Ratio": 0.02,
+        "STDEV_Ratio_BlockTime": 600.0
+      },
+      "213": {
         "ActorID": "2073",
         "ActorType": "EActorType::EAT_Prime_Spirit",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2470,7 +2566,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "206": {
+      "214": {
         "ActorID": "2151",
         "ActorType": "EActorType::EAT_Ward_Normal",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2482,7 +2578,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "207": {
+      "215": {
         "ActorID": "2152",
         "ActorType": "EActorType::EAT_Ward_Supporter",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2494,7 +2590,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "208": {
+      "216": {
         "ActorID": "2500",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2506,7 +2602,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "209": {
+      "217": {
         "ActorID": "2501",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2518,7 +2614,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "210": {
+      "218": {
         "ActorID": "2502",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2530,7 +2626,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "211": {
+      "219": {
         "ActorID": "2503",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2542,7 +2638,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "212": {
+      "220": {
         "ActorID": "2504",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2554,7 +2650,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "213": {
+      "221": {
         "ActorID": "2505",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2566,7 +2662,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "214": {
+      "222": {
         "ActorID": "2506",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2578,7 +2674,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "215": {
+      "223": {
         "ActorID": "2507",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2590,7 +2686,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "216": {
+      "224": {
         "ActorID": "2508",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2602,7 +2698,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "217": {
+      "225": {
         "ActorID": "2509",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2614,7 +2710,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "218": {
+      "226": {
         "ActorID": "2510",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2626,7 +2722,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "219": {
+      "227": {
         "ActorID": "2511",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2638,7 +2734,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "220": {
+      "228": {
         "ActorID": "2512",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2650,7 +2746,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "221": {
+      "229": {
         "ActorID": "2513",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2662,7 +2758,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "222": {
+      "230": {
         "ActorID": "2514",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2674,7 +2770,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "223": {
+      "231": {
         "ActorID": "2515",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2686,7 +2782,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "224": {
+      "232": {
         "ActorID": "2516",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2698,7 +2794,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "225": {
+      "233": {
         "ActorID": "2517",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2710,7 +2806,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "226": {
+      "234": {
         "ActorID": "2518",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2722,7 +2818,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "227": {
+      "235": {
         "ActorID": "2519",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2734,7 +2830,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "228": {
+      "236": {
         "ActorID": "2520",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2746,7 +2842,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "229": {
+      "237": {
         "ActorID": "2521",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2758,7 +2854,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "230": {
+      "238": {
         "ActorID": "2522",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2770,7 +2866,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "231": {
+      "239": {
         "ActorID": "2523",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2782,7 +2878,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "232": {
+      "240": {
         "ActorID": "2524",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2794,7 +2890,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "233": {
+      "241": {
         "ActorID": "2525",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2806,7 +2902,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "234": {
+      "242": {
         "ActorID": "2526",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2818,7 +2914,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "235": {
+      "243": {
         "ActorID": "2527",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2830,7 +2926,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "236": {
+      "244": {
         "ActorID": "2528",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2842,7 +2938,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "237": {
+      "245": {
         "ActorID": "2529",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2854,7 +2950,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "238": {
+      "246": {
         "ActorID": "2530",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2866,7 +2962,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "239": {
+      "247": {
         "ActorID": "2531",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2878,7 +2974,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "240": {
+      "248": {
         "ActorID": "2532",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2890,7 +2986,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "241": {
+      "249": {
         "ActorID": "2533",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2902,7 +2998,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "242": {
+      "250": {
         "ActorID": "2534",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2914,7 +3010,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "243": {
+      "251": {
         "ActorID": "2535",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2926,7 +3022,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "244": {
+      "252": {
         "ActorID": "2536",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2938,7 +3034,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "245": {
+      "253": {
         "ActorID": "2537",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2950,7 +3046,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "246": {
+      "254": {
         "ActorID": "2538",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2962,7 +3058,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "247": {
+      "255": {
         "ActorID": "2539",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2974,7 +3070,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "248": {
+      "256": {
         "ActorID": "2540",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2986,7 +3082,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "249": {
+      "257": {
         "ActorID": "2541",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_Monolith",
@@ -2998,7 +3094,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "250": {
+      "258": {
         "ActorID": "2010",
         "ActorType": "EActorType::EAT_Minion_Melee",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3010,7 +3106,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "251": {
+      "259": {
         "ActorID": "2011",
         "ActorType": "EActorType::EAT_Minion_Range",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3022,7 +3118,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "252": {
+      "260": {
         "ActorID": "2012",
         "ActorType": "EActorType::EAT_Minion_Siege",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3034,7 +3130,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "253": {
+      "261": {
         "ActorID": "2013",
         "ActorType": "EActorType::EAT_Minion_Super",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3046,7 +3142,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "254": {
+      "262": {
         "ActorID": "2014",
         "ActorType": "EActorType::EAT_Minion_Melee",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3058,7 +3154,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "255": {
+      "263": {
         "ActorID": "2015",
         "ActorType": "EActorType::EAT_Minion_Range",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3070,7 +3166,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "256": {
+      "264": {
         "ActorID": "2016",
         "ActorType": "EActorType::EAT_Minion_Siege",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3082,7 +3178,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "257": {
+      "265": {
         "ActorID": "2017",
         "ActorType": "EActorType::EAT_Minion_Super",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3094,7 +3190,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "258": {
+      "266": {
         "ActorID": "2101",
         "ActorType": "EActorType::EAT_Tower",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3106,7 +3202,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "259": {
+      "267": {
         "ActorID": "2102",
         "ActorType": "EActorType::EAT_Inhibitor",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3118,7 +3214,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "260": {
+      "268": {
         "ActorID": "2103",
         "ActorType": "EActorType::EAT_Inhibitor",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3130,7 +3226,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "261": {
+      "269": {
         "ActorID": "2104",
         "ActorType": "EActorType::EAT_Inhibitor",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3142,7 +3238,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "262": {
+      "270": {
         "ActorID": "2105",
         "ActorType": "EActorType::EAT_Core",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3154,7 +3250,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "263": {
+      "271": {
         "ActorID": "2106",
         "ActorType": "EActorType::EAT_Tower",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3166,7 +3262,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "264": {
+      "272": {
         "ActorID": "2107",
         "ActorType": "EActorType::EAT_Inhibitor",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3178,7 +3274,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "265": {
+      "273": {
         "ActorID": "2108",
         "ActorType": "EActorType::EAT_Inhibitor",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3190,7 +3286,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "266": {
+      "274": {
         "ActorID": "2109",
         "ActorType": "EActorType::EAT_Inhibitor",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3202,7 +3298,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "267": {
+      "275": {
         "ActorID": "2110",
         "ActorType": "EActorType::EAT_Core",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3214,7 +3310,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "268": {
+      "276": {
         "ActorID": "2050",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3226,7 +3322,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "269": {
+      "277": {
         "ActorID": "2051",
         "ActorType": "EActorType::EAT_Jungle_WhiteKing",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3238,7 +3334,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "270": {
+      "278": {
         "ActorID": "2052",
         "ActorType": "EActorType::EAT_Jungle_Red",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3250,7 +3346,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "271": {
+      "279": {
         "ActorID": "2053",
         "ActorType": "EActorType::EAT_Jungle_Blue",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3262,7 +3358,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "272": {
+      "280": {
         "ActorID": "2054",
         "ActorType": "EActorType::EAT_Jungle_River",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3274,7 +3370,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "273": {
+      "281": {
         "ActorID": "2055",
         "ActorType": "EActorType::EAT_Prime_Spirit",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3286,7 +3382,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "274": {
+      "282": {
         "ActorID": "2056",
         "ActorType": "EActorType::EAT_Prime_Guardian",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3298,7 +3394,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "275": {
+      "283": {
         "ActorID": "2057",
         "ActorType": "EActorType::EAT_Prime_Baby",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3310,7 +3406,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "276": {
+      "284": {
         "ActorID": "2058",
         "ActorType": "EActorType::EAT_Jungle_Gold",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3322,7 +3418,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "277": {
+      "285": {
         "ActorID": "2059",
         "ActorType": "EActorType::EAT_Jungle_Purple",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3334,7 +3430,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "278": {
+      "286": {
         "ActorID": "2060",
         "ActorType": "EActorType::EAT_Jungle_Baby_Prime",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3346,7 +3442,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "279": {
+      "287": {
         "ActorID": "2070",
         "ActorType": "EActorType::EAT_Prime_Spirit",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3358,7 +3454,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "280": {
+      "288": {
         "ActorID": "2071",
         "ActorType": "EActorType::EAT_Prime_Spirit",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3370,7 +3466,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "281": {
+      "289": {
         "ActorID": "2072",
         "ActorType": "EActorType::EAT_Prime_Spirit",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3382,7 +3478,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "282": {
+      "290": {
         "ActorID": "2073",
         "ActorType": "EActorType::EAT_Prime_Spirit",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3394,7 +3490,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "283": {
+      "291": {
         "ActorID": "2151",
         "ActorType": "EActorType::EAT_Ward_Normal",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3406,7 +3502,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "284": {
+      "292": {
         "ActorID": "2152",
         "ActorType": "EActorType::EAT_Ward_Supporter",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3418,7 +3514,7 @@
         "STDEV_Ratio": 0.0,
         "STDEV_Ratio_BlockTime": 0.0
       },
-      "285": {
+      "293": {
         "ActorID": "2500",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3430,7 +3526,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "286": {
+      "294": {
         "ActorID": "2501",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3442,7 +3538,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "287": {
+      "295": {
         "ActorID": "2502",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3454,7 +3550,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "288": {
+      "296": {
         "ActorID": "2503",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3466,7 +3562,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "289": {
+      "297": {
         "ActorID": "2504",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3478,7 +3574,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "290": {
+      "298": {
         "ActorID": "2505",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3490,7 +3586,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "291": {
+      "299": {
         "ActorID": "2506",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3502,7 +3598,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "292": {
+      "300": {
         "ActorID": "2507",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3514,7 +3610,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "293": {
+      "301": {
         "ActorID": "2508",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3526,7 +3622,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "294": {
+      "302": {
         "ActorID": "2509",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3538,7 +3634,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "295": {
+      "303": {
         "ActorID": "2510",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3550,7 +3646,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "296": {
+      "304": {
         "ActorID": "2511",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3562,7 +3658,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "297": {
+      "305": {
         "ActorID": "2512",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3574,7 +3670,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "298": {
+      "306": {
         "ActorID": "2513",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3586,7 +3682,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "299": {
+      "307": {
         "ActorID": "2514",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3598,7 +3694,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "300": {
+      "308": {
         "ActorID": "2515",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3610,7 +3706,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "301": {
+      "309": {
         "ActorID": "2516",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3622,7 +3718,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "302": {
+      "310": {
         "ActorID": "2517",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3634,7 +3730,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "303": {
+      "311": {
         "ActorID": "2518",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3646,7 +3742,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "304": {
+      "312": {
         "ActorID": "2519",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3658,7 +3754,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "305": {
+      "313": {
         "ActorID": "2520",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3670,7 +3766,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "306": {
+      "314": {
         "ActorID": "2521",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3682,7 +3778,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "307": {
+      "315": {
         "ActorID": "2522",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3694,7 +3790,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "308": {
+      "316": {
         "ActorID": "2523",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3706,7 +3802,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "309": {
+      "317": {
         "ActorID": "2524",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3718,7 +3814,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "310": {
+      "318": {
         "ActorID": "2525",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3730,7 +3826,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "311": {
+      "319": {
         "ActorID": "2526",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3742,7 +3838,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "312": {
+      "320": {
         "ActorID": "2527",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3754,7 +3850,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "313": {
+      "321": {
         "ActorID": "2528",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3766,7 +3862,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "314": {
+      "322": {
         "ActorID": "2529",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3778,7 +3874,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "315": {
+      "323": {
         "ActorID": "2530",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3790,7 +3886,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "316": {
+      "324": {
         "ActorID": "2531",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3802,7 +3898,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "317": {
+      "325": {
         "ActorID": "2532",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3814,7 +3910,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "318": {
+      "326": {
         "ActorID": "2533",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3826,7 +3922,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "319": {
+      "327": {
         "ActorID": "2534",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3838,7 +3934,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "320": {
+      "328": {
         "ActorID": "2535",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3850,7 +3946,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "321": {
+      "329": {
         "ActorID": "2536",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3862,7 +3958,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "322": {
+      "330": {
         "ActorID": "2537",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3874,7 +3970,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "323": {
+      "331": {
         "ActorID": "2538",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3886,7 +3982,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "324": {
+      "332": {
         "ActorID": "2539",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3898,7 +3994,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "325": {
+      "333": {
         "ActorID": "2540",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
@@ -3910,7 +4006,7 @@
         "STDEV_Ratio": 0.02,
         "STDEV_Ratio_BlockTime": 600.0
       },
-      "326": {
+      "334": {
         "ActorID": "2541",
         "ActorType": "EActorType::EAT_Jungle_White",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",

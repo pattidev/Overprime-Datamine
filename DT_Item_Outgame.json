@@ -136,6 +136,12 @@
         "MaxAmount": 1,
         "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Phase_Portrait.Hero_Icon_Phase_Portrait'"
       },
+      "20001018": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1018,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Adel_Portrait.Hero_Icon_Adel_Portrait'"
+      },
       "20001019": {
         "ItemType": "EItemOutgameType::Hero",
         "ItemTypeID": 1019,
@@ -183,6 +189,12 @@
         "ItemTypeID": 1028,
         "MaxAmount": 1,
         "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Serath_Portrait.Hero_Icon_Serath_Portrait'"
+      },
+      "20001029": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1029,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Greystone_Portrait.Hero_Icon_Greystone_Portrait'"
       },
       "20001030": {
         "ItemType": "EItemOutgameType::Hero",
@@ -267,6 +279,12 @@
         "ItemTypeID": 1001008,
         "MaxAmount": 1,
         "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Mudock/1001008/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31001011": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1001011,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Mudock/1001011/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
       },
       "31002001": {
         "ItemType": "EItemOutgameType::Hero_Skin",
@@ -418,6 +436,12 @@
         "MaxAmount": 1,
         "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Grux/1006006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
       },
+      "31006011": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1006011,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Grux/1006011/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
       "31007001": {
         "ItemType": "EItemOutgameType::Hero_Skin",
         "ItemTypeID": 1007001,
@@ -435,6 +459,12 @@
         "ItemTypeID": 1007004,
         "MaxAmount": 1,
         "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Steel/1007004/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31007005": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1007005,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Steel/1007005/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
       },
       "31007006": {
         "ItemType": "EItemOutgameType::Hero_Skin",
@@ -658,6 +688,18 @@
         "MaxAmount": 1,
         "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Phase/1017006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
       },
+      "31018001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1018001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Adel/1018001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31018006": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1018006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Adel/1018006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
       "31019001": {
         "ItemType": "EItemOutgameType::Hero_Skin",
         "ItemTypeID": 1019001,
@@ -844,6 +886,18 @@
         "MaxAmount": 1,
         "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Serath/1028006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
       },
+      "31029001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1029001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Greystone/1029001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31029006": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1029006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Greystone/1029006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
       "31030001": {
         "ItemType": "EItemOutgameType::Hero_Skin",
         "ItemTypeID": 1030001,
@@ -897,6 +951,12 @@
         "ItemTypeID": 1033002,
         "MaxAmount": 1,
         "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Wraith/1033002/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31033006": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1033006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Wraith/1033006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
       },
       "31036001": {
         "ItemType": "EItemOutgameType::Hero_Skin",
@@ -1743,6 +1803,24 @@
         "ItemTypeID": 1100131,
         "MaxAmount": 1,
         "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Cooperation_0101.Emb_Cooperation_0101'"
+      },
+      "41100132": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100132,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Greystone_Portrait.Hero_Icon_Greystone_Portrait'"
+      },
+      "41100133": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100133,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Adel_Portrait.Hero_Icon_Adel_Portrait'"
+      },
+      "41100134": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100134,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDAdel_0101.Emb_SDAdel_0101'"
       }
     }
   }

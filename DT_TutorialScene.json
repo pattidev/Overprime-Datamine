@@ -474,7 +474,9 @@
         "Desc": "None",
         "DescArg": [],
         "ToastDesc": "UI.Tutorial_Battle_Toast_102",
-        "ToastDescArg": [],
+        "ToastDescArg": [
+          "EGameSettingDetailType::EGSD_Control_BaseAttack"
+        ],
         "BShowToastOpenAnimation": false,
         "BGroupTypingToast": false,
         "Condition": "ETRAINING_CONDITION::ESCT_NONE",
@@ -2176,7 +2178,7 @@
         ],
         "BehaviorOptionInt": [
           1,
-          0
+          14
         ],
         "Targets": [],
         "InjuryTime": 0.1,
@@ -2221,10 +2223,12 @@
         "Condition": "ETRAINING_CONDITION::ESCT_LMB_CLICK_PASS",
         "ConditionOptionInt": 0,
         "Behavior": [
-          "ETRAINING_BEHAVIOR::BHHeroMoveLocked"
+          "ETRAINING_BEHAVIOR::BHHeroMoveLocked",
+          "ETRAINING_BEHAVIOR::BHWallsShow"
         ],
         "BehaviorOptionInt": [
-          1
+          1,
+          0
         ],
         "Targets": [],
         "InjuryTime": 0.1,
@@ -2510,8 +2514,12 @@
         "BGroupTypingToast": false,
         "Condition": "ETRAINING_CONDITION::ESCT_NONE",
         "ConditionOptionInt": 0,
-        "Behavior": [],
-        "BehaviorOptionInt": [],
+        "Behavior": [
+          "ETRAINING_BEHAVIOR::BHWallsHide"
+        ],
+        "BehaviorOptionInt": [
+          0
+        ],
         "Targets": [],
         "InjuryTime": 0.1,
         "PauseTime": 0.0

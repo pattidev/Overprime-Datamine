@@ -984,6 +984,43 @@
         "Respawn": null
       },
       "23": {
+        "UnitState": "Shield",
+        "HeroID": "1018",
+        "HeroSkinID": "1018001",
+        "Stun": {
+          "ObjectName": "AnimMontage'Adel_Stun_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Adel/Animations/Adel_Stun_Montage.0"
+        },
+        "Airbone": null,
+        "Knockback": null,
+        "Sleep": null,
+        "HitReactLeft": {
+          "ObjectName": "AnimMontage'Adel_HitReact_Shield_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Adel/Animations/Adel_HitReact_Shield_Montage.0"
+        },
+        "HitReactRight": {
+          "ObjectName": "AnimMontage'Adel_HitReact_Shield_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Adel/Animations/Adel_HitReact_Shield_Montage.0"
+        },
+        "HitReactForward": {
+          "ObjectName": "AnimMontage'Adel_HitReact_Shield_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Adel/Animations/Adel_HitReact_Shield_Montage.0"
+        },
+        "HitReactBackward": {
+          "ObjectName": "AnimMontage'Adel_HitReact_Shield_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Adel/Animations/Adel_HitReact_Shield_Montage.0"
+        },
+        "JumpPadActivation": {
+          "ObjectName": "AnimMontage'Adel_Jump_Pad_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Adel/Animations/Adel_Jump_Pad_Montage.0"
+        },
+        "DeathSequence": {
+          "ObjectName": "AnimSequence'Adel_Daeth'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Adel/Animations/Adel_Daeth.0"
+        },
+        "Respawn": null
+      },
+      "24": {
         "UnitState": "Default",
         "HeroID": "1019",
         "HeroSkinID": "1019001",
@@ -1029,7 +1066,7 @@
           "ObjectPath": "Overprime/Content/Character/Hero/Belica/Animations/Respawn_Montage.0"
         }
       },
-      "24": {
+      "25": {
         "UnitState": "Default",
         "HeroID": "1020",
         "HeroSkinID": "1020001",
@@ -1075,7 +1112,7 @@
           "ObjectPath": "Overprime/Content/Character/Hero/FengMao/Animations/AM_Respawn_Montage.0"
         }
       },
-      "25": {
+      "26": {
         "UnitState": "Default",
         "HeroID": "1021",
         "HeroSkinID": "1021001",
@@ -1109,7 +1146,7 @@
           "ObjectPath": "Overprime/Content/Character/Hero/GRIM/Animations/AM_SelectScreen_Start_Montage.0"
         }
       },
-      "26": {
+      "27": {
         "UnitState": "Default",
         "HeroID": "1022",
         "HeroSkinID": "1022001",
@@ -1155,7 +1192,7 @@
           "ObjectPath": "Overprime/Content/Character/Hero/Howitzer/Animations/AM_Respawn_Montage.0"
         }
       },
-      "27": {
+      "28": {
         "UnitState": "Default",
         "HeroID": "1023",
         "HeroSkinID": "1023001",
@@ -1198,7 +1235,7 @@
         },
         "Respawn": null
       },
-      "28": {
+      "29": {
         "UnitState": "Default",
         "HeroID": "1024",
         "HeroSkinID": "1024001",
@@ -1214,7 +1251,7 @@
         "DeathSequence": null,
         "Respawn": null
       },
-      "29": {
+      "30": {
         "UnitState": "Default",
         "HeroID": "1025",
         "HeroSkinID": "1025001",
@@ -1260,7 +1297,7 @@
           "ObjectPath": "Overprime/Content/Character/Hero/Narbash/Animations/AM_Respawn_Montage.0"
         }
       },
-      "30": {
+      "31": {
         "UnitState": "Default",
         "HeroID": "1026",
         "HeroSkinID": "1026001",
@@ -1303,7 +1340,7 @@
         },
         "Respawn": null
       },
-      "31": {
+      "32": {
         "UnitState": "Default",
         "HeroID": "1027",
         "HeroSkinID": "1027001",
@@ -1349,7 +1386,7 @@
           "ObjectPath": "Overprime/Content/Character/Hero/Countess/Animations/AM_Respawn_Montage.0"
         }
       },
-      "32": {
+      "33": {
         "UnitState": "Default",
         "HeroID": "1028",
         "HeroSkinID": "1028001",
@@ -1395,7 +1432,7 @@
           "ObjectPath": "Overprime/Content/Character/Hero/Serath/Animations/AM_Respawn_Montage.0"
         }
       },
-      "33": {
+      "34": {
         "UnitState": "Default",
         "HeroID": "1029",
         "HeroSkinID": "1029001",
@@ -1441,7 +1478,7 @@
           "ObjectPath": "Overprime/Content/Character/Hero/Greystone/Animations/AM_LevelStart_Montage.0"
         }
       },
-      "34": {
+      "35": {
         "UnitState": "Default",
         "HeroID": "1030",
         "HeroSkinID": "1030001",
@@ -1449,10 +1486,13 @@
           "ObjectName": "AnimMontage'AM_Stun'",
           "ObjectPath": "Overprime/Content/Character/Hero/Zena/Animation/Montage/AM_Stun.0"
         },
-        "Airbone": null,
-        "Knockback": {
+        "Airbone": {
           "ObjectName": "AnimMontage'Zena_KnockUp_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Zena/Animation/Montage/Zena_KnockUp_Montage.0"
+        },
+        "Knockback": {
+          "ObjectName": "AnimMontage'KnockBack_Fwd_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Zena/Animation/KnockBack_Fwd_Montage.0"
         },
         "Sleep": null,
         "HitReactLeft": {
@@ -1484,7 +1524,7 @@
           "ObjectPath": "Overprime/Content/Character/Hero/Zena/Animation/Montage/AM_Respawn.0"
         }
       },
-      "35": {
+      "36": {
         "UnitState": "Default",
         "HeroID": "1031",
         "HeroSkinID": "1031001",
@@ -1527,7 +1567,7 @@
         },
         "Respawn": null
       },
-      "36": {
+      "37": {
         "UnitState": "Default",
         "HeroID": "1032",
         "HeroSkinID": "1032001",
@@ -1573,7 +1613,7 @@
           "ObjectPath": "Overprime/Content/Character/Hero/Drongo/Animations/AM_LevelStart_Montage.0"
         }
       },
-      "37": {
+      "38": {
         "UnitState": "Default",
         "HeroID": "1033",
         "HeroSkinID": "1033001",
@@ -1619,7 +1659,7 @@
           "ObjectPath": "Overprime/Content/Character/Hero/Wraith/Animations/Respawn_Montage.0"
         }
       },
-      "38": {
+      "39": {
         "UnitState": "Default",
         "HeroID": "1036",
         "HeroSkinID": "1036001",
@@ -1665,7 +1705,7 @@
           "ObjectPath": "Overprime/Content/Character/Hero/Wukong/Animations/Montage/Respawn_Montage.0"
         }
       },
-      "39": {
+      "40": {
         "UnitState": "Default",
         "HeroID": "1037",
         "HeroSkinID": "1037001",
@@ -1674,8 +1714,8 @@
           "ObjectPath": "Overprime/Content/Character/Hero/IggyScorch/Animations/Montage/AM_Stun.0"
         },
         "Airbone": {
-          "ObjectName": "AnimMontage'AM_KnockUp'",
-          "ObjectPath": "Overprime/Content/Character/Hero/IggyScorch/Animations/Montage/AM_KnockUp.0"
+          "ObjectName": "AnimMontage'IggyScorch_KnockUp_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/IggyScorch/Animations/IggyScorch_KnockUp_Montage.0"
         },
         "Knockback": {
           "ObjectName": "AnimMontage'AM_KnockUp'",
@@ -1708,7 +1748,7 @@
           "ObjectPath": "Overprime/Content/Character/Hero/IggyScorch/Animations/Montage/AM_Respawn.0"
         }
       },
-      "40": {
+      "41": {
         "UnitState": "Default",
         "HeroID": "1040",
         "HeroSkinID": "1040001",
@@ -1754,7 +1794,7 @@
           "ObjectPath": "Overprime/Content/Character/Hero/Crunch/Animations/Montage/Respawn_Montage.0"
         }
       },
-      "41": {
+      "42": {
         "UnitState": "Default",
         "HeroID": "1042",
         "HeroSkinID": "1042001",
@@ -1763,8 +1803,8 @@
           "ObjectPath": "Overprime/Content/Character/Hero/Maco/Animations/Montage/Maco_Stun_Montage.0"
         },
         "Airbone": {
-          "ObjectName": "AnimMontage'Maco_KnockBack_Montage'",
-          "ObjectPath": "Overprime/Content/Character/Hero/Maco/Animations/Montage/Maco_KnockBack_Montage.0"
+          "ObjectName": "AnimMontage'Maco_KnockUp_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Maco/Animations/Maco_KnockUp_Montage.0"
         },
         "Knockback": {
           "ObjectName": "AnimMontage'Maco_KnockBack_Montage'",
@@ -1800,7 +1840,7 @@
           "ObjectPath": "Overprime/Content/Character/Hero/Maco/Animations/Montage/Maco_Recall_Montage.0"
         }
       },
-      "42": {
+      "43": {
         "UnitState": "Default",
         "HeroID": "5000",
         "HeroSkinID": "5000001",
@@ -1837,7 +1877,7 @@
         "DeathSequence": null,
         "Respawn": null
       },
-      "43": {
+      "44": {
         "UnitState": "Default",
         "HeroID": "#",
         "HeroSkinID": "None",
@@ -1853,7 +1893,7 @@
         "DeathSequence": null,
         "Respawn": null
       },
-      "44": {
+      "45": {
         "UnitState": "Default",
         "HeroID": "2050",
         "HeroSkinID": "2050001",
@@ -1881,7 +1921,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/White_Buff/Animations/AM_JungleMelee_Spawn_A_Montage.0"
         }
       },
-      "45": {
+      "46": {
         "UnitState": "Default",
         "HeroID": "#2051",
         "HeroSkinID": "2051001",
@@ -1897,7 +1937,7 @@
         "DeathSequence": null,
         "Respawn": null
       },
-      "46": {
+      "47": {
         "UnitState": "Default",
         "HeroID": "2052",
         "HeroSkinID": "2052001",
@@ -1925,7 +1965,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Buff/Red_Buff/Animations/AM_Spawn_Montage.0"
         }
       },
-      "47": {
+      "48": {
         "UnitState": "Default",
         "HeroID": "2053",
         "HeroSkinID": "2053001",
@@ -1953,7 +1993,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Buff/Blue_Buff/Animations/AM_Spawn_Montage.0"
         }
       },
-      "48": {
+      "49": {
         "UnitState": "Default",
         "HeroID": "2054",
         "HeroSkinID": "2054001",
@@ -1981,7 +2021,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Recovery/Blue_Buff_OLD/Animations/AM_Spawn_Montage.0"
         }
       },
-      "49": {
+      "50": {
         "UnitState": "Default",
         "HeroID": "2055",
         "HeroSkinID": "2055001",
@@ -2003,7 +2043,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Prime/Black_Buff/Animations/Spawn_Montage.0"
         }
       },
-      "50": {
+      "51": {
         "UnitState": "Default",
         "HeroID": "2056",
         "HeroSkinID": "2056001",
@@ -2025,7 +2065,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Prime/Prime_Guardian/Animations/Spawn_Montage.0"
         }
       },
-      "51": {
+      "52": {
         "UnitState": "Default",
         "HeroID": "2057",
         "HeroSkinID": "2057001",
@@ -2047,7 +2087,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Prime/Prime_Guardian/Animations/Spawn_Montage.0"
         }
       },
-      "52": {
+      "53": {
         "UnitState": "Default",
         "HeroID": "2058",
         "HeroSkinID": "2058001",
@@ -2084,7 +2124,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Recovery/Green_Buff/Animations/Spawn_Montage.0"
         }
       },
-      "53": {
+      "54": {
         "UnitState": "Default",
         "HeroID": "2059",
         "HeroSkinID": "2059001",
@@ -2121,7 +2161,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Recovery/Green_Buff/Animations/Spawn_Montage.0"
         }
       },
-      "54": {
+      "55": {
         "UnitState": "Default",
         "HeroID": "2060",
         "HeroSkinID": "2056001",
@@ -2143,7 +2183,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Prime/Prime_Helix/Animations/AM_Spawn_Montage.0"
         }
       },
-      "55": {
+      "56": {
         "UnitState": "Default",
         "HeroID": "2061",
         "HeroSkinID": "2057001",
@@ -2162,7 +2202,7 @@
         },
         "Respawn": null
       },
-      "56": {
+      "57": {
         "UnitState": "Default",
         "HeroID": "2070",
         "HeroSkinID": "2070001",
@@ -2184,7 +2224,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Prime/Black_Buff/Animations/Spawn_Montage.0"
         }
       },
-      "57": {
+      "58": {
         "UnitState": "Default",
         "HeroID": "2071",
         "HeroSkinID": "2071001",
@@ -2206,7 +2246,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Prime/Black_Buff/Animations/Spawn_Montage.0"
         }
       },
-      "58": {
+      "59": {
         "UnitState": "Default",
         "HeroID": "2072",
         "HeroSkinID": "2072001",
@@ -2228,7 +2268,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Prime/Black_Buff/Animations/Spawn_Montage.0"
         }
       },
-      "59": {
+      "60": {
         "UnitState": "Default",
         "HeroID": "2073",
         "HeroSkinID": "2073001",
@@ -2250,7 +2290,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Prime/Black_Buff/Animations/Spawn_Montage.0"
         }
       },
-      "60": {
+      "61": {
         "UnitState": "Default",
         "HeroID": "2010",
         "HeroSkinID": "2010001",
@@ -2290,7 +2330,7 @@
         },
         "Respawn": null
       },
-      "61": {
+      "62": {
         "UnitState": "Default",
         "HeroID": "2011",
         "HeroSkinID": "2011001",
@@ -2330,7 +2370,7 @@
         },
         "Respawn": null
       },
-      "62": {
+      "63": {
         "UnitState": "Default",
         "HeroID": "2012",
         "HeroSkinID": "2012001",
@@ -2370,7 +2410,7 @@
         },
         "Respawn": null
       },
-      "63": {
+      "64": {
         "UnitState": "Default",
         "HeroID": "2013",
         "HeroSkinID": "2013001",
@@ -2410,7 +2450,7 @@
         },
         "Respawn": null
       },
-      "64": {
+      "65": {
         "UnitState": "Default",
         "HeroID": "2014",
         "HeroSkinID": "2010001",
@@ -2450,7 +2490,7 @@
         },
         "Respawn": null
       },
-      "65": {
+      "66": {
         "UnitState": "Default",
         "HeroID": "2015",
         "HeroSkinID": "2011001",
@@ -2490,7 +2530,7 @@
         },
         "Respawn": null
       },
-      "66": {
+      "67": {
         "UnitState": "Default",
         "HeroID": "2016",
         "HeroSkinID": "2012001",
@@ -2530,7 +2570,7 @@
         },
         "Respawn": null
       },
-      "67": {
+      "68": {
         "UnitState": "Default",
         "HeroID": "2017",
         "HeroSkinID": "2013001",
@@ -2570,7 +2610,327 @@
         },
         "Respawn": null
       },
-      "68": {
+      "69": {
+        "UnitState": "Default",
+        "HeroID": "2018",
+        "HeroSkinID": "2018001",
+        "Stun": {
+          "ObjectName": "AnimMontage'AM_Stun_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/AM_Stun_Montage.0"
+        },
+        "Airbone": {
+          "ObjectName": "AnimMontage'Airborne_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Ring_N/Airborne_Montage.0"
+        },
+        "Knockback": {
+          "ObjectName": "AnimMontage'Airborne_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Ring_N/Airborne_Montage.0"
+        },
+        "Sleep": null,
+        "HitReactLeft": {
+          "ObjectName": "AnimMontage'AM_HitReact_Left_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/AM_HitReact_Left_Montage.0"
+        },
+        "HitReactRight": {
+          "ObjectName": "AnimMontage'AM_HitReact_Right_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/AM_HitReact_Right_Montage.0"
+        },
+        "HitReactForward": {
+          "ObjectName": "AnimMontage'AM_HitReact_Front_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/AM_HitReact_Front_Montage.0"
+        },
+        "HitReactBackward": {
+          "ObjectName": "AnimMontage'AM_HitReact_Back_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/AM_HitReact_Back_Montage.0"
+        },
+        "JumpPadActivation": null,
+        "DeathSequence": {
+          "ObjectName": "AnimSequence'Death_A_001'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/Death_A_001.0"
+        },
+        "Respawn": null
+      },
+      "70": {
+        "UnitState": "Default",
+        "HeroID": "2019",
+        "HeroSkinID": "2019001",
+        "Stun": {
+          "ObjectName": "AnimMontage'AM_Stun_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/AM_Stun_Montage.0"
+        },
+        "Airbone": {
+          "ObjectName": "AnimMontage'Airborne_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Thorn_N/Airborne_Montage.0"
+        },
+        "Knockback": {
+          "ObjectName": "AnimMontage'Airborne_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Thorn_N/Airborne_Montage.0"
+        },
+        "Sleep": null,
+        "HitReactLeft": {
+          "ObjectName": "AnimMontage'AM_HitReact_Right_A_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/AM_HitReact_Right_A_Montage.0"
+        },
+        "HitReactRight": {
+          "ObjectName": "AnimMontage'AM_HitReact_Right_A_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/AM_HitReact_Right_A_Montage.0"
+        },
+        "HitReactForward": {
+          "ObjectName": "AnimMontage'AM_HitReact_Front_A_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/AM_HitReact_Front_A_Montage.0"
+        },
+        "HitReactBackward": {
+          "ObjectName": "AnimMontage'AM_HitReact_Back_A_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/AM_HitReact_Back_A_Montage.0"
+        },
+        "JumpPadActivation": null,
+        "DeathSequence": {
+          "ObjectName": "AnimSequence'Death_Back_A_003'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/Death_Back_A_003.0"
+        },
+        "Respawn": null
+      },
+      "71": {
+        "UnitState": "Default",
+        "HeroID": "2020",
+        "HeroSkinID": "2020001",
+        "Stun": {
+          "ObjectName": "AnimMontage'AM_Stun_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/AM_Stun_Montage.0"
+        },
+        "Airbone": {
+          "ObjectName": "AnimMontage'Airborne_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Ring_L/Airborne_Montage.0"
+        },
+        "Knockback": {
+          "ObjectName": "AnimMontage'Airborne_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Ring_L/Airborne_Montage.0"
+        },
+        "Sleep": null,
+        "HitReactLeft": {
+          "ObjectName": "AnimMontage'AM_HitReact_Left_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/AM_HitReact_Left_Montage.0"
+        },
+        "HitReactRight": {
+          "ObjectName": "AnimMontage'AM_HitReact_Right_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/AM_HitReact_Right_Montage.0"
+        },
+        "HitReactForward": {
+          "ObjectName": "AnimMontage'AM_HitReact_Front_A_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/AM_HitReact_Front_A_Montage.0"
+        },
+        "HitReactBackward": {
+          "ObjectName": "AnimMontage'AM_HitReact_Back_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/AM_HitReact_Back_Montage.0"
+        },
+        "JumpPadActivation": null,
+        "DeathSequence": {
+          "ObjectName": "AnimSequence'Death_B_003'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/Death_B_003.0"
+        },
+        "Respawn": null
+      },
+      "72": {
+        "UnitState": "Default",
+        "HeroID": "2021",
+        "HeroSkinID": "2021001",
+        "Stun": {
+          "ObjectName": "AnimMontage'AM_Stun_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/AM_Stun_Montage.0"
+        },
+        "Airbone": {
+          "ObjectName": "AnimMontage'Airborne_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Thorn_L/Airborne_Montage.0"
+        },
+        "Knockback": {
+          "ObjectName": "AnimMontage'Airborne_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Thorn_L/Airborne_Montage.0"
+        },
+        "Sleep": null,
+        "HitReactLeft": {
+          "ObjectName": "AnimMontage'AM_Hit_React_Left_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/AM_Hit_React_Left_Montage.0"
+        },
+        "HitReactRight": {
+          "ObjectName": "AnimMontage'AM_Hit_React_Right_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/AM_Hit_React_Right_Montage.0"
+        },
+        "HitReactForward": {
+          "ObjectName": "AnimMontage'AM_Hit_React_Front_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/AM_Hit_React_Front_Montage.0"
+        },
+        "HitReactBackward": {
+          "ObjectName": "AnimMontage'AM_Hit_React_Back_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/AM_Hit_React_Back_Montage.0"
+        },
+        "JumpPadActivation": null,
+        "DeathSequence": {
+          "ObjectName": "AnimSequence'Death_Back'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/Death_Back.0"
+        },
+        "Respawn": null
+      },
+      "73": {
+        "UnitState": "Default",
+        "HeroID": "2022",
+        "HeroSkinID": "2022001",
+        "Stun": {
+          "ObjectName": "AnimMontage'AM_Stun_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/AM_Stun_Montage.0"
+        },
+        "Airbone": {
+          "ObjectName": "AnimMontage'Airborne_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Ring_N/Airborne_Montage.0"
+        },
+        "Knockback": {
+          "ObjectName": "AnimMontage'Airborne_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Ring_N/Airborne_Montage.0"
+        },
+        "Sleep": null,
+        "HitReactLeft": {
+          "ObjectName": "AnimMontage'AM_HitReact_Left_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/AM_HitReact_Left_Montage.0"
+        },
+        "HitReactRight": {
+          "ObjectName": "AnimMontage'AM_HitReact_Right_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/AM_HitReact_Right_Montage.0"
+        },
+        "HitReactForward": {
+          "ObjectName": "AnimMontage'AM_HitReact_Front_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/AM_HitReact_Front_Montage.0"
+        },
+        "HitReactBackward": {
+          "ObjectName": "AnimMontage'AM_HitReact_Back_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/AM_HitReact_Back_Montage.0"
+        },
+        "JumpPadActivation": null,
+        "DeathSequence": {
+          "ObjectName": "AnimSequence'Death_A_001'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/Death_A_001.0"
+        },
+        "Respawn": null
+      },
+      "74": {
+        "UnitState": "Default",
+        "HeroID": "2023",
+        "HeroSkinID": "2023001",
+        "Stun": {
+          "ObjectName": "AnimMontage'AM_Stun_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/AM_Stun_Montage.0"
+        },
+        "Airbone": {
+          "ObjectName": "AnimMontage'Airborne_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Thorn_N/Airborne_Montage.0"
+        },
+        "Knockback": {
+          "ObjectName": "AnimMontage'Airborne_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Thorn_N/Airborne_Montage.0"
+        },
+        "Sleep": null,
+        "HitReactLeft": {
+          "ObjectName": "AnimMontage'AM_HitReact_Right_A_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/AM_HitReact_Right_A_Montage.0"
+        },
+        "HitReactRight": {
+          "ObjectName": "AnimMontage'AM_HitReact_Right_A_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/AM_HitReact_Right_A_Montage.0"
+        },
+        "HitReactForward": {
+          "ObjectName": "AnimMontage'AM_HitReact_Front_A_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/AM_HitReact_Front_A_Montage.0"
+        },
+        "HitReactBackward": {
+          "ObjectName": "AnimMontage'AM_HitReact_Back_A_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/AM_HitReact_Back_A_Montage.0"
+        },
+        "JumpPadActivation": null,
+        "DeathSequence": {
+          "ObjectName": "AnimSequence'Death_Back_A_003'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/Death_Back_A_003.0"
+        },
+        "Respawn": null
+      },
+      "75": {
+        "UnitState": "Default",
+        "HeroID": "2024",
+        "HeroSkinID": "2024001",
+        "Stun": {
+          "ObjectName": "AnimMontage'AM_Stun_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/AM_Stun_Montage.0"
+        },
+        "Airbone": {
+          "ObjectName": "AnimMontage'Airborne_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Ring_L/Airborne_Montage.0"
+        },
+        "Knockback": {
+          "ObjectName": "AnimMontage'Airborne_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Ring_L/Airborne_Montage.0"
+        },
+        "Sleep": null,
+        "HitReactLeft": {
+          "ObjectName": "AnimMontage'AM_HitReact_Left_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/AM_HitReact_Left_Montage.0"
+        },
+        "HitReactRight": {
+          "ObjectName": "AnimMontage'AM_HitReact_Right_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/AM_HitReact_Right_Montage.0"
+        },
+        "HitReactForward": {
+          "ObjectName": "AnimMontage'AM_HitReact_Front_A_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/AM_HitReact_Front_A_Montage.0"
+        },
+        "HitReactBackward": {
+          "ObjectName": "AnimMontage'AM_HitReact_Back_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/AM_HitReact_Back_Montage.0"
+        },
+        "JumpPadActivation": null,
+        "DeathSequence": {
+          "ObjectName": "AnimSequence'Death_B_003'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/Death_B_003.0"
+        },
+        "Respawn": null
+      },
+      "76": {
+        "UnitState": "Default",
+        "HeroID": "2025",
+        "HeroSkinID": "2025001",
+        "Stun": {
+          "ObjectName": "AnimMontage'AM_Stun_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/AM_Stun_Montage.0"
+        },
+        "Airbone": {
+          "ObjectName": "AnimMontage'Airborne_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Thorn_L/Airborne_Montage.0"
+        },
+        "Knockback": {
+          "ObjectName": "AnimMontage'Airborne_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Thorn_L/Airborne_Montage.0"
+        },
+        "Sleep": null,
+        "HitReactLeft": {
+          "ObjectName": "AnimMontage'AM_Hit_React_Left_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/AM_Hit_React_Left_Montage.0"
+        },
+        "HitReactRight": {
+          "ObjectName": "AnimMontage'AM_Hit_React_Right_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/AM_Hit_React_Right_Montage.0"
+        },
+        "HitReactForward": {
+          "ObjectName": "AnimMontage'AM_Hit_React_Front_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/AM_Hit_React_Front_Montage.0"
+        },
+        "HitReactBackward": {
+          "ObjectName": "AnimMontage'AM_Hit_React_Back_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/AM_Hit_React_Back_Montage.0"
+        },
+        "JumpPadActivation": null,
+        "DeathSequence": {
+          "ObjectName": "AnimSequence'Death_Back'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/Death_Back.0"
+        },
+        "Respawn": null
+      },
+      "77": {
         "UnitState": "Default",
         "HeroID": "2101",
         "HeroSkinID": "2101001",
@@ -2586,7 +2946,7 @@
         "DeathSequence": null,
         "Respawn": null
       },
-      "69": {
+      "78": {
         "UnitState": "Default",
         "HeroID": "2102",
         "HeroSkinID": "2102001",
@@ -2602,7 +2962,7 @@
         "DeathSequence": null,
         "Respawn": null
       },
-      "70": {
+      "79": {
         "UnitState": "Default",
         "HeroID": "2103",
         "HeroSkinID": "2103001",
@@ -2618,7 +2978,7 @@
         "DeathSequence": null,
         "Respawn": null
       },
-      "71": {
+      "80": {
         "UnitState": "Default",
         "HeroID": "2104",
         "HeroSkinID": "2104001",
@@ -2634,7 +2994,7 @@
         "DeathSequence": null,
         "Respawn": null
       },
-      "72": {
+      "81": {
         "UnitState": "Default",
         "HeroID": "2105",
         "HeroSkinID": "2105001",
@@ -2650,7 +3010,7 @@
         "DeathSequence": null,
         "Respawn": null
       },
-      "73": {
+      "82": {
         "UnitState": "Default",
         "HeroID": "2112",
         "HeroSkinID": "2112001",
@@ -2666,7 +3026,7 @@
         "DeathSequence": null,
         "Respawn": null
       },
-      "74": {
+      "83": {
         "UnitState": "Default",
         "HeroID": "2113",
         "HeroSkinID": "2113001",
@@ -2682,7 +3042,7 @@
         "DeathSequence": null,
         "Respawn": null
       },
-      "75": {
+      "84": {
         "UnitState": "Default",
         "HeroID": "2114",
         "HeroSkinID": "2114001",
@@ -2698,7 +3058,7 @@
         "DeathSequence": null,
         "Respawn": null
       },
-      "76": {
+      "85": {
         "UnitState": "Default",
         "HeroID": "2106",
         "HeroSkinID": "2106001",
@@ -2714,7 +3074,7 @@
         "DeathSequence": null,
         "Respawn": null
       },
-      "77": {
+      "86": {
         "UnitState": "Default",
         "HeroID": "2107",
         "HeroSkinID": "2107001",
@@ -2730,7 +3090,7 @@
         "DeathSequence": null,
         "Respawn": null
       },
-      "78": {
+      "87": {
         "UnitState": "Default",
         "HeroID": "2108",
         "HeroSkinID": "2108001",
@@ -2746,7 +3106,7 @@
         "DeathSequence": null,
         "Respawn": null
       },
-      "79": {
+      "88": {
         "UnitState": "Default",
         "HeroID": "2109",
         "HeroSkinID": "2109001",
@@ -2762,7 +3122,7 @@
         "DeathSequence": null,
         "Respawn": null
       },
-      "80": {
+      "89": {
         "UnitState": "Default",
         "HeroID": "2110",
         "HeroSkinID": "2110001",
@@ -2778,7 +3138,7 @@
         "DeathSequence": null,
         "Respawn": null
       },
-      "81": {
+      "90": {
         "UnitState": "Default",
         "HeroID": "2117",
         "HeroSkinID": "2117001",
@@ -2794,7 +3154,7 @@
         "DeathSequence": null,
         "Respawn": null
       },
-      "82": {
+      "91": {
         "UnitState": "Default",
         "HeroID": "2118",
         "HeroSkinID": "2118001",
@@ -2810,7 +3170,7 @@
         "DeathSequence": null,
         "Respawn": null
       },
-      "83": {
+      "92": {
         "UnitState": "Default",
         "HeroID": "2119",
         "HeroSkinID": "2119001",
@@ -2826,7 +3186,7 @@
         "DeathSequence": null,
         "Respawn": null
       },
-      "84": {
+      "93": {
         "UnitState": "Default",
         "HeroID": "2103",
         "HeroSkinID": "2103001",
@@ -2842,7 +3202,7 @@
         "DeathSequence": null,
         "Respawn": null
       },
-      "85": {
+      "94": {
         "UnitState": "Default",
         "HeroID": "2104",
         "HeroSkinID": "2104001",
@@ -2858,7 +3218,7 @@
         "DeathSequence": null,
         "Respawn": null
       },
-      "86": {
+      "95": {
         "UnitState": "Default",
         "HeroID": "2105",
         "HeroSkinID": "2105001",
@@ -2874,7 +3234,7 @@
         "DeathSequence": null,
         "Respawn": null
       },
-      "87": {
+      "96": {
         "UnitState": "Default",
         "HeroID": "2150",
         "HeroSkinID": "2150001",
@@ -2890,7 +3250,7 @@
         "DeathSequence": null,
         "Respawn": null
       },
-      "88": {
+      "97": {
         "UnitState": "Default",
         "HeroID": "2151",
         "HeroSkinID": "2151001",
@@ -2906,7 +3266,7 @@
         "DeathSequence": null,
         "Respawn": null
       },
-      "89": {
+      "98": {
         "UnitState": "Default",
         "HeroID": "2201",
         "HeroSkinID": "2201001",
@@ -2928,7 +3288,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Prime/Prime_Guardian/Animations/Spawn_Montage.0"
         }
       },
-      "90": {
+      "99": {
         "UnitState": "Default",
         "HeroID": "2410",
         "HeroSkinID": "2410001",
@@ -2968,7 +3328,7 @@
         },
         "Respawn": null
       },
-      "91": {
+      "100": {
         "UnitState": "Default",
         "HeroID": "2411",
         "HeroSkinID": "2411001",
@@ -3008,7 +3368,7 @@
         },
         "Respawn": null
       },
-      "92": {
+      "101": {
         "UnitState": "Default",
         "HeroID": "2412",
         "HeroSkinID": "2412001",
@@ -3048,7 +3408,7 @@
         },
         "Respawn": null
       },
-      "93": {
+      "102": {
         "UnitState": "Default",
         "HeroID": "2413",
         "HeroSkinID": "2413001",
@@ -3088,7 +3448,7 @@
         },
         "Respawn": null
       },
-      "94": {
+      "103": {
         "UnitState": "Default",
         "HeroID": "2414",
         "HeroSkinID": "2414001",
@@ -3128,7 +3488,7 @@
         },
         "Respawn": null
       },
-      "95": {
+      "104": {
         "UnitState": "Default",
         "HeroID": "2415",
         "HeroSkinID": "2415001",
@@ -3168,7 +3528,7 @@
         },
         "Respawn": null
       },
-      "96": {
+      "105": {
         "UnitState": "Default",
         "HeroID": "2416",
         "HeroSkinID": "2416001",
@@ -3208,7 +3568,7 @@
         },
         "Respawn": null
       },
-      "97": {
+      "106": {
         "UnitState": "Default",
         "HeroID": "2417",
         "HeroSkinID": "2417001",
@@ -3248,7 +3608,7 @@
         },
         "Respawn": null
       },
-      "98": {
+      "107": {
         "UnitState": "Default",
         "HeroID": "2500",
         "HeroSkinID": "2500001",
@@ -3279,7 +3639,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Assassin_L/Spawn_Montage.0"
         }
       },
-      "99": {
+      "108": {
         "UnitState": "Default",
         "HeroID": "2501",
         "HeroSkinID": "2501001",
@@ -3310,7 +3670,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Assassin_L/Spawn_Montage.0"
         }
       },
-      "100": {
+      "109": {
         "UnitState": "Default",
         "HeroID": "2502",
         "HeroSkinID": "2502001",
@@ -3341,7 +3701,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Assassin_L/Spawn_Montage.0"
         }
       },
-      "101": {
+      "110": {
         "UnitState": "Default",
         "HeroID": "2503",
         "HeroSkinID": "2503001",
@@ -3372,7 +3732,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Frozen_L/Spawn_Montage.0"
         }
       },
-      "102": {
+      "111": {
         "UnitState": "Default",
         "HeroID": "2504",
         "HeroSkinID": "2504001",
@@ -3403,7 +3763,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Frozen_L/Spawn_Montage.0"
         }
       },
-      "103": {
+      "112": {
         "UnitState": "Default",
         "HeroID": "2505",
         "HeroSkinID": "2505001",
@@ -3434,7 +3794,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Frozen_L/Spawn_Montage.0"
         }
       },
-      "104": {
+      "113": {
         "UnitState": "Default",
         "HeroID": "2506",
         "HeroSkinID": "2506001",
@@ -3465,7 +3825,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Frozen_L/Spawn_Montage.0"
         }
       },
-      "105": {
+      "114": {
         "UnitState": "Default",
         "HeroID": "2507",
         "HeroSkinID": "2507001",
@@ -3496,7 +3856,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Frozen_L/Spawn_Montage.0"
         }
       },
-      "106": {
+      "115": {
         "UnitState": "Default",
         "HeroID": "2508",
         "HeroSkinID": "2508001",
@@ -3527,7 +3887,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Frozen_L/Spawn_Montage.0"
         }
       },
-      "107": {
+      "116": {
         "UnitState": "Default",
         "HeroID": "2509",
         "HeroSkinID": "2509001",
@@ -3558,7 +3918,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Ring_L/Spawn_Montage.0"
         }
       },
-      "108": {
+      "117": {
         "UnitState": "Default",
         "HeroID": "2510",
         "HeroSkinID": "2510001",
@@ -3589,7 +3949,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Ring_L/Spawn_Montage.0"
         }
       },
-      "109": {
+      "118": {
         "UnitState": "Default",
         "HeroID": "2511",
         "HeroSkinID": "2511001",
@@ -3620,7 +3980,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Ring_L/Spawn_Montage.0"
         }
       },
-      "110": {
+      "119": {
         "UnitState": "Default",
         "HeroID": "2512",
         "HeroSkinID": "2512001",
@@ -3651,7 +4011,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Ring_N/Spawn_Montage.0"
         }
       },
-      "111": {
+      "120": {
         "UnitState": "Default",
         "HeroID": "2513",
         "HeroSkinID": "2513001",
@@ -3682,7 +4042,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Ring_N/Spawn_Montage.0"
         }
       },
-      "112": {
+      "121": {
         "UnitState": "Default",
         "HeroID": "2514",
         "HeroSkinID": "2514001",
@@ -3713,7 +4073,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Ring_N/Spawn_Montage.0"
         }
       },
-      "113": {
+      "122": {
         "UnitState": "Default",
         "HeroID": "2515",
         "HeroSkinID": "2515001",
@@ -3744,7 +4104,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Thorn_L/Spawn_Montage.0"
         }
       },
-      "114": {
+      "123": {
         "UnitState": "Default",
         "HeroID": "2516",
         "HeroSkinID": "2516001",
@@ -3775,7 +4135,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Thorn_L/Spawn_Montage.0"
         }
       },
-      "115": {
+      "124": {
         "UnitState": "Default",
         "HeroID": "2517",
         "HeroSkinID": "2517001",
@@ -3806,7 +4166,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Thorn_L/Spawn_Montage.0"
         }
       },
-      "116": {
+      "125": {
         "UnitState": "Default",
         "HeroID": "2518",
         "HeroSkinID": "2518001",
@@ -3837,7 +4197,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Thorn_N/Spawn_Montage.0"
         }
       },
-      "117": {
+      "126": {
         "UnitState": "Default",
         "HeroID": "2519",
         "HeroSkinID": "2519001",
@@ -3868,7 +4228,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Thorn_N/Spawn_Montage.0"
         }
       },
-      "118": {
+      "127": {
         "UnitState": "Default",
         "HeroID": "2520",
         "HeroSkinID": "2520001",
@@ -3899,7 +4259,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Thorn_N/Spawn_Montage.0"
         }
       },
-      "119": {
+      "128": {
         "UnitState": "Default",
         "HeroID": "2521",
         "HeroSkinID": "2521001",
@@ -3930,7 +4290,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Foresee_L/Spawn_Montage.0"
         }
       },
-      "120": {
+      "129": {
         "UnitState": "Default",
         "HeroID": "2522",
         "HeroSkinID": "2522001",
@@ -3961,7 +4321,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Foresee_L/Spawn_Montage.0"
         }
       },
-      "121": {
+      "130": {
         "UnitState": "Default",
         "HeroID": "2523",
         "HeroSkinID": "2523001",
@@ -3992,7 +4352,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Foresee_L/Spawn_Montage.0"
         }
       },
-      "122": {
+      "131": {
         "UnitState": "Default",
         "HeroID": "2524",
         "HeroSkinID": "2524001",
@@ -4023,7 +4383,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/EternalLife_L/Spawn_Montage.0"
         }
       },
-      "123": {
+      "132": {
         "UnitState": "Default",
         "HeroID": "2525",
         "HeroSkinID": "2525001",
@@ -4054,7 +4414,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/EternalLife_L/Spawn_Montage.0"
         }
       },
-      "124": {
+      "133": {
         "UnitState": "Default",
         "HeroID": "2526",
         "HeroSkinID": "2526001",
@@ -4085,7 +4445,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/EternalLife_L/Spawn_Montage.0"
         }
       },
-      "125": {
+      "134": {
         "UnitState": "Default",
         "HeroID": "2527",
         "HeroSkinID": "2527001",
@@ -4116,7 +4476,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/EternalLife_L/Spawn_Montage.0"
         }
       },
-      "126": {
+      "135": {
         "UnitState": "Default",
         "HeroID": "2528",
         "HeroSkinID": "2528001",
@@ -4147,7 +4507,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/EternalLife_L/Spawn_Montage.0"
         }
       },
-      "127": {
+      "136": {
         "UnitState": "Default",
         "HeroID": "2529",
         "HeroSkinID": "2529001",
@@ -4178,7 +4538,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/EternalLife_L/Spawn_Montage.0"
         }
       },
-      "128": {
+      "137": {
         "UnitState": "Default",
         "HeroID": "2530",
         "HeroSkinID": "2530001",
@@ -4209,7 +4569,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Earthquake_L/Spawn_Montage.0"
         }
       },
-      "129": {
+      "138": {
         "UnitState": "Default",
         "HeroID": "2531",
         "HeroSkinID": "2531001",
@@ -4240,7 +4600,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Earthquake_L/Spawn_Montage.0"
         }
       },
-      "130": {
+      "139": {
         "UnitState": "Default",
         "HeroID": "2532",
         "HeroSkinID": "2532001",
@@ -4271,7 +4631,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Earthquake_L/Spawn_Montage.0"
         }
       },
-      "131": {
+      "140": {
         "UnitState": "Default",
         "HeroID": "2533",
         "HeroSkinID": "2533001",
@@ -4302,7 +4662,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Earthquake_N/Spawn_Montage.0"
         }
       },
-      "132": {
+      "141": {
         "UnitState": "Default",
         "HeroID": "2534",
         "HeroSkinID": "2534001",
@@ -4333,7 +4693,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Earthquake_N/Spawn_Montage.0"
         }
       },
-      "133": {
+      "142": {
         "UnitState": "Default",
         "HeroID": "2535",
         "HeroSkinID": "2535001",
@@ -4364,7 +4724,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Earthquake_N/Spawn_Montage.0"
         }
       },
-      "134": {
+      "143": {
         "UnitState": "Default",
         "HeroID": "2536",
         "HeroSkinID": "2536001",
@@ -4395,7 +4755,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Abyss_L/Spawn_Montage.0"
         }
       },
-      "135": {
+      "144": {
         "UnitState": "Default",
         "HeroID": "2537",
         "HeroSkinID": "2537001",
@@ -4426,7 +4786,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Abyss_L/Spawn_Montage.0"
         }
       },
-      "136": {
+      "145": {
         "UnitState": "Default",
         "HeroID": "2538",
         "HeroSkinID": "2538001",
@@ -4457,7 +4817,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Abyss_L/Spawn_Montage.0"
         }
       },
-      "137": {
+      "146": {
         "UnitState": "Default",
         "HeroID": "2539",
         "HeroSkinID": "2539001",
@@ -4488,7 +4848,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Abyss_N/Spawn_Montage.0"
         }
       },
-      "138": {
+      "147": {
         "UnitState": "Default",
         "HeroID": "2540",
         "HeroSkinID": "2540001",
@@ -4519,7 +4879,7 @@
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Abyss_N/Spawn_Montage.0"
         }
       },
-      "139": {
+      "148": {
         "UnitState": "Default",
         "HeroID": "2541",
         "HeroSkinID": "2541001",

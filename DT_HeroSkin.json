@@ -621,7 +621,7 @@
         "UnitType": "EActorMainType::EAMT_Hero",
         "EditorOnly": false,
         "SkinGrade": "ESkinGrade::Legendary",
-        "SkinName": "CHAR.Skin_Murdock_0301",
+        "SkinName": "CHAR.Skin_Murdock_0501",
         "SkinDescription": "None",
         "SkinIcon": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Murdock_Portrait.Hero_Icon_Murdock_Portrait'",
         "HeroBP": "Hero_Murdock_0301",
@@ -858,6 +858,127 @@
         ]
       },
       "8": {
+        "SkinID": "1001011",
+        "HeroGroupID": "1001",
+        "UnitType": "EActorMainType::EAMT_Hero",
+        "EditorOnly": false,
+        "SkinGrade": "ESkinGrade::Rare",
+        "SkinName": "CHAR.Skin_Murdock_0202",
+        "SkinDescription": "None",
+        "SkinIcon": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Murdock_Portrait.Hero_Icon_Murdock_Portrait'",
+        "HeroBP": "Hero_Murdock_0202",
+        "AssetReference": {
+          "AssetPathName": "/Game/InGame/Heroes/Hero_Murdock_0202.Hero_Murdock_0202_C",
+          "SubPathString": ""
+        },
+        "SkinKillStreak": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Mudock/1001011/TexT_Hero_Image_Portrait_Alpha_128.TexT_Hero_Image_Portrait_Alpha_128",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemy": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Mudock/1001011/TexT_Hero_Image_Portrait_Alpha_128.TexT_Hero_Image_Portrait_Alpha_128",
+          "SubPathString": ""
+        },
+        "AvartarPortrait": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Mudock/1001011/TexT_Hero_Image_Party_1000.TexT_Hero_Image_Party_1000",
+          "SubPathString": ""
+        },
+        "DraftBanpick": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Banpick/Hero_Icon_Banpick_Murdock.Hero_Icon_Banpick_Murdock",
+          "SubPathString": ""
+        },
+        "PortraitDraft": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Mudock/1001011/T_Hero_Image_Draft_128.T_Hero_Image_Draft_128",
+          "SubPathString": ""
+        },
+        "PortraitDraftHeroSlot": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Mudock/1001001/T_Hero_Image_Draft_Icon_128.T_Hero_Image_Draft_Icon_128",
+          "SubPathString": ""
+        },
+        "PortraitLarge": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Murdock_Portrait.Hero_Icon_Murdock_Portrait",
+          "SubPathString": ""
+        },
+        "Normal_Skin_210x210": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Mudock/1001011/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210",
+          "SubPathString": ""
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Mudock/1001011/TexT_Hero_Image_Collection_292.TexT_Hero_Image_Collection_292",
+          "SubPathString": ""
+        },
+        "ResultWindow_150x80": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Mudock/1001011/TexT_Hero_Image_Scoreboard_80.TexT_Hero_Image_Scoreboard_80",
+          "SubPathString": ""
+        },
+        "Max_Play_ScoreBoard_220x80": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Mudock/1001011/TexT_Hero_Image_Scoreboard_80.TexT_Hero_Image_Scoreboard_80",
+          "SubPathString": ""
+        },
+        "Max_Play_323x484": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Mudock/1001011/TexT_Hero_Image_Profile_484.TexT_Hero_Image_Profile_484",
+          "SubPathString": ""
+        },
+        "Shop_450x500": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Mudock/1001011/TexT_Hero_Image_Shop_500.TexT_Hero_Image_Shop_500",
+          "SubPathString": ""
+        },
+        "PurchasePopup_1100x480": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Mudock/1001011/TexT_Hero_Image_Purchase_480.TexT_Hero_Image_Purchase_480",
+          "SubPathString": ""
+        },
+        "Shop_Featured_812x1010": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Mudock/1001011/TexT_Hero_Image_Shop_1010.TexT_Hero_Image_Shop_1010",
+          "SubPathString": ""
+        },
+        "ResultWindow_1860_868": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Mudock/1001011/TexT_Hero_Image_Result_868.TexT_Hero_Image_Result_868",
+          "SubPathString": ""
+        },
+        "Featured_Heroes_550x876": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Mudock/1001011/TexT_Hero_Image_Result_Recommend_876.TexT_Hero_Image_Result_Recommend_876",
+          "SubPathString": ""
+        },
+        "SkinKillStreakAlpha": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Mudock/1001001/TexT_Hero_Image_Portrait_Alpha_128.TexT_Hero_Image_Portrait_Alpha_128",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemyAlpha": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Mudock/1001001/TexT_Hero_Image_Portrait_Alpha_128.TexT_Hero_Image_Portrait_Alpha_128",
+          "SubPathString": ""
+        },
+        "PortraitLargeAlpha": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Mudock/1001011/TexT_Hero_Image_Portrait_Alpha_256.TexT_Hero_Image_Portrait_Alpha_256",
+          "SubPathString": ""
+        },
+        "PingLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Ping/T_Hero_Image_Ping_Mudock.T_Hero_Image_Ping_Mudock",
+          "SubPathString": ""
+        },
+        "IndicatorCoordinate": [
+          "0.9",
+          "0.9",
+          "0.4",
+          "0.4"
+        ],
+        "IndicatorCoordinateAdd": [
+          "1",
+          "1",
+          "0.1",
+          "0.2"
+        ],
+        "IndicatorCoordinateDot": [
+          "0.1",
+          "1",
+          "0.6",
+          "0.6"
+        ],
+        "IndicatorCoordinateGold": [
+          "0",
+          "1"
+        ]
+      },
+      "9": {
         "SkinID": "1002001",
         "HeroGroupID": "1002",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -978,7 +1099,7 @@
           "1"
         ]
       },
-      "9": {
+      "10": {
         "SkinID": "1002002",
         "HeroGroupID": "1002",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -1099,7 +1220,7 @@
           "1"
         ]
       },
-      "10": {
+      "11": {
         "SkinID": "1002003",
         "HeroGroupID": "1002",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -1220,7 +1341,7 @@
           "1"
         ]
       },
-      "11": {
+      "12": {
         "SkinID": "1002005",
         "HeroGroupID": "1002",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -1341,7 +1462,7 @@
           "1"
         ]
       },
-      "12": {
+      "13": {
         "SkinID": "1002004",
         "HeroGroupID": "1002",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -1462,13 +1583,13 @@
           "1"
         ]
       },
-      "13": {
+      "14": {
         "SkinID": "1002006",
         "HeroGroupID": "1002",
         "UnitType": "EActorMainType::EAMT_Hero",
         "EditorOnly": false,
         "SkinGrade": "ESkinGrade::Legendary",
-        "SkinName": "CHAR.Skin_Twinblast_0301",
+        "SkinName": "CHAR.Skin_Twinblast_0501",
         "SkinDescription": "None",
         "SkinIcon": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Twin_Portrait.Hero_Icon_Twin_Portrait'",
         "HeroBP": "Hero_Twinblast_0301",
@@ -1583,7 +1704,7 @@
           "1"
         ]
       },
-      "14": {
+      "15": {
         "SkinID": "1002008",
         "HeroGroupID": "1002",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -1704,7 +1825,7 @@
           "1"
         ]
       },
-      "15": {
+      "16": {
         "SkinID": "1002011",
         "HeroGroupID": "1002",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -1825,7 +1946,7 @@
           "1"
         ]
       },
-      "16": {
+      "17": {
         "SkinID": "1003001",
         "HeroGroupID": "1003",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -1946,7 +2067,7 @@
           "1"
         ]
       },
-      "17": {
+      "18": {
         "SkinID": "1003002",
         "HeroGroupID": "1003",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -2067,7 +2188,7 @@
           "1"
         ]
       },
-      "18": {
+      "19": {
         "SkinID": "1003003",
         "HeroGroupID": "1003",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -2188,7 +2309,7 @@
           "1"
         ]
       },
-      "19": {
+      "20": {
         "SkinID": "1003005",
         "HeroGroupID": "1003",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -2309,7 +2430,7 @@
           "1"
         ]
       },
-      "20": {
+      "21": {
         "SkinID": "1003004",
         "HeroGroupID": "1003",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -2430,7 +2551,7 @@
           "1"
         ]
       },
-      "21": {
+      "22": {
         "SkinID": "1003007",
         "HeroGroupID": "1003",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -2551,7 +2672,7 @@
           "1"
         ]
       },
-      "22": {
+      "23": {
         "SkinID": "1003011",
         "HeroGroupID": "1003",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -2672,7 +2793,7 @@
           "1"
         ]
       },
-      "23": {
+      "24": {
         "SkinID": "1003006",
         "HeroGroupID": "1003",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -2793,7 +2914,7 @@
           "1"
         ]
       },
-      "24": {
+      "25": {
         "SkinID": "1004001",
         "HeroGroupID": "1004",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -2914,7 +3035,7 @@
           "1.1"
         ]
       },
-      "25": {
+      "26": {
         "SkinID": "1004002",
         "HeroGroupID": "1004",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -3035,7 +3156,7 @@
           "1.1"
         ]
       },
-      "26": {
+      "27": {
         "SkinID": "1004003",
         "HeroGroupID": "1004",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -3156,7 +3277,7 @@
           "1.1"
         ]
       },
-      "27": {
+      "28": {
         "SkinID": "1004005",
         "HeroGroupID": "1004",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -3277,7 +3398,7 @@
           "1.1"
         ]
       },
-      "28": {
+      "29": {
         "SkinID": "1004004",
         "HeroGroupID": "1004",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -3398,7 +3519,7 @@
           "1.1"
         ]
       },
-      "29": {
+      "30": {
         "SkinID": "1004006",
         "HeroGroupID": "1004",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -3519,13 +3640,13 @@
           "1.1"
         ]
       },
-      "30": {
+      "31": {
         "SkinID": "1004008",
         "HeroGroupID": "1004",
         "UnitType": "EActorMainType::EAMT_Hero",
         "EditorOnly": false,
         "SkinGrade": "ESkinGrade::Legendary",
-        "SkinName": "CHAR.Skin_Rampage_0303",
+        "SkinName": "CHAR.Skin_Rampage_0501",
         "SkinDescription": "None",
         "SkinIcon": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Rampage_Portrait.Hero_Icon_Rampage_Portrait'",
         "HeroBP": "Hero_Rampage_0303",
@@ -3640,7 +3761,7 @@
           "1.1"
         ]
       },
-      "31": {
+      "32": {
         "SkinID": "1005001",
         "HeroGroupID": "1005",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -3761,7 +3882,7 @@
           "1"
         ]
       },
-      "32": {
+      "33": {
         "SkinID": "1005002",
         "HeroGroupID": "1005",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -3882,7 +4003,7 @@
           "1"
         ]
       },
-      "33": {
+      "34": {
         "SkinID": "1005003",
         "HeroGroupID": "1005",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -4003,7 +4124,7 @@
           "1"
         ]
       },
-      "34": {
+      "35": {
         "SkinID": "1005005",
         "HeroGroupID": "1005",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -4124,7 +4245,7 @@
           "1"
         ]
       },
-      "35": {
+      "36": {
         "SkinID": "1005011",
         "HeroGroupID": "1005",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -4245,7 +4366,7 @@
           "1"
         ]
       },
-      "36": {
+      "37": {
         "SkinID": "1005004",
         "HeroGroupID": "1005",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -4366,13 +4487,13 @@
           "1"
         ]
       },
-      "37": {
+      "38": {
         "SkinID": "1005006",
         "HeroGroupID": "1005",
         "UnitType": "EActorMainType::EAMT_Hero",
         "EditorOnly": false,
         "SkinGrade": "ESkinGrade::Legendary",
-        "SkinName": "CHAR.Skin_Kallari_0301",
+        "SkinName": "CHAR.Skin_Kallari_0501",
         "SkinDescription": "None",
         "SkinIcon": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Kallari_Portrait.Hero_Icon_Kallari_Portrait'",
         "HeroBP": "Hero_Kallari_0301",
@@ -4487,7 +4608,7 @@
           "1"
         ]
       },
-      "38": {
+      "39": {
         "SkinID": "1006001",
         "HeroGroupID": "1006",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -4608,7 +4729,7 @@
           "1.2"
         ]
       },
-      "39": {
+      "40": {
         "SkinID": "1006002",
         "HeroGroupID": "1006",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -4729,7 +4850,7 @@
           "1.2"
         ]
       },
-      "40": {
+      "41": {
         "SkinID": "1006003",
         "HeroGroupID": "1006",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -4850,7 +4971,7 @@
           "1.2"
         ]
       },
-      "41": {
+      "42": {
         "SkinID": "1006005",
         "HeroGroupID": "1006",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -4971,7 +5092,7 @@
           "1.2"
         ]
       },
-      "42": {
+      "43": {
         "SkinID": "1006004",
         "HeroGroupID": "1006",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -5092,13 +5213,13 @@
           "1.2"
         ]
       },
-      "43": {
+      "44": {
         "SkinID": "1006006",
         "HeroGroupID": "1006",
         "UnitType": "EActorMainType::EAMT_Hero",
         "EditorOnly": false,
         "SkinGrade": "ESkinGrade::Legendary",
-        "SkinName": "CHAR.Skin_Grux_0301",
+        "SkinName": "CHAR.Skin_Grux_0501",
         "SkinDescription": "None",
         "SkinIcon": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Grux_Portrait.Hero_Icon_Grux_Portrait'",
         "HeroBP": "Hero_Grux_0301",
@@ -5213,7 +5334,128 @@
           "1.2"
         ]
       },
-      "44": {
+      "45": {
+        "SkinID": "1006011",
+        "HeroGroupID": "1006",
+        "UnitType": "EActorMainType::EAMT_Hero",
+        "EditorOnly": false,
+        "SkinGrade": "ESkinGrade::Rare",
+        "SkinName": "CHAR.Skin_Grux_0202",
+        "SkinDescription": "None",
+        "SkinIcon": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Grux_Portrait.Hero_Icon_Grux_Portrait'",
+        "HeroBP": "Hero_Grux_0202",
+        "AssetReference": {
+          "AssetPathName": "/Game/InGame/Heroes/Hero_Grux_0202.Hero_Grux_0202_C",
+          "SubPathString": ""
+        },
+        "SkinKillStreak": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Grux/1006011/TexT_Hero_Image_Portrait_Alpha_128.TexT_Hero_Image_Portrait_Alpha_128",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemy": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Grux/1006011/TexT_Hero_Image_Portrait_Alpha_128.TexT_Hero_Image_Portrait_Alpha_128",
+          "SubPathString": ""
+        },
+        "AvartarPortrait": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Grux/1006011/TexT_Hero_Image_Party_1000.TexT_Hero_Image_Party_1000",
+          "SubPathString": ""
+        },
+        "DraftBanpick": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Banpick/Hero_Icon_Banpick_Grux.Hero_Icon_Banpick_Grux",
+          "SubPathString": ""
+        },
+        "PortraitDraft": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Grux/1006011/T_Hero_Image_Draft_128.T_Hero_Image_Draft_128",
+          "SubPathString": ""
+        },
+        "PortraitDraftHeroSlot": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Grux/1006001/T_Hero_Image_Draft_Icon_128.T_Hero_Image_Draft_Icon_128",
+          "SubPathString": ""
+        },
+        "PortraitLarge": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Grux_Portrait.Hero_Icon_Grux_Portrait",
+          "SubPathString": ""
+        },
+        "Normal_Skin_210x210": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Grux/1006011/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210",
+          "SubPathString": ""
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Grux/1006011/TexT_Hero_Image_Collection_292.TexT_Hero_Image_Collection_292",
+          "SubPathString": ""
+        },
+        "ResultWindow_150x80": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Grux/1006011/TexT_Hero_Image_Scoreboard_80.TexT_Hero_Image_Scoreboard_80",
+          "SubPathString": ""
+        },
+        "Max_Play_ScoreBoard_220x80": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Grux/1006011/TexT_Hero_Image_Scoreboard_80.TexT_Hero_Image_Scoreboard_80",
+          "SubPathString": ""
+        },
+        "Max_Play_323x484": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Grux/1006011/TexT_Hero_Image_Profile_484.TexT_Hero_Image_Profile_484",
+          "SubPathString": ""
+        },
+        "Shop_450x500": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Grux/1006011/TexT_Hero_Image_Shop_500.TexT_Hero_Image_Shop_500",
+          "SubPathString": ""
+        },
+        "PurchasePopup_1100x480": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Grux/1006011/TexT_Hero_Image_Purchase_480.TexT_Hero_Image_Purchase_480",
+          "SubPathString": ""
+        },
+        "Shop_Featured_812x1010": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Grux/1006011/TexT_Hero_Image_Shop_1010.TexT_Hero_Image_Shop_1010",
+          "SubPathString": ""
+        },
+        "ResultWindow_1860_868": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Grux/1006011/TexT_Hero_Image_Result_868.TexT_Hero_Image_Result_868",
+          "SubPathString": ""
+        },
+        "Featured_Heroes_550x876": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Grux/1006011/TexT_Hero_Image_Result_Recommend_876.TexT_Hero_Image_Result_Recommend_876",
+          "SubPathString": ""
+        },
+        "SkinKillStreakAlpha": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Grux/1006001/TexT_Hero_Image_Portrait_Alpha_128.TexT_Hero_Image_Portrait_Alpha_128",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemyAlpha": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Grux/1006001/TexT_Hero_Image_Portrait_Alpha_128.TexT_Hero_Image_Portrait_Alpha_128",
+          "SubPathString": ""
+        },
+        "PortraitLargeAlpha": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Grux/1006011/TexT_Hero_Image_Portrait_Alpha_256.TexT_Hero_Image_Portrait_Alpha_256",
+          "SubPathString": ""
+        },
+        "PingLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Ping/T_Hero_Image_Ping_Grux.T_Hero_Image_Ping_Grux",
+          "SubPathString": ""
+        },
+        "IndicatorCoordinate": [
+          "0.9",
+          "0.9",
+          "0.7",
+          "0.7"
+        ],
+        "IndicatorCoordinateAdd": [
+          "0.9",
+          "0.9",
+          "0.5",
+          "0.5"
+        ],
+        "IndicatorCoordinateDot": [
+          "0.1",
+          "1",
+          "0.6",
+          "0.6"
+        ],
+        "IndicatorCoordinateGold": [
+          "0",
+          "1.2"
+        ]
+      },
+      "46": {
         "SkinID": "1007001",
         "HeroGroupID": "1007",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -5334,7 +5576,7 @@
           "1.1"
         ]
       },
-      "45": {
+      "47": {
         "SkinID": "1007002",
         "HeroGroupID": "1007",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -5455,7 +5697,7 @@
           "1.1"
         ]
       },
-      "46": {
+      "48": {
         "SkinID": "1007003",
         "HeroGroupID": "1007",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -5576,11 +5818,11 @@
           "1.1"
         ]
       },
-      "47": {
+      "49": {
         "SkinID": "1007005",
         "HeroGroupID": "1007",
         "UnitType": "EActorMainType::EAMT_Hero",
-        "EditorOnly": true,
+        "EditorOnly": false,
         "SkinGrade": "ESkinGrade::Rare",
         "SkinName": "CHAR.Skin_Steel_0201",
         "SkinDescription": "None",
@@ -5697,7 +5939,7 @@
           "1.1"
         ]
       },
-      "48": {
+      "50": {
         "SkinID": "1007004",
         "HeroGroupID": "1007",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -5818,13 +6060,13 @@
           "1.1"
         ]
       },
-      "49": {
+      "51": {
         "SkinID": "1007006",
         "HeroGroupID": "1007",
         "UnitType": "EActorMainType::EAMT_Hero",
         "EditorOnly": false,
         "SkinGrade": "ESkinGrade::Legendary",
-        "SkinName": "CHAR.Skin_Steel_0301",
+        "SkinName": "CHAR.Skin_Steel_0501",
         "SkinDescription": "None",
         "SkinIcon": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Still_Portrait.Hero_Icon_Still_Portrait'",
         "HeroBP": "Hero_Steel_0301",
@@ -5939,7 +6181,7 @@
           "1.1"
         ]
       },
-      "50": {
+      "52": {
         "SkinID": "1008001",
         "HeroGroupID": "1008",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -6050,7 +6292,7 @@
           "1"
         ]
       },
-      "51": {
+      "53": {
         "SkinID": "1009001",
         "HeroGroupID": "1009",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -6171,7 +6413,7 @@
           "1"
         ]
       },
-      "52": {
+      "54": {
         "SkinID": "1009002",
         "HeroGroupID": "1009",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -6292,7 +6534,7 @@
           "1"
         ]
       },
-      "53": {
+      "55": {
         "SkinID": "1009003",
         "HeroGroupID": "1009",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -6413,7 +6655,7 @@
           "1"
         ]
       },
-      "54": {
+      "56": {
         "SkinID": "1009005",
         "HeroGroupID": "1009",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -6534,7 +6776,7 @@
           "1"
         ]
       },
-      "55": {
+      "57": {
         "SkinID": "1009004",
         "HeroGroupID": "1009",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -6655,7 +6897,7 @@
           "1"
         ]
       },
-      "56": {
+      "58": {
         "SkinID": "1009006",
         "HeroGroupID": "1009",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -6776,7 +7018,7 @@
           "1"
         ]
       },
-      "57": {
+      "59": {
         "SkinID": "1009007",
         "HeroGroupID": "1009",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -6897,7 +7139,7 @@
           "1"
         ]
       },
-      "58": {
+      "60": {
         "SkinID": "1009011",
         "HeroGroupID": "1009",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -7018,7 +7260,7 @@
           "1"
         ]
       },
-      "59": {
+      "61": {
         "SkinID": "1010001",
         "HeroGroupID": "1010",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -7139,7 +7381,7 @@
           "1.1"
         ]
       },
-      "60": {
+      "62": {
         "SkinID": "1010002",
         "HeroGroupID": "1010",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -7260,7 +7502,7 @@
           "1.1"
         ]
       },
-      "61": {
+      "63": {
         "SkinID": "1010003",
         "HeroGroupID": "1010",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -7381,7 +7623,7 @@
           "1.1"
         ]
       },
-      "62": {
+      "64": {
         "SkinID": "1010005",
         "HeroGroupID": "1010",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -7502,7 +7744,7 @@
           "1.1"
         ]
       },
-      "63": {
+      "65": {
         "SkinID": "1010004",
         "HeroGroupID": "1010",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -7623,7 +7865,7 @@
           "1.1"
         ]
       },
-      "64": {
+      "66": {
         "SkinID": "1010006",
         "HeroGroupID": "1010",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -7744,7 +7986,7 @@
           "1.1"
         ]
       },
-      "65": {
+      "67": {
         "SkinID": "1011001",
         "HeroGroupID": "1011",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -7865,7 +8107,7 @@
           "1"
         ]
       },
-      "66": {
+      "68": {
         "SkinID": "1011002",
         "HeroGroupID": "1011",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -7986,7 +8228,7 @@
           "1"
         ]
       },
-      "67": {
+      "69": {
         "SkinID": "1011003",
         "HeroGroupID": "1011",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -8107,7 +8349,7 @@
           "1"
         ]
       },
-      "68": {
+      "70": {
         "SkinID": "1011005",
         "HeroGroupID": "1011",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -8228,7 +8470,7 @@
           "1"
         ]
       },
-      "69": {
+      "71": {
         "SkinID": "1011004",
         "HeroGroupID": "1011",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -8349,7 +8591,7 @@
           "1"
         ]
       },
-      "70": {
+      "72": {
         "SkinID": "1011006",
         "HeroGroupID": "1011",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -8470,13 +8712,13 @@
           "1"
         ]
       },
-      "71": {
+      "73": {
         "SkinID": "1011007",
         "HeroGroupID": "1011",
         "UnitType": "EActorMainType::EAMT_Hero",
         "EditorOnly": false,
         "SkinGrade": "ESkinGrade::Legendary",
-        "SkinName": "CHAR.Skin_Kwang_0302",
+        "SkinName": "CHAR.Skin_Kwang_0501",
         "SkinDescription": "None",
         "SkinIcon": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Kwang_Portrait.Hero_Icon_Kwang_Portrait'",
         "HeroBP": "Hero_Kwang_0302",
@@ -8591,7 +8833,7 @@
           "1"
         ]
       },
-      "72": {
+      "74": {
         "SkinID": "1012001",
         "HeroGroupID": "1012",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -8712,7 +8954,7 @@
           "1.1"
         ]
       },
-      "73": {
+      "75": {
         "SkinID": "1012002",
         "HeroGroupID": "1012",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -8833,7 +9075,7 @@
           "1.1"
         ]
       },
-      "74": {
+      "76": {
         "SkinID": "1012003",
         "HeroGroupID": "1012",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -8954,7 +9196,7 @@
           "1.1"
         ]
       },
-      "75": {
+      "77": {
         "SkinID": "1012005",
         "HeroGroupID": "1012",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -9075,7 +9317,7 @@
           "1.1"
         ]
       },
-      "76": {
+      "78": {
         "SkinID": "1012004",
         "HeroGroupID": "1012",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -9196,13 +9438,13 @@
           "1.1"
         ]
       },
-      "77": {
+      "79": {
         "SkinID": "1012006",
         "HeroGroupID": "1012",
         "UnitType": "EActorMainType::EAMT_Hero",
         "EditorOnly": false,
         "SkinGrade": "ESkinGrade::Legendary",
-        "SkinName": "CHAR.Skin_Gideon_0301",
+        "SkinName": "CHAR.Skin_Gideon_0501",
         "SkinDescription": "None",
         "SkinIcon": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Gideon_Portrait.Hero_Icon_Gideon_Portrait'",
         "HeroBP": "Hero_Gideon_0301",
@@ -9317,7 +9559,7 @@
           "1.1"
         ]
       },
-      "78": {
+      "80": {
         "SkinID": "1013001",
         "HeroGroupID": "1013",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -9438,7 +9680,7 @@
           "1.1"
         ]
       },
-      "79": {
+      "81": {
         "SkinID": "1013002",
         "HeroGroupID": "1013",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -9559,7 +9801,7 @@
           "1.1"
         ]
       },
-      "80": {
+      "82": {
         "SkinID": "1013003",
         "HeroGroupID": "1013",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -9680,7 +9922,7 @@
           "1.1"
         ]
       },
-      "81": {
+      "83": {
         "SkinID": "1013005",
         "HeroGroupID": "1013",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -9801,7 +10043,7 @@
           "1.1"
         ]
       },
-      "82": {
+      "84": {
         "SkinID": "1013004",
         "HeroGroupID": "1013",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -9922,7 +10164,7 @@
           "1.1"
         ]
       },
-      "83": {
+      "85": {
         "SkinID": "1013006",
         "HeroGroupID": "1013",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -10043,7 +10285,7 @@
           "1.1"
         ]
       },
-      "84": {
+      "86": {
         "SkinID": "1013007",
         "HeroGroupID": "1013",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -10164,7 +10406,7 @@
           "1.1"
         ]
       },
-      "85": {
+      "87": {
         "SkinID": "1014001",
         "HeroGroupID": "1014",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -10285,7 +10527,7 @@
           "1.1"
         ]
       },
-      "86": {
+      "88": {
         "SkinID": "1014002",
         "HeroGroupID": "1014",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -10406,7 +10648,7 @@
           "1.1"
         ]
       },
-      "87": {
+      "89": {
         "SkinID": "1014003",
         "HeroGroupID": "1014",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -10527,7 +10769,7 @@
           "1.1"
         ]
       },
-      "88": {
+      "90": {
         "SkinID": "1014005",
         "HeroGroupID": "1014",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -10648,7 +10890,7 @@
           "1.1"
         ]
       },
-      "89": {
+      "91": {
         "SkinID": "1014004",
         "HeroGroupID": "1014",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -10769,13 +11011,13 @@
           "1.1"
         ]
       },
-      "90": {
+      "92": {
         "SkinID": "1014006",
         "HeroGroupID": "1014",
         "UnitType": "EActorMainType::EAMT_Hero",
         "EditorOnly": false,
         "SkinGrade": "ESkinGrade::Legendary",
-        "SkinName": "CHAR.Skin_Shinbi_0301",
+        "SkinName": "CHAR.Skin_Shinbi_0501",
         "SkinDescription": "None",
         "SkinIcon": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Shinbi_Portrait.Hero_Icon_Shinbi_Portrait'",
         "HeroBP": "Hero_Shinbi_0301",
@@ -10890,13 +11132,13 @@
           "1.1"
         ]
       },
-      "91": {
+      "93": {
         "SkinID": "1014009",
         "HeroGroupID": "1014",
         "UnitType": "EActorMainType::EAMT_Hero",
         "EditorOnly": false,
         "SkinGrade": "ESkinGrade::Legendary",
-        "SkinName": "CHAR.Skin_Shinbi_0304",
+        "SkinName": "CHAR.Skin_Shinbi_0502",
         "SkinDescription": "None",
         "SkinIcon": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Shinbi_Portrait.Hero_Icon_Shinbi_Portrait'",
         "HeroBP": "Hero_Shinbi_0304",
@@ -11011,7 +11253,7 @@
           "1.1"
         ]
       },
-      "92": {
+      "94": {
         "SkinID": "1015001",
         "HeroGroupID": "1015",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -11132,7 +11374,7 @@
           "1.1"
         ]
       },
-      "93": {
+      "95": {
         "SkinID": "1015002",
         "HeroGroupID": "1015",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -11253,7 +11495,7 @@
           "1.1"
         ]
       },
-      "94": {
+      "96": {
         "SkinID": "1015003",
         "HeroGroupID": "1015",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -11374,7 +11616,7 @@
           "1.1"
         ]
       },
-      "95": {
+      "97": {
         "SkinID": "1015005",
         "HeroGroupID": "1015",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -11495,7 +11737,7 @@
           "1.1"
         ]
       },
-      "96": {
+      "98": {
         "SkinID": "1015004",
         "HeroGroupID": "1015",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -11616,13 +11858,13 @@
           "1.1"
         ]
       },
-      "97": {
+      "99": {
         "SkinID": "1015006",
         "HeroGroupID": "1015",
         "UnitType": "EActorMainType::EAMT_Hero",
         "EditorOnly": false,
         "SkinGrade": "ESkinGrade::Legendary",
-        "SkinName": "CHAR.Skin_Revenant_0301",
+        "SkinName": "CHAR.Skin_Revenant_0501",
         "SkinDescription": "None",
         "SkinIcon": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Revenant_Portrait.Hero_Icon_Revenant_Portrait'",
         "HeroBP": "Hero_Revenant_0301",
@@ -11737,7 +11979,7 @@
           "1.1"
         ]
       },
-      "98": {
+      "100": {
         "SkinID": "1016001",
         "HeroGroupID": "1016",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -11858,7 +12100,7 @@
           "1.1"
         ]
       },
-      "99": {
+      "101": {
         "SkinID": "1016002",
         "HeroGroupID": "1016",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -11964,7 +12206,7 @@
           "1.1"
         ]
       },
-      "100": {
+      "102": {
         "SkinID": "1016003",
         "HeroGroupID": "1016",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -12085,7 +12327,7 @@
           "1.1"
         ]
       },
-      "101": {
+      "103": {
         "SkinID": "1016004",
         "HeroGroupID": "1016",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -12206,13 +12448,13 @@
           "1.1"
         ]
       },
-      "102": {
+      "104": {
         "SkinID": "1016006",
         "HeroGroupID": "1016",
         "UnitType": "EActorMainType::EAMT_Hero",
         "EditorOnly": false,
         "SkinGrade": "ESkinGrade::Legendary",
-        "SkinName": "CHAR.Skin_Aurora_0301",
+        "SkinName": "CHAR.Skin_Aurora_0501",
         "SkinDescription": "None",
         "SkinIcon": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Aurora_Portrait.Hero_Icon_Aurora_Portrait'",
         "HeroBP": "Hero_Aurora_0301",
@@ -12327,7 +12569,7 @@
           "1.1"
         ]
       },
-      "103": {
+      "105": {
         "SkinID": "1017001",
         "HeroGroupID": "1017",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -12448,7 +12690,7 @@
           "1"
         ]
       },
-      "104": {
+      "106": {
         "SkinID": "1017002",
         "HeroGroupID": "1017",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -12569,7 +12811,7 @@
           "1"
         ]
       },
-      "105": {
+      "107": {
         "SkinID": "1017003",
         "HeroGroupID": "1017",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -12690,7 +12932,7 @@
           "1"
         ]
       },
-      "106": {
+      "108": {
         "SkinID": "1017005",
         "HeroGroupID": "1017",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -12811,7 +13053,7 @@
           "1"
         ]
       },
-      "107": {
+      "109": {
         "SkinID": "1017004",
         "HeroGroupID": "1017",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -12932,13 +13174,13 @@
           "1"
         ]
       },
-      "108": {
+      "110": {
         "SkinID": "1017006",
         "HeroGroupID": "1017",
         "UnitType": "EActorMainType::EAMT_Hero",
         "EditorOnly": false,
         "SkinGrade": "ESkinGrade::Legendary",
-        "SkinName": "CHAR.Skin_Phase_0301",
+        "SkinName": "CHAR.Skin_Phase_0501",
         "SkinDescription": "None",
         "SkinIcon": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Phase_Portrait.Hero_Icon_Phase_Portrait'",
         "HeroBP": "Hero_Phase_0301",
@@ -13053,7 +13295,7 @@
           "1"
         ]
       },
-      "109": {
+      "111": {
         "SkinID": "1018001",
         "HeroGroupID": "1018",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -13088,7 +13330,7 @@
           "SubPathString": ""
         },
         "PortraitDraftHeroSlot": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Adel/1018001/T_Hero_Image_Draft_Icon_128.T_Hero_Image_Draft_Icon_128",
           "SubPathString": ""
         },
         "PortraitLarge": {
@@ -13148,7 +13390,7 @@
           "SubPathString": ""
         },
         "PingLargeAlpha": {
-          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Adel/1018001/TexT_Hero_Image_Portrait_Alpha_256.TexT_Hero_Image_Portrait_Alpha_256",
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Ping/T_Hero_Image_Ping_Adel.T_Hero_Image_Ping_Adel",
           "SubPathString": ""
         },
         "IndicatorCoordinate": [
@@ -13174,7 +13416,7 @@
           "1"
         ]
       },
-      "110": {
+      "112": {
         "SkinID": "1018003",
         "HeroGroupID": "1018",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -13269,7 +13511,7 @@
           "SubPathString": ""
         },
         "PingLargeAlpha": {
-          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Adel/1018003/TexT_Hero_Image_Portrait_Alpha_256.TexT_Hero_Image_Portrait_Alpha_256",
+          "AssetPathName": "None",
           "SubPathString": ""
         },
         "IndicatorCoordinate": [
@@ -13295,7 +13537,7 @@
           "1"
         ]
       },
-      "111": {
+      "113": {
         "SkinID": "1018004",
         "HeroGroupID": "1018",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -13390,7 +13632,7 @@
           "SubPathString": ""
         },
         "PingLargeAlpha": {
-          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Adel/1018004/TexT_Hero_Image_Portrait_Alpha_256.TexT_Hero_Image_Portrait_Alpha_256",
+          "AssetPathName": "None",
           "SubPathString": ""
         },
         "IndicatorCoordinate": [
@@ -13416,7 +13658,7 @@
           "1"
         ]
       },
-      "112": {
+      "114": {
         "SkinID": "1018005",
         "HeroGroupID": "1018",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -13511,7 +13753,7 @@
           "SubPathString": ""
         },
         "PingLargeAlpha": {
-          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Adel/1018005/TexT_Hero_Image_Portrait_Alpha_256.TexT_Hero_Image_Portrait_Alpha_256",
+          "AssetPathName": "None",
           "SubPathString": ""
         },
         "IndicatorCoordinate": [
@@ -13537,7 +13779,7 @@
           "1"
         ]
       },
-      "113": {
+      "115": {
         "SkinID": "1018002",
         "HeroGroupID": "1018",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -13632,7 +13874,7 @@
           "SubPathString": ""
         },
         "PingLargeAlpha": {
-          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Adel/1018002/TexT_Hero_Image_Portrait_Alpha_256.TexT_Hero_Image_Portrait_Alpha_256",
+          "AssetPathName": "None",
           "SubPathString": ""
         },
         "IndicatorCoordinate": [
@@ -13658,7 +13900,7 @@
           "1"
         ]
       },
-      "114": {
+      "116": {
         "SkinID": "1018006",
         "HeroGroupID": "1018",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -13693,7 +13935,7 @@
           "SubPathString": ""
         },
         "PortraitDraftHeroSlot": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Adel/1018001/T_Hero_Image_Draft_Icon_128.T_Hero_Image_Draft_Icon_128",
           "SubPathString": ""
         },
         "PortraitLarge": {
@@ -13753,7 +13995,7 @@
           "SubPathString": ""
         },
         "PingLargeAlpha": {
-          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Adel/1018006/TexT_Hero_Image_Portrait_Alpha_256.TexT_Hero_Image_Portrait_Alpha_256",
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Ping/T_Hero_Image_Ping_Adel.T_Hero_Image_Ping_Adel",
           "SubPathString": ""
         },
         "IndicatorCoordinate": [
@@ -13779,7 +14021,7 @@
           "1"
         ]
       },
-      "115": {
+      "117": {
         "SkinID": "1019001",
         "HeroGroupID": "1019",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -13900,7 +14142,7 @@
           "1"
         ]
       },
-      "116": {
+      "118": {
         "SkinID": "1019002",
         "HeroGroupID": "1019",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -14021,7 +14263,7 @@
           "1"
         ]
       },
-      "117": {
+      "119": {
         "SkinID": "1019003",
         "HeroGroupID": "1019",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -14142,7 +14384,7 @@
           "1"
         ]
       },
-      "118": {
+      "120": {
         "SkinID": "1019005",
         "HeroGroupID": "1019",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -14263,7 +14505,7 @@
           "1"
         ]
       },
-      "119": {
+      "121": {
         "SkinID": "1019004",
         "HeroGroupID": "1019",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -14384,7 +14626,7 @@
           "1"
         ]
       },
-      "120": {
+      "122": {
         "SkinID": "1019006",
         "HeroGroupID": "1019",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -14505,7 +14747,7 @@
           "1"
         ]
       },
-      "121": {
+      "123": {
         "SkinID": "1019008",
         "HeroGroupID": "1019",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -14626,7 +14868,7 @@
           "1"
         ]
       },
-      "122": {
+      "124": {
         "SkinID": "1020001",
         "HeroGroupID": "1020",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -14747,7 +14989,7 @@
           "1.12"
         ]
       },
-      "123": {
+      "125": {
         "SkinID": "1020002",
         "HeroGroupID": "1020",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -14868,7 +15110,7 @@
           "1.12"
         ]
       },
-      "124": {
+      "126": {
         "SkinID": "1020003",
         "HeroGroupID": "1020",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -14989,7 +15231,7 @@
           "1.12"
         ]
       },
-      "125": {
+      "127": {
         "SkinID": "1020005",
         "HeroGroupID": "1020",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -15110,7 +15352,7 @@
           "1.12"
         ]
       },
-      "126": {
+      "128": {
         "SkinID": "1020011",
         "HeroGroupID": "1020",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -15231,7 +15473,7 @@
           "1.12"
         ]
       },
-      "127": {
+      "129": {
         "SkinID": "1020004",
         "HeroGroupID": "1020",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -15352,7 +15594,7 @@
           "1.12"
         ]
       },
-      "128": {
+      "130": {
         "SkinID": "1020006",
         "HeroGroupID": "1020",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -15473,7 +15715,7 @@
           "1.12"
         ]
       },
-      "129": {
+      "131": {
         "SkinID": "1021001",
         "HeroGroupID": "1021",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -15579,7 +15821,7 @@
           "1"
         ]
       },
-      "130": {
+      "132": {
         "SkinID": "1022001",
         "HeroGroupID": "1022",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -15700,7 +15942,128 @@
           "1.2"
         ]
       },
-      "131": {
+      "133": {
+        "SkinID": "1022003",
+        "HeroGroupID": "1022",
+        "UnitType": "EActorMainType::EAMT_Hero",
+        "EditorOnly": true,
+        "SkinGrade": "ESkinGrade::Rare",
+        "SkinName": "CHAR.Skin_Howitzer_0102",
+        "SkinDescription": "None",
+        "SkinIcon": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Howit_Portrait.Hero_Icon_Howit_Portrait'",
+        "HeroBP": "Hero_Howitzer_0102",
+        "AssetReference": {
+          "AssetPathName": "/Game/InGame/Heroes/Hero_Howitzer_0102.Hero_Howitzer_0102_C",
+          "SubPathString": ""
+        },
+        "SkinKillStreak": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Howitzer/1022004/TexT_Hero_Image_Portrait_Alpha_128.TexT_Hero_Image_Portrait_Alpha_128",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemy": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Howitzer/1022004/TexT_Hero_Image_Portrait_Alpha_128.TexT_Hero_Image_Portrait_Alpha_128",
+          "SubPathString": ""
+        },
+        "AvartarPortrait": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Howitzer/1022004/TexT_Hero_Image_Party_1000.TexT_Hero_Image_Party_1000",
+          "SubPathString": ""
+        },
+        "DraftBanpick": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Banpick/Hero_Icon_Banpick_Howitzer.Hero_Icon_Banpick_Howitzer",
+          "SubPathString": ""
+        },
+        "PortraitDraft": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Howitzer/1022004/T_Hero_Image_Draft_128.T_Hero_Image_Draft_128",
+          "SubPathString": ""
+        },
+        "PortraitDraftHeroSlot": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Howitzer/1022001/T_Hero_Image_Draft_Icon_128.T_Hero_Image_Draft_Icon_128",
+          "SubPathString": ""
+        },
+        "PortraitLarge": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Howit_Portrait.Hero_Icon_Howit_Portrait",
+          "SubPathString": ""
+        },
+        "Normal_Skin_210x210": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Howitzer/1022004/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210",
+          "SubPathString": ""
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Howitzer/1022004/TexT_Hero_Image_Collection_292.TexT_Hero_Image_Collection_292",
+          "SubPathString": ""
+        },
+        "ResultWindow_150x80": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Howitzer/1022004/TexT_Hero_Image_Scoreboard_80.TexT_Hero_Image_Scoreboard_80",
+          "SubPathString": ""
+        },
+        "Max_Play_ScoreBoard_220x80": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Howitzer/1022004/TexT_Hero_Image_Scoreboard_80.TexT_Hero_Image_Scoreboard_80",
+          "SubPathString": ""
+        },
+        "Max_Play_323x484": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Howitzer/1022004/TexT_Hero_Image_Profile_484.TexT_Hero_Image_Profile_484",
+          "SubPathString": ""
+        },
+        "Shop_450x500": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Howitzer/1022004/TexT_Hero_Image_Shop_500.TexT_Hero_Image_Shop_500",
+          "SubPathString": ""
+        },
+        "PurchasePopup_1100x480": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Howitzer/1022004/TexT_Hero_Image_Purchase_480.TexT_Hero_Image_Purchase_480",
+          "SubPathString": ""
+        },
+        "Shop_Featured_812x1010": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Howitzer/1022004/TexT_Hero_Image_Shop_1010.TexT_Hero_Image_Shop_1010",
+          "SubPathString": ""
+        },
+        "ResultWindow_1860_868": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Howitzer/1022004/TexT_Hero_Image_Result_868.TexT_Hero_Image_Result_868",
+          "SubPathString": ""
+        },
+        "Featured_Heroes_550x876": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Howitzer/1022004/TexT_Hero_Image_Result_Recommend_876.TexT_Hero_Image_Result_Recommend_876",
+          "SubPathString": ""
+        },
+        "SkinKillStreakAlpha": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Howitzer/1022001/TexT_Hero_Image_Portrait_Alpha_128.TexT_Hero_Image_Portrait_Alpha_128",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemyAlpha": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Howitzer/1022001/TexT_Hero_Image_Portrait_Alpha_128.TexT_Hero_Image_Portrait_Alpha_128",
+          "SubPathString": ""
+        },
+        "PortraitLargeAlpha": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Howitzer/1022004/TexT_Hero_Image_Portrait_Alpha_256.TexT_Hero_Image_Portrait_Alpha_256",
+          "SubPathString": ""
+        },
+        "PingLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Ping/T_Hero_Image_Ping_Howitzer.T_Hero_Image_Ping_Howitzer",
+          "SubPathString": ""
+        },
+        "IndicatorCoordinate": [
+          "0.9",
+          "0.9",
+          "0.8",
+          "0.8"
+        ],
+        "IndicatorCoordinateAdd": [
+          "0.9",
+          "0.9",
+          "0.6",
+          "0.6"
+        ],
+        "IndicatorCoordinateDot": [
+          "0.1",
+          "1",
+          "0.6",
+          "0.6"
+        ],
+        "IndicatorCoordinateGold": [
+          "0",
+          "1.2"
+        ]
+      },
+      "134": {
         "SkinID": "1022004",
         "HeroGroupID": "1022",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -15821,7 +16184,7 @@
           "1.2"
         ]
       },
-      "132": {
+      "135": {
         "SkinID": "1022005",
         "HeroGroupID": "1022",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -15942,13 +16305,13 @@
           "1.2"
         ]
       },
-      "133": {
+      "136": {
         "SkinID": "1022006",
         "HeroGroupID": "1022",
         "UnitType": "EActorMainType::EAMT_Hero",
         "EditorOnly": false,
         "SkinGrade": "ESkinGrade::Legendary",
-        "SkinName": "CHAR.Skin_Howitzer_0301",
+        "SkinName": "CHAR.Skin_Howitzer_0501",
         "SkinDescription": "None",
         "SkinIcon": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Howit_Portrait.Hero_Icon_Howit_Portrait'",
         "HeroBP": "Hero_Howitzer_0301",
@@ -16063,7 +16426,7 @@
           "1.2"
         ]
       },
-      "134": {
+      "137": {
         "SkinID": "1022002",
         "HeroGroupID": "1022",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -16184,7 +16547,7 @@
           "1.2"
         ]
       },
-      "135": {
+      "138": {
         "SkinID": "1023001",
         "HeroGroupID": "1023",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -16305,7 +16668,7 @@
           "1"
         ]
       },
-      "136": {
+      "139": {
         "SkinID": "1023002",
         "HeroGroupID": "1023",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -16426,7 +16789,128 @@
           "1"
         ]
       },
-      "137": {
+      "140": {
+        "SkinID": "1023003",
+        "HeroGroupID": "1023",
+        "UnitType": "EActorMainType::EAMT_Hero",
+        "EditorOnly": true,
+        "SkinGrade": "ESkinGrade::Rare",
+        "SkinName": "CHAR.Skin_Khaimera_0201",
+        "SkinDescription": "None",
+        "SkinIcon": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Khaimera_Portrait.Hero_Icon_Khaimera_Portrait'",
+        "HeroBP": "Hero_Khaimera_0201",
+        "AssetReference": {
+          "AssetPathName": "/Game/InGame/Heroes/Hero_Khaimera_0201.Hero_Khaimera_0201_C",
+          "SubPathString": ""
+        },
+        "SkinKillStreak": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Khaimera/1023006/TexT_Hero_Image_Portrait_Alpha_128.TexT_Hero_Image_Portrait_Alpha_128",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemy": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Khaimera/1023006/TexT_Hero_Image_Portrait_Alpha_128.TexT_Hero_Image_Portrait_Alpha_128",
+          "SubPathString": ""
+        },
+        "AvartarPortrait": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Khaimera/1023006/TexT_Hero_Image_Party_1000.TexT_Hero_Image_Party_1000",
+          "SubPathString": ""
+        },
+        "DraftBanpick": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Banpick/Hero_Icon_Banpick_Khaimera.Hero_Icon_Banpick_Khaimera",
+          "SubPathString": ""
+        },
+        "PortraitDraft": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Khaimera/1023006/T_Hero_Image_Draft_128.T_Hero_Image_Draft_128",
+          "SubPathString": ""
+        },
+        "PortraitDraftHeroSlot": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Khaimera/1023001/T_Hero_Image_Draft_Icon_128.T_Hero_Image_Draft_Icon_128",
+          "SubPathString": ""
+        },
+        "PortraitLarge": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Khaimera_Portrait.Hero_Icon_Khaimera_Portrait",
+          "SubPathString": ""
+        },
+        "Normal_Skin_210x210": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Khaimera/1023006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210",
+          "SubPathString": ""
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Khaimera/1023006/TexT_Hero_Image_Collection_292.TexT_Hero_Image_Collection_292",
+          "SubPathString": ""
+        },
+        "ResultWindow_150x80": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Khaimera/1023006/TexT_Hero_Image_Scoreboard_80.TexT_Hero_Image_Scoreboard_80",
+          "SubPathString": ""
+        },
+        "Max_Play_ScoreBoard_220x80": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Khaimera/1023006/TexT_Hero_Image_Scoreboard_80.TexT_Hero_Image_Scoreboard_80",
+          "SubPathString": ""
+        },
+        "Max_Play_323x484": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Khaimera/1023006/TexT_Hero_Image_Profile_484.TexT_Hero_Image_Profile_484",
+          "SubPathString": ""
+        },
+        "Shop_450x500": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Khaimera/1023006/TexT_Hero_Image_Shop_500.TexT_Hero_Image_Shop_500",
+          "SubPathString": ""
+        },
+        "PurchasePopup_1100x480": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Khaimera/1023006/TexT_Hero_Image_Purchase_480.TexT_Hero_Image_Purchase_480",
+          "SubPathString": ""
+        },
+        "Shop_Featured_812x1010": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Khaimera/1023006/TexT_Hero_Image_Shop_1010.TexT_Hero_Image_Shop_1010",
+          "SubPathString": ""
+        },
+        "ResultWindow_1860_868": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Khaimera/1023006/TexT_Hero_Image_Result_868.TexT_Hero_Image_Result_868",
+          "SubPathString": ""
+        },
+        "Featured_Heroes_550x876": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Khaimera/1023006/TexT_Hero_Image_Result_Recommend_876.TexT_Hero_Image_Result_Recommend_876",
+          "SubPathString": ""
+        },
+        "SkinKillStreakAlpha": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Khaimera/1023001/TexT_Hero_Image_Portrait_Alpha_128.TexT_Hero_Image_Portrait_Alpha_128",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemyAlpha": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Khaimera/1023001/TexT_Hero_Image_Portrait_Alpha_128.TexT_Hero_Image_Portrait_Alpha_128",
+          "SubPathString": ""
+        },
+        "PortraitLargeAlpha": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Khaimera/1023006/TexT_Hero_Image_Portrait_Alpha_256.TexT_Hero_Image_Portrait_Alpha_256",
+          "SubPathString": ""
+        },
+        "PingLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Ping/T_Hero_Image_Ping_Khaimera.T_Hero_Image_Ping_Khaimera",
+          "SubPathString": ""
+        },
+        "IndicatorCoordinate": [
+          "0.9",
+          "0.9",
+          "0.4",
+          "0.4"
+        ],
+        "IndicatorCoordinateAdd": [
+          "0.9",
+          "0.9",
+          "0.2",
+          "0.2"
+        ],
+        "IndicatorCoordinateDot": [
+          "0.1",
+          "1",
+          "0.6",
+          "0.6"
+        ],
+        "IndicatorCoordinateGold": [
+          "0",
+          "1"
+        ]
+      },
+      "141": {
         "SkinID": "1023006",
         "HeroGroupID": "1023",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -16547,7 +17031,7 @@
           "1"
         ]
       },
-      "138": {
+      "142": {
         "SkinID": "1024001",
         "HeroGroupID": "1024",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -16653,7 +17137,7 @@
           "1"
         ]
       },
-      "139": {
+      "143": {
         "SkinID": "1025001",
         "HeroGroupID": "1025",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -16774,7 +17258,7 @@
           "1.1"
         ]
       },
-      "140": {
+      "144": {
         "SkinID": "1025002",
         "HeroGroupID": "1025",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -16895,7 +17379,7 @@
           "1.1"
         ]
       },
-      "141": {
+      "145": {
         "SkinID": "1025003",
         "HeroGroupID": "1025",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -17016,7 +17500,7 @@
           "1.1"
         ]
       },
-      "142": {
+      "146": {
         "SkinID": "1025005",
         "HeroGroupID": "1025",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -17137,7 +17621,7 @@
           "1.1"
         ]
       },
-      "143": {
+      "147": {
         "SkinID": "1025004",
         "HeroGroupID": "1025",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -17258,13 +17742,13 @@
           "1.1"
         ]
       },
-      "144": {
+      "148": {
         "SkinID": "1025006",
         "HeroGroupID": "1025",
         "UnitType": "EActorMainType::EAMT_Hero",
         "EditorOnly": false,
         "SkinGrade": "ESkinGrade::Legendary",
-        "SkinName": "CHAR.Skin_Narbash_0301",
+        "SkinName": "CHAR.Skin_Narbash_0501",
         "SkinDescription": "None",
         "SkinIcon": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Narbash_Portrait.Hero_Icon_Narbash_Portrait'",
         "HeroBP": "Hero_Narbash_0301",
@@ -17379,7 +17863,7 @@
           "1.1"
         ]
       },
-      "145": {
+      "149": {
         "SkinID": "1026001",
         "HeroGroupID": "1026",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -17500,7 +17984,7 @@
           "1"
         ]
       },
-      "146": {
+      "150": {
         "SkinID": "1026004",
         "HeroGroupID": "1026",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -17621,7 +18105,7 @@
           "1"
         ]
       },
-      "147": {
+      "151": {
         "SkinID": "1026003",
         "HeroGroupID": "1026",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -17742,13 +18226,13 @@
           "1"
         ]
       },
-      "148": {
+      "152": {
         "SkinID": "1026006",
         "HeroGroupID": "1026",
         "UnitType": "EActorMainType::EAMT_Hero",
         "EditorOnly": false,
         "SkinGrade": "ESkinGrade::Legendary",
-        "SkinName": "CHAR.Skin_Gadget_0301",
+        "SkinName": "CHAR.Skin_Gadget_0501",
         "SkinDescription": "None",
         "SkinIcon": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Gadget_Portrait.Hero_Icon_Gadget_Portrait'",
         "HeroBP": "Hero_Gadget_0301",
@@ -17863,7 +18347,7 @@
           "1"
         ]
       },
-      "149": {
+      "153": {
         "SkinID": "1026008",
         "HeroGroupID": "1026",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -17984,7 +18468,7 @@
           "1"
         ]
       },
-      "150": {
+      "154": {
         "SkinID": "1027001",
         "HeroGroupID": "1027",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -18105,7 +18589,7 @@
           "1"
         ]
       },
-      "151": {
+      "155": {
         "SkinID": "1027002",
         "HeroGroupID": "1027",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -18226,7 +18710,7 @@
           "1"
         ]
       },
-      "152": {
+      "156": {
         "SkinID": "1027003",
         "HeroGroupID": "1027",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -18347,7 +18831,7 @@
           "1"
         ]
       },
-      "153": {
+      "157": {
         "SkinID": "1027005",
         "HeroGroupID": "1027",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -18468,7 +18952,7 @@
           "1"
         ]
       },
-      "154": {
+      "158": {
         "SkinID": "1027004",
         "HeroGroupID": "1027",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -18589,13 +19073,13 @@
           "1"
         ]
       },
-      "155": {
+      "159": {
         "SkinID": "1027007",
         "HeroGroupID": "1027",
         "UnitType": "EActorMainType::EAMT_Hero",
         "EditorOnly": false,
         "SkinGrade": "ESkinGrade::Legendary",
-        "SkinName": "CHAR.Skin_Countess_0302",
+        "SkinName": "CHAR.Skin_Countess_0501",
         "SkinDescription": "None",
         "SkinIcon": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Countess_Portrait.Hero_Icon_Countess_Portrait'",
         "HeroBP": "Hero_Countess_0302",
@@ -18710,7 +19194,7 @@
           "1"
         ]
       },
-      "156": {
+      "160": {
         "SkinID": "1028001",
         "HeroGroupID": "1028",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -18831,7 +19315,7 @@
           "1"
         ]
       },
-      "157": {
+      "161": {
         "SkinID": "1028002",
         "HeroGroupID": "1028",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -18952,13 +19436,13 @@
           "1"
         ]
       },
-      "158": {
+      "162": {
         "SkinID": "1028006",
         "HeroGroupID": "1028",
         "UnitType": "EActorMainType::EAMT_Hero",
         "EditorOnly": false,
         "SkinGrade": "ESkinGrade::Legendary",
-        "SkinName": "CHAR.Skin_Serath_0301",
+        "SkinName": "CHAR.Skin_Serath_0501",
         "SkinDescription": "None",
         "SkinIcon": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Serath_Portrait.Hero_Icon_Serath_Portrait'",
         "HeroBP": "Hero_Serath_0301",
@@ -19073,11 +19557,11 @@
           "1"
         ]
       },
-      "159": {
+      "163": {
         "SkinID": "1029001",
         "HeroGroupID": "1029",
         "UnitType": "EActorMainType::EAMT_Hero",
-        "EditorOnly": true,
+        "EditorOnly": false,
         "SkinGrade": "ESkinGrade::Original",
         "SkinName": "CHAR.Skin_Greystone_0100",
         "SkinDescription": "None",
@@ -19088,87 +19572,87 @@
           "SubPathString": ""
         },
         "SkinKillStreak": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029001/TexT_Hero_Image_Portrait_Alpha_128.TexT_Hero_Image_Portrait_Alpha_128",
           "SubPathString": ""
         },
         "SkinKillStreakEnemy": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029001/TexT_Hero_Image_Portrait_Alpha_128.TexT_Hero_Image_Portrait_Alpha_128",
           "SubPathString": ""
         },
         "AvartarPortrait": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029001/TexT_Hero_Image_Party_1000.TexT_Hero_Image_Party_1000",
           "SubPathString": ""
         },
         "DraftBanpick": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Banpick/Hero_Icon_Banpick_Greystone.Hero_Icon_Banpick_Greystone",
           "SubPathString": ""
         },
         "PortraitDraft": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029001/T_Hero_Image_Draft_128.T_Hero_Image_Draft_128",
           "SubPathString": ""
         },
         "PortraitDraftHeroSlot": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029001/T_Hero_Image_Draft_Icon_128.T_Hero_Image_Draft_Icon_128",
           "SubPathString": ""
         },
         "PortraitLarge": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Greystone_Portrait.Hero_Icon_Greystone_Portrait",
           "SubPathString": ""
         },
         "Normal_Skin_210x210": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210",
           "SubPathString": ""
         },
         "Collection_270x292": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029001/TexT_Hero_Image_Collection_292.TexT_Hero_Image_Collection_292",
           "SubPathString": ""
         },
         "ResultWindow_150x80": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029001/TexT_Hero_Image_Scoreboard_80.TexT_Hero_Image_Scoreboard_80",
           "SubPathString": ""
         },
         "Max_Play_ScoreBoard_220x80": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029001/TexT_Hero_Image_Scoreboard_80.TexT_Hero_Image_Scoreboard_80",
           "SubPathString": ""
         },
         "Max_Play_323x484": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029001/TexT_Hero_Image_Profile_484.TexT_Hero_Image_Profile_484",
           "SubPathString": ""
         },
         "Shop_450x500": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029001/TexT_Hero_Image_Shop_500.TexT_Hero_Image_Shop_500",
           "SubPathString": ""
         },
         "PurchasePopup_1100x480": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029001/TexT_Hero_Image_Purchase_480.TexT_Hero_Image_Purchase_480",
           "SubPathString": ""
         },
         "Shop_Featured_812x1010": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029001/TexT_Hero_Image_Shop_1010.TexT_Hero_Image_Shop_1010",
           "SubPathString": ""
         },
         "ResultWindow_1860_868": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029001/TexT_Hero_Image_Result_868.TexT_Hero_Image_Result_868",
           "SubPathString": ""
         },
         "Featured_Heroes_550x876": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029001/TexT_Hero_Image_Result_Recommend_876.TexT_Hero_Image_Result_Recommend_876",
           "SubPathString": ""
         },
         "SkinKillStreakAlpha": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029001/TexT_Hero_Image_Portrait_Alpha_128.TexT_Hero_Image_Portrait_Alpha_128",
           "SubPathString": ""
         },
         "SkinKillStreakEnemyAlpha": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029001/TexT_Hero_Image_Portrait_Alpha_128.TexT_Hero_Image_Portrait_Alpha_128",
           "SubPathString": ""
         },
         "PortraitLargeAlpha": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029001/TexT_Hero_Image_Portrait_Alpha_256.TexT_Hero_Image_Portrait_Alpha_256",
           "SubPathString": ""
         },
         "PingLargeAlpha": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Ping/T_Hero_Image_Ping_Greystone.T_Hero_Image_Ping_Greystone",
           "SubPathString": ""
         },
         "IndicatorCoordinate": [
@@ -19194,11 +19678,11 @@
           "1"
         ]
       },
-      "160": {
+      "164": {
         "SkinID": "1029006",
         "HeroGroupID": "1029",
         "UnitType": "EActorMainType::EAMT_Hero",
-        "EditorOnly": true,
+        "EditorOnly": false,
         "SkinGrade": "ESkinGrade::Epic",
         "SkinName": "CHAR.Skin_Greystone_0301",
         "SkinDescription": "None",
@@ -19209,87 +19693,87 @@
           "SubPathString": ""
         },
         "SkinKillStreak": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029006/TexT_Hero_Image_Portrait_Alpha_128.TexT_Hero_Image_Portrait_Alpha_128",
           "SubPathString": ""
         },
         "SkinKillStreakEnemy": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029006/TexT_Hero_Image_Portrait_Alpha_128.TexT_Hero_Image_Portrait_Alpha_128",
           "SubPathString": ""
         },
         "AvartarPortrait": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029006/TexT_Hero_Image_Party_1000.TexT_Hero_Image_Party_1000",
           "SubPathString": ""
         },
         "DraftBanpick": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Banpick/Hero_Icon_Banpick_Greystone.Hero_Icon_Banpick_Greystone",
           "SubPathString": ""
         },
         "PortraitDraft": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029006/T_Hero_Image_Draft_128.T_Hero_Image_Draft_128",
           "SubPathString": ""
         },
         "PortraitDraftHeroSlot": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029001/T_Hero_Image_Draft_Icon_128.T_Hero_Image_Draft_Icon_128",
           "SubPathString": ""
         },
         "PortraitLarge": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Greystone_Portrait.Hero_Icon_Greystone_Portrait",
           "SubPathString": ""
         },
         "Normal_Skin_210x210": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210",
           "SubPathString": ""
         },
         "Collection_270x292": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029006/TexT_Hero_Image_Collection_292.TexT_Hero_Image_Collection_292",
           "SubPathString": ""
         },
         "ResultWindow_150x80": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029006/TexT_Hero_Image_Scoreboard_80.TexT_Hero_Image_Scoreboard_80",
           "SubPathString": ""
         },
         "Max_Play_ScoreBoard_220x80": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029006/TexT_Hero_Image_Scoreboard_80.TexT_Hero_Image_Scoreboard_80",
           "SubPathString": ""
         },
         "Max_Play_323x484": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029006/TexT_Hero_Image_Profile_484.TexT_Hero_Image_Profile_484",
           "SubPathString": ""
         },
         "Shop_450x500": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029006/TexT_Hero_Image_Shop_500.TexT_Hero_Image_Shop_500",
           "SubPathString": ""
         },
         "PurchasePopup_1100x480": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029006/TexT_Hero_Image_Purchase_480.TexT_Hero_Image_Purchase_480",
           "SubPathString": ""
         },
         "Shop_Featured_812x1010": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029006/TexT_Hero_Image_Shop_1010.TexT_Hero_Image_Shop_1010",
           "SubPathString": ""
         },
         "ResultWindow_1860_868": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029006/TexT_Hero_Image_Result_868.TexT_Hero_Image_Result_868",
           "SubPathString": ""
         },
         "Featured_Heroes_550x876": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029006/TexT_Hero_Image_Result_Recommend_876.TexT_Hero_Image_Result_Recommend_876",
           "SubPathString": ""
         },
         "SkinKillStreakAlpha": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029001/TexT_Hero_Image_Portrait_Alpha_128.TexT_Hero_Image_Portrait_Alpha_128",
           "SubPathString": ""
         },
         "SkinKillStreakEnemyAlpha": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029001/TexT_Hero_Image_Portrait_Alpha_128.TexT_Hero_Image_Portrait_Alpha_128",
           "SubPathString": ""
         },
         "PortraitLargeAlpha": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/UI/Resource/Texture/Hero/Greystone/1029006/TexT_Hero_Image_Portrait_Alpha_256.TexT_Hero_Image_Portrait_Alpha_256",
           "SubPathString": ""
         },
         "PingLargeAlpha": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Ping/T_Hero_Image_Ping_Greystone.T_Hero_Image_Ping_Greystone",
           "SubPathString": ""
         },
         "IndicatorCoordinate": [
@@ -19315,7 +19799,7 @@
           "1"
         ]
       },
-      "161": {
+      "165": {
         "SkinID": "1030001",
         "HeroGroupID": "1030",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -19436,7 +19920,7 @@
           "1"
         ]
       },
-      "162": {
+      "166": {
         "SkinID": "1030002",
         "HeroGroupID": "1030",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -19557,7 +20041,7 @@
           "1"
         ]
       },
-      "163": {
+      "167": {
         "SkinID": "1031001",
         "HeroGroupID": "1031",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -19678,7 +20162,7 @@
           "1"
         ]
       },
-      "164": {
+      "168": {
         "SkinID": "1031002",
         "HeroGroupID": "1031",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -19799,13 +20283,13 @@
           "1"
         ]
       },
-      "165": {
+      "169": {
         "SkinID": "1031007",
         "HeroGroupID": "1031",
         "UnitType": "EActorMainType::EAMT_Hero",
         "EditorOnly": false,
         "SkinGrade": "ESkinGrade::Legendary",
-        "SkinName": "CHAR.Skin_Dekker_0302",
+        "SkinName": "CHAR.Skin_Dekker_0501",
         "SkinDescription": "None",
         "SkinIcon": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Dekker_Portrait.Hero_Icon_Dekker_Portrait'",
         "HeroBP": "Hero_Dekker_0302",
@@ -19920,7 +20404,7 @@
           "1"
         ]
       },
-      "166": {
+      "170": {
         "SkinID": "1032001",
         "HeroGroupID": "1032",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -20041,7 +20525,7 @@
           "1"
         ]
       },
-      "167": {
+      "171": {
         "SkinID": "1032006",
         "HeroGroupID": "1032",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -20162,7 +20646,7 @@
           "1"
         ]
       },
-      "168": {
+      "172": {
         "SkinID": "1033001",
         "HeroGroupID": "1033",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -20283,7 +20767,7 @@
           "1"
         ]
       },
-      "169": {
+      "173": {
         "SkinID": "1033002",
         "HeroGroupID": "1033",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -20404,12 +20888,12 @@
           "1"
         ]
       },
-      "170": {
+      "174": {
         "SkinID": "1033006",
         "HeroGroupID": "1033",
         "UnitType": "EActorMainType::EAMT_Hero",
-        "EditorOnly": true,
-        "SkinGrade": "ESkinGrade::Rare",
+        "EditorOnly": false,
+        "SkinGrade": "ESkinGrade::Epic",
         "SkinName": "CHAR.Skin_Wraith_0301",
         "SkinDescription": "None",
         "SkinIcon": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Wraith_Portrait.Hero_Icon_Wraith_Portrait'",
@@ -20525,7 +21009,128 @@
           "1"
         ]
       },
-      "172": {
+      "175": {
+        "SkinID": "1034001",
+        "HeroGroupID": "1034",
+        "UnitType": "EActorMainType::EAMT_Hero",
+        "EditorOnly": true,
+        "SkinGrade": "ESkinGrade::Original",
+        "SkinName": "None",
+        "SkinDescription": "None",
+        "SkinIcon": "None",
+        "HeroBP": "None",
+        "AssetReference": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SkinKillStreak": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemy": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AvartarPortrait": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DraftBanpick": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitDraft": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitDraftHeroSlot": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitLarge": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Normal_Skin_210x210": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Collection_270x292": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_150x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_ScoreBoard_220x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_323x484": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_450x500": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PurchasePopup_1100x480": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_Featured_812x1010": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_1860_868": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Featured_Heroes_550x876": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SkinKillStreakAlpha": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemyAlpha": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitLargeAlpha": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PingLargeAlpha": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "IndicatorCoordinate": [
+          "0.9",
+          "0.9",
+          "0.7",
+          "0.7"
+        ],
+        "IndicatorCoordinateAdd": [
+          "0.9",
+          "0.9",
+          "0.5",
+          "0.5"
+        ],
+        "IndicatorCoordinateDot": [
+          "0.1",
+          "1",
+          "0.6",
+          "0.6"
+        ],
+        "IndicatorCoordinateGold": [
+          "0",
+          "1"
+        ]
+      },
+      "176": {
         "SkinID": "1035001",
         "HeroGroupID": "1035",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -20646,7 +21251,7 @@
           "1"
         ]
       },
-      "173": {
+      "177": {
         "SkinID": "1035006",
         "HeroGroupID": "1035",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -20767,7 +21372,7 @@
           "1"
         ]
       },
-      "174": {
+      "178": {
         "SkinID": "1036001",
         "HeroGroupID": "1036",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -20888,13 +21493,13 @@
           "1"
         ]
       },
-      "175": {
+      "179": {
         "SkinID": "1036006",
         "HeroGroupID": "1036",
         "UnitType": "EActorMainType::EAMT_Hero",
         "EditorOnly": false,
         "SkinGrade": "ESkinGrade::Legendary",
-        "SkinName": "CHAR.Skin_Wukong_0301",
+        "SkinName": "CHAR.Skin_Wukong_0501",
         "SkinDescription": "None",
         "SkinIcon": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Wukong_Portrait.Hero_Icon_Wukong_Portrait'",
         "HeroBP": "Hero_Wukong_0301",
@@ -21009,7 +21614,7 @@
           "1"
         ]
       },
-      "176": {
+      "180": {
         "SkinID": "1037001",
         "HeroGroupID": "1037",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -21130,7 +21735,7 @@
           "1.2"
         ]
       },
-      "177": {
+      "181": {
         "SkinID": "1037005",
         "HeroGroupID": "1037",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -21251,7 +21856,7 @@
           "1.2"
         ]
       },
-      "178": {
+      "182": {
         "SkinID": "1037006",
         "HeroGroupID": "1037",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -21372,7 +21977,7 @@
           "1.2"
         ]
       },
-      "181": {
+      "185": {
         "SkinID": "1040001",
         "HeroGroupID": "1040",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -21493,7 +22098,7 @@
           "1.1"
         ]
       },
-      "182": {
+      "186": {
         "SkinID": "1040006",
         "HeroGroupID": "1040",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -21614,7 +22219,7 @@
           "1.1"
         ]
       },
-      "183": {
+      "187": {
         "SkinID": "1041001",
         "HeroGroupID": "1041",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -21735,7 +22340,7 @@
           "1"
         ]
       },
-      "184": {
+      "188": {
         "SkinID": "1042001",
         "HeroGroupID": "1042",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -21856,7 +22461,7 @@
           "1"
         ]
       },
-      "185": {
+      "189": {
         "SkinID": "1042002",
         "HeroGroupID": "1042",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -21977,7 +22582,7 @@
           "1"
         ]
       },
-      "186": {
+      "190": {
         "SkinID": "1042006",
         "HeroGroupID": "1042",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -23424,7 +24029,10 @@
           "0.6",
           "0.6"
         ],
-        "IndicatorCoordinateGold": []
+        "IndicatorCoordinateGold": [
+          "0",
+          "1"
+        ]
       },
       "10013": {
         "SkinID": "2070001",
@@ -24879,6 +25487,974 @@
         ]
       },
       "10025": {
+        "SkinID": "2018001",
+        "HeroGroupID": "2018",
+        "UnitType": "EActorMainType::EAMT_LaneMinion",
+        "EditorOnly": false,
+        "SkinGrade": "ESkinGrade::Original",
+        "SkinName": "None",
+        "SkinDescription": "None",
+        "SkinIcon": "NPC_Icon_Dawn_MeleeMinion_Agora_Portrait",
+        "HeroBP": "NPC_LaneMinion_Melee_Dawn",
+        "AssetReference": {
+          "AssetPathName": "/Game/InGame/NPCs/LaneMinions/NPC_LaneMinion_Melee_Dawn.NPC_LaneMinion_Melee_Dawn_C",
+          "SubPathString": ""
+        },
+        "SkinKillStreak": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_MeleeMinion.T_Hero_Icon_Portrait_Alpha_Dawn_MeleeMinion",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemy": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_MeleeMinion.T_Hero_Icon_Portrait_Alpha_Dawn_MeleeMinion",
+          "SubPathString": ""
+        },
+        "AvartarPortrait": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DraftBanpick": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitDraft": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/NPC_Icon_Dawn_MeleeMinion_Agora_Portrait.NPC_Icon_Dawn_MeleeMinion_Agora_Portrait",
+          "SubPathString": ""
+        },
+        "PortraitDraftHeroSlot": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitLarge": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/NPC_Icon_Dawn_MeleeMinion_Agora_Portrait.NPC_Icon_Dawn_MeleeMinion_Agora_Portrait",
+          "SubPathString": ""
+        },
+        "Normal_Skin_210x210": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Collection_270x292": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_150x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_ScoreBoard_220x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_323x484": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_450x500": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PurchasePopup_1100x480": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_Featured_812x1010": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_1860_868": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Featured_Heroes_550x876": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SkinKillStreakAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_MeleeMinion.T_Hero_Icon_Portrait_Alpha_Dawn_MeleeMinion",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemyAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_MeleeMinion.T_Hero_Icon_Portrait_Alpha_Dawn_MeleeMinion",
+          "SubPathString": ""
+        },
+        "PortraitLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_MeleeMinion.T_Hero_Icon_Portrait_Alpha_Dawn_MeleeMinion",
+          "SubPathString": ""
+        },
+        "PingLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_MeleeMinion.T_Hero_Icon_Portrait_Alpha_Dawn_MeleeMinion",
+          "SubPathString": ""
+        },
+        "IndicatorCoordinate": [
+          "0.9",
+          "0.9",
+          "0.7",
+          "0.7"
+        ],
+        "IndicatorCoordinateAdd": [
+          "0.9",
+          "0.9",
+          "0.5",
+          "0.5"
+        ],
+        "IndicatorCoordinateDot": [
+          "0.1",
+          "1",
+          "0.6",
+          "0.6"
+        ],
+        "IndicatorCoordinateGold": [
+          "0",
+          "1.2"
+        ]
+      },
+      "10026": {
+        "SkinID": "2019001",
+        "HeroGroupID": "2019",
+        "UnitType": "EActorMainType::EAMT_LaneMinion",
+        "EditorOnly": false,
+        "SkinGrade": "ESkinGrade::Original",
+        "SkinName": "None",
+        "SkinDescription": "None",
+        "SkinIcon": "NPC_Icon_Dawn_RangedMinion_Agora_Portrait",
+        "HeroBP": "NPC_LaneMinion_Ranged_Dawn",
+        "AssetReference": {
+          "AssetPathName": "/Game/InGame/NPCs/LaneMinions/NPC_LaneMinion_Ranged_Dawn.NPC_LaneMinion_Ranged_Dawn_C",
+          "SubPathString": ""
+        },
+        "SkinKillStreak": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_RangedMinion.T_Hero_Icon_Portrait_Alpha_Dawn_RangedMinion",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemy": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_RangedMinion.T_Hero_Icon_Portrait_Alpha_Dawn_RangedMinion",
+          "SubPathString": ""
+        },
+        "AvartarPortrait": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DraftBanpick": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitDraft": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/NPC_Icon_Dawn_RangedMinion_Agora_Portrait.NPC_Icon_Dawn_RangedMinion_Agora_Portrait",
+          "SubPathString": ""
+        },
+        "PortraitDraftHeroSlot": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitLarge": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/NPC_Icon_Dawn_RangedMinion_Agora_Portrait.NPC_Icon_Dawn_RangedMinion_Agora_Portrait",
+          "SubPathString": ""
+        },
+        "Normal_Skin_210x210": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Collection_270x292": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_150x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_ScoreBoard_220x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_323x484": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_450x500": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PurchasePopup_1100x480": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_Featured_812x1010": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_1860_868": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Featured_Heroes_550x876": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SkinKillStreakAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_RangedMinion.T_Hero_Icon_Portrait_Alpha_Dawn_RangedMinion",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemyAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_RangedMinion.T_Hero_Icon_Portrait_Alpha_Dawn_RangedMinion",
+          "SubPathString": ""
+        },
+        "PortraitLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_RangedMinion.T_Hero_Icon_Portrait_Alpha_Dawn_RangedMinion",
+          "SubPathString": ""
+        },
+        "PingLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_RangedMinion.T_Hero_Icon_Portrait_Alpha_Dawn_RangedMinion",
+          "SubPathString": ""
+        },
+        "IndicatorCoordinate": [
+          "0.9",
+          "0.9",
+          "0.7",
+          "0.7"
+        ],
+        "IndicatorCoordinateAdd": [
+          "0.9",
+          "0.9",
+          "0.5",
+          "0.5"
+        ],
+        "IndicatorCoordinateDot": [
+          "0.1",
+          "1",
+          "0.6",
+          "0.6"
+        ],
+        "IndicatorCoordinateGold": [
+          "0",
+          "1.2"
+        ]
+      },
+      "10027": {
+        "SkinID": "2020001",
+        "HeroGroupID": "2020",
+        "UnitType": "EActorMainType::EAMT_LaneMinion",
+        "EditorOnly": false,
+        "SkinGrade": "ESkinGrade::Original",
+        "SkinName": "None",
+        "SkinDescription": "None",
+        "SkinIcon": "NPC_Icon_Dawn_SiegeMinion_Agora_Portrait",
+        "HeroBP": "NPC_LaneMinion_Siege_Dawn",
+        "AssetReference": {
+          "AssetPathName": "/Game/InGame/NPCs/LaneMinions/NPC_LaneMinion_Siege_Dawn.NPC_LaneMinion_Siege_Dawn_C",
+          "SubPathString": ""
+        },
+        "SkinKillStreak": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_SiegeMinion.T_Hero_Icon_Portrait_Alpha_Dawn_SiegeMinion",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemy": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_SiegeMinion.T_Hero_Icon_Portrait_Alpha_Dawn_SiegeMinion",
+          "SubPathString": ""
+        },
+        "AvartarPortrait": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DraftBanpick": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitDraft": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/NPC_Icon_Dawn_SiegeMinion_Agora_Portrait.NPC_Icon_Dawn_SiegeMinion_Agora_Portrait",
+          "SubPathString": ""
+        },
+        "PortraitDraftHeroSlot": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitLarge": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/NPC_Icon_Dawn_SiegeMinion_Agora_Portrait.NPC_Icon_Dawn_SiegeMinion_Agora_Portrait",
+          "SubPathString": ""
+        },
+        "Normal_Skin_210x210": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Collection_270x292": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_150x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_ScoreBoard_220x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_323x484": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_450x500": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PurchasePopup_1100x480": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_Featured_812x1010": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_1860_868": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Featured_Heroes_550x876": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SkinKillStreakAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_SiegeMinion.T_Hero_Icon_Portrait_Alpha_Dawn_SiegeMinion",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemyAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_SiegeMinion.T_Hero_Icon_Portrait_Alpha_Dawn_SiegeMinion",
+          "SubPathString": ""
+        },
+        "PortraitLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_SiegeMinion.T_Hero_Icon_Portrait_Alpha_Dawn_SiegeMinion",
+          "SubPathString": ""
+        },
+        "PingLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_SiegeMinion.T_Hero_Icon_Portrait_Alpha_Dawn_SiegeMinion",
+          "SubPathString": ""
+        },
+        "IndicatorCoordinate": [
+          "0.9",
+          "0.9",
+          "0.7",
+          "0.7"
+        ],
+        "IndicatorCoordinateAdd": [
+          "0.9",
+          "0.9",
+          "0.5",
+          "0.5"
+        ],
+        "IndicatorCoordinateDot": [
+          "0.1",
+          "1",
+          "0.6",
+          "0.6"
+        ],
+        "IndicatorCoordinateGold": [
+          "0",
+          "1.2"
+        ]
+      },
+      "10028": {
+        "SkinID": "2021001",
+        "HeroGroupID": "2021",
+        "UnitType": "EActorMainType::EAMT_LaneMinion",
+        "EditorOnly": false,
+        "SkinGrade": "ESkinGrade::Original",
+        "SkinName": "None",
+        "SkinDescription": "None",
+        "SkinIcon": "NPC_Icon_Dawn_SuperMinion_Agora_Portrait",
+        "HeroBP": "NPC_LaneMinion_Super_Dawn",
+        "AssetReference": {
+          "AssetPathName": "/Game/InGame/NPCs/LaneMinions/NPC_LaneMinion_Super_Dawn.NPC_LaneMinion_Super_Dawn_C",
+          "SubPathString": ""
+        },
+        "SkinKillStreak": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_SuperMinion.T_Hero_Icon_Portrait_Alpha_Dawn_SuperMinion",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemy": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_SuperMinion.T_Hero_Icon_Portrait_Alpha_Dawn_SuperMinion",
+          "SubPathString": ""
+        },
+        "AvartarPortrait": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DraftBanpick": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitDraft": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/NPC_Icon_Dawn_SuperMinion_Agora_Portrait.NPC_Icon_Dawn_SuperMinion_Agora_Portrait",
+          "SubPathString": ""
+        },
+        "PortraitDraftHeroSlot": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitLarge": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/NPC_Icon_Dawn_SuperMinion_Agora_Portrait.NPC_Icon_Dawn_SuperMinion_Agora_Portrait",
+          "SubPathString": ""
+        },
+        "Normal_Skin_210x210": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Collection_270x292": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_150x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_ScoreBoard_220x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_323x484": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_450x500": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PurchasePopup_1100x480": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_Featured_812x1010": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_1860_868": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Featured_Heroes_550x876": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SkinKillStreakAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_SuperMinion.T_Hero_Icon_Portrait_Alpha_Dawn_SuperMinion",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemyAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_SuperMinion.T_Hero_Icon_Portrait_Alpha_Dawn_SuperMinion",
+          "SubPathString": ""
+        },
+        "PortraitLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_SuperMinion.T_Hero_Icon_Portrait_Alpha_Dawn_SuperMinion",
+          "SubPathString": ""
+        },
+        "PingLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_SuperMinion.T_Hero_Icon_Portrait_Alpha_Dawn_SuperMinion",
+          "SubPathString": ""
+        },
+        "IndicatorCoordinate": [
+          "0.9",
+          "0.9",
+          "0.7",
+          "0.7"
+        ],
+        "IndicatorCoordinateAdd": [
+          "0.9",
+          "0.9",
+          "0.5",
+          "0.5"
+        ],
+        "IndicatorCoordinateDot": [
+          "0.1",
+          "1",
+          "0.6",
+          "0.6"
+        ],
+        "IndicatorCoordinateGold": [
+          "0",
+          "1"
+        ]
+      },
+      "10029": {
+        "SkinID": "2022001",
+        "HeroGroupID": "2022",
+        "UnitType": "EActorMainType::EAMT_LaneMinion",
+        "EditorOnly": false,
+        "SkinGrade": "ESkinGrade::Original",
+        "SkinName": "None",
+        "SkinDescription": "None",
+        "SkinIcon": "NPC_Icon_Dusk_MeleeMinion_Agora_Portrait",
+        "HeroBP": "NPC_LaneMinion_Melee_Dusk",
+        "AssetReference": {
+          "AssetPathName": "/Game/InGame/NPCs/LaneMinions/NPC_LaneMinion_Melee_Dusk.NPC_LaneMinion_Melee_Dusk_C",
+          "SubPathString": ""
+        },
+        "SkinKillStreak": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_MeleeMinion.T_Hero_Icon_Portrait_Alpha_Dusk_MeleeMinion",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemy": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_MeleeMinion.T_Hero_Icon_Portrait_Alpha_Dusk_MeleeMinion",
+          "SubPathString": ""
+        },
+        "AvartarPortrait": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DraftBanpick": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitDraft": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/NPC_Icon_Dusk_MeleeMinion_Agora_Portrait.NPC_Icon_Dusk_MeleeMinion_Agora_Portrait",
+          "SubPathString": ""
+        },
+        "PortraitDraftHeroSlot": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitLarge": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/NPC_Icon_Dusk_MeleeMinion_Agora_Portrait.NPC_Icon_Dusk_MeleeMinion_Agora_Portrait",
+          "SubPathString": ""
+        },
+        "Normal_Skin_210x210": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Collection_270x292": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_150x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_ScoreBoard_220x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_323x484": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_450x500": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PurchasePopup_1100x480": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_Featured_812x1010": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_1860_868": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Featured_Heroes_550x876": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SkinKillStreakAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_MeleeMinion.T_Hero_Icon_Portrait_Alpha_Dusk_MeleeMinion",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemyAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_MeleeMinion.T_Hero_Icon_Portrait_Alpha_Dusk_MeleeMinion",
+          "SubPathString": ""
+        },
+        "PortraitLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_MeleeMinion.T_Hero_Icon_Portrait_Alpha_Dusk_MeleeMinion",
+          "SubPathString": ""
+        },
+        "PingLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_MeleeMinion.T_Hero_Icon_Portrait_Alpha_Dusk_MeleeMinion",
+          "SubPathString": ""
+        },
+        "IndicatorCoordinate": [
+          "0.9",
+          "0.9",
+          "0.7",
+          "0.7"
+        ],
+        "IndicatorCoordinateAdd": [
+          "0.9",
+          "0.9",
+          "0.5",
+          "0.5"
+        ],
+        "IndicatorCoordinateDot": [
+          "0.1",
+          "1",
+          "0.6",
+          "0.6"
+        ],
+        "IndicatorCoordinateGold": [
+          "0",
+          "1.2"
+        ]
+      },
+      "10030": {
+        "SkinID": "2023001",
+        "HeroGroupID": "2023",
+        "UnitType": "EActorMainType::EAMT_LaneMinion",
+        "EditorOnly": false,
+        "SkinGrade": "ESkinGrade::Original",
+        "SkinName": "None",
+        "SkinDescription": "None",
+        "SkinIcon": "NPC_Icon_Dusk_RangedMinion_Agora_Portrait",
+        "HeroBP": "NPC_LaneMinion_Ranged_Dusk",
+        "AssetReference": {
+          "AssetPathName": "/Game/InGame/NPCs/LaneMinions/NPC_LaneMinion_Ranged_Dusk.NPC_LaneMinion_Ranged_Dusk_C",
+          "SubPathString": ""
+        },
+        "SkinKillStreak": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_RangedMinion.T_Hero_Icon_Portrait_Alpha_Dusk_RangedMinion",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemy": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_RangedMinion.T_Hero_Icon_Portrait_Alpha_Dusk_RangedMinion",
+          "SubPathString": ""
+        },
+        "AvartarPortrait": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DraftBanpick": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitDraft": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/NPC_Icon_Dusk_RangedMinion_Agora_Portrait.NPC_Icon_Dusk_RangedMinion_Agora_Portrait",
+          "SubPathString": ""
+        },
+        "PortraitDraftHeroSlot": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitLarge": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/NPC_Icon_Dusk_RangedMinion_Agora_Portrait.NPC_Icon_Dusk_RangedMinion_Agora_Portrait",
+          "SubPathString": ""
+        },
+        "Normal_Skin_210x210": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Collection_270x292": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_150x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_ScoreBoard_220x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_323x484": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_450x500": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PurchasePopup_1100x480": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_Featured_812x1010": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_1860_868": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Featured_Heroes_550x876": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SkinKillStreakAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_RangedMinion.T_Hero_Icon_Portrait_Alpha_Dusk_RangedMinion",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemyAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_RangedMinion.T_Hero_Icon_Portrait_Alpha_Dusk_RangedMinion",
+          "SubPathString": ""
+        },
+        "PortraitLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_RangedMinion.T_Hero_Icon_Portrait_Alpha_Dusk_RangedMinion",
+          "SubPathString": ""
+        },
+        "PingLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_RangedMinion.T_Hero_Icon_Portrait_Alpha_Dusk_RangedMinion",
+          "SubPathString": ""
+        },
+        "IndicatorCoordinate": [
+          "0.9",
+          "0.9",
+          "0.7",
+          "0.7"
+        ],
+        "IndicatorCoordinateAdd": [
+          "0.9",
+          "0.9",
+          "0.5",
+          "0.5"
+        ],
+        "IndicatorCoordinateDot": [
+          "0.1",
+          "1",
+          "0.6",
+          "0.6"
+        ],
+        "IndicatorCoordinateGold": [
+          "0",
+          "1.2"
+        ]
+      },
+      "10031": {
+        "SkinID": "2024001",
+        "HeroGroupID": "2024",
+        "UnitType": "EActorMainType::EAMT_LaneMinion",
+        "EditorOnly": false,
+        "SkinGrade": "ESkinGrade::Original",
+        "SkinName": "None",
+        "SkinDescription": "None",
+        "SkinIcon": "NPC_Icon_Dusk_SiegeMinion_Agora_Portrait",
+        "HeroBP": "NPC_LaneMinion_Siege_Dusk",
+        "AssetReference": {
+          "AssetPathName": "/Game/InGame/NPCs/LaneMinions/NPC_LaneMinion_Siege_Dusk.NPC_LaneMinion_Siege_Dusk_C",
+          "SubPathString": ""
+        },
+        "SkinKillStreak": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_SiegeMinion.T_Hero_Icon_Portrait_Alpha_Dusk_SiegeMinion",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemy": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_SiegeMinion.T_Hero_Icon_Portrait_Alpha_Dusk_SiegeMinion",
+          "SubPathString": ""
+        },
+        "AvartarPortrait": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DraftBanpick": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitDraft": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/NPC_Icon_Dusk_SiegeMinion_Agora_Portrait.NPC_Icon_Dusk_SiegeMinion_Agora_Portrait",
+          "SubPathString": ""
+        },
+        "PortraitDraftHeroSlot": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitLarge": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/NPC_Icon_Dusk_SiegeMinion_Agora_Portrait.NPC_Icon_Dusk_SiegeMinion_Agora_Portrait",
+          "SubPathString": ""
+        },
+        "Normal_Skin_210x210": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Collection_270x292": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_150x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_ScoreBoard_220x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_323x484": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_450x500": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PurchasePopup_1100x480": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_Featured_812x1010": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_1860_868": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Featured_Heroes_550x876": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SkinKillStreakAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_SiegeMinion.T_Hero_Icon_Portrait_Alpha_Dusk_SiegeMinion",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemyAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_SiegeMinion.T_Hero_Icon_Portrait_Alpha_Dusk_SiegeMinion",
+          "SubPathString": ""
+        },
+        "PortraitLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_SiegeMinion.T_Hero_Icon_Portrait_Alpha_Dusk_SiegeMinion",
+          "SubPathString": ""
+        },
+        "PingLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_SiegeMinion.T_Hero_Icon_Portrait_Alpha_Dusk_SiegeMinion",
+          "SubPathString": ""
+        },
+        "IndicatorCoordinate": [
+          "0.9",
+          "0.9",
+          "0.7",
+          "0.7"
+        ],
+        "IndicatorCoordinateAdd": [
+          "0.9",
+          "0.9",
+          "0.5",
+          "0.5"
+        ],
+        "IndicatorCoordinateDot": [
+          "0.1",
+          "1",
+          "0.6",
+          "0.6"
+        ],
+        "IndicatorCoordinateGold": [
+          "0",
+          "1.2"
+        ]
+      },
+      "10032": {
+        "SkinID": "2025001",
+        "HeroGroupID": "2025",
+        "UnitType": "EActorMainType::EAMT_LaneMinion",
+        "EditorOnly": false,
+        "SkinGrade": "ESkinGrade::Original",
+        "SkinName": "None",
+        "SkinDescription": "None",
+        "SkinIcon": "NPC_Icon_Dusk_SuperMinion_Agora_Portrait",
+        "HeroBP": "NPC_LaneMinion_Super_Dusk",
+        "AssetReference": {
+          "AssetPathName": "/Game/InGame/NPCs/LaneMinions/NPC_LaneMinion_Super_Dusk.NPC_LaneMinion_Super_Dusk_C",
+          "SubPathString": ""
+        },
+        "SkinKillStreak": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_SuperMinion.T_Hero_Icon_Portrait_Alpha_Dusk_SuperMinion",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemy": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_SuperMinion.T_Hero_Icon_Portrait_Alpha_Dusk_SuperMinion",
+          "SubPathString": ""
+        },
+        "AvartarPortrait": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DraftBanpick": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitDraft": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/NPC_Icon_Dusk_SuperMinion_Agora_Portrait.NPC_Icon_Dusk_SuperMinion_Agora_Portrait",
+          "SubPathString": ""
+        },
+        "PortraitDraftHeroSlot": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitLarge": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/NPC_Icon_Dusk_SuperMinion_Agora_Portrait.NPC_Icon_Dusk_SuperMinion_Agora_Portrait",
+          "SubPathString": ""
+        },
+        "Normal_Skin_210x210": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Collection_270x292": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_150x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_ScoreBoard_220x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_323x484": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_450x500": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PurchasePopup_1100x480": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_Featured_812x1010": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_1860_868": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Featured_Heroes_550x876": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SkinKillStreakAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_SuperMinion.T_Hero_Icon_Portrait_Alpha_Dusk_SuperMinion",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemyAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_SuperMinion.T_Hero_Icon_Portrait_Alpha_Dusk_SuperMinion",
+          "SubPathString": ""
+        },
+        "PortraitLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_SuperMinion.T_Hero_Icon_Portrait_Alpha_Dusk_SuperMinion",
+          "SubPathString": ""
+        },
+        "PingLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_SuperMinion.T_Hero_Icon_Portrait_Alpha_Dusk_SuperMinion",
+          "SubPathString": ""
+        },
+        "IndicatorCoordinate": [
+          "0.9",
+          "0.9",
+          "0.7",
+          "0.7"
+        ],
+        "IndicatorCoordinateAdd": [
+          "0.9",
+          "0.9",
+          "0.5",
+          "0.5"
+        ],
+        "IndicatorCoordinateDot": [
+          "0.1",
+          "1",
+          "0.6",
+          "0.6"
+        ],
+        "IndicatorCoordinateGold": [
+          "0",
+          "1"
+        ]
+      },
+      "10033": {
         "SkinID": "2101001",
         "HeroGroupID": "2101",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -24999,7 +26575,7 @@
           "0.5"
         ]
       },
-      "10026": {
+      "10034": {
         "SkinID": "2102001",
         "HeroGroupID": "2102",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -25120,7 +26696,7 @@
           "0.35"
         ]
       },
-      "10027": {
+      "10035": {
         "SkinID": "2103001",
         "HeroGroupID": "2103",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -25241,7 +26817,7 @@
           "0.35"
         ]
       },
-      "10028": {
+      "10036": {
         "SkinID": "2104001",
         "HeroGroupID": "2104",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -25362,7 +26938,7 @@
           "0.35"
         ]
       },
-      "10029": {
+      "10037": {
         "SkinID": "2105001",
         "HeroGroupID": "2105",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -25480,7 +27056,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10030": {
+      "10038": {
         "SkinID": "2112001",
         "HeroGroupID": "2112",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -25598,7 +27174,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10031": {
+      "10039": {
         "SkinID": "2113001",
         "HeroGroupID": "2113",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -25716,7 +27292,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10032": {
+      "10040": {
         "SkinID": "2114001",
         "HeroGroupID": "2114",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -25834,7 +27410,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10033": {
+      "10041": {
         "SkinID": "2106001",
         "HeroGroupID": "2106",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -25955,7 +27531,7 @@
           "0.5"
         ]
       },
-      "10034": {
+      "10042": {
         "SkinID": "2107001",
         "HeroGroupID": "2107",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -26076,7 +27652,7 @@
           "0.35"
         ]
       },
-      "10035": {
+      "10043": {
         "SkinID": "2108001",
         "HeroGroupID": "2108",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -26197,7 +27773,7 @@
           "0.35"
         ]
       },
-      "10036": {
+      "10044": {
         "SkinID": "2109001",
         "HeroGroupID": "2109",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -26318,7 +27894,7 @@
           "0.35"
         ]
       },
-      "10037": {
+      "10045": {
         "SkinID": "2110001",
         "HeroGroupID": "2110",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -26436,7 +28012,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10038": {
+      "10046": {
         "SkinID": "2117001",
         "HeroGroupID": "2117",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -26554,7 +28130,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10039": {
+      "10047": {
         "SkinID": "2118001",
         "HeroGroupID": "2118",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -26672,7 +28248,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10040": {
+      "10048": {
         "SkinID": "2119001",
         "HeroGroupID": "2119",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -26790,7 +28366,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10041": {
+      "10049": {
         "SkinID": "2201001",
         "HeroGroupID": "2201",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -26911,7 +28487,7 @@
           "0.5"
         ]
       },
-      "10042": {
+      "10050": {
         "SkinID": "2202001",
         "HeroGroupID": "2202",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -27032,7 +28608,7 @@
           "0.5"
         ]
       },
-      "10043": {
+      "10051": {
         "SkinID": "2203001",
         "HeroGroupID": "2203",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -27153,7 +28729,7 @@
           "0.35"
         ]
       },
-      "10044": {
+      "10052": {
         "SkinID": "2204001",
         "HeroGroupID": "2204",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -27274,7 +28850,7 @@
           "0.35"
         ]
       },
-      "10045": {
+      "10053": {
         "SkinID": "2205001",
         "HeroGroupID": "2205",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -27395,7 +28971,7 @@
           "0.35"
         ]
       },
-      "10046": {
+      "10054": {
         "SkinID": "2206001",
         "HeroGroupID": "2206",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -27513,7 +29089,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10047": {
+      "10055": {
         "SkinID": "2220001",
         "HeroGroupID": "2220",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -27631,7 +29207,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10048": {
+      "10056": {
         "SkinID": "2221001",
         "HeroGroupID": "2221",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -27749,7 +29325,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10049": {
+      "10057": {
         "SkinID": "2222001",
         "HeroGroupID": "2222",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -27867,7 +29443,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10050": {
+      "10058": {
         "SkinID": "2207001",
         "HeroGroupID": "2207",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -27988,7 +29564,7 @@
           "0.5"
         ]
       },
-      "10051": {
+      "10059": {
         "SkinID": "2208001",
         "HeroGroupID": "2208",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -28109,7 +29685,7 @@
           "0.5"
         ]
       },
-      "10052": {
+      "10060": {
         "SkinID": "2209001",
         "HeroGroupID": "2209",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -28230,7 +29806,7 @@
           "0.35"
         ]
       },
-      "10053": {
+      "10061": {
         "SkinID": "2210001",
         "HeroGroupID": "2210",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -28351,7 +29927,7 @@
           "0.35"
         ]
       },
-      "10054": {
+      "10062": {
         "SkinID": "2211001",
         "HeroGroupID": "2211",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -28472,7 +30048,7 @@
           "0.35"
         ]
       },
-      "10055": {
+      "10063": {
         "SkinID": "2212001",
         "HeroGroupID": "2212",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -28590,7 +30166,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10056": {
+      "10064": {
         "SkinID": "2223001",
         "HeroGroupID": "2223",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -28708,7 +30284,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10057": {
+      "10065": {
         "SkinID": "2224001",
         "HeroGroupID": "2224",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -28826,7 +30402,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10058": {
+      "10066": {
         "SkinID": "2225001",
         "HeroGroupID": "2225",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -28944,7 +30520,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10059": {
+      "10067": {
         "SkinID": "2301001",
         "HeroGroupID": "2301",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -29065,7 +30641,7 @@
           "0.5"
         ]
       },
-      "10060": {
+      "10068": {
         "SkinID": "2302001",
         "HeroGroupID": "2302",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -29186,7 +30762,7 @@
           "0.35"
         ]
       },
-      "10061": {
+      "10069": {
         "SkinID": "2305001",
         "HeroGroupID": "2305",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -29304,7 +30880,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10062": {
+      "10070": {
         "SkinID": "2306001",
         "HeroGroupID": "2306",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -29425,7 +31001,7 @@
           "0.5"
         ]
       },
-      "10063": {
+      "10071": {
         "SkinID": "2307001",
         "HeroGroupID": "2307",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -29546,7 +31122,7 @@
           "0.35"
         ]
       },
-      "10064": {
+      "10072": {
         "SkinID": "2310001",
         "HeroGroupID": "2310",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -29664,7 +31240,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10065": {
+      "10073": {
         "SkinID": "2150001",
         "HeroGroupID": "2150",
         "UnitType": "EActorMainType::EAMT_Summons",
@@ -29785,7 +31361,7 @@
           "1"
         ]
       },
-      "10066": {
+      "10074": {
         "SkinID": "2150008",
         "HeroGroupID": "2150",
         "UnitType": "EActorMainType::EAMT_Summons",
@@ -29906,7 +31482,7 @@
           "1"
         ]
       },
-      "10067": {
+      "10075": {
         "SkinID": "2151001",
         "HeroGroupID": "2151",
         "UnitType": "EActorMainType::EAMT_Summons",
@@ -30027,7 +31603,7 @@
           "1"
         ]
       },
-      "10068": {
+      "10076": {
         "SkinID": "2152001",
         "HeroGroupID": "2152",
         "UnitType": "EActorMainType::EAMT_Summons",
@@ -30148,7 +31724,7 @@
           "1"
         ]
       },
-      "10069": {
+      "10077": {
         "SkinID": "2153001",
         "HeroGroupID": "2153",
         "UnitType": "EActorMainType::EAMT_Summons",
@@ -30266,7 +31842,125 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10070": {
+      "10078": {
+        "SkinID": "2153002",
+        "HeroGroupID": "2153",
+        "UnitType": "EActorMainType::EAMT_Summons",
+        "EditorOnly": false,
+        "SkinGrade": "ESkinGrade::Original",
+        "SkinName": "None",
+        "SkinDescription": "None",
+        "SkinIcon": "None",
+        "HeroBP": "Wraith_Ward_1033006",
+        "AssetReference": {
+          "AssetPathName": "/Game/InGame/Summons/Wraith_Ward_1033006.Wraith_Ward_1033006_C",
+          "SubPathString": ""
+        },
+        "SkinKillStreak": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemy": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AvartarPortrait": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DraftBanpick": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitDraft": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitDraftHeroSlot": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitLarge": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Normal_Skin_210x210": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Collection_270x292": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_150x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_ScoreBoard_220x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_323x484": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_450x500": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PurchasePopup_1100x480": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_Featured_812x1010": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_1860_868": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Featured_Heroes_550x876": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SkinKillStreakAlpha": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemyAlpha": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitLargeAlpha": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PingLargeAlpha": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "IndicatorCoordinate": [
+          "0.9",
+          "0.9",
+          "0.7",
+          "0.7"
+        ],
+        "IndicatorCoordinateAdd": [
+          "0.9",
+          "0.9",
+          "0.5",
+          "0.5"
+        ],
+        "IndicatorCoordinateDot": [
+          "0.1",
+          "1",
+          "0.6",
+          "0.6"
+        ],
+        "IndicatorCoordinateGold": []
+      },
+      "10079": {
         "SkinID": "2154001",
         "HeroGroupID": "2154",
         "UnitType": "EActorMainType::EAMT_Summons",
@@ -30384,7 +32078,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10071": {
+      "10080": {
         "SkinID": "2154006",
         "HeroGroupID": "2154",
         "UnitType": "EActorMainType::EAMT_Summons",
@@ -30502,7 +32196,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10072": {
+      "10081": {
         "SkinID": "2155001",
         "HeroGroupID": "2155",
         "UnitType": "EActorMainType::EAMT_Summons",
@@ -30623,7 +32317,7 @@
           "1"
         ]
       },
-      "10073": {
+      "10082": {
         "SkinID": "2155005",
         "HeroGroupID": "2155",
         "UnitType": "EActorMainType::EAMT_Summons",
@@ -30744,7 +32438,7 @@
           "1"
         ]
       },
-      "10074": {
+      "10083": {
         "SkinID": "2155006",
         "HeroGroupID": "2155",
         "UnitType": "EActorMainType::EAMT_Summons",
@@ -30865,7 +32559,7 @@
           "1"
         ]
       },
-      "10075": {
+      "10084": {
         "SkinID": "2400001",
         "HeroGroupID": "2400",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -30983,7 +32677,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10076": {
+      "10085": {
         "SkinID": "4001001",
         "HeroGroupID": "4001",
         "UnitType": "EActorMainType::EAMT_Summons",
@@ -31101,7 +32795,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10077": {
+      "10086": {
         "SkinID": "4001002",
         "HeroGroupID": "4001",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -31219,7 +32913,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10078": {
+      "10087": {
         "SkinID": "4001003",
         "HeroGroupID": "4001",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -31337,7 +33031,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10079": {
+      "10088": {
         "SkinID": "4001004",
         "HeroGroupID": "4001",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -31455,7 +33149,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10080": {
+      "10089": {
         "SkinID": "4001005",
         "HeroGroupID": "4001",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -31573,7 +33267,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10081": {
+      "10090": {
         "SkinID": "4001006",
         "HeroGroupID": "4001",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -31691,7 +33385,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10082": {
+      "10091": {
         "SkinID": "4001007",
         "HeroGroupID": "4001",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -31809,7 +33503,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10083": {
+      "10092": {
         "SkinID": "4001008",
         "HeroGroupID": "4001",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -31927,7 +33621,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10084": {
+      "10093": {
         "SkinID": "5000001",
         "HeroGroupID": "5000",
         "UnitType": "EActorMainType::EAMT_Hero",
@@ -32045,7 +33739,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10085": {
+      "10094": {
         "SkinID": "10000001",
         "HeroGroupID": "10000",
         "UnitType": "EActorMainType::EAMT_None",
@@ -32148,7 +33842,7 @@
         "IndicatorCoordinateDot": [],
         "IndicatorCoordinateGold": []
       },
-      "10086": {
+      "10095": {
         "SkinID": "2401001",
         "HeroGroupID": "2401",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -32266,7 +33960,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10087": {
+      "10096": {
         "SkinID": "2402001",
         "HeroGroupID": "2402",
         "UnitType": "EActorMainType::EAMT_Summons",
@@ -32384,7 +34078,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10088": {
+      "10097": {
         "SkinID": "2403001",
         "HeroGroupID": "2403",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -32502,7 +34196,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10089": {
+      "10098": {
         "SkinID": "2405001",
         "HeroGroupID": "2405",
         "UnitType": "EActorMainType::EAMT_Building",
@@ -32620,7 +34314,7 @@
         ],
         "IndicatorCoordinateGold": []
       },
-      "10090": {
+      "10099": {
         "SkinID": "2410001",
         "HeroGroupID": "2410",
         "UnitType": "EActorMainType::EAMT_LaneMinion",
@@ -32741,7 +34435,7 @@
           "1.2"
         ]
       },
-      "10091": {
+      "10100": {
         "SkinID": "2411001",
         "HeroGroupID": "2411",
         "UnitType": "EActorMainType::EAMT_LaneMinion",
@@ -32862,7 +34556,7 @@
           "1.2"
         ]
       },
-      "10092": {
+      "10101": {
         "SkinID": "2412001",
         "HeroGroupID": "2412",
         "UnitType": "EActorMainType::EAMT_LaneMinion",
@@ -32983,7 +34677,7 @@
           "1.2"
         ]
       },
-      "10093": {
+      "10102": {
         "SkinID": "2413001",
         "HeroGroupID": "2413",
         "UnitType": "EActorMainType::EAMT_LaneMinion",
@@ -33104,7 +34798,7 @@
           "1"
         ]
       },
-      "10094": {
+      "10103": {
         "SkinID": "2414001",
         "HeroGroupID": "2414",
         "UnitType": "EActorMainType::EAMT_LaneMinion",
@@ -33225,7 +34919,7 @@
           "1.2"
         ]
       },
-      "10095": {
+      "10104": {
         "SkinID": "2415001",
         "HeroGroupID": "2415",
         "UnitType": "EActorMainType::EAMT_LaneMinion",
@@ -33346,7 +35040,7 @@
           "1.2"
         ]
       },
-      "10096": {
+      "10105": {
         "SkinID": "2416001",
         "HeroGroupID": "2416",
         "UnitType": "EActorMainType::EAMT_LaneMinion",
@@ -33467,7 +35161,7 @@
           "1.2"
         ]
       },
-      "10097": {
+      "10106": {
         "SkinID": "2417001",
         "HeroGroupID": "2417",
         "UnitType": "EActorMainType::EAMT_LaneMinion",
@@ -33588,7 +35282,7 @@
           "1"
         ]
       },
-      "10098": {
+      "10107": {
         "SkinID": "2500001",
         "HeroGroupID": "2500",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -33709,7 +35403,7 @@
           "1"
         ]
       },
-      "10099": {
+      "10108": {
         "SkinID": "2501001",
         "HeroGroupID": "2501",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -33830,7 +35524,7 @@
           "1"
         ]
       },
-      "10100": {
+      "10109": {
         "SkinID": "2502001",
         "HeroGroupID": "2502",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -33951,7 +35645,7 @@
           "1"
         ]
       },
-      "10101": {
+      "10110": {
         "SkinID": "2503001",
         "HeroGroupID": "2503",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -34072,7 +35766,7 @@
           "1"
         ]
       },
-      "10102": {
+      "10111": {
         "SkinID": "2504001",
         "HeroGroupID": "2504",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -34193,7 +35887,7 @@
           "1"
         ]
       },
-      "10103": {
+      "10112": {
         "SkinID": "2505001",
         "HeroGroupID": "2505",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -34314,7 +36008,7 @@
           "1"
         ]
       },
-      "10104": {
+      "10113": {
         "SkinID": "2506001",
         "HeroGroupID": "2506",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -34435,7 +36129,7 @@
           "1"
         ]
       },
-      "10105": {
+      "10114": {
         "SkinID": "2507001",
         "HeroGroupID": "2507",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -34556,7 +36250,7 @@
           "1"
         ]
       },
-      "10106": {
+      "10115": {
         "SkinID": "2508001",
         "HeroGroupID": "2508",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -34677,7 +36371,7 @@
           "1"
         ]
       },
-      "10107": {
+      "10116": {
         "SkinID": "2509001",
         "HeroGroupID": "2509",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -34798,7 +36492,7 @@
           "1"
         ]
       },
-      "10108": {
+      "10117": {
         "SkinID": "2510001",
         "HeroGroupID": "2510",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -34919,7 +36613,7 @@
           "1"
         ]
       },
-      "10109": {
+      "10118": {
         "SkinID": "2511001",
         "HeroGroupID": "2511",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -35040,7 +36734,7 @@
           "1"
         ]
       },
-      "10110": {
+      "10119": {
         "SkinID": "2512001",
         "HeroGroupID": "2512",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -35161,7 +36855,7 @@
           "1"
         ]
       },
-      "10111": {
+      "10120": {
         "SkinID": "2513001",
         "HeroGroupID": "2513",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -35282,7 +36976,7 @@
           "1"
         ]
       },
-      "10112": {
+      "10121": {
         "SkinID": "2514001",
         "HeroGroupID": "2514",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -35403,7 +37097,7 @@
           "1"
         ]
       },
-      "10113": {
+      "10122": {
         "SkinID": "2515001",
         "HeroGroupID": "2515",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -35524,7 +37218,7 @@
           "1"
         ]
       },
-      "10114": {
+      "10123": {
         "SkinID": "2516001",
         "HeroGroupID": "2516",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -35645,7 +37339,7 @@
           "1"
         ]
       },
-      "10115": {
+      "10124": {
         "SkinID": "2517001",
         "HeroGroupID": "2517",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -35766,7 +37460,7 @@
           "1"
         ]
       },
-      "10116": {
+      "10125": {
         "SkinID": "2518001",
         "HeroGroupID": "2518",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -35887,7 +37581,7 @@
           "1"
         ]
       },
-      "10117": {
+      "10126": {
         "SkinID": "2519001",
         "HeroGroupID": "2519",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -36008,7 +37702,7 @@
           "1"
         ]
       },
-      "10118": {
+      "10127": {
         "SkinID": "2520001",
         "HeroGroupID": "2520",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -36129,7 +37823,7 @@
           "1"
         ]
       },
-      "10119": {
+      "10128": {
         "SkinID": "2521001",
         "HeroGroupID": "2521",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -36250,7 +37944,7 @@
           "1"
         ]
       },
-      "10120": {
+      "10129": {
         "SkinID": "2522001",
         "HeroGroupID": "2522",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -36371,7 +38065,7 @@
           "1"
         ]
       },
-      "10121": {
+      "10130": {
         "SkinID": "2523001",
         "HeroGroupID": "2523",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -36492,7 +38186,7 @@
           "1"
         ]
       },
-      "10122": {
+      "10131": {
         "SkinID": "2524001",
         "HeroGroupID": "2524",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -36613,7 +38307,7 @@
           "1"
         ]
       },
-      "10123": {
+      "10132": {
         "SkinID": "2525001",
         "HeroGroupID": "2525",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -36734,7 +38428,7 @@
           "1"
         ]
       },
-      "10124": {
+      "10133": {
         "SkinID": "2526001",
         "HeroGroupID": "2526",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -36855,7 +38549,7 @@
           "1"
         ]
       },
-      "10125": {
+      "10134": {
         "SkinID": "2527001",
         "HeroGroupID": "2527",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -36976,7 +38670,7 @@
           "1"
         ]
       },
-      "10126": {
+      "10135": {
         "SkinID": "2528001",
         "HeroGroupID": "2528",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -37097,7 +38791,7 @@
           "1"
         ]
       },
-      "10127": {
+      "10136": {
         "SkinID": "2529001",
         "HeroGroupID": "2529",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -37218,7 +38912,7 @@
           "1"
         ]
       },
-      "10128": {
+      "10137": {
         "SkinID": "2530001",
         "HeroGroupID": "2530",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -37339,7 +39033,7 @@
           "1"
         ]
       },
-      "10129": {
+      "10138": {
         "SkinID": "2531001",
         "HeroGroupID": "2531",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -37460,7 +39154,7 @@
           "1"
         ]
       },
-      "10130": {
+      "10139": {
         "SkinID": "2532001",
         "HeroGroupID": "2532",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -37581,7 +39275,7 @@
           "1"
         ]
       },
-      "10131": {
+      "10140": {
         "SkinID": "2533001",
         "HeroGroupID": "2533",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -37702,7 +39396,7 @@
           "1"
         ]
       },
-      "10132": {
+      "10141": {
         "SkinID": "2534001",
         "HeroGroupID": "2534",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -37823,7 +39517,7 @@
           "1"
         ]
       },
-      "10133": {
+      "10142": {
         "SkinID": "2535001",
         "HeroGroupID": "2535",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -37944,7 +39638,7 @@
           "1"
         ]
       },
-      "10134": {
+      "10143": {
         "SkinID": "2536001",
         "HeroGroupID": "2536",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -38065,7 +39759,7 @@
           "1"
         ]
       },
-      "10135": {
+      "10144": {
         "SkinID": "2537001",
         "HeroGroupID": "2537",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -38186,7 +39880,7 @@
           "1"
         ]
       },
-      "10136": {
+      "10145": {
         "SkinID": "2538001",
         "HeroGroupID": "2538",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -38307,7 +40001,7 @@
           "1"
         ]
       },
-      "10137": {
+      "10146": {
         "SkinID": "2539001",
         "HeroGroupID": "2539",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -38428,7 +40122,7 @@
           "1"
         ]
       },
-      "10138": {
+      "10147": {
         "SkinID": "2540001",
         "HeroGroupID": "2540",
         "UnitType": "EActorMainType::EAMT_JungleMinion",
@@ -38549,7 +40243,7 @@
           "1"
         ]
       },
-      "10139": {
+      "10148": {
         "SkinID": "2541001",
         "HeroGroupID": "2541",
         "UnitType": "EActorMainType::EAMT_JungleMinion",

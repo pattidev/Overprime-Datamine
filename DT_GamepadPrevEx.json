@@ -1,0 +1,197 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_GamepadPrevEx",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'GamepadPrevExTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "Layout": 0,
+        "Key1": "Gamepad_LeftShoulder",
+        "Key2": "Gamepad_FaceButton_Left",
+        "Key3": "",
+        "KeyText": "UI.Setting_Controls_ItemUse_Num1"
+      },
+      "2": {
+        "Layout": 0,
+        "Key1": "Gamepad_LeftShoulder",
+        "Key2": "Gamepad_FaceButton_Top",
+        "Key3": "",
+        "KeyText": "UI.Setting_Controls_ItemUse_Num2"
+      },
+      "3": {
+        "Layout": 0,
+        "Key1": "Gamepad_LeftShoulder",
+        "Key2": "Gamepad_FaceButton_Right",
+        "Key3": "",
+        "KeyText": "UI.Setting_Controls_ItemUse_Num3"
+      },
+      "4": {
+        "Layout": 0,
+        "Key1": "Gamepad_LeftShoulder",
+        "Key2": "Gamepad_FaceButton_Bottom",
+        "Key3": "",
+        "KeyText": "UI.Setting_Controls_ItemUse_Num4"
+      },
+      "5": {
+        "Layout": 0,
+        "Key1": "Gamepad_LeftShoulder",
+        "Key2": "Gamepad_LeftThumbstick",
+        "Key3": "",
+        "KeyText": "UI.Setting_Controls_ItemUse_Num5"
+      },
+      "6": {
+        "Layout": 0,
+        "Key1": "Gamepad_LeftShoulder",
+        "Key2": "Gamepad_RightThumbstick",
+        "Key3": "",
+        "KeyText": "UI.Setting_Controls_ItemUse_Num6"
+      },
+      "7": {
+        "Layout": 0,
+        "Key1": "Gamepad_LeftShoulder",
+        "Key2": "Gamepad_RightShoulder",
+        "Key3": "",
+        "KeyText": "UI.Setting_Controls_Etc_OrbDrop"
+      },
+      "8": {
+        "Layout": 0,
+        "Key1": "Gamepad_LeftShoulder",
+        "Key2": "Gamepad_DPad_Left",
+        "Key3": "",
+        "KeyText": "UI.Setting_Controls_Surrender_Agreement"
+      },
+      "9": {
+        "Layout": 0,
+        "Key1": "Gamepad_LeftShoulder",
+        "Key2": "Gamepad_DPad_Right",
+        "Key3": "",
+        "KeyText": "UI.Setting_Controls_Surrender_Opposition"
+      },
+      "10": {
+        "Layout": 0,
+        "Key1": "Gamepad_DPad_Left",
+        "Key2": "Gamepad_FaceButton_Bottom",
+        "Key3": "",
+        "KeyText": "UI.Setting_Controls_Etc_Training"
+      },
+      "11": {
+        "Layout": 0,
+        "Key1": "Gamepad_DPad_Left",
+        "Key2": "Gamepad_FaceButton_Left",
+        "Key3": "",
+        "KeyText": "UI.Setting_Controls_QuickBuy_Offensive"
+      },
+      "12": {
+        "Layout": 0,
+        "Key1": "Gamepad_DPad_Left",
+        "Key2": "Gamepad_FaceButton_Top",
+        "Key3": "",
+        "KeyText": "UI.Setting_Controls_QuickBuy_Defensive"
+      },
+      "13": {
+        "Layout": 0,
+        "Key1": "Gamepad_DPad_Left",
+        "Key2": "Gamepad_FaceButton_Right",
+        "Key3": "",
+        "KeyText": "UI.Setting_Controls_QuickBuy_Assistant"
+      },
+      "14": {
+        "Layout": 1,
+        "Key1": "Gamepad_LeftShoulder",
+        "Key2": "Gamepad_FaceButton_Left",
+        "Key3": "",
+        "KeyText": "UI.Setting_Controls_ItemUse_Num1"
+      },
+      "15": {
+        "Layout": 1,
+        "Key1": "Gamepad_LeftShoulder",
+        "Key2": "Gamepad_FaceButton_Bottom",
+        "Key3": "",
+        "KeyText": "UI.Setting_Controls_ItemUse_Num2"
+      },
+      "16": {
+        "Layout": 1,
+        "Key1": "Gamepad_LeftShoulder",
+        "Key2": "Gamepad_FaceButton_Right",
+        "Key3": "",
+        "KeyText": "UI.Setting_Controls_ItemUse_Num3"
+      },
+      "17": {
+        "Layout": 1,
+        "Key1": "Gamepad_LeftShoulder",
+        "Key2": "Gamepad_FaceButton_Top",
+        "Key3": "",
+        "KeyText": "UI.Setting_Controls_ItemUse_Num4"
+      },
+      "18": {
+        "Layout": 1,
+        "Key1": "Gamepad_LeftShoulder",
+        "Key2": "Gamepad_LeftThumbstick",
+        "Key3": "",
+        "KeyText": "UI.Setting_Controls_ItemUse_Num5"
+      },
+      "19": {
+        "Layout": 1,
+        "Key1": "Gamepad_LeftShoulder",
+        "Key2": "Gamepad_RightThumbstick",
+        "Key3": "",
+        "KeyText": "UI.Setting_Controls_ItemUse_Num6"
+      },
+      "20": {
+        "Layout": 1,
+        "Key1": "Gamepad_LeftShoulder",
+        "Key2": "Gamepad_RightShoulder",
+        "Key3": "",
+        "KeyText": "UI.Setting_Controls_Etc_OrbDrop"
+      },
+      "21": {
+        "Layout": 1,
+        "Key1": "Gamepad_LeftShoulder",
+        "Key2": "Gamepad_DPad_Left",
+        "Key3": "",
+        "KeyText": "UI.Setting_Controls_Surrender_Agreement"
+      },
+      "22": {
+        "Layout": 1,
+        "Key1": "Gamepad_LeftShoulder",
+        "Key2": "Gamepad_DPad_Right",
+        "Key3": "",
+        "KeyText": "UI.Setting_Controls_Surrender_Opposition"
+      },
+      "23": {
+        "Layout": 1,
+        "Key1": "Gamepad_DPad_Left",
+        "Key2": "Gamepad_FaceButton_Top",
+        "Key3": "",
+        "KeyText": "UI.Setting_Controls_Etc_Training"
+      },
+      "24": {
+        "Layout": 1,
+        "Key1": "Gamepad_DPad_Left",
+        "Key2": "Gamepad_FaceButton_Left",
+        "Key3": "",
+        "KeyText": "UI.Setting_Controls_QuickBuy_Offensive"
+      },
+      "25": {
+        "Layout": 1,
+        "Key1": "Gamepad_DPad_Left",
+        "Key2": "Gamepad_FaceButton_Bottom",
+        "Key3": "",
+        "KeyText": "UI.Setting_Controls_QuickBuy_Defensive"
+      },
+      "26": {
+        "Layout": 1,
+        "Key1": "Gamepad_DPad_Left",
+        "Key2": "Gamepad_FaceButton_Right",
+        "Key3": "",
+        "KeyText": "UI.Setting_Controls_QuickBuy_Assistant"
+      }
+    }
+  }
+]

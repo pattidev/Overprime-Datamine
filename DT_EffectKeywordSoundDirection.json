@@ -9568,6 +9568,59 @@
         "EffectEndSound": [],
         "EffectEndSoundLocal": [],
         "EffectSoundLocalRule": "EEffectKeywordLocalSoundRuleType::EEKLSRT_Caster"
+      },
+      "622": {
+        "TableID": "622",
+        "ExpansionEffectKeyword": "Buff_AutoActive_Instant_1029",
+        "SoundGroupID": "None",
+        "SuperpositionType": "EEffectKeywordSoundDirectionSuperpositionType::ESUPT_IgnoreLater",
+        "SuperpositionValue": 0.0,
+        "EffectStartSound": [
+          "Hero_1029001_Skill_1029010501_start"
+        ],
+        "EffectStartSoundLocal": [
+          "Hero_1029001_Skill_1029010501_local_start"
+        ],
+        "StopOngoingSoundOnEnd": false,
+        "EffectOngoingSound": [],
+        "EffectOngoingSoundLocal": [],
+        "EffectEndSound": [],
+        "EffectEndSoundLocal": [],
+        "EffectSoundLocalRule": "EEffectKeywordLocalSoundRuleType::EEKLSRT_Caster"
+      },
+      "623": {
+        "TableID": "623",
+        "ExpansionEffectKeyword": "Custom_SFX_1029_E",
+        "SoundGroupID": "None",
+        "SuperpositionType": "EEffectKeywordSoundDirectionSuperpositionType::ESUPT_Restart",
+        "SuperpositionValue": 0.0,
+        "EffectStartSound": [],
+        "EffectStartSoundLocal": [
+          "Hero_1029001_Skill_1029010401_local_attack"
+        ],
+        "StopOngoingSoundOnEnd": false,
+        "EffectOngoingSound": [],
+        "EffectOngoingSoundLocal": [],
+        "EffectEndSound": [],
+        "EffectEndSoundLocal": [],
+        "EffectSoundLocalRule": "EEffectKeywordLocalSoundRuleType::EEKLSRT_Both"
+      },
+      "624": {
+        "TableID": "624",
+        "ExpansionEffectKeyword": "Buff_Blink_NonInertia_Link_Collider_Unit_Any",
+        "SoundGroupID": "None",
+        "SuperpositionType": "EEffectKeywordSoundDirectionSuperpositionType::ESUPT_IgnoreLater",
+        "SuperpositionValue": 0.0,
+        "EffectStartSound": [
+          "Hero_Common_Portal_Teleport"
+        ],
+        "EffectStartSoundLocal": [],
+        "StopOngoingSoundOnEnd": false,
+        "EffectOngoingSound": [],
+        "EffectOngoingSoundLocal": [],
+        "EffectEndSound": [],
+        "EffectEndSoundLocal": [],
+        "EffectSoundLocalRule": "EEffectKeywordLocalSoundRuleType::EEKLSRT_Both"
       }
     }
   }

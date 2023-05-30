@@ -12,88 +12,112 @@
     "Rows": {
       "1": {
         "KillDeathType": "EHeroKillDeathStreakType::EHKDST_ConsecutiveKills",
-        "Count": 5,
-        "KillReward": 1000.0,
-        "AssistReward": 300.0,
+        "Count": 999,
+        "KillReward": 100.0,
+        "AssistReward": 30.0,
         "FirstKillBonus": 0.0,
         "FirstAssistBonus": 0.0
       },
       "2": {
         "KillDeathType": "EHeroKillDeathStreakType::EHKDST_ConsecutiveKills",
-        "Count": 4,
-        "KillReward": 800.0,
-        "AssistReward": 200.0,
+        "Count": 6,
+        "KillReward": 1000.0,
+        "AssistReward": 350.0,
         "FirstKillBonus": 0.0,
         "FirstAssistBonus": 0.0
       },
       "3": {
         "KillDeathType": "EHeroKillDeathStreakType::EHKDST_ConsecutiveKills",
-        "Count": 3,
-        "KillReward": 600.0,
-        "AssistReward": 150.0,
+        "Count": 5,
+        "KillReward": 750.0,
+        "AssistReward": 300.0,
         "FirstKillBonus": 0.0,
         "FirstAssistBonus": 0.0
       },
       "4": {
         "KillDeathType": "EHeroKillDeathStreakType::EHKDST_ConsecutiveKills",
-        "Count": 2,
-        "KillReward": 500.0,
-        "AssistReward": 150.0,
+        "Count": 4,
+        "KillReward": 550.0,
+        "AssistReward": 250.0,
         "FirstKillBonus": 0.0,
         "FirstAssistBonus": 0.0
       },
       "5": {
         "KillDeathType": "EHeroKillDeathStreakType::EHKDST_ConsecutiveKills",
-        "Count": 1,
+        "Count": 3,
         "KillReward": 400.0,
-        "AssistReward": 150.0,
+        "AssistReward": 200.0,
         "FirstKillBonus": 0.0,
         "FirstAssistBonus": 0.0
       },
       "6": {
-        "KillDeathType": "EHeroKillDeathStreakType::EHKDST_None",
-        "Count": 0,
+        "KillDeathType": "EHeroKillDeathStreakType::EHKDST_ConsecutiveKills",
+        "Count": 2,
         "KillReward": 300.0,
-        "AssistReward": 100.0,
-        "FirstKillBonus": 150.0,
-        "FirstAssistBonus": 50.0
+        "AssistReward": 150.0,
+        "FirstKillBonus": 0.0,
+        "FirstAssistBonus": 0.0
       },
       "7": {
-        "KillDeathType": "EHeroKillDeathStreakType::EHKDST_ConsecutiveDeaths",
+        "KillDeathType": "EHeroKillDeathStreakType::EHKDST_ConsecutiveKills",
         "Count": 1,
-        "KillReward": 275.0,
+        "KillReward": 250.0,
         "AssistReward": 125.0,
         "FirstKillBonus": 0.0,
         "FirstAssistBonus": 0.0
       },
       "8": {
-        "KillDeathType": "EHeroKillDeathStreakType::EHKDST_ConsecutiveDeaths",
-        "Count": 2,
+        "KillDeathType": "EHeroKillDeathStreakType::EHKDST_None",
+        "Count": 0,
         "KillReward": 250.0,
-        "AssistReward": 100.0,
-        "FirstKillBonus": 0.0,
-        "FirstAssistBonus": 0.0
+        "AssistReward": 125.0,
+        "FirstKillBonus": 150.0,
+        "FirstAssistBonus": 50.0
       },
       "9": {
         "KillDeathType": "EHeroKillDeathStreakType::EHKDST_ConsecutiveDeaths",
-        "Count": 3,
-        "KillReward": 225.0,
-        "AssistReward": 75.0,
+        "Count": 1,
+        "KillReward": 250.0,
+        "AssistReward": 125.0,
         "FirstKillBonus": 0.0,
         "FirstAssistBonus": 0.0
       },
       "10": {
         "KillDeathType": "EHeroKillDeathStreakType::EHKDST_ConsecutiveDeaths",
-        "Count": 4,
-        "KillReward": 200.0,
-        "AssistReward": 50.0,
+        "Count": 2,
+        "KillReward": 230.0,
+        "AssistReward": 115.0,
         "FirstKillBonus": 0.0,
         "FirstAssistBonus": 0.0
       },
       "11": {
         "KillDeathType": "EHeroKillDeathStreakType::EHKDST_ConsecutiveDeaths",
+        "Count": 3,
+        "KillReward": 200.0,
+        "AssistReward": 100.0,
+        "FirstKillBonus": 0.0,
+        "FirstAssistBonus": 0.0
+      },
+      "12": {
+        "KillDeathType": "EHeroKillDeathStreakType::EHKDST_ConsecutiveDeaths",
+        "Count": 4,
+        "KillReward": 160.0,
+        "AssistReward": 80.0,
+        "FirstKillBonus": 0.0,
+        "FirstAssistBonus": 0.0
+      },
+      "13": {
+        "KillDeathType": "EHeroKillDeathStreakType::EHKDST_ConsecutiveDeaths",
         "Count": 5,
-        "KillReward": 150.0,
+        "KillReward": 110.0,
+        "AssistReward": 55.0,
+        "FirstKillBonus": 0.0,
+        "FirstAssistBonus": 0.0
+      },
+      "14": {
+        "KillDeathType": "EHeroKillDeathStreakType::EHKDST_ConsecutiveDeaths",
+        "Count": 6,
+        "KillReward": 50.0,
         "AssistReward": 25.0,
         "FirstKillBonus": 0.0,
         "FirstAssistBonus": 0.0

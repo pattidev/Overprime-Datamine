@@ -1,0 +1,92 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_Minimap",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPMinimapTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "MapID": "default",
+        "MinimapImage": "Material'/Game/Textures/UI/MAT_Minimap_Ago.MAT_Minimap_Ago'",
+        "MinimapImageInvert": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Invert.MAT_Minimap_Ago_Invert'",
+        "MinimapImageHover": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Hover.MAT_Minimap_Ago_Hover'",
+        "MinimapImageHoverInvert": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Invert_Hover.MAT_Minimap_Ago_Invert_Hover'"
+      },
+      "2": {
+        "MapID": "OP_Test_simple",
+        "MinimapImage": "Material'/Game/Textures/UI/MAT_Minimap_Ago.MAT_Minimap_Ago'",
+        "MinimapImageInvert": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Invert.MAT_Minimap_Ago_Invert'",
+        "MinimapImageHover": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Hover.MAT_Minimap_Ago_Hover'",
+        "MinimapImageHoverInvert": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Invert_Hover.MAT_Minimap_Ago_Invert_Hover'"
+      },
+      "3": {
+        "MapID": "Cradle of Genesis",
+        "MinimapImage": "Material'/Game/Textures/UI/MAT_Minimap_Ago.MAT_Minimap_Ago'",
+        "MinimapImageInvert": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Invert.MAT_Minimap_Ago_Invert'",
+        "MinimapImageHover": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Hover.MAT_Minimap_Ago_Hover'",
+        "MinimapImageHoverInvert": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Invert_Hover.MAT_Minimap_Ago_Invert_Hover'"
+      },
+      "4": {
+        "MapID": "NewAltarOfPower",
+        "MinimapImage": "Material'/Game/Textures/UI/MAT_Minimap_AOP.MAT_Minimap_AOP'",
+        "MinimapImageInvert": "Material'/Game/Textures/UI/MAT_Minimap_AOP_Invert.MAT_Minimap_AOP_Invert'",
+        "MinimapImageHover": "Material'/Game/Textures/UI/MAT_Minimap_AOP_Hover.MAT_Minimap_AOP_Hover'",
+        "MinimapImageHoverInvert": "Material'/Game/Textures/UI/MAT_Minimap_AOP_Invert_Hover.MAT_Minimap_AOP_Invert_Hover'"
+      },
+      "5": {
+        "MapID": "Legacy_NewAgora",
+        "MinimapImage": "Material'/Game/Textures/UI/MAT_Minimap_Ago.MAT_Minimap_Ago'",
+        "MinimapImageInvert": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Invert.MAT_Minimap_Ago_Invert'",
+        "MinimapImageHover": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Hover.MAT_Minimap_Ago_Hover'",
+        "MinimapImageHoverInvert": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Invert_Hover.MAT_Minimap_Ago_Invert_Hover'"
+      },
+      "6": {
+        "MapID": "LV_Agolith_P",
+        "MinimapImage": "Material'/Game/Textures/UI/MAT_Minimap_Ago.MAT_Minimap_Ago'",
+        "MinimapImageInvert": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Invert.MAT_Minimap_Ago_Invert'",
+        "MinimapImageHover": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Hover.MAT_Minimap_Ago_Hover'",
+        "MinimapImageHoverInvert": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Invert_Hover.MAT_Minimap_Ago_Invert_Hover'"
+      },
+      "7": {
+        "MapID": "Tutorial01",
+        "MinimapImage": "Material'/Game/Textures/UI/Minimap/MAT_Minimap_Tutorial_A.MAT_Minimap_Tutorial_A'",
+        "MinimapImageInvert": "Material'/Game/Textures/UI/Minimap/MAT_Minimap_Tutorial_A_Hover.MAT_Minimap_Tutorial_A_Hover'",
+        "MinimapImageHover": "Material'/Game/Textures/UI/Minimap/MAT_Minimap_Tutorial_A.MAT_Minimap_Tutorial_A'",
+        "MinimapImageHoverInvert": "Material'/Game/Textures/UI/Minimap/MAT_Minimap_Tutorial_A_Hover.MAT_Minimap_Tutorial_A_Hover'"
+      },
+      "8": {
+        "MapID": "Tutorial02",
+        "MinimapImage": "Material'/Game/Textures/UI/Minimap/MAT_Minimap_Tutorial_2.MAT_Minimap_Tutorial_2'",
+        "MinimapImageInvert": "Material'/Game/Textures/UI/Minimap/MAT_Minimap_Tutorial_2_Hover.MAT_Minimap_Tutorial_2_Hover'",
+        "MinimapImageHover": "Material'/Game/Textures/UI/Minimap/MAT_Minimap_Tutorial_2.MAT_Minimap_Tutorial_2'",
+        "MinimapImageHoverInvert": "Material'/Game/Textures/UI/Minimap/MAT_Minimap_Tutorial_2_Hover.MAT_Minimap_Tutorial_2_Hover'"
+      },
+      "9": {
+        "MapID": "RocketTest_P2",
+        "MinimapImage": "Material'/Game/Textures/UI/Minimap/RedMoon/MAT_Minimap_RedMoon.MAT_Minimap_RedMoon'",
+        "MinimapImageInvert": "Material'/Game/Textures/UI/Minimap/RedMoon/MAT_Minimap_RedMoon_Invert.MAT_Minimap_RedMoon_Invert'",
+        "MinimapImageHover": "Material'/Game/Textures/UI/Minimap/RedMoon/MAT_Minimap_RedMoon_Hover.MAT_Minimap_RedMoon_Hover'",
+        "MinimapImageHoverInvert": "Material'/Game/Textures/UI/Minimap/RedMoon/MAT_Minimap_RedMoon_Invert_Hover.MAT_Minimap_RedMoon_Invert_Hover'"
+      },
+      "10": {
+        "MapID": "RocketTest_P3",
+        "MinimapImage": "None",
+        "MinimapImageInvert": "None",
+        "MinimapImageHover": "None",
+        "MinimapImageHoverInvert": "None"
+      },
+      "11": {
+        "MapID": "RocketTest_P4",
+        "MinimapImage": "None",
+        "MinimapImageInvert": "None",
+        "MinimapImageHover": "None",
+        "MinimapImageHoverInvert": "None"
+      }
+    }
+  }
+]

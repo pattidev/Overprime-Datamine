@@ -44,17 +44,17 @@
       },
       "5": {
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_X_Sensitivity",
-        "DefaultValue": 70,
-        "MinValue": 50,
-        "MaxValue": 200,
+        "DefaultValue": 250,
+        "MinValue": 100,
+        "MaxValue": 500,
         "Step": 10.0,
         "UseRate": false
       },
       "6": {
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Y_Sensitivity",
-        "DefaultValue": 70,
-        "MinValue": 50,
-        "MaxValue": 200,
+        "DefaultValue": 250,
+        "MinValue": 100,
+        "MaxValue": 500,
         "Step": 10.0,
         "UseRate": false
       },

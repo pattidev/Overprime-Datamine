@@ -13,6 +13,7 @@
       "101": {
         "MapID": "LV_Agolith_P",
         "MapType": "EOfficialMapType::EOMT_Agolith",
+        "MapThumbnailPath": "Texture2D'/Game/Textures/image/T_common_Loading_agolith.T_common_Loading_agolith'",
         "MapStringKey": "UI.Maps_Agolith_Name",
         "PickType": [
           "EGamePickType::EGPT_Ban_Draft_Type",
@@ -43,6 +44,7 @@
       "102": {
         "MapID": "Legacy_NewAgora",
         "MapType": "EOfficialMapType::EOMT_LegacyAgora",
+        "MapThumbnailPath": "Texture3D'/Game/Textures/image/T_common_Loading_agolith.T_common_Loading_agolith'",
         "MapStringKey": "UI.Maps_NewAgora_Name",
         "PickType": [
           "EGamePickType::EGPT_Ban_Draft_Type",
@@ -73,6 +75,7 @@
       "103": {
         "MapID": "NewAltarOfPower",
         "MapType": "EOfficialMapType::EOMT_AltarOfPower",
+        "MapThumbnailPath": "Texture4D'/Game/Textures/image/T_common_Loading_agolith.T_common_Loading_agolith'",
         "MapStringKey": "UI.Maps_AltarOfPower_Name",
         "PickType": [
           "EGamePickType::EGPT_Ban_Draft_Type",
@@ -103,7 +106,8 @@
       "104": {
         "MapID": "RocketTest_P2",
         "MapType": "EOfficialMapType::EOMT_ARAM",
-        "MapStringKey": "Aram",
+        "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_02.T_image_Map_02'",
+        "MapStringKey": "PS.Map_B01_Name",
         "PickType": [
           "EGamePickType::EGPT_Ban_Draft_Type",
           "EGamePickType::EGPT_Free_Choice_Type",
@@ -128,7 +132,100 @@
         ],
         "Min_Spectators": 0,
         "Max_Spectators": 4,
-        "MapEnable": true
+        "MapEnable": false
+      },
+      "105": {
+        "MapID": "RocketTest_P4",
+        "MapType": "EOfficialMapType::EOMT_SnipingArena",
+        "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_04.T_image_Map_04'",
+        "MapStringKey": "PS.Map_B03_Name",
+        "PickType": [
+          "EGamePickType::EGPT_Ban_Draft_Type",
+          "EGamePickType::EGPT_Free_Choice_Type",
+          "EGamePickType::EGPT_Time_Limit_Type"
+        ],
+        "TeamSize": [
+          "ETeamSizeType::ETST_1vs1",
+          "ETeamSizeType::ETST_2vs2",
+          "ETeamSizeType::ETST_3vs3",
+          "ETeamSizeType::ETST_4vs4",
+          "ETeamSizeType::ETST_5vs5"
+        ],
+        "TimeLimit": [
+          "ETimeLimitType::ETLT_15min",
+          "ETimeLimitType::ETLT_20min",
+          "ETimeLimitType::ETLT_25min",
+          "ETimeLimitType::ETLT_30min",
+          "ETimeLimitType::ETLT_35min",
+          "ETimeLimitType::ETLT_40min",
+          "ETimeLimitType::ETLT_45min",
+          "ETimeLimitType::ETLT_50min"
+        ],
+        "Min_Spectators": 0,
+        "Max_Spectators": 4,
+        "MapEnable": false
+      },
+      "106": {
+        "MapID": "RocketTest_P3",
+        "MapType": "EOfficialMapType::EOMT_Domination",
+        "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_03.T_image_Map_03'",
+        "MapStringKey": "PS.Map_B02_Name",
+        "PickType": [
+          "EGamePickType::EGPT_Ban_Draft_Type",
+          "EGamePickType::EGPT_Free_Choice_Type",
+          "EGamePickType::EGPT_Time_Limit_Type"
+        ],
+        "TeamSize": [
+          "ETeamSizeType::ETST_1vs1",
+          "ETeamSizeType::ETST_2vs2",
+          "ETeamSizeType::ETST_3vs3",
+          "ETeamSizeType::ETST_4vs4",
+          "ETeamSizeType::ETST_5vs5"
+        ],
+        "TimeLimit": [
+          "ETimeLimitType::ETLT_15min",
+          "ETimeLimitType::ETLT_20min",
+          "ETimeLimitType::ETLT_25min",
+          "ETimeLimitType::ETLT_30min",
+          "ETimeLimitType::ETLT_35min",
+          "ETimeLimitType::ETLT_40min",
+          "ETimeLimitType::ETLT_45min",
+          "ETimeLimitType::ETLT_50min"
+        ],
+        "Min_Spectators": 0,
+        "Max_Spectators": 4,
+        "MapEnable": false
+      },
+      "107": {
+        "MapID": "RocketTest_P6",
+        "MapType": "EOfficialMapType::EOMT_TeamDeathRoyal",
+        "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_04.T_image_Map_06'",
+        "MapStringKey": "PS.Map_B06_Name",
+        "PickType": [
+          "EGamePickType::EGPT_Ban_Draft_Type",
+          "EGamePickType::EGPT_Free_Choice_Type",
+          "EGamePickType::EGPT_Time_Limit_Type"
+        ],
+        "TeamSize": [
+          "ETeamSizeType::ETST_1vs1",
+          "ETeamSizeType::ETST_2vs2",
+          "ETeamSizeType::ETST_3vs3",
+          "ETeamSizeType::ETST_4vs4",
+          "ETeamSizeType::ETST_5vs5"
+        ],
+        "TimeLimit": [
+          "ETimeLimitType::ETLT_15min",
+          "ETimeLimitType::ETLT_20min",
+          "ETimeLimitType::ETLT_25min",
+          "ETimeLimitType::ETLT_30min",
+          "ETimeLimitType::ETLT_35min",
+          "ETimeLimitType::ETLT_40min",
+          "ETimeLimitType::ETLT_45min",
+          "ETimeLimitType::ETLT_50min"
+        ],
+        "Min_Spectators": 0,
+        "Max_Spectators": 4,
+        "MapEnable": false
       }
     }
   }

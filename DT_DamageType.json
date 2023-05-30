@@ -231,7 +231,7 @@
         "DamageID": "MainDamage_Tower",
         "DamageType": "EDamageCategory::EDC_BASEATTACK",
         "CanLifeSteal": false,
-        "BaseAttackGuardCheck": false,
+        "BaseAttackGuardCheck": true,
         "SkillGuardCheck": false,
         "GenerateHitEvent": true,
         "CanHitStruct": true,

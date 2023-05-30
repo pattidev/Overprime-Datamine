@@ -124,16 +124,16 @@
         },
         "CameraPitch": 0.0,
         "HeroScale": {
-          "X": 0.8,
-          "Y": 0.8,
-          "Z": 0.8
+          "X": 0.84,
+          "Y": 0.84,
+          "Z": 0.84
         },
         "ForceFront": false,
         "HeroYaw": 0.0,
         "HeroRelativeLocation": {
           "X": 0.0,
-          "Y": -4.0,
-          "Z": -30.0
+          "Y": -6.0,
+          "Z": -23.0
         },
         "WBPCharacterLobby": {
           "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Crunch_OutGame_Base_C'",
@@ -232,18 +232,21 @@
         },
         "CameraPitch": 0.0,
         "HeroScale": {
-          "X": 1.0,
-          "Y": 1.0,
-          "Z": 1.0
+          "X": 0.9,
+          "Y": 0.9,
+          "Z": 0.9
         },
         "ForceFront": false,
         "HeroYaw": 0.0,
         "HeroRelativeLocation": {
           "X": 0.0,
           "Y": 0.0,
-          "Z": 0.0
+          "Z": -12.0
         },
-        "WBPCharacterLobby": null,
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Greystone_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Greystone/AnimBP_Greystone_OutGame_Base.3"
+        },
         "AMCharacterSelected": null,
         "AMSkinSelected": null
       },
@@ -503,9 +506,9 @@
         "ForceFront": false,
         "HeroYaw": 0.0,
         "HeroRelativeLocation": {
-          "X": 0.0,
-          "Y": 0.0,
-          "Z": -10.0
+          "X": -5.0,
+          "Y": -25.0,
+          "Z": -5.0
         },
         "WBPCharacterLobby": {
           "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Narbashi_OutGame_Base_C'",
@@ -907,7 +910,7 @@
         "HeroRelativeLocation": {
           "X": -1.0,
           "Y": 20.0,
-          "Z": -4.0
+          "Z": 2.0
         },
         "WBPCharacterLobby": {
           "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Wukong_OutGame_Base_C'",
@@ -966,6 +969,33 @@
         "WBPCharacterLobby": {
           "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Drongo_OutGame_Base_C'",
           "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Drongo/AnimBP_Drongo_OutGame_Base.3"
+        },
+        "AMCharacterSelected": null,
+        "AMSkinSelected": null
+      },
+      "Hero_Adele_C": {
+        "ManualFocalLength": 1400.0,
+        "CameraDistance": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "CameraPitch": 0.0,
+        "HeroScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ForceFront": false,
+        "HeroYaw": 0.0,
+        "HeroRelativeLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Adele_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Adel/AnimBP_Adele_OutGame_Base.3"
         },
         "AMCharacterSelected": null,
         "AMSkinSelected": null

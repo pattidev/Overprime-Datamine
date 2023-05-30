@@ -12,6 +12,7 @@
     "Rows": {
       "1": {
         "SeasonID": 2023,
+        "PrevSeasonID": 0,
         "SplitID": 1,
         "SplitType": "ESeasonSplitType::PreSeason",
         "StartDate": "2022-12-07T15:00:00Z",
@@ -21,6 +22,7 @@
       },
       "2": {
         "SeasonID": 2023,
+        "PrevSeasonID": 0,
         "SplitID": 2,
         "SplitType": "ESeasonSplitType::Season",
         "StartDate": "2022-12-08T02:00:00Z",
@@ -30,6 +32,7 @@
       },
       "3": {
         "SeasonID": 2023,
+        "PrevSeasonID": 0,
         "SplitID": 3,
         "SplitType": "ESeasonSplitType::EndSeason",
         "StartDate": "2023-03-28T02:00:00Z",
@@ -39,6 +42,7 @@
       },
       "4": {
         "SeasonID": 2304,
+        "PrevSeasonID": 2023,
         "SplitID": 1,
         "SplitType": "ESeasonSplitType::Season",
         "StartDate": "2023-03-28T02:30:00Z",

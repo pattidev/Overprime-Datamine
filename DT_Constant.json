@@ -14,10 +14,10 @@
         "ConstantValue": "0.7"
       },
       "ingame_kill_exp_rate_finish": {
-        "ConstantValue": "0.2"
+        "ConstantValue": "0.12"
       },
       "ingame_kill_exp_rate_assist": {
-        "ConstantValue": "0.2"
+        "ConstantValue": "0.12"
       },
       "ingame_kill_timecheck_assist": {
         "ConstantValue": "10.0"
@@ -164,7 +164,7 @@
         "ConstantValue": "3100"
       },
       "ingame_minion_aggro_reset_distance": {
-        "ConstantValue": "1000"
+        "ConstantValue": "650"
       },
       "ingame_minion_tominion_add_damage": {
         "ConstantValue": "0.428572"
@@ -173,7 +173,7 @@
         "ConstantValue": "3000"
       },
       "ingame_minion_aggro_check_distance": {
-        "ConstantValue": "1300"
+        "ConstantValue": "1000"
       },
       "ingame_sound_volume_footstep_ally": {
         "ConstantValue": "0.2"
@@ -470,7 +470,7 @@
         "ConstantValue": "200_200,200_201,200_202,200_203,200_204,200_205,200_206,200_207,200_208,200_209"
       },
       "Ingame_elevationangle_down_limit": {
-        "ConstantValue": "5"
+        "ConstantValue": "-85"
       },
       "ingame_minion_hero_vs_hero_aggro_time": {
         "ConstantValue": "3"
@@ -485,7 +485,7 @@
         "ConstantValue": "2"
       },
       "Ingame_BabyPrimeDestroyTime": {
-        "ConstantValue": "0"
+        "ConstantValue": "1070"
       },
       "ingame_Early_Surrender_Limit_Time": {
         "ConstantValue": "2"
@@ -561,6 +561,51 @@
       },
       "ingame_Spawn_Babyprime_Core_Attack_Allow_Distance": {
         "ConstantValue": "30"
+      },
+      "Ingame_OutOfRange_MaxRange": {
+        "ConstantValue": "1500"
+      },
+      "Ingame_bounty_Gain_Cap": {
+        "ConstantValue": "750"
+      },
+      "Ingame_bounty_Gain_Cap_Assist": {
+        "ConstantValue": "225"
+      },
+      "Ingame_bounty_Minimum": {
+        "ConstantValue": "50"
+      },
+      "Ingame_Bounty_AverageGoldGain": {
+        "ConstantValue": "4.8"
+      },
+      "Ingame_Bounty_firstGoldGainDifference": {
+        "ConstantValue": "350"
+      },
+      "Ingame_Bounty_firstGoldGainDifference_Reward": {
+        "ConstantValue": "100"
+      },
+      "Ingame_Bounty_goldGainDifference": {
+        "ConstantValue": "150"
+      },
+      "Ingame_Bounty_goldGainDifference_Reward": {
+        "ConstantValue": "50"
+      },
+      "Ingame_Bounty_Decrease_Time": {
+        "ConstantValue": "420"
+      },
+      "Ingame_IndicatorCoordinate_Calibration_X": {
+        "ConstantValue": "-0.1"
+      },
+      "Ingame_IndicatorCoordinate_Calibration_Y": {
+        "ConstantValue": "0.4"
+      },
+      "Ingame_BaseAttack_NeutralityCheck_Range": {
+        "ConstantValue": "100"
+      },
+      "outgame_url_news": {
+        "ConstantValue": "https://paragon.netmarble.com/news"
+      },
+      "ingame_spawn_counter_Silla": {
+        "ConstantValue": "3"
       }
     }
   }

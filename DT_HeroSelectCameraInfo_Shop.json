@@ -216,7 +216,10 @@
           "Y": 0.0,
           "Z": 0.0
         },
-        "WBPCharacterLobby": null,
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Greystone_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Greystone/AnimBP_Greystone_OutGame_Base.3"
+        },
         "AMCharacterSelected": null,
         "AMSkinSelected": null
       },
@@ -802,8 +805,8 @@
           "Z": 0.0
         },
         "WBPCharacterLobby": {
-          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Adele_Store__C'",
-          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Adel/AnimBP_Adele_Store_.2"
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Adele_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/Adel/AnimBP_Adele_OutGame_Base.3"
         },
         "AMCharacterSelected": null,
         "AMSkinSelected": null

@@ -132,11 +132,11 @@
       },
       "13": {
         "GroupID": 2,
-        "Step": 1,
-        "Seq": 3,
+        "Step": 2,
+        "Seq": 1,
         "ProcessType": "EUserCheckPointProcessType::EUCPPT_Popup",
         "ProcessValue": "/Game/UI/Lobby/Popup/Content_notice/Popup_Introduction_Contents_NewUser_FirstWin.Popup_Introduction_Contents_NewUser_FirstWin_C",
-        "StepCompleteDirect": true,
+        "StepCompleteDirect": false,
         "SubValue_1": "",
         "SubValue_2": ""
       },
@@ -162,11 +162,11 @@
       },
       "16": {
         "GroupID": 3,
-        "Step": 1,
-        "Seq": 3,
+        "Step": 2,
+        "Seq": 1,
         "ProcessType": "EUserCheckPointProcessType::EUCPPT_Popup",
         "ProcessValue": "/Game/UI/Lobby/Popup/Content_notice/Popup_Introduction_Contents_NewUser_FirstLose.Popup_Introduction_Contents_NewUser_FirstLose_C",
-        "StepCompleteDirect": true,
+        "StepCompleteDirect": false,
         "SubValue_1": "",
         "SubValue_2": ""
       },

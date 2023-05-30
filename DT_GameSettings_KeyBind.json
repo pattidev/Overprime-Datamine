@@ -388,6 +388,19 @@
         "KeySwitchGroup": 0
       },
       "30": {
+        "DetailType": "EGameSettingDetailType::EGSD_Control_ChatBox",
+        "DefaultAxis": 0,
+        "DefaultKey_QWERTY": "Enter",
+        "DefaultKey_AZERTY": "Enter",
+        "DefaultKey_QWERTZ": "Enter",
+        "DefaultKey_QWERTZ_CS": "Enter",
+        "PropertyName": "ChatBox",
+        "IsAxis": false,
+        "IsSmartKey": false,
+        "KeyGroup": 0,
+        "KeySwitchGroup": 0
+      },
+      "31": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_ToggleUI",
         "DefaultAxis": 0,
         "DefaultKey_QWERTY": "Divide",
@@ -400,7 +413,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "31": {
+      "32": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_ToggleHud",
         "DefaultAxis": 0,
         "DefaultKey_QWERTY": "Multiply",
@@ -413,7 +426,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "32": {
+      "33": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_OrbDrop",
         "DefaultAxis": 0,
         "DefaultKey_QWERTY": "H",
@@ -426,7 +439,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "33": {
+      "34": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_Surrender_Yes",
         "DefaultAxis": 0,
         "DefaultKey_QWERTY": "F5",
@@ -439,7 +452,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "34": {
+      "35": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_Surrender_No",
         "DefaultAxis": 0,
         "DefaultKey_QWERTY": "F8",
@@ -452,7 +465,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "35": {
+      "36": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_Training",
         "DefaultAxis": 0,
         "DefaultKey_QWERTY": "V",
@@ -465,7 +478,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "36": {
+      "37": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_QuickBuy_Offensive",
         "DefaultAxis": 0,
         "DefaultKey_QWERTY": "F1",
@@ -478,7 +491,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "37": {
+      "38": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_QuickBuy_Defensive",
         "DefaultAxis": 0,
         "DefaultKey_QWERTY": "F2",
@@ -491,7 +504,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "38": {
+      "39": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_QuickBuy_Assistant",
         "DefaultAxis": 0,
         "DefaultKey_QWERTY": "F3",
