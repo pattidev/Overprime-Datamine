@@ -18,6 +18,7 @@
         "LevelFile": "World'/Game/Maps/AltarOfPower/NewAltarOfPower_2.NewAltarOfPower_2'",
         "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_01.T_image_Map_01'",
         "GameModeToUse": "ESelectedGameModeType::ESGMT_Normal",
+        "UseSpell": false,
         "StartLevel": 18,
         "StartSkillPoint": 18,
         "MaxTeamLimit": 5,
@@ -31,7 +32,9 @@
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MapEnable": true,
+        "MiniMapType": "EMiniMapType::EMMT_Fixed",
+        "MiniMapValue": 0,
+        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "3"
@@ -67,7 +70,9 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
-        "GameDefeatType": "EGameDefeatType::EGDT_NotVictory",
+        "GameDefeatType": [
+          "EGameDefeatType::EGDT_NotVictory"
+        ],
         "UseSkillSlotGroupID": "None"
       },
       "2": {
@@ -78,6 +83,7 @@
         "LevelFile": "World'/Game/Maps/AltarOfPower/NewAltarOfPower_2.NewAltarOfPower_2'",
         "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_01.T_image_Map_01'",
         "GameModeToUse": "ESelectedGameModeType::ESGMT_Single",
+        "UseSpell": false,
         "StartLevel": 18,
         "StartSkillPoint": 18,
         "MaxTeamLimit": 5,
@@ -91,7 +97,9 @@
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MapEnable": true,
+        "MiniMapType": "EMiniMapType::EMMT_Fixed",
+        "MiniMapValue": 0,
+        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "3"
@@ -127,7 +135,9 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
-        "GameDefeatType": "EGameDefeatType::EGDT_NotVictory",
+        "GameDefeatType": [
+          "EGameDefeatType::EGDT_NotVictory"
+        ],
         "UseSkillSlotGroupID": "None"
       },
       "3": {
@@ -138,6 +148,7 @@
         "LevelFile": "World'/Game/Maps/AltarOfPower/NewAltarOfPower_2.NewAltarOfPower_2'",
         "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_01.T_image_Map_01'",
         "GameModeToUse": "ESelectedGameModeType::ESGMT_VS_AI",
+        "UseSpell": false,
         "StartLevel": 18,
         "StartSkillPoint": 18,
         "MaxTeamLimit": 5,
@@ -151,7 +162,9 @@
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MapEnable": true,
+        "MiniMapType": "EMiniMapType::EMMT_Fixed",
+        "MiniMapValue": 0,
+        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "3"
@@ -187,7 +200,9 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
-        "GameDefeatType": "EGameDefeatType::EGDT_NotVictory",
+        "GameDefeatType": [
+          "EGameDefeatType::EGDT_NotVictory"
+        ],
         "UseSkillSlotGroupID": "None"
       },
       "4": {
@@ -198,6 +213,7 @@
         "LevelFile": "World'/Game/Maps/AltarOfPower/NewAltarOfPower_2.NewAltarOfPower_2'",
         "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_01.T_image_Map_01'",
         "GameModeToUse": "ESelectedGameModeType::ESGMT_Custom",
+        "UseSpell": false,
         "StartLevel": 18,
         "StartSkillPoint": 18,
         "MaxTeamLimit": 5,
@@ -211,7 +227,9 @@
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MapEnable": true,
+        "MiniMapType": "EMiniMapType::EMMT_Fixed",
+        "MiniMapValue": 0,
+        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "3"
@@ -247,7 +265,9 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
-        "GameDefeatType": "EGameDefeatType::EGDT_NotVictory",
+        "GameDefeatType": [
+          "EGameDefeatType::EGDT_NotVictory"
+        ],
         "UseSkillSlotGroupID": "None"
       },
       "5": {
@@ -258,6 +278,7 @@
         "LevelFile": "World'/Game/Maps/NewAgora/Legacy_NewAgora.Legacy_NewAgora'",
         "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_01.T_image_Map_01'",
         "GameModeToUse": "ESelectedGameModeType::ESGMT_Normal",
+        "UseSpell": false,
         "StartLevel": 1,
         "StartSkillPoint": 1,
         "MaxTeamLimit": 5,
@@ -271,7 +292,9 @@
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MapEnable": true,
+        "MiniMapType": "EMiniMapType::EMMT_Fixed",
+        "MiniMapValue": 0,
+        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "5"
@@ -301,7 +324,9 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
-        "GameDefeatType": "EGameDefeatType::EGDT_NotVictory",
+        "GameDefeatType": [
+          "EGameDefeatType::EGDT_NotVictory"
+        ],
         "UseSkillSlotGroupID": "None"
       },
       "6": {
@@ -312,6 +337,7 @@
         "LevelFile": "World'/Game/Maps/NewAgora/Legacy_NewAgora.Legacy_NewAgora'",
         "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_01.T_image_Map_01'",
         "GameModeToUse": "ESelectedGameModeType::ESGMT_Single",
+        "UseSpell": false,
         "StartLevel": 1,
         "StartSkillPoint": 1,
         "MaxTeamLimit": 5,
@@ -325,7 +351,9 @@
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MapEnable": true,
+        "MiniMapType": "EMiniMapType::EMMT_Fixed",
+        "MiniMapValue": 0,
+        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "5"
@@ -355,7 +383,9 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
-        "GameDefeatType": "EGameDefeatType::EGDT_NotVictory",
+        "GameDefeatType": [
+          "EGameDefeatType::EGDT_NotVictory"
+        ],
         "UseSkillSlotGroupID": "None"
       },
       "7": {
@@ -366,6 +396,7 @@
         "LevelFile": "World'/Game/Maps/NewAgora/Legacy_NewAgora.Legacy_NewAgora'",
         "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_01.T_image_Map_01'",
         "GameModeToUse": "ESelectedGameModeType::ESGMT_VS_AI",
+        "UseSpell": false,
         "StartLevel": 1,
         "StartSkillPoint": 1,
         "MaxTeamLimit": 5,
@@ -379,7 +410,9 @@
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MapEnable": true,
+        "MiniMapType": "EMiniMapType::EMMT_Fixed",
+        "MiniMapValue": 0,
+        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "5"
@@ -409,7 +442,9 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
-        "GameDefeatType": "EGameDefeatType::EGDT_NotVictory",
+        "GameDefeatType": [
+          "EGameDefeatType::EGDT_NotVictory"
+        ],
         "UseSkillSlotGroupID": "None"
       },
       "8": {
@@ -420,6 +455,7 @@
         "LevelFile": "World'/Game/Maps/NewAgora/Legacy_NewAgora.Legacy_NewAgora'",
         "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_01.T_image_Map_01'",
         "GameModeToUse": "ESelectedGameModeType::ESGMT_Custom",
+        "UseSpell": false,
         "StartLevel": 1,
         "StartSkillPoint": 1,
         "MaxTeamLimit": 5,
@@ -433,7 +469,9 @@
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MapEnable": true,
+        "MiniMapType": "EMiniMapType::EMMT_Fixed",
+        "MiniMapValue": 0,
+        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "5"
@@ -463,7 +501,9 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
-        "GameDefeatType": "EGameDefeatType::EGDT_NotVictory",
+        "GameDefeatType": [
+          "EGameDefeatType::EGDT_NotVictory"
+        ],
         "UseSkillSlotGroupID": "None"
       },
       "9": {
@@ -474,6 +514,7 @@
         "LevelFile": "World'/Game/Maps/Training/Training_P.Training_P'",
         "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_01.T_image_Map_01'",
         "GameModeToUse": "ESelectedGameModeType::ESGMT_Training",
+        "UseSpell": false,
         "StartLevel": 1,
         "StartSkillPoint": 1,
         "MaxTeamLimit": 5,
@@ -487,7 +528,9 @@
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MapEnable": true,
+        "MiniMapType": "EMiniMapType::EMMT_Fixed",
+        "MiniMapValue": 0,
+        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "5"
@@ -517,7 +560,9 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
-        "GameDefeatType": "EGameDefeatType::EGDT_NotVictory",
+        "GameDefeatType": [
+          "EGameDefeatType::EGDT_NotVictory"
+        ],
         "UseSkillSlotGroupID": "None"
       },
       "10": {
@@ -528,6 +573,7 @@
         "LevelFile": "World'/Game/Maps/Training/TrainingMap.TrainingMap'",
         "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_01.T_image_Map_01'",
         "GameModeToUse": "ESelectedGameModeType::ESGMT_Training",
+        "UseSpell": false,
         "StartLevel": 1,
         "StartSkillPoint": 1,
         "MaxTeamLimit": 5,
@@ -541,7 +587,9 @@
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MapEnable": true,
+        "MiniMapType": "EMiniMapType::EMMT_Fixed",
+        "MiniMapValue": 0,
+        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "5"
@@ -571,7 +619,9 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
-        "GameDefeatType": "EGameDefeatType::EGDT_NotVictory",
+        "GameDefeatType": [
+          "EGameDefeatType::EGDT_NotVictory"
+        ],
         "UseSkillSlotGroupID": "None"
       },
       "11": {
@@ -582,6 +632,7 @@
         "LevelFile": "World'/Game/Maps/Agolith/LV_Agolith_P.LV_Agolith_P'",
         "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_01.T_image_Map_01'",
         "GameModeToUse": "ESelectedGameModeType::ESGMT_Normal",
+        "UseSpell": true,
         "StartLevel": 1,
         "StartSkillPoint": 1,
         "MaxTeamLimit": 5,
@@ -595,7 +646,9 @@
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MapEnable": true,
+        "MiniMapType": "EMiniMapType::EMMT_Fixed",
+        "MiniMapValue": 0,
+        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "5"
@@ -631,7 +684,9 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
-        "GameDefeatType": "EGameDefeatType::EGDT_NotVictory",
+        "GameDefeatType": [
+          "EGameDefeatType::EGDT_NotVictory"
+        ],
         "UseSkillSlotGroupID": "None"
       },
       "12": {
@@ -642,6 +697,7 @@
         "LevelFile": "World'/Game/Maps/Agolith/LV_Agolith_P.LV_Agolith_P'",
         "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_01.T_image_Map_01'",
         "GameModeToUse": "ESelectedGameModeType::ESGMT_Ranked",
+        "UseSpell": true,
         "StartLevel": 1,
         "StartSkillPoint": 1,
         "MaxTeamLimit": 5,
@@ -655,7 +711,9 @@
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MapEnable": true,
+        "MiniMapType": "EMiniMapType::EMMT_Fixed",
+        "MiniMapValue": 0,
+        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "5"
@@ -691,7 +749,9 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
-        "GameDefeatType": "EGameDefeatType::EGDT_NotVictory",
+        "GameDefeatType": [
+          "EGameDefeatType::EGDT_NotVictory"
+        ],
         "UseSkillSlotGroupID": "None"
       },
       "13": {
@@ -702,6 +762,7 @@
         "LevelFile": "World'/Game/Maps/Agolith/LV_Agolith_P.LV_Agolith_P'",
         "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_01.T_image_Map_01'",
         "GameModeToUse": "ESelectedGameModeType::ESGMT_Custom",
+        "UseSpell": true,
         "StartLevel": 1,
         "StartSkillPoint": 1,
         "MaxTeamLimit": 5,
@@ -715,7 +776,9 @@
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MapEnable": true,
+        "MiniMapType": "EMiniMapType::EMMT_Fixed",
+        "MiniMapValue": 0,
+        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "5"
@@ -751,7 +814,9 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
-        "GameDefeatType": "EGameDefeatType::EGDT_NotVictory",
+        "GameDefeatType": [
+          "EGameDefeatType::EGDT_NotVictory"
+        ],
         "UseSkillSlotGroupID": "None"
       },
       "14": {
@@ -762,6 +827,7 @@
         "LevelFile": "World'/Game/Maps/Tutorial/Tutorial01.Tutorial01'",
         "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_01.T_image_Map_01'",
         "GameModeToUse": "ESelectedGameModeType::ESGMT_Tutorial",
+        "UseSpell": false,
         "StartLevel": 1,
         "StartSkillPoint": 1,
         "MaxTeamLimit": 5,
@@ -775,7 +841,9 @@
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MapEnable": true,
+        "MiniMapType": "EMiniMapType::EMMT_Fixed",
+        "MiniMapValue": 0,
+        "MiniMapPath": "None",
         "Num_Players": [
           "1"
         ],
@@ -804,7 +872,9 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
-        "GameDefeatType": "EGameDefeatType::EGDT_NotVictory",
+        "GameDefeatType": [
+          "EGameDefeatType::EGDT_NotVictory"
+        ],
         "UseSkillSlotGroupID": "None"
       },
       "15": {
@@ -815,6 +885,7 @@
         "LevelFile": "World'/Game/Maps/Tutorial/Tutorial02.Tutorial02'",
         "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_01.T_image_Map_01'",
         "GameModeToUse": "ESelectedGameModeType::ESGMT_Tutorial",
+        "UseSpell": false,
         "StartLevel": 1,
         "StartSkillPoint": 1,
         "MaxTeamLimit": 5,
@@ -828,7 +899,9 @@
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MapEnable": true,
+        "MiniMapType": "EMiniMapType::EMMT_Fixed",
+        "MiniMapValue": 0,
+        "MiniMapPath": "None",
         "Num_Players": [
           "1"
         ],
@@ -857,7 +930,9 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
-        "GameDefeatType": "EGameDefeatType::EGDT_NotVictory",
+        "GameDefeatType": [
+          "EGameDefeatType::EGDT_NotVictory"
+        ],
         "UseSkillSlotGroupID": "None"
       },
       "16": {
@@ -868,6 +943,7 @@
         "LevelFile": "World'/Game/Maps/Monolith/Monolith.Monolith'",
         "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_01.T_image_Map_01'",
         "GameModeToUse": "ESelectedGameModeType::ESGMT_Normal",
+        "UseSpell": false,
         "StartLevel": 1,
         "StartSkillPoint": 1,
         "MaxTeamLimit": 5,
@@ -881,7 +957,9 @@
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MapEnable": true,
+        "MiniMapType": "EMiniMapType::EMMT_Fixed",
+        "MiniMapValue": 0,
+        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "5"
@@ -911,7 +989,9 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
-        "GameDefeatType": "EGameDefeatType::EGDT_NotVictory",
+        "GameDefeatType": [
+          "EGameDefeatType::EGDT_NotVictory"
+        ],
         "UseSkillSlotGroupID": "None"
       },
       "17": {
@@ -922,6 +1002,7 @@
         "LevelFile": "World'/Game/Maps/Monolith/Monolith.Monolith'",
         "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_01.T_image_Map_01'",
         "GameModeToUse": "ESelectedGameModeType::ESGMT_Normal",
+        "UseSpell": false,
         "StartLevel": 1,
         "StartSkillPoint": 1,
         "MaxTeamLimit": 5,
@@ -935,7 +1016,9 @@
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MapEnable": true,
+        "MiniMapType": "EMiniMapType::EMMT_Fixed",
+        "MiniMapValue": 0,
+        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "5"
@@ -965,7 +1048,352 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
-        "GameDefeatType": "EGameDefeatType::EGDT_NotVictory",
+        "GameDefeatType": [
+          "EGameDefeatType::EGDT_NotVictory"
+        ],
+        "UseSkillSlotGroupID": "None"
+      },
+      "18": {
+        "MapID": "RocketTest_P2",
+        "MapCode": "EOfficialMapType::EOMT_ARAM",
+        "MapNameLocalID": "PS.Map_B01_Name",
+        "MapDescLocalID": "PS.Map_B01_Desc_A",
+        "LevelFile": "World'/Game/Maps/RocketTest/RocketTest_P2.RocketTest_P2'",
+        "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_02.T_image_Map_02'",
+        "GameModeToUse": "ESelectedGameModeType::ESGMT_Normal",
+        "UseSpell": true,
+        "StartLevel": 3,
+        "StartSkillPoint": 3,
+        "MaxTeamLimit": 5,
+        "StartGold": 1400,
+        "GenGoldStartTime": 90,
+        "GenGoldInterval": 1.0,
+        "GenGoldPerInterval": 6,
+        "InhibitorRespawnDelay": 0.0,
+        "WorldManagerID": "11",
+        "Afk_Check_Time": 90,
+        "Afk_Escape_Time": 30,
+        "Surrender_Enable_Time": 600,
+        "Surrender_Enable_Retry_Time": 120,
+        "MiniMapType": "EMiniMapType::EMMT_Fixed",
+        "MiniMapValue": 0,
+        "MiniMapPath": "None",
+        "Num_Players": [
+          "1",
+          "5"
+        ],
+        "StartSequence_Dawn": {
+          "ObjectName": "LevelSequence'UI_Team_A1'",
+          "ObjectPath": "Overprime/Content/UI/UI_Camera/UI_Team_A1.2"
+        },
+        "StartSequence_Dusk": {
+          "ObjectName": "LevelSequence'UI_Team_B1'",
+          "ObjectPath": "Overprime/Content/UI/UI_Camera/UI_Team_B1.2"
+        },
+        "MapNameEN": "Red Moon",
+        "HeroSpawnZoneSelectionRule": "EHeroSpawnZoneSelectionType::EHSZST_OnTeam",
+        "GameTeamRule": "EGameTeamRule::EGTR_ServerDemand",
+        "GameTeamRuleValue": "5",
+        "GameWinType": "EGameWinType::EGWT_ActorTypeSubDestruction",
+        "GameWinValue": "102",
+        "GameTimeCountdownType": "EGameTimeCountdownType::EGTCT_CountUp",
+        "GameTimeCountdownValue": 0,
+        "HeroSelectionType": "EHeroSelectionType::EHST_ARAM",
+        "HeroSelectionValue": "None",
+        "TeamScoreType": "ETeamScoreType::ETST_KillScore",
+        "VictoryCameraType": "EVictoryCameraType::EVCT_DestroyedUnit",
+        "VictoryCameraValue": "None",
+        "VictoryHandlingType": "EVictoryHandlingType::EVHT_Send_Result_Server",
+        "ModeSelectionType": "EModeSelectionType::EMST_Basic",
+        "ModeSelectionValue": "None",
+        "SkillSlotToLock": [
+          "ESkillSlot::ESS_Recall",
+          "ESkillSlot::ESS_TravelMode",
+          "ESkillSlot::ESS_TravelModeCancel",
+          "ESkillSlot::ESS_WardSkill",
+          "ESkillSlot::ESS_OrbDropSkill"
+        ],
+        "LaneSelectionType": "ELaneSelectionType::ELST_Deactivation",
+        "ItemShopType": "EItemShopType::EIST_NomalShop_SelectGroup",
+        "ItemShopValue": "None",
+        "GameResultType": "EGameResultType::EGRT_Normal",
+        "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
+        "ResurrectValue": "-2",
+        "GameDefeatType": [
+          "EGameDefeatType::EGDT_NotVictory"
+        ],
+        "UseSkillSlotGroupID": "None"
+      },
+      "20": {
+        "MapID": "RocketTest_P4",
+        "MapCode": "EOfficialMapType::EOMT_SnipingArena",
+        "MapNameLocalID": "PS.Map_B03_Name",
+        "MapDescLocalID": "PS.Map_B03_Desc",
+        "LevelFile": "World'/Game/Maps/RocketTest/RocketTest_P4.RocketTest_P4'",
+        "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_04.T_image_Map_04'",
+        "GameModeToUse": "ESelectedGameModeType::ESGMT_Normal",
+        "UseSpell": false,
+        "StartLevel": 18,
+        "StartSkillPoint": 18,
+        "MaxTeamLimit": 5,
+        "StartGold": 0,
+        "GenGoldStartTime": 90,
+        "GenGoldInterval": 1.0,
+        "GenGoldPerInterval": 0,
+        "InhibitorRespawnDelay": 0.0,
+        "WorldManagerID": "12",
+        "Afk_Check_Time": 90,
+        "Afk_Escape_Time": 30,
+        "Surrender_Enable_Time": 600,
+        "Surrender_Enable_Retry_Time": 120,
+        "MiniMapType": "EMiniMapType::EMMT_None",
+        "MiniMapValue": 0,
+        "MiniMapPath": "None",
+        "Num_Players": [
+          "1",
+          "5"
+        ],
+        "StartSequence_Dawn": null,
+        "StartSequence_Dusk": null,
+        "MapNameEN": "MURDOCK SNIPING ARENA",
+        "HeroSpawnZoneSelectionRule": "EHeroSpawnZoneSelectionType::EHSZST_Random",
+        "GameTeamRule": "EGameTeamRule::EGTR_ServerDemand",
+        "GameTeamRuleValue": "5",
+        "GameWinType": "EGameWinType::EGWT_TeamScore",
+        "GameWinValue": "25",
+        "GameTimeCountdownType": "EGameTimeCountdownType::EGTCT_CountDown",
+        "GameTimeCountdownValue": 600,
+        "HeroSelectionType": "EHeroSelectionType::EHST_Skip",
+        "HeroSelectionValue": "5",
+        "TeamScoreType": "ETeamScoreType::ETST_KillScore",
+        "VictoryCameraType": "EVictoryCameraType::EVCT_Scorer",
+        "VictoryCameraValue": "None",
+        "VictoryHandlingType": "EVictoryHandlingType::EVHT_Send_Result_Server",
+        "ModeSelectionType": "EModeSelectionType::EMST_FixedHero",
+        "ModeSelectionValue": "1001",
+        "SkillSlotToLock": [
+          "ESkillSlot::ESS_BaseAttack",
+          "ESkillSlot::ESS_RMB",
+          "ESkillSlot::ESS_Q",
+          "ESkillSlot::ESS_E",
+          "ESkillSlot::ESS_None",
+          "ESkillSlot::ESS_Passive",
+          "ESkillSlot::ESS_Recall",
+          "ESkillSlot::ESS_Taunt",
+          "ESkillSlot::ESS_WardSkill",
+          "ESkillSlot::ESS_OrbDropSkill",
+          "ESkillSlot::ESS_GuardianSkill",
+          "ESkillSlot::ESS_BlueBuffSkill",
+          "ESkillSlot::ESS_RedBuffSkill",
+          "ESkillSlot::ESS_SpritSkill",
+          "ESkillSlot::ESS_RiverBuffSkill",
+          "ESkillSlot::ESS_GreenBuffSkill",
+          "ESkillSlot::ESS_PurpleBuffSkill",
+          "ESkillSlot::ESS_JumpPadSkill",
+          "ESkillSlot::ESS_ManaStackItem",
+          "ESkillSlot::ESS_GuardianShockWave",
+          "ESkillSlot::ESS_ElixirSkill",
+          "ESkillSlot::ESS_MapSkinSkill"
+        ],
+        "LaneSelectionType": "ELaneSelectionType::ELST_Deactivation",
+        "ItemShopType": "EItemShopType::EIST_Deactivation",
+        "ItemShopValue": "None",
+        "GameResultType": "EGameResultType::EGRT_SimpleRanking",
+        "ResurrectType": "EResurrectType::ERT_Resurrect_FixedTime",
+        "ResurrectValue": "5",
+        "GameDefeatType": [
+          "EGameDefeatType::EGDT_NotVictory"
+        ],
+        "UseSkillSlotGroupID": "None"
+      },
+      "21": {
+        "MapID": "RocketTest_P3",
+        "MapCode": "EOfficialMapType::EOMT_Domination",
+        "MapNameLocalID": "PS.Map_B02_Name",
+        "MapDescLocalID": "PS.Map_B02_Desc_A",
+        "LevelFile": "World'/Game/Maps/RocketTest/RocketTest_P3.RocketTest_P3'",
+        "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_03.T_image_Map_03'",
+        "GameModeToUse": "ESelectedGameModeType::ESGMT_Normal",
+        "UseSpell": false,
+        "StartLevel": 12,
+        "StartSkillPoint": 12,
+        "MaxTeamLimit": 5,
+        "StartGold": 6000,
+        "GenGoldStartTime": 90,
+        "GenGoldInterval": 1.0,
+        "GenGoldPerInterval": 3,
+        "InhibitorRespawnDelay": 0.0,
+        "WorldManagerID": "13",
+        "Afk_Check_Time": 90,
+        "Afk_Escape_Time": 30,
+        "Surrender_Enable_Time": 600,
+        "Surrender_Enable_Retry_Time": 120,
+        "MiniMapType": "EMiniMapType::EMMT_Sync_Complete",
+        "MiniMapValue": 3500,
+        "MiniMapPath": "None",
+        "Num_Players": [
+          "1",
+          "5"
+        ],
+        "StartSequence_Dawn": null,
+        "StartSequence_Dusk": null,
+        "MapNameEN": "DOMINATION",
+        "HeroSpawnZoneSelectionRule": "EHeroSpawnZoneSelectionType::EHSZST_Random",
+        "GameTeamRule": "EGameTeamRule::EGTR_ServerDemand",
+        "GameTeamRuleValue": "5",
+        "GameWinType": "EGameWinType::EGWT_TeamScore",
+        "GameWinValue": "20000",
+        "GameTimeCountdownType": "EGameTimeCountdownType::EGTCT_CountUp",
+        "GameTimeCountdownValue": 0,
+        "HeroSelectionType": "EHeroSelectionType::EHST_None",
+        "HeroSelectionValue": "None",
+        "TeamScoreType": "ETeamScoreType::ETST_KillScore",
+        "VictoryCameraType": "EVictoryCameraType::EVCT_Scorer",
+        "VictoryCameraValue": "None",
+        "VictoryHandlingType": "EVictoryHandlingType::EVHT_Send_Result_Server",
+        "ModeSelectionType": "EModeSelectionType::EMST_Basic",
+        "ModeSelectionValue": "None",
+        "SkillSlotToLock": [
+          "ESkillSlot::ESS_Recall",
+          "ESkillSlot::ESS_OrbDropSkill"
+        ],
+        "LaneSelectionType": "ELaneSelectionType::ELST_Deactivation",
+        "ItemShopType": "EItemShopType::EIST_Deactivation",
+        "ItemShopValue": "None",
+        "GameResultType": "EGameResultType::EGRT_Normal",
+        "ResurrectType": "EResurrectType::ERT_Resurrect_FixedTime",
+        "ResurrectValue": "5",
+        "GameDefeatType": [
+          "EGameDefeatType::EGDT_NotVictory"
+        ],
+        "UseSkillSlotGroupID": "None"
+      },
+      "22": {
+        "MapID": "RocketTest_P5",
+        "MapCode": "EOfficialMapType::EOMT_DominationMk2",
+        "MapNameLocalID": "PS.Map_B04_Name",
+        "MapDescLocalID": "PS.Map_B04_Desc",
+        "LevelFile": "World'/Game/Maps/RocketTest/RocketTest_P5.RocketTest_P5'",
+        "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_05.T_image_Map_05'",
+        "GameModeToUse": "ESelectedGameModeType::ESGMT_Normal",
+        "UseSpell": false,
+        "StartLevel": 12,
+        "StartSkillPoint": 12,
+        "MaxTeamLimit": 5,
+        "StartGold": 6000,
+        "GenGoldStartTime": 90,
+        "GenGoldInterval": 1.0,
+        "GenGoldPerInterval": 3,
+        "InhibitorRespawnDelay": 0.0,
+        "WorldManagerID": "13",
+        "Afk_Check_Time": 90,
+        "Afk_Escape_Time": 30,
+        "Surrender_Enable_Time": 600,
+        "Surrender_Enable_Retry_Time": 120,
+        "MiniMapType": "EMiniMapType::EMMT_Sync_Complete",
+        "MiniMapValue": 0,
+        "MiniMapPath": "None",
+        "Num_Players": [
+          "1",
+          "5"
+        ],
+        "StartSequence_Dawn": null,
+        "StartSequence_Dusk": null,
+        "MapNameEN": "DOMINATION",
+        "HeroSpawnZoneSelectionRule": "EHeroSpawnZoneSelectionType::EHSZST_Random",
+        "GameTeamRule": "EGameTeamRule::EGTR_ServerDemand",
+        "GameTeamRuleValue": "5",
+        "GameWinType": "EGameWinType::EGWT_TeamScore",
+        "GameWinValue": "20000",
+        "GameTimeCountdownType": "EGameTimeCountdownType::EGTCT_CountUp",
+        "GameTimeCountdownValue": 0,
+        "HeroSelectionType": "EHeroSelectionType::EHST_None",
+        "HeroSelectionValue": "None",
+        "TeamScoreType": "ETeamScoreType::ETST_KillScore",
+        "VictoryCameraType": "EVictoryCameraType::EVCT_Scorer",
+        "VictoryCameraValue": "None",
+        "VictoryHandlingType": "EVictoryHandlingType::EVHT_Send_Result_Server",
+        "ModeSelectionType": "EModeSelectionType::EMST_Basic",
+        "ModeSelectionValue": "None",
+        "SkillSlotToLock": [
+          "ESkillSlot::ESS_Recall",
+          "ESkillSlot::ESS_OrbDropSkill"
+        ],
+        "LaneSelectionType": "ELaneSelectionType::ELST_Deactivation",
+        "ItemShopType": "EItemShopType::EIST_Deactivation",
+        "ItemShopValue": "None",
+        "GameResultType": "EGameResultType::EGRT_Normal",
+        "ResurrectType": "EResurrectType::ERT_Resurrect_FixedTime",
+        "ResurrectValue": "5",
+        "GameDefeatType": [
+          "EGameDefeatType::EGDT_NotVictory"
+        ],
+        "UseSkillSlotGroupID": "None"
+      },
+      "23": {
+        "MapID": "LV_Sdown_P_final",
+        "MapCode": "EOfficialMapType::EOMT_TeamDeathRoyal",
+        "MapNameLocalID": "PS.Map_B06_Name",
+        "MapDescLocalID": "PS.Map_B06_Desc",
+        "LevelFile": "World'/Game/Maps/RocketTest/RocketTest_P4.RocketTest_P6'",
+        "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_04.T_image_Map_06'",
+        "GameModeToUse": "ESelectedGameModeType::ESGMT_10_Player",
+        "UseSpell": false,
+        "StartLevel": 1,
+        "StartSkillPoint": 18,
+        "MaxTeamLimit": 5,
+        "StartGold": 0,
+        "GenGoldStartTime": 90,
+        "GenGoldInterval": 1.0,
+        "GenGoldPerInterval": 0,
+        "InhibitorRespawnDelay": 0.0,
+        "WorldManagerID": "14",
+        "Afk_Check_Time": 90,
+        "Afk_Escape_Time": 30,
+        "Surrender_Enable_Time": 600,
+        "Surrender_Enable_Retry_Time": 120,
+        "MiniMapType": "EMiniMapType::EMMT_Sync_Partial",
+        "MiniMapValue": 3500,
+        "MiniMapPath": "None",
+        "Num_Players": [
+          "1",
+          "5",
+          "10"
+        ],
+        "StartSequence_Dawn": null,
+        "StartSequence_Dusk": null,
+        "MapNameEN": "The District 9",
+        "HeroSpawnZoneSelectionRule": "EHeroSpawnZoneSelectionType::EHSZST_Random",
+        "GameTeamRule": "EGameTeamRule::EGTR_Team",
+        "GameTeamRuleValue": "2,5",
+        "GameWinType": "EGameWinType::EGWT_LastTeamStanding",
+        "GameWinValue": "None",
+        "GameTimeCountdownType": "EGameTimeCountdownType::EGTCT_CountUp",
+        "GameTimeCountdownValue": 0,
+        "HeroSelectionType": "EHeroSelectionType::EHST_Skip",
+        "HeroSelectionValue": "5",
+        "TeamScoreType": "ETeamScoreType::ETST_KillScore",
+        "VictoryCameraType": "EVictoryCameraType::EVCT_Scorer",
+        "VictoryCameraValue": "None",
+        "VictoryHandlingType": "EVictoryHandlingType::EVHT_Send_Result_Server",
+        "ModeSelectionType": "EModeSelectionType::EMST_PreHeroSelect",
+        "ModeSelectionValue": "None",
+        "SkillSlotToLock": [
+          "ESkillSlot::ESS_Recall",
+          "ESkillSlot::ESS_WardSkill",
+          "ESkillSlot::ESS_OrbDropSkill"
+        ],
+        "LaneSelectionType": "ELaneSelectionType::ELST_Deactivation",
+        "ItemShopType": "EItemShopType::EIST_NomalShop_SelectGroup",
+        "ItemShopValue": "None",
+        "GameResultType": "EGameResultType::EGRT_SimpleRanking",
+        "ResurrectType": "EResurrectType::ERT_Death",
+        "ResurrectValue": "5",
+        "GameDefeatType": [
+          "EGameDefeatType::EGDT_AFK",
+          "EGameDefeatType::EGDT_TeamAnnihilation",
+          "EGameDefeatType::EGDT_NotVictory"
+        ],
         "UseSkillSlotGroupID": "None"
       }
     }

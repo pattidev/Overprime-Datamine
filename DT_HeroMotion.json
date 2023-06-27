@@ -54,6 +54,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'AM_Respawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Murdock/Animations/AM_Respawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Murdock_Death'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Murdock/Animations/AnimMontage/AM_Murdock_Death.0"
         }
       },
       "2": {
@@ -100,6 +104,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'AM_Respawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Murdock/Animations/AM_Respawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Murdock_Death'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Murdock/Animations/AnimMontage/AM_Murdock_Death.0"
         }
       },
       "3": {
@@ -146,6 +154,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'AM_Respawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Twinblast/Animations/AM_Respawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Fwd_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Twinblast/Animations/AM_Death_Fwd_Montage.0"
         }
       },
       "4": {
@@ -192,6 +204,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'AM_Respawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Muriel/Animations/AM_Respawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Muriel_Death_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Muriel/Animations/AM_Muriel_Death_Montage.0"
         }
       },
       "5": {
@@ -238,6 +254,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'AM_Respawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Rampage/Animations/AM_Respawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'Death_A_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Rampage/Animations/Death_A_Montage.0"
         }
       },
       "6": {
@@ -284,6 +304,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'AM_Respawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Rampage/Animations/AM_Respawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'Death_A_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Rampage/Animations/Death_A_Montage.0"
         }
       },
       "7": {
@@ -330,6 +354,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'AM_Respawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Kallari/Animations/AM_Respawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'Death_B_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Kallari/Animations/Death_B_Montage.0"
         }
       },
       "8": {
@@ -376,6 +404,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'AM_Respawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Grux/Animations/AM_Respawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Grux_Death'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Grux/Animations/AnimMontage/ETC/AM_Grux_Death.0"
         }
       },
       "9": {
@@ -422,6 +454,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Respawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Steel/Animations/Respawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Steel_Death_B_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Steel/Animations/Animmontage/ETC/AM_Steel_Death_B_Montage.0"
         }
       },
       "10": {
@@ -438,7 +474,8 @@
         "HitReactBackward": null,
         "JumpPadActivation": null,
         "DeathSequence": null,
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": null
       },
       "11": {
         "UnitState": "Default",
@@ -484,6 +521,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'AM_Respawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Sparrow/Animations/AM_Respawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'Death_Bwd_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Sparrow/Animations/Death_Bwd_Montage.0"
         }
       },
       "12": {
@@ -530,6 +571,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'AM_Respawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Sparrow/Animations/AM_Respawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'Death_Bwd_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Sparrow/Animations/Death_Bwd_Montage.0"
         }
       },
       "13": {
@@ -576,6 +621,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Respawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Sevarog/Animations/Respawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'Death_front_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Sevarog/Animations/Death_front_Montage.0"
         }
       },
       "14": {
@@ -622,6 +671,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Respawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Kwang/Animations/Respawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'Death_Bwd_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Kwang/Animations/Death_Bwd_Montage.0"
         }
       },
       "15": {
@@ -668,6 +721,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Respawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Kwang/Animations/Respawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'Death_Bwd_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Kwang/Animations/Death_Bwd_Montage.0"
         }
       },
       "16": {
@@ -714,6 +771,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'AM_Respawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Gideon/Animations/AM_Respawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'Death_Back_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Gideon/Animations/Death_Back_Montage.0"
         }
       },
       "17": {
@@ -760,6 +821,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'AM_Respawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Fey/Animations/AM_Respawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'Death_Fwd_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Fey/Animations/Death_Fwd_Montage.0"
         }
       },
       "18": {
@@ -806,6 +871,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'AM_Respawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Shinbi/Animations/AM_Respawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_A_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Shinbi/Animations/AM_Death_A_Montage.0"
         }
       },
       "19": {
@@ -852,6 +921,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Respawn'",
           "ObjectPath": "Overprime/Content/Character/Hero/Revenant/Animations/Respawn.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'Death_Forward_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Revenant/Animations/Death_Forward_Montage.0"
         }
       },
       "20": {
@@ -898,6 +971,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Respawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Aurora/Animations/Respawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Aurora/Animations/AM_Death_Montage.0"
         }
       },
       "21": {
@@ -944,6 +1021,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'AM_Respawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Phase/Animations/AM_Respawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'Death_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Phase/Animations/Death_Montage.0"
         }
       },
       "22": {
@@ -981,7 +1062,11 @@
           "ObjectName": "AnimSequence'Adel_Daeth'",
           "ObjectPath": "Overprime/Content/Character/Hero/Adel/Animations/Adel_Daeth.0"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Adel_Death_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Adel/Animations/AM_Adel_Death_Montage.0"
+        }
       },
       "23": {
         "UnitState": "Shield",
@@ -1018,7 +1103,11 @@
           "ObjectName": "AnimSequence'Adel_Daeth'",
           "ObjectPath": "Overprime/Content/Character/Hero/Adel/Animations/Adel_Daeth.0"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Adel_Death_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Adel/Animations/AM_Adel_Death_Montage.0"
+        }
       },
       "24": {
         "UnitState": "Default",
@@ -1064,6 +1153,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Respawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Belica/Animations/Respawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'Death_B_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Belica/Animations/Death_B_Montage.0"
         }
       },
       "25": {
@@ -1110,6 +1203,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'AM_Respawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/FengMao/Animations/AM_Respawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'Death_Fwd_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/FengMao/Animations/Death_Fwd_Montage.0"
         }
       },
       "26": {
@@ -1144,6 +1241,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'AM_SelectScreen_Start_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/GRIM/Animations/AM_SelectScreen_Start_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Fwd_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/GRIM/Animations/AM_Death_Fwd_Montage.0"
         }
       },
       "27": {
@@ -1190,6 +1291,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'AM_Respawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Howitzer/Animations/AM_Respawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Howitzer/Animations/AM_Death_Montage.0"
         }
       },
       "28": {
@@ -1233,7 +1338,11 @@
           "ObjectName": "AnimSequence'Death_A'",
           "ObjectPath": "Overprime/Content/Character/Hero/Khaimera/Animations/Death_A.0"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_A_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Khaimera/Animations/AM_Death_A_Montage.0"
+        }
       },
       "29": {
         "UnitState": "Default",
@@ -1249,7 +1358,8 @@
         "HitReactBackward": null,
         "JumpPadActivation": null,
         "DeathSequence": null,
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": null
       },
       "30": {
         "UnitState": "Default",
@@ -1295,6 +1405,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'AM_Respawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Narbash/Animations/AM_Respawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'Death_Fwd_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Narbash/Animations/Death_Fwd_Montage.0"
         }
       },
       "31": {
@@ -1338,7 +1452,11 @@
           "ObjectName": "AnimSequence'Death_Fwd'",
           "ObjectPath": "Overprime/Content/Character/Hero/Gadget/Animations/Death_Fwd.0"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Fwd_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Gadget/Animations/AM_Death_Fwd_Montage.0"
+        }
       },
       "32": {
         "UnitState": "Default",
@@ -1384,6 +1502,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'AM_Respawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Countess/Animations/AM_Respawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'Death_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Countess/Animations/Death_Montage.0"
         }
       },
       "33": {
@@ -1430,6 +1552,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'AM_Respawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Serath/Animations/AM_Respawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Fwd_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Serath/Animations/AM_Death_Fwd_Montage.0"
         }
       },
       "34": {
@@ -1476,6 +1602,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'AM_LevelStart_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Greystone/Animations/AM_LevelStart_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_P_Greystone_Death_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Greystone/Animations/paragon_legacy/AM_P_Greystone_Death_Montage.0"
         }
       },
       "35": {
@@ -1522,6 +1652,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'AM_Respawn'",
           "ObjectPath": "Overprime/Content/Character/Hero/Zena/Animation/Montage/AM_Respawn.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Zena_Death_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Zena/Animation/AM_Zena_Death_Montage.0"
         }
       },
       "36": {
@@ -1565,7 +1699,11 @@
           "ObjectName": "AnimSequence'Death_Fwd'",
           "ObjectPath": "Overprime/Content/Character/Hero/Dekker/Animations/Death_Fwd.0"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Fwd_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Dekker/Animations/AM_Death_Fwd_Montage.0"
+        }
       },
       "37": {
         "UnitState": "Default",
@@ -1611,6 +1749,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'AM_LevelStart_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Drongo/Animations/AM_LevelStart_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Drongo/Animations/AM_Death_Montage.0"
         }
       },
       "38": {
@@ -1657,6 +1799,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Respawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Wraith/Animations/Respawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Forward_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Wraith/Animations/AM_Death_Forward_Montage.0"
         }
       },
       "39": {
@@ -1703,6 +1849,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Respawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Wukong/Animations/Montage/Respawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Wukong/Animations/AM_Death_Montage.0"
         }
       },
       "40": {
@@ -1746,6 +1896,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'AM_Respawn'",
           "ObjectPath": "Overprime/Content/Character/Hero/IggyScorch/Animations/Montage/AM_Respawn.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death'",
+          "ObjectPath": "Overprime/Content/Character/Hero/IggyScorch/Animations/Montage/AM_Death.0"
         }
       },
       "41": {
@@ -1792,6 +1946,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Respawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Crunch/Animations/Montage/Respawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_A_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Crunch/Animations/AM_Death_A_Montage.0"
         }
       },
       "42": {
@@ -1838,6 +1996,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Maco_Recall_Montage'",
           "ObjectPath": "Overprime/Content/Character/Hero/Maco/Animations/Montage/Maco_Recall_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Maco_Death_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Maco/Animations/AM_Maco_Death_Montage.0"
         }
       },
       "43": {
@@ -1875,7 +2037,8 @@
         },
         "JumpPadActivation": null,
         "DeathSequence": null,
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": null
       },
       "44": {
         "UnitState": "Default",
@@ -1891,7 +2054,8 @@
         "HitReactBackward": null,
         "JumpPadActivation": null,
         "DeathSequence": null,
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": null
       },
       "45": {
         "UnitState": "Default",
@@ -1919,6 +2083,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'AM_JungleMelee_Spawn_A_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/White_Buff/Animations/AM_JungleMelee_Spawn_A_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Melee_Death_Fwd_02_A_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Jungle/White_Buff/Animations/AM_Melee_Death_Fwd_02_A_Montage.0"
         }
       },
       "46": {
@@ -1935,7 +2103,8 @@
         "HitReactBackward": null,
         "JumpPadActivation": null,
         "DeathSequence": null,
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": null
       },
       "47": {
         "UnitState": "Default",
@@ -1963,6 +2132,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'AM_Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Buff/Red_Buff/Animations/AM_Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_front_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Buff/Red_Buff/Animations/AM_Death_front_Montage.0"
         }
       },
       "48": {
@@ -1991,6 +2164,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'AM_Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Buff/Blue_Buff/Animations/AM_Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Fwd_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Buff/Blue_Buff/Animations/AM_Death_Fwd_Montage.0"
         }
       },
       "49": {
@@ -2019,6 +2196,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'AM_Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Recovery/Blue_Buff_OLD/Animations/AM_Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Bwd_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Recovery/Blue_Buff_OLD/Animations/AM_Death_Bwd_Montage.0"
         }
       },
       "50": {
@@ -2041,6 +2222,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Prime/Black_Buff/Animations/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_export_Black_Buff_Death_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Prime/Black_Buff/Animations/AM_export_Black_Buff_Death_Montage.0"
         }
       },
       "51": {
@@ -2063,6 +2248,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Prime/Prime_Guardian/Animations/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Prime/Prime_Guardian/Animations/AM_Death_Montage.0"
         }
       },
       "52": {
@@ -2085,6 +2274,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Prime/Prime_Guardian/Animations/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Prime/Prime_Guardian/Animations/AM_Death_Montage.0"
         }
       },
       "53": {
@@ -2122,6 +2315,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Recovery/Green_Buff/Animations/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Recovery/Green_Buff/Animations/AM_Death_Montage.0"
         }
       },
       "54": {
@@ -2159,6 +2356,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Recovery/Green_Buff/Animations/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Recovery/Green_Buff/Animations/AM_Death_Montage.0"
         }
       },
       "55": {
@@ -2181,6 +2382,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'AM_Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Prime/Prime_Helix/Animations/AM_Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Prime/Prime_Helix/Animations/AM_Death_Montage.0"
         }
       },
       "56": {
@@ -2200,7 +2405,11 @@
           "ObjectName": "AnimSequence'Death'",
           "ObjectPath": "Overprime/Content/Character/NPC/Prime/Prime_Helix/Animations/Death.4"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Prime/Prime_Helix/Animations/AM_Death_Montage.0"
+        }
       },
       "57": {
         "UnitState": "Default",
@@ -2222,6 +2431,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Prime/Black_Buff/Animations/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_export_Black_Buff_Death_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Prime/Black_Buff/Animations/AM_export_Black_Buff_Death_Montage.0"
         }
       },
       "58": {
@@ -2244,6 +2457,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Prime/Black_Buff/Animations/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_export_Black_Buff_Death_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Prime/Black_Buff/Animations/AM_export_Black_Buff_Death_Montage.0"
         }
       },
       "59": {
@@ -2266,6 +2483,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Prime/Black_Buff/Animations/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_export_Black_Buff_Death_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Prime/Black_Buff/Animations/AM_export_Black_Buff_Death_Montage.0"
         }
       },
       "60": {
@@ -2288,6 +2509,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Prime/Black_Buff/Animations/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_export_Black_Buff_Death_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Prime/Black_Buff/Animations/AM_export_Black_Buff_Death_Montage.0"
         }
       },
       "61": {
@@ -2328,7 +2553,11 @@
           "ObjectName": "AnimSequence'Death_A_001'",
           "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/Death_A_001.0"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_A_001_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/AM_Death_A_001_Montage.0"
+        }
       },
       "62": {
         "UnitState": "Default",
@@ -2368,7 +2597,11 @@
           "ObjectName": "AnimSequence'Death_Back_A_003'",
           "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/Death_Back_A_003.0"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Back_A_003_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/AM_Death_Back_A_003_Montage.0"
+        }
       },
       "63": {
         "UnitState": "Default",
@@ -2408,7 +2641,11 @@
           "ObjectName": "AnimSequence'Death_B_003'",
           "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/Death_B_003.0"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_B_003_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/AM_Death_B_003_Montage.0"
+        }
       },
       "64": {
         "UnitState": "Default",
@@ -2448,7 +2685,11 @@
           "ObjectName": "AnimSequence'Death_Back'",
           "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/Death_Back.0"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Back_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/AM_Death_Back_Montage.0"
+        }
       },
       "65": {
         "UnitState": "Default",
@@ -2488,7 +2729,11 @@
           "ObjectName": "AnimSequence'Death_A_001'",
           "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/Death_A_001.0"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_A_001_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/AM_Death_A_001_Montage.0"
+        }
       },
       "66": {
         "UnitState": "Default",
@@ -2528,7 +2773,11 @@
           "ObjectName": "AnimSequence'Death_Back_A_003'",
           "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/Death_Back_A_003.0"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Back_A_003_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/AM_Death_Back_A_003_Montage.0"
+        }
       },
       "67": {
         "UnitState": "Default",
@@ -2568,7 +2817,11 @@
           "ObjectName": "AnimSequence'Death_B_003'",
           "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/Death_B_003.0"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_B_003_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/AM_Death_B_003_Montage.0"
+        }
       },
       "68": {
         "UnitState": "Default",
@@ -2608,7 +2861,11 @@
           "ObjectName": "AnimSequence'Death_Back'",
           "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/Death_Back.0"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Back_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/AM_Death_Back_Montage.0"
+        }
       },
       "69": {
         "UnitState": "Default",
@@ -2648,7 +2905,11 @@
           "ObjectName": "AnimSequence'Death_A_001'",
           "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/Death_A_001.0"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_A_001_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/AM_Death_A_001_Montage.0"
+        }
       },
       "70": {
         "UnitState": "Default",
@@ -2688,7 +2949,11 @@
           "ObjectName": "AnimSequence'Death_Back_A_003'",
           "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/Death_Back_A_003.0"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Back_A_003_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/AM_Death_Back_A_003_Montage.0"
+        }
       },
       "71": {
         "UnitState": "Default",
@@ -2728,7 +2993,11 @@
           "ObjectName": "AnimSequence'Death_B_003'",
           "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/Death_B_003.0"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_B_003_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/AM_Death_B_003_Montage.0"
+        }
       },
       "72": {
         "UnitState": "Default",
@@ -2768,7 +3037,11 @@
           "ObjectName": "AnimSequence'Death_Back'",
           "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/Death_Back.0"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Back_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/AM_Death_Back_Montage.0"
+        }
       },
       "73": {
         "UnitState": "Default",
@@ -2808,7 +3081,11 @@
           "ObjectName": "AnimSequence'Death_A_001'",
           "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/Death_A_001.0"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_A_001_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/AM_Death_A_001_Montage.0"
+        }
       },
       "74": {
         "UnitState": "Default",
@@ -2848,7 +3125,11 @@
           "ObjectName": "AnimSequence'Death_Back_A_003'",
           "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/Death_Back_A_003.0"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Back_A_003_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/AM_Death_Back_A_003_Montage.0"
+        }
       },
       "75": {
         "UnitState": "Default",
@@ -2888,7 +3169,11 @@
           "ObjectName": "AnimSequence'Death_B_003'",
           "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/Death_B_003.0"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_B_003_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/AM_Death_B_003_Montage.0"
+        }
       },
       "76": {
         "UnitState": "Default",
@@ -2928,7 +3213,11 @@
           "ObjectName": "AnimSequence'Death_Back'",
           "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/Death_Back.0"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Back_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/AM_Death_Back_Montage.0"
+        }
       },
       "77": {
         "UnitState": "Default",
@@ -2944,7 +3233,8 @@
         "HitReactBackward": null,
         "JumpPadActivation": null,
         "DeathSequence": null,
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": null
       },
       "78": {
         "UnitState": "Default",
@@ -2960,7 +3250,8 @@
         "HitReactBackward": null,
         "JumpPadActivation": null,
         "DeathSequence": null,
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": null
       },
       "79": {
         "UnitState": "Default",
@@ -2976,7 +3267,8 @@
         "HitReactBackward": null,
         "JumpPadActivation": null,
         "DeathSequence": null,
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": null
       },
       "80": {
         "UnitState": "Default",
@@ -2992,7 +3284,8 @@
         "HitReactBackward": null,
         "JumpPadActivation": null,
         "DeathSequence": null,
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": null
       },
       "81": {
         "UnitState": "Default",
@@ -3008,7 +3301,8 @@
         "HitReactBackward": null,
         "JumpPadActivation": null,
         "DeathSequence": null,
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": null
       },
       "82": {
         "UnitState": "Default",
@@ -3024,7 +3318,8 @@
         "HitReactBackward": null,
         "JumpPadActivation": null,
         "DeathSequence": null,
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": null
       },
       "83": {
         "UnitState": "Default",
@@ -3040,7 +3335,8 @@
         "HitReactBackward": null,
         "JumpPadActivation": null,
         "DeathSequence": null,
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": null
       },
       "84": {
         "UnitState": "Default",
@@ -3056,7 +3352,8 @@
         "HitReactBackward": null,
         "JumpPadActivation": null,
         "DeathSequence": null,
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": null
       },
       "85": {
         "UnitState": "Default",
@@ -3072,7 +3369,8 @@
         "HitReactBackward": null,
         "JumpPadActivation": null,
         "DeathSequence": null,
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": null
       },
       "86": {
         "UnitState": "Default",
@@ -3088,7 +3386,8 @@
         "HitReactBackward": null,
         "JumpPadActivation": null,
         "DeathSequence": null,
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": null
       },
       "87": {
         "UnitState": "Default",
@@ -3104,7 +3403,8 @@
         "HitReactBackward": null,
         "JumpPadActivation": null,
         "DeathSequence": null,
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": null
       },
       "88": {
         "UnitState": "Default",
@@ -3120,7 +3420,8 @@
         "HitReactBackward": null,
         "JumpPadActivation": null,
         "DeathSequence": null,
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": null
       },
       "89": {
         "UnitState": "Default",
@@ -3136,7 +3437,8 @@
         "HitReactBackward": null,
         "JumpPadActivation": null,
         "DeathSequence": null,
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": null
       },
       "90": {
         "UnitState": "Default",
@@ -3152,7 +3454,8 @@
         "HitReactBackward": null,
         "JumpPadActivation": null,
         "DeathSequence": null,
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": null
       },
       "91": {
         "UnitState": "Default",
@@ -3168,7 +3471,8 @@
         "HitReactBackward": null,
         "JumpPadActivation": null,
         "DeathSequence": null,
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": null
       },
       "92": {
         "UnitState": "Default",
@@ -3184,7 +3488,8 @@
         "HitReactBackward": null,
         "JumpPadActivation": null,
         "DeathSequence": null,
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": null
       },
       "93": {
         "UnitState": "Default",
@@ -3200,7 +3505,8 @@
         "HitReactBackward": null,
         "JumpPadActivation": null,
         "DeathSequence": null,
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": null
       },
       "94": {
         "UnitState": "Default",
@@ -3216,7 +3522,8 @@
         "HitReactBackward": null,
         "JumpPadActivation": null,
         "DeathSequence": null,
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": null
       },
       "95": {
         "UnitState": "Default",
@@ -3232,7 +3539,8 @@
         "HitReactBackward": null,
         "JumpPadActivation": null,
         "DeathSequence": null,
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": null
       },
       "96": {
         "UnitState": "Default",
@@ -3248,7 +3556,8 @@
         "HitReactBackward": null,
         "JumpPadActivation": null,
         "DeathSequence": null,
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": null
       },
       "97": {
         "UnitState": "Default",
@@ -3264,7 +3573,8 @@
         "HitReactBackward": null,
         "JumpPadActivation": null,
         "DeathSequence": null,
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": null
       },
       "98": {
         "UnitState": "Default",
@@ -3286,6 +3596,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Prime/Prime_Guardian/Animations/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Prime/Prime_Guardian/Animations/AM_Death_Montage.0"
         }
       },
       "99": {
@@ -3326,7 +3640,11 @@
           "ObjectName": "AnimSequence'Death_A_001'",
           "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/Death_A_001.0"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_A_001_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/AM_Death_A_001_Montage.0"
+        }
       },
       "100": {
         "UnitState": "Default",
@@ -3366,7 +3684,11 @@
           "ObjectName": "AnimSequence'Death_Back_A_003'",
           "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/Death_Back_A_003.0"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Back_A_003_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/AM_Death_Back_A_003_Montage.0"
+        }
       },
       "101": {
         "UnitState": "Default",
@@ -3406,7 +3728,11 @@
           "ObjectName": "AnimSequence'Death_B_003'",
           "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/Death_B_003.0"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_B_003_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/AM_Death_B_003_Montage.0"
+        }
       },
       "102": {
         "UnitState": "Default",
@@ -3446,7 +3772,11 @@
           "ObjectName": "AnimSequence'Death_Back'",
           "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/Death_Back.0"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Back_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/AM_Death_Back_Montage.0"
+        }
       },
       "103": {
         "UnitState": "Default",
@@ -3486,7 +3816,11 @@
           "ObjectName": "AnimSequence'Death_A_001'",
           "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/Death_A_001.0"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_A_001_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/AM_Death_A_001_Montage.0"
+        }
       },
       "104": {
         "UnitState": "Default",
@@ -3526,7 +3860,11 @@
           "ObjectName": "AnimSequence'Death_Back_A_003'",
           "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/Death_Back_A_003.0"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Back_A_003_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/AM_Death_Back_A_003_Montage.0"
+        }
       },
       "105": {
         "UnitState": "Default",
@@ -3566,7 +3904,11 @@
           "ObjectName": "AnimSequence'Death_B_003'",
           "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/Death_B_003.0"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_B_003_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/AM_Death_B_003_Montage.0"
+        }
       },
       "106": {
         "UnitState": "Default",
@@ -3606,7 +3948,11 @@
           "ObjectName": "AnimSequence'Death_Back'",
           "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/Death_Back.0"
         },
-        "Respawn": null
+        "Respawn": null,
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Back_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/AM_Death_Back_Montage.0"
+        }
       },
       "107": {
         "UnitState": "Default",
@@ -3637,6 +3983,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Assassin_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Back_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/Super_Minions/Animations/Super/AM_Death_Back_Montage.0"
         }
       },
       "108": {
@@ -3668,6 +4018,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Assassin_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Back_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/Super_Minions/Animations/Super/AM_Death_Back_Montage.0"
         }
       },
       "109": {
@@ -3699,6 +4053,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Assassin_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Back_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/Super_Minions/Animations/Super/AM_Death_Back_Montage.0"
         }
       },
       "110": {
@@ -3730,6 +4088,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Frozen_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Melee_Death_Bwd_02_A_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Jungle/White_Buff_OLD/Animations/AM_Melee_Death_Bwd_02_A_Montage.0"
         }
       },
       "111": {
@@ -3761,6 +4123,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Frozen_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Melee_Death_Bwd_02_A_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Jungle/White_Buff_OLD/Animations/AM_Melee_Death_Bwd_02_A_Montage.0"
         }
       },
       "112": {
@@ -3792,6 +4158,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Frozen_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Melee_Death_Bwd_02_A_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Jungle/White_Buff_OLD/Animations/AM_Melee_Death_Bwd_02_A_Montage.0"
         }
       },
       "113": {
@@ -3823,6 +4193,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Frozen_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Melee_Death_Bwd_01_A_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Jungle/White_Buff_OLD/Animations/AM_Melee_Death_Bwd_01_A_Montage.0"
         }
       },
       "114": {
@@ -3854,6 +4228,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Frozen_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Melee_Death_Bwd_01_A_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Jungle/White_Buff_OLD/Animations/AM_Melee_Death_Bwd_01_A_Montage.0"
         }
       },
       "115": {
@@ -3885,6 +4263,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Frozen_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Melee_Death_Bwd_01_A_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Jungle/White_Buff_OLD/Animations/AM_Melee_Death_Bwd_01_A_Montage.0"
         }
       },
       "116": {
@@ -3916,6 +4298,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Ring_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_B_003_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/AM_Death_B_003_Montage.0"
         }
       },
       "117": {
@@ -3947,6 +4333,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Ring_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_B_003_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/AM_Death_B_003_Montage.0"
         }
       },
       "118": {
@@ -3978,6 +4368,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Ring_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_B_003_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/AM_Death_B_003_Montage.0"
         }
       },
       "119": {
@@ -4009,6 +4403,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Ring_N/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_A_001_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/AM_Death_A_001_Montage.0"
         }
       },
       "120": {
@@ -4040,6 +4438,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Ring_N/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_A_001_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/AM_Death_A_001_Montage.0"
         }
       },
       "121": {
@@ -4071,6 +4473,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Ring_N/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_A_001_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/AM_Death_A_001_Montage.0"
         }
       },
       "122": {
@@ -4102,6 +4508,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Thorn_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Back_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/AM_Death_Back_Montage.0"
         }
       },
       "123": {
@@ -4133,6 +4543,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Thorn_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Back_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/AM_Death_Back_Montage.0"
         }
       },
       "124": {
@@ -4164,6 +4578,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Thorn_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Back_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/AM_Death_Back_Montage.0"
         }
       },
       "125": {
@@ -4195,6 +4613,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Thorn_N/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Back_A_003_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/AM_Death_Back_A_003_Montage.0"
         }
       },
       "126": {
@@ -4226,6 +4648,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Thorn_N/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Back_A_003_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/AM_Death_Back_A_003_Montage.0"
         }
       },
       "127": {
@@ -4257,6 +4683,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Thorn_N/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Back_A_003_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/AM_Death_Back_A_003_Montage.0"
         }
       },
       "128": {
@@ -4288,6 +4718,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Foresee_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_B_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/Super_Minions/Animations/Ranged/AM_Death_B_Montage.0"
         }
       },
       "129": {
@@ -4319,6 +4753,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Foresee_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_B_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/Super_Minions/Animations/Ranged/AM_Death_B_Montage.0"
         }
       },
       "130": {
@@ -4350,6 +4788,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Foresee_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_B_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/Super_Minions/Animations/Ranged/AM_Death_B_Montage.0"
         }
       },
       "131": {
@@ -4381,6 +4823,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/EternalLife_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Melee_Death_Fwd_02_A_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Jungle/White_Buff/Animations/AM_Melee_Death_Fwd_02_A_Montage.0"
         }
       },
       "132": {
@@ -4412,6 +4858,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/EternalLife_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Melee_Death_Fwd_02_A_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Jungle/White_Buff/Animations/AM_Melee_Death_Fwd_02_A_Montage.0"
         }
       },
       "133": {
@@ -4443,6 +4893,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/EternalLife_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Melee_Death_Fwd_02_A_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Jungle/White_Buff/Animations/AM_Melee_Death_Fwd_02_A_Montage.0"
         }
       },
       "134": {
@@ -4474,6 +4928,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/EternalLife_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Melee_Death_Fwd_02_A_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Jungle/White_Buff/Animations/AM_Melee_Death_Fwd_02_A_Montage.0"
         }
       },
       "135": {
@@ -4505,6 +4963,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/EternalLife_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Melee_Death_Fwd_02_A_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Jungle/White_Buff/Animations/AM_Melee_Death_Fwd_02_A_Montage.0"
         }
       },
       "136": {
@@ -4536,6 +4998,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/EternalLife_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Melee_Death_Fwd_02_A_Montage'",
+          "ObjectPath": "Overprime/Content/Character/NPC/Jungle/White_Buff/Animations/AM_Melee_Death_Fwd_02_A_Montage.0"
         }
       },
       "137": {
@@ -4567,6 +5033,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Earthquake_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Back_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/AM_Death_Back_Montage.0"
         }
       },
       "138": {
@@ -4598,6 +5068,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Earthquake_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Back_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/AM_Death_Back_Montage.0"
         }
       },
       "139": {
@@ -4629,6 +5103,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Earthquake_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Back_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Super/AM_Death_Back_Montage.0"
         }
       },
       "140": {
@@ -4660,6 +5138,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Earthquake_N/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Back_A_003_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/AM_Death_Back_A_003_Montage.0"
         }
       },
       "141": {
@@ -4691,6 +5173,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Earthquake_N/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Back_A_003_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/AM_Death_Back_A_003_Montage.0"
         }
       },
       "142": {
@@ -4722,6 +5208,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Earthquake_N/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_Back_A_003_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Ranged/AM_Death_Back_A_003_Montage.0"
         }
       },
       "143": {
@@ -4753,6 +5243,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Abyss_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_B_003_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/AM_Death_B_003_Montage.0"
         }
       },
       "144": {
@@ -4784,6 +5278,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Abyss_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_B_003_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/AM_Death_B_003_Montage.0"
         }
       },
       "145": {
@@ -4815,6 +5313,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Abyss_L/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_B_003_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Siege/AM_Death_B_003_Montage.0"
         }
       },
       "146": {
@@ -4846,6 +5348,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Abyss_N/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_A_001_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/AM_Death_A_001_Montage.0"
         }
       },
       "147": {
@@ -4877,6 +5383,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Abyss_N/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_A_001_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/AM_Death_A_001_Montage.0"
         }
       },
       "148": {
@@ -4908,6 +5418,10 @@
         "Respawn": {
           "ObjectName": "AnimMontage'Spawn_Montage'",
           "ObjectPath": "Overprime/Content/Character/NPC/Jungle/Abyss_N/Spawn_Montage.0"
+        },
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Death_A_001_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Minion/ParagonMinion_Dawn/Animations/Melee/AM_Death_A_001_Montage.0"
         }
       }
     }

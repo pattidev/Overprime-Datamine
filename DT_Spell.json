@@ -1,0 +1,147 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_Spell",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'SpellDataTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "2": {
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "GameModeType": [
+          "ESelectedGameModeType::ESGMT_Normal",
+          "ESelectedGameModeType::ESGMT_Training",
+          "ESelectedGameModeType::ESGMT_Custom",
+          "ESelectedGameModeType::ESGMT_Ranked",
+          "ESelectedGameModeType::ESGMT_Normal_AI",
+          "ESelectedGameModeType::ESGMT_Fake_AI_2"
+        ],
+        "SpellID": "40101000",
+        "SkillID": "40101000",
+        "CommunityLv": 1,
+        "IconOut": {
+          "ObjectName": "Texture2D'40101000'",
+          "ObjectPath": "Overprime/Content/Textures/Icon/Spell/128/40101000.0"
+        },
+        "IconIn": {
+          "ObjectName": "Texture2D'40101000'",
+          "ObjectPath": "Overprime/Content/Textures/Icon/Spell/32/40101000.0"
+        }
+      },
+      "3": {
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "GameModeType": [
+          "ESelectedGameModeType::ESGMT_Normal",
+          "ESelectedGameModeType::ESGMT_Training",
+          "ESelectedGameModeType::ESGMT_Custom",
+          "ESelectedGameModeType::ESGMT_Ranked",
+          "ESelectedGameModeType::ESGMT_Normal_AI",
+          "ESelectedGameModeType::ESGMT_Fake_AI_2"
+        ],
+        "SpellID": "40101001",
+        "SkillID": "40101001",
+        "CommunityLv": 1,
+        "IconOut": {
+          "ObjectName": "Texture2D'40101001'",
+          "ObjectPath": "Overprime/Content/Textures/Icon/Spell/128/40101001.0"
+        },
+        "IconIn": {
+          "ObjectName": "Texture2D'40101001'",
+          "ObjectPath": "Overprime/Content/Textures/Icon/Spell/32/40101001.0"
+        }
+      },
+      "4": {
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "GameModeType": [
+          "ESelectedGameModeType::ESGMT_Normal",
+          "ESelectedGameModeType::ESGMT_Training",
+          "ESelectedGameModeType::ESGMT_Custom",
+          "ESelectedGameModeType::ESGMT_Ranked",
+          "ESelectedGameModeType::ESGMT_Normal_AI",
+          "ESelectedGameModeType::ESGMT_Fake_AI_2"
+        ],
+        "SpellID": "40101002",
+        "SkillID": "40101002",
+        "CommunityLv": 1,
+        "IconOut": {
+          "ObjectName": "Texture2D'40101002'",
+          "ObjectPath": "Overprime/Content/Textures/Icon/Spell/128/40101002.0"
+        },
+        "IconIn": {
+          "ObjectName": "Texture2D'40101002'",
+          "ObjectPath": "Overprime/Content/Textures/Icon/Spell/32/40101002.0"
+        }
+      },
+      "6": {
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "GameModeType": [
+          "ESelectedGameModeType::ESGMT_Normal",
+          "ESelectedGameModeType::ESGMT_Training",
+          "ESelectedGameModeType::ESGMT_Custom",
+          "ESelectedGameModeType::ESGMT_Ranked",
+          "ESelectedGameModeType::ESGMT_Normal_AI",
+          "ESelectedGameModeType::ESGMT_Fake_AI_2"
+        ],
+        "SpellID": "40101004",
+        "SkillID": "40101004",
+        "CommunityLv": 1,
+        "IconOut": {
+          "ObjectName": "Texture2D'40101004'",
+          "ObjectPath": "Overprime/Content/Textures/Icon/Spell/128/40101004.0"
+        },
+        "IconIn": {
+          "ObjectName": "Texture2D'40101004'",
+          "ObjectPath": "Overprime/Content/Textures/Icon/Spell/32/40101004.0"
+        }
+      },
+      "8": {
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "GameModeType": [
+          "ESelectedGameModeType::ESGMT_Normal",
+          "ESelectedGameModeType::ESGMT_Training",
+          "ESelectedGameModeType::ESGMT_Custom",
+          "ESelectedGameModeType::ESGMT_Ranked",
+          "ESelectedGameModeType::ESGMT_Normal_AI",
+          "ESelectedGameModeType::ESGMT_Fake_AI_2"
+        ],
+        "SpellID": "40101006",
+        "SkillID": "40101006",
+        "CommunityLv": 1,
+        "IconOut": {
+          "ObjectName": "Texture2D'40101006'",
+          "ObjectPath": "Overprime/Content/Textures/Icon/Spell/128/40101006.0"
+        },
+        "IconIn": {
+          "ObjectName": "Texture2D'40101006'",
+          "ObjectPath": "Overprime/Content/Textures/Icon/Spell/32/40101006.0"
+        }
+      },
+      "16": {
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "GameModeType": [
+          "ESelectedGameModeType::ESGMT_Normal",
+          "ESelectedGameModeType::ESGMT_Training",
+          "ESelectedGameModeType::ESGMT_Custom",
+          "ESelectedGameModeType::ESGMT_Ranked",
+          "ESelectedGameModeType::ESGMT_Normal_AI",
+          "ESelectedGameModeType::ESGMT_Fake_AI_2"
+        ],
+        "SpellID": "40101014",
+        "SkillID": "40101014",
+        "CommunityLv": 1,
+        "IconOut": {
+          "ObjectName": "Texture2D'40101014'",
+          "ObjectPath": "Overprime/Content/Textures/Icon/Spell/128/40101014.0"
+        },
+        "IconIn": {
+          "ObjectName": "Texture2D'40101014'",
+          "ObjectPath": "Overprime/Content/Textures/Icon/Spell/32/40101014.0"
+        }
+      }
+    }
+  }
+]

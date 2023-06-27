@@ -398,6 +398,38 @@
         "MovieSkipBlockTime": -1.0,
         "MovieAutoSkip": false
       },
+      "312": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Normal",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_13.T_common_Loading_C_Random_13",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Normal",
+        "ToolTipsID": [
+          "1002",
+          "1003",
+          "1004",
+          "1005",
+          "1006",
+          "1007",
+          "1008",
+          "1009",
+          "1010",
+          "1011",
+          "1012",
+          "1013",
+          "1014",
+          "1015"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
       "401": {
         "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Custom",
         "LoadingSubType": "ELoadingSubType::ELSBT_Default",
@@ -750,6 +782,38 @@
         "MovieSkipBlockTime": -1.0,
         "MovieAutoSkip": false
       },
+      "412": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Custom",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_13.T_common_Loading_C_Random_13",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Custom",
+        "ToolTipsID": [
+          "1002",
+          "1003",
+          "1004",
+          "1005",
+          "1006",
+          "1007",
+          "1008",
+          "1009",
+          "1010",
+          "1011",
+          "1012",
+          "1013",
+          "1014",
+          "1015"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
       "501": {
         "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Ranked",
         "LoadingSubType": "ELoadingSubType::ELSBT_Default",
@@ -1047,6 +1111,33 @@
         "MovieSkipBlockTime": -1.0,
         "MovieAutoSkip": false
       },
+      "512": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Ranked",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_C_Random_13.T_common_Loading_C_Random_13",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Rank",
+        "ToolTipsID": [
+          "1016",
+          "1017",
+          "1018",
+          "1019",
+          "1020",
+          "1021",
+          "1022",
+          "1023",
+          "1024"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
       "601": {
         "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Tutorial",
         "LoadingSubType": "ELoadingSubType::ELSBT_Tutorial1",
@@ -1134,6 +1225,57 @@
         "ImageTitle": "",
         "ToolTipsID": [],
         "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "900": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Custom",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_ARAM.T_common_Loading_ARAM",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Custom",
+        "ToolTipsID": [],
+        "Enabled": false,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "901": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Custom",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_Sniper.T_common_Loading_Sniper",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Custom",
+        "ToolTipsID": [],
+        "Enabled": false,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
+      },
+      "902": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Custom",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_common_Loading_agolith.T_common_Loading_agolith",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_Custom",
+        "ToolTipsID": [],
+        "Enabled": false,
         "MoviePlayType": "EMoviePlayType::EMPT_None",
         "LoadingMoviePath": "None",
         "MovieSkip": false,

@@ -1,0 +1,53 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_Bounty",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'BountyDataTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "GameModeType": [
+          "ESelectedGameModeType::ESGMT_Normal",
+          "ESelectedGameModeType::ESGMT_Training",
+          "ESelectedGameModeType::ESGMT_Custom",
+          "ESelectedGameModeType::ESGMT_Ranked",
+          "ESelectedGameModeType::ESGMT_Normal_AI",
+          "ESelectedGameModeType::ESGMT_Fake_AI_2"
+        ],
+        "GainCap": 750,
+        "GainCapAssist": 225,
+        "MinimumBounty": 50,
+        "AverageGoldGain": 4.8,
+        "FirstGoldGainDifference": 350,
+        "FirstGoldGainDifferenceReward": 100,
+        "GoldGainDifference": 150,
+        "GoldGainDifferenceReward": 50,
+        "DecreaseTime": 420
+      },
+      "2": {
+        "MapType": "EOfficialMapType::EOMT_ARAM",
+        "GameModeType": [
+          "ESelectedGameModeType::ESGMT_Normal",
+          "ESelectedGameModeType::ESGMT_Training",
+          "ESelectedGameModeType::ESGMT_Custom",
+          "ESelectedGameModeType::ESGMT_Ranked"
+        ],
+        "GainCap": 750,
+        "GainCapAssist": 225,
+        "MinimumBounty": 50,
+        "AverageGoldGain": 4.8,
+        "FirstGoldGainDifference": 999999,
+        "FirstGoldGainDifferenceReward": 100,
+        "GoldGainDifference": 150,
+        "GoldGainDifferenceReward": 50,
+        "DecreaseTime": 420
+      }
+    }
+  }
+]

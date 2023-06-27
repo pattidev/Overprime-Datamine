@@ -9621,6 +9621,27 @@
         "EffectEndSound": [],
         "EffectEndSoundLocal": [],
         "EffectSoundLocalRule": "EEffectKeywordLocalSoundRuleType::EEKLSRT_Both"
+      },
+      "625": {
+        "TableID": "625",
+        "ExpansionEffectKeyword": "Debuff_Dot_40101004_LV",
+        "SoundGroupID": "None",
+        "SuperpositionType": "EEffectKeywordSoundDirectionSuperpositionType::ESUPT_IgnoreLater",
+        "SuperpositionValue": 0.0,
+        "EffectStartSound": [
+          "spell_ignition_start"
+        ],
+        "EffectStartSoundLocal": [],
+        "StopOngoingSoundOnEnd": false,
+        "EffectOngoingSound": [
+          "spell_ignition_loop"
+        ],
+        "EffectOngoingSoundLocal": [],
+        "EffectEndSound": [
+          "spell_ignition_end"
+        ],
+        "EffectEndSoundLocal": [],
+        "EffectSoundLocalRule": "EEffectKeywordLocalSoundRuleType::EEKLSRT_Caster"
       }
     }
   }

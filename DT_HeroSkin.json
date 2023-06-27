@@ -10289,7 +10289,7 @@
         "SkinID": "1013007",
         "HeroGroupID": "1013",
         "UnitType": "EActorMainType::EAMT_Hero",
-        "EditorOnly": true,
+        "EditorOnly": false,
         "SkinGrade": "ESkinGrade::Epic",
         "SkinName": "CHAR.Skin_TheFey_0302",
         "SkinDescription": "None",
@@ -13299,7 +13299,7 @@
         "SkinID": "1018001",
         "HeroGroupID": "1018",
         "UnitType": "EActorMainType::EAMT_Hero",
-        "EditorOnly": true,
+        "EditorOnly": false,
         "SkinGrade": "ESkinGrade::Original",
         "SkinName": "CHAR.Skin_Adele_0100",
         "SkinDescription": "None",
@@ -13904,7 +13904,7 @@
         "SkinID": "1018006",
         "HeroGroupID": "1018",
         "UnitType": "EActorMainType::EAMT_Hero",
-        "EditorOnly": true,
+        "EditorOnly": false,
         "SkinGrade": "ESkinGrade::Epic",
         "SkinName": "CHAR.Skin_Adele_0301",
         "SkinDescription": "None",
@@ -41083,6 +41083,968 @@
           "0",
           "1"
         ]
+      },
+      "342": {
+        "SkinID": "3001001",
+        "HeroGroupID": "3001",
+        "UnitType": "EActorMainType::EAMT_JungleMinion",
+        "EditorOnly": false,
+        "SkinGrade": "ESkinGrade::Original",
+        "SkinName": "None",
+        "SkinDescription": "None",
+        "SkinIcon": "None",
+        "HeroBP": "NPC_TDR_EXPSpplyBox_N",
+        "AssetReference": {
+          "AssetPathName": "/Game/InGame/NPCs/TDR/NPC_TDR_EXPSpplyBox_N.NPC_TDR_EXPSpplyBox_N_C",
+          "SubPathString": ""
+        },
+        "SkinKillStreak": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_PortraitAlpha_Abyss_N.T_Hero_Icon_PortraitAlpha_Abyss_N",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemy": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_PortraitAlpha_Abyss_N.T_Hero_Icon_PortraitAlpha_Abyss_N",
+          "SubPathString": ""
+        },
+        "AvartarPortrait": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DraftBanpick": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitDraft": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Jungle_Red_Portrait.Hero_Icon_Jungle_Red_Portrait",
+          "SubPathString": ""
+        },
+        "PortraitDraftHeroSlot": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitLarge": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Jungle_Red_Portrait.Hero_Icon_Jungle_Red_Portrait",
+          "SubPathString": ""
+        },
+        "Normal_Skin_210x210": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Collection_270x292": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_150x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_ScoreBoard_220x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_323x484": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_450x500": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PurchasePopup_1100x480": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_Featured_812x1010": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_1860_868": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Featured_Heroes_550x876": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SkinKillStreakAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_PortraitAlpha_Abyss_N.T_Hero_Icon_PortraitAlpha_Abyss_N",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemyAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_PortraitAlpha_Abyss_N.T_Hero_Icon_PortraitAlpha_Abyss_N",
+          "SubPathString": ""
+        },
+        "PortraitLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_PortraitAlpha_Abyss_N.T_Hero_Icon_PortraitAlpha_Abyss_N",
+          "SubPathString": ""
+        },
+        "PingLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_PortraitAlpha_Abyss_N.T_Hero_Icon_PortraitAlpha_Abyss_N",
+          "SubPathString": ""
+        },
+        "IndicatorCoordinate": [
+          "0.9",
+          "0.9",
+          "0.7",
+          "0.7"
+        ],
+        "IndicatorCoordinateAdd": [
+          "0.9",
+          "0.9",
+          "0.5",
+          "0.5"
+        ],
+        "IndicatorCoordinateDot": [
+          "0.1",
+          "1",
+          "0.6",
+          "0.6"
+        ],
+        "IndicatorCoordinateGold": [
+          "0",
+          "1"
+        ]
+      },
+      "343": {
+        "SkinID": "3002001",
+        "HeroGroupID": "3002",
+        "UnitType": "EActorMainType::EAMT_JungleMinion",
+        "EditorOnly": false,
+        "SkinGrade": "ESkinGrade::Original",
+        "SkinName": "None",
+        "SkinDescription": "None",
+        "SkinIcon": "None",
+        "HeroBP": "NPC_TDR_EXPSpplyBox_N",
+        "AssetReference": {
+          "AssetPathName": "/Game/InGame/NPCs/TDR/NPC_TDR_EXPSpplyBox_N.NPC_TDR_EXPSpplyBox_N_C",
+          "SubPathString": ""
+        },
+        "SkinKillStreak": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_PortraitAlpha_Abyss_N.T_Hero_Icon_PortraitAlpha_Abyss_N",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemy": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_PortraitAlpha_Abyss_N.T_Hero_Icon_PortraitAlpha_Abyss_N",
+          "SubPathString": ""
+        },
+        "AvartarPortrait": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DraftBanpick": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitDraft": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Jungle_Red_Portrait.Hero_Icon_Jungle_Red_Portrait",
+          "SubPathString": ""
+        },
+        "PortraitDraftHeroSlot": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitLarge": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Jungle_Red_Portrait.Hero_Icon_Jungle_Red_Portrait",
+          "SubPathString": ""
+        },
+        "Normal_Skin_210x210": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Collection_270x292": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_150x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_ScoreBoard_220x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_323x484": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_450x500": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PurchasePopup_1100x480": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_Featured_812x1010": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_1860_868": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Featured_Heroes_550x876": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SkinKillStreakAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_PortraitAlpha_Abyss_N.T_Hero_Icon_PortraitAlpha_Abyss_N",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemyAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_PortraitAlpha_Abyss_N.T_Hero_Icon_PortraitAlpha_Abyss_N",
+          "SubPathString": ""
+        },
+        "PortraitLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_PortraitAlpha_Abyss_N.T_Hero_Icon_PortraitAlpha_Abyss_N",
+          "SubPathString": ""
+        },
+        "PingLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_PortraitAlpha_Abyss_N.T_Hero_Icon_PortraitAlpha_Abyss_N",
+          "SubPathString": ""
+        },
+        "IndicatorCoordinate": [
+          "0.9",
+          "0.9",
+          "0.7",
+          "0.7"
+        ],
+        "IndicatorCoordinateAdd": [
+          "0.9",
+          "0.9",
+          "0.5",
+          "0.5"
+        ],
+        "IndicatorCoordinateDot": [
+          "0.1",
+          "1",
+          "0.6",
+          "0.6"
+        ],
+        "IndicatorCoordinateGold": [
+          "0",
+          "1"
+        ]
+      },
+      "344": {
+        "SkinID": "5101001",
+        "HeroGroupID": "5101",
+        "UnitType": "EActorMainType::EAMT_Building",
+        "EditorOnly": false,
+        "SkinGrade": "ESkinGrade::Original",
+        "SkinName": "None",
+        "SkinDescription": "None",
+        "SkinIcon": "NPC_Icon_Dawn_Tower_Agora_Portrait",
+        "HeroBP": "NPC_Icon_Dawn_Tower_Agora_Portrait",
+        "AssetReference": {
+          "AssetPathName": "/Game/InGame/BattleBuildings/Tower/Turret_AOP.Turret_AOP_C",
+          "SubPathString": ""
+        },
+        "SkinKillStreak": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_Tower_Ally.T_Hero_Icon_Portrait_Alpha_Dawn_Tower_Ally",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemy": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_Tower_Enemy.T_Hero_Icon_Portrait_Alpha_Dawn_Tower_Enemy",
+          "SubPathString": ""
+        },
+        "AvartarPortrait": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DraftBanpick": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitDraft": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/NPC_Icon_Dawn_Tower_Agora_Portrait.NPC_Icon_Dawn_Tower_Agora_Portrait",
+          "SubPathString": ""
+        },
+        "PortraitDraftHeroSlot": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitLarge": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/NPC_Icon_Dawn_Tower_Agora_Portrait.NPC_Icon_Dawn_Tower_Agora_Portrait",
+          "SubPathString": ""
+        },
+        "Normal_Skin_210x210": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Collection_270x292": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_150x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_ScoreBoard_220x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_323x484": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_450x500": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PurchasePopup_1100x480": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_Featured_812x1010": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_1860_868": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Featured_Heroes_550x876": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SkinKillStreakAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_Tower_Ally.T_Hero_Icon_Portrait_Alpha_Dawn_Tower_Ally",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemyAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_Tower_Enemy.T_Hero_Icon_Portrait_Alpha_Dawn_Tower_Enemy",
+          "SubPathString": ""
+        },
+        "PortraitLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_Tower_Ally.T_Hero_Icon_Portrait_Alpha_Dawn_Tower_Ally",
+          "SubPathString": ""
+        },
+        "PingLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_Tower_Ally.T_Hero_Icon_Portrait_Alpha_Dawn_Tower_Ally",
+          "SubPathString": ""
+        },
+        "IndicatorCoordinate": [
+          "0.9",
+          "0.9",
+          "0.7",
+          "0.7"
+        ],
+        "IndicatorCoordinateAdd": [
+          "0.9",
+          "0.9",
+          "0.5",
+          "0.5"
+        ],
+        "IndicatorCoordinateDot": [
+          "0.1",
+          "1",
+          "0.6",
+          "0.6"
+        ],
+        "IndicatorCoordinateGold": [
+          "0",
+          "0.5"
+        ]
+      },
+      "345": {
+        "SkinID": "5102001",
+        "HeroGroupID": "5102",
+        "UnitType": "EActorMainType::EAMT_Building",
+        "EditorOnly": false,
+        "SkinGrade": "ESkinGrade::Original",
+        "SkinName": "None",
+        "SkinDescription": "None",
+        "SkinIcon": "NPC_Icon_Dawn_Inhibitor_Agora_Portrait",
+        "HeroBP": "NPC_Icon_Dawn_Inhibitor_Agora_Portrait",
+        "AssetReference": {
+          "AssetPathName": "/Game/InGame/BattleBuildings/Tower/Exhabitor_AOP_TurretBP.Exhabitor_AOP_TurretBP_C",
+          "SubPathString": ""
+        },
+        "SkinKillStreak": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_Inhibitor_Ally.T_Hero_Icon_Portrait_Alpha_Dawn_Inhibitor_Ally",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemy": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_Inhibitor_Enemy.T_Hero_Icon_Portrait_Alpha_Dawn_Inhibitor_Enemy",
+          "SubPathString": ""
+        },
+        "AvartarPortrait": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DraftBanpick": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitDraft": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/NPC_Icon_Dawn_Inhibitor_Agora_Portrait.NPC_Icon_Dawn_Inhibitor_Agora_Portrait",
+          "SubPathString": ""
+        },
+        "PortraitDraftHeroSlot": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitLarge": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/NPC_Icon_Dawn_Inhibitor_Agora_Portrait.NPC_Icon_Dawn_Inhibitor_Agora_Portrait",
+          "SubPathString": ""
+        },
+        "Normal_Skin_210x210": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Collection_270x292": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_150x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_ScoreBoard_220x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_323x484": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_450x500": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PurchasePopup_1100x480": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_Featured_812x1010": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_1860_868": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Featured_Heroes_550x876": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SkinKillStreakAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_Inhibitor_Ally.T_Hero_Icon_Portrait_Alpha_Dawn_Inhibitor_Ally",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemyAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_Inhibitor_Enemy.T_Hero_Icon_Portrait_Alpha_Dawn_Inhibitor_Enemy",
+          "SubPathString": ""
+        },
+        "PortraitLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_Inhibitor_Ally.T_Hero_Icon_Portrait_Alpha_Dawn_Inhibitor_Ally",
+          "SubPathString": ""
+        },
+        "PingLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_Inhibitor_Ally.T_Hero_Icon_Portrait_Alpha_Dawn_Inhibitor_Ally",
+          "SubPathString": ""
+        },
+        "IndicatorCoordinate": [
+          "0.9",
+          "0.9",
+          "0.7",
+          "0.7"
+        ],
+        "IndicatorCoordinateAdd": [
+          "0.9",
+          "0.9",
+          "0.5",
+          "0.5"
+        ],
+        "IndicatorCoordinateDot": [
+          "0.1",
+          "1",
+          "0.6",
+          "0.6"
+        ],
+        "IndicatorCoordinateGold": [
+          "0",
+          "0.35"
+        ]
+      },
+      "346": {
+        "SkinID": "5103001",
+        "HeroGroupID": "5103",
+        "UnitType": "EActorMainType::EAMT_Building",
+        "EditorOnly": false,
+        "SkinGrade": "ESkinGrade::Original",
+        "SkinName": "None",
+        "SkinDescription": "None",
+        "SkinIcon": "NPC_Icon_Dawn_Core_Agora_Portrait",
+        "HeroBP": "NPC_Icon_Dawn_Core_Agora_Portrait",
+        "AssetReference": {
+          "AssetPathName": "/Game/InGame/BattleBuildings/Core/CoreBP_New.CoreBP_New_C",
+          "SubPathString": ""
+        },
+        "SkinKillStreak": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_Core_Ally.T_Hero_Icon_Portrait_Alpha_Dawn_Core_Ally",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemy": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_Core_Enemy.T_Hero_Icon_Portrait_Alpha_Dawn_Core_Enemy",
+          "SubPathString": ""
+        },
+        "AvartarPortrait": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DraftBanpick": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitDraft": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/NPC_Icon_Dawn_Core_Agora_Portrait.NPC_Icon_Dawn_Core_Agora_Portrait",
+          "SubPathString": ""
+        },
+        "PortraitDraftHeroSlot": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitLarge": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/NPC_Icon_Dawn_Core_Agora_Portrait.NPC_Icon_Dawn_Core_Agora_Portrait",
+          "SubPathString": ""
+        },
+        "Normal_Skin_210x210": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Collection_270x292": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_150x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_ScoreBoard_220x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_323x484": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_450x500": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PurchasePopup_1100x480": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_Featured_812x1010": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_1860_868": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Featured_Heroes_550x876": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SkinKillStreakAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_Core_Ally.T_Hero_Icon_Portrait_Alpha_Dawn_Core_Ally",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemyAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_Core_Enemy.T_Hero_Icon_Portrait_Alpha_Dawn_Core_Enemy",
+          "SubPathString": ""
+        },
+        "PortraitLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_Core_Ally.T_Hero_Icon_Portrait_Alpha_Dawn_Core_Ally",
+          "SubPathString": ""
+        },
+        "PingLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dawn_Core_Ally.T_Hero_Icon_Portrait_Alpha_Dawn_Core_Ally",
+          "SubPathString": ""
+        },
+        "IndicatorCoordinate": [
+          "0.9",
+          "0.9",
+          "0.7",
+          "0.7"
+        ],
+        "IndicatorCoordinateAdd": [
+          "0.9",
+          "0.9",
+          "0.5",
+          "0.5"
+        ],
+        "IndicatorCoordinateDot": [
+          "0.1",
+          "1",
+          "0.6",
+          "0.6"
+        ],
+        "IndicatorCoordinateGold": []
+      },
+      "347": {
+        "SkinID": "5111001",
+        "HeroGroupID": "5111",
+        "UnitType": "EActorMainType::EAMT_Building",
+        "EditorOnly": false,
+        "SkinGrade": "ESkinGrade::Original",
+        "SkinName": "None",
+        "SkinDescription": "None",
+        "SkinIcon": "NPC_Icon_Dusk_Tower_Agora_Portrait",
+        "HeroBP": "NPC_Icon_Dusk_Tower_Agora_Portrait",
+        "AssetReference": {
+          "AssetPathName": "/Game/InGame/BattleBuildings/Tower/Turret_AOP.Turret_AOP_C",
+          "SubPathString": ""
+        },
+        "SkinKillStreak": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_Tower_Ally.T_Hero_Icon_Portrait_Alpha_Dusk_Tower_Ally",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemy": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_Tower_Enemy.T_Hero_Icon_Portrait_Alpha_Dusk_Tower_Enemy",
+          "SubPathString": ""
+        },
+        "AvartarPortrait": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DraftBanpick": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitDraft": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/NPC_Icon_Dusk_Tower_Agora_Portrait.NPC_Icon_Dusk_Tower_Agora_Portrait",
+          "SubPathString": ""
+        },
+        "PortraitDraftHeroSlot": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitLarge": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/NPC_Icon_Dusk_Tower_Agora_Portrait.NPC_Icon_Dusk_Tower_Agora_Portrait",
+          "SubPathString": ""
+        },
+        "Normal_Skin_210x210": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Collection_270x292": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_150x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_ScoreBoard_220x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_323x484": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_450x500": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PurchasePopup_1100x480": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_Featured_812x1010": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_1860_868": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Featured_Heroes_550x876": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SkinKillStreakAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_Tower_Ally.T_Hero_Icon_Portrait_Alpha_Dusk_Tower_Ally",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemyAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_Tower_Enemy.T_Hero_Icon_Portrait_Alpha_Dusk_Tower_Enemy",
+          "SubPathString": ""
+        },
+        "PortraitLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_Tower_Ally.T_Hero_Icon_Portrait_Alpha_Dusk_Tower_Ally",
+          "SubPathString": ""
+        },
+        "PingLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_Tower_Ally.T_Hero_Icon_Portrait_Alpha_Dusk_Tower_Ally",
+          "SubPathString": ""
+        },
+        "IndicatorCoordinate": [
+          "0.9",
+          "0.9",
+          "0.7",
+          "0.7"
+        ],
+        "IndicatorCoordinateAdd": [
+          "0.9",
+          "0.9",
+          "0.5",
+          "0.5"
+        ],
+        "IndicatorCoordinateDot": [
+          "0.1",
+          "1",
+          "0.6",
+          "0.6"
+        ],
+        "IndicatorCoordinateGold": [
+          "0",
+          "0.5"
+        ]
+      },
+      "348": {
+        "SkinID": "5112001",
+        "HeroGroupID": "5112",
+        "UnitType": "EActorMainType::EAMT_Building",
+        "EditorOnly": false,
+        "SkinGrade": "ESkinGrade::Original",
+        "SkinName": "None",
+        "SkinDescription": "None",
+        "SkinIcon": "NPC_Icon_Dusk_Inhibitor_Agora_Portrait",
+        "HeroBP": "NPC_Icon_Dusk_Inhibitor_Agora_Portrait",
+        "AssetReference": {
+          "AssetPathName": "/Game/InGame/BattleBuildings/Tower/Exhabitor_AOP_TurretBP.Exhabitor_AOP_TurretBP_C",
+          "SubPathString": ""
+        },
+        "SkinKillStreak": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_Inhibitor_Ally.T_Hero_Icon_Portrait_Alpha_Dusk_Inhibitor_Ally",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemy": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_Inhibitor_Enemy.T_Hero_Icon_Portrait_Alpha_Dusk_Inhibitor_Enemy",
+          "SubPathString": ""
+        },
+        "AvartarPortrait": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DraftBanpick": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitDraft": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/NPC_Icon_Dusk_Inhibitor_Agora_Portrait.NPC_Icon_Dusk_Inhibitor_Agora_Portrait",
+          "SubPathString": ""
+        },
+        "PortraitDraftHeroSlot": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitLarge": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/NPC_Icon_Dusk_Inhibitor_Agora_Portrait.NPC_Icon_Dusk_Inhibitor_Agora_Portrait",
+          "SubPathString": ""
+        },
+        "Normal_Skin_210x210": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Collection_270x292": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_150x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_ScoreBoard_220x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_323x484": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_450x500": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PurchasePopup_1100x480": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_Featured_812x1010": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_1860_868": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Featured_Heroes_550x876": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SkinKillStreakAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_Inhibitor_Ally.T_Hero_Icon_Portrait_Alpha_Dusk_Inhibitor_Ally",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemyAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_Inhibitor_Enemy.T_Hero_Icon_Portrait_Alpha_Dusk_Inhibitor_Enemy",
+          "SubPathString": ""
+        },
+        "PortraitLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_Inhibitor_Ally.T_Hero_Icon_Portrait_Alpha_Dusk_Inhibitor_Ally",
+          "SubPathString": ""
+        },
+        "PingLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_Inhibitor_Ally.T_Hero_Icon_Portrait_Alpha_Dusk_Inhibitor_Ally",
+          "SubPathString": ""
+        },
+        "IndicatorCoordinate": [
+          "0.9",
+          "0.9",
+          "0.7",
+          "0.7"
+        ],
+        "IndicatorCoordinateAdd": [
+          "0.9",
+          "0.9",
+          "0.5",
+          "0.5"
+        ],
+        "IndicatorCoordinateDot": [
+          "0.1",
+          "1",
+          "0.6",
+          "0.6"
+        ],
+        "IndicatorCoordinateGold": [
+          "0",
+          "0.35"
+        ]
+      },
+      "349": {
+        "SkinID": "5113001",
+        "HeroGroupID": "5113",
+        "UnitType": "EActorMainType::EAMT_Building",
+        "EditorOnly": false,
+        "SkinGrade": "ESkinGrade::Original",
+        "SkinName": "None",
+        "SkinDescription": "None",
+        "SkinIcon": "NPC_Icon_Dusk_Core_Agora_Portrait",
+        "HeroBP": "NPC_Icon_Dusk_Core_Agora_Portrait",
+        "AssetReference": {
+          "AssetPathName": "/Game/InGame/BattleBuildings/Core/CoreBP_New.CoreBP_New_C",
+          "SubPathString": ""
+        },
+        "SkinKillStreak": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_Core_Ally.T_Hero_Icon_Portrait_Alpha_Dusk_Core_Ally",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemy": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_Core_Enemy.T_Hero_Icon_Portrait_Alpha_Dusk_Core_Enemy",
+          "SubPathString": ""
+        },
+        "AvartarPortrait": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DraftBanpick": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitDraft": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/NPC_Icon_Dusk_Core_Agora_Portrait.NPC_Icon_Dusk_Core_Agora_Portrait",
+          "SubPathString": ""
+        },
+        "PortraitDraftHeroSlot": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PortraitLarge": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/NPC_Icon_Dusk_Core_Agora_Portrait.NPC_Icon_Dusk_Core_Agora_Portrait",
+          "SubPathString": ""
+        },
+        "Normal_Skin_210x210": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Collection_270x292": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_150x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_ScoreBoard_220x80": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Max_Play_323x484": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_450x500": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PurchasePopup_1100x480": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Shop_Featured_812x1010": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ResultWindow_1860_868": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Featured_Heroes_550x876": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SkinKillStreakAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_Core_Ally.T_Hero_Icon_Portrait_Alpha_Dusk_Core_Ally",
+          "SubPathString": ""
+        },
+        "SkinKillStreakEnemyAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_Core_Enemy.T_Hero_Icon_Portrait_Alpha_Dusk_Core_Enemy",
+          "SubPathString": ""
+        },
+        "PortraitLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_Core_Ally.T_Hero_Icon_Portrait_Alpha_Dusk_Core_Ally",
+          "SubPathString": ""
+        },
+        "PingLargeAlpha": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait_Alpha/T_Hero_Icon_Portrait_Alpha_Dusk_Core_Ally.T_Hero_Icon_Portrait_Alpha_Dusk_Core_Ally",
+          "SubPathString": ""
+        },
+        "IndicatorCoordinate": [
+          "0.9",
+          "0.9",
+          "0.7",
+          "0.7"
+        ],
+        "IndicatorCoordinateAdd": [
+          "0.9",
+          "0.9",
+          "0.5",
+          "0.5"
+        ],
+        "IndicatorCoordinateDot": [
+          "0.1",
+          "1",
+          "0.6",
+          "0.6"
+        ],
+        "IndicatorCoordinateGold": []
       }
     }
   }

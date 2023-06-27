@@ -217,6 +217,58 @@
         "SoundChannelName": "main_bgm",
         "TransitionFadeIn": 0.5,
         "TransitionFadeOut": 0.5
+      },
+      "17": {
+        "TableID": "17",
+        "Map": "EOfficialMapType::EOMT_Domination",
+        "EventType": "EBGMEventType::EBET_TeamScore_IsDefeating",
+        "BGMStopType": "EBGMStopType::EBST_RoundEnd",
+        "StopBGMLeaveMap": true,
+        "EventValue": "5000",
+        "SoundID": "BGM_Orb_Activated_Ally",
+        "PlayAfter": 0.0,
+        "SoundChannelName": "None",
+        "TransitionFadeIn": 0.0,
+        "TransitionFadeOut": 0.5
+      },
+      "18": {
+        "TableID": "18",
+        "Map": "EOfficialMapType::EOMT_Domination",
+        "EventType": "EBGMEventType::EBET_TeamScore_IsWinning",
+        "BGMStopType": "EBGMStopType::EBST_RoundEnd",
+        "StopBGMLeaveMap": true,
+        "EventValue": "5000",
+        "SoundID": "BGM_Orb_Activated_Enemy",
+        "PlayAfter": 0.0,
+        "SoundChannelName": "None",
+        "TransitionFadeIn": 0.0,
+        "TransitionFadeOut": 0.5
+      },
+      "19": {
+        "TableID": "19",
+        "Map": "EOfficialMapType::EOMT_DominationMk2",
+        "EventType": "EBGMEventType::EBET_TeamScore_IsDefeating",
+        "BGMStopType": "EBGMStopType::EBST_RoundEnd",
+        "StopBGMLeaveMap": true,
+        "EventValue": "5000",
+        "SoundID": "BGM_Orb_Activated_Ally",
+        "PlayAfter": 0.0,
+        "SoundChannelName": "None",
+        "TransitionFadeIn": 0.0,
+        "TransitionFadeOut": 0.5
+      },
+      "20": {
+        "TableID": "20",
+        "Map": "EOfficialMapType::EOMT_DominationMk2",
+        "EventType": "EBGMEventType::EBET_TeamScore_IsWinning",
+        "BGMStopType": "EBGMStopType::EBST_RoundEnd",
+        "StopBGMLeaveMap": true,
+        "EventValue": "5000",
+        "SoundID": "BGM_Orb_Activated_Enemy",
+        "PlayAfter": 0.0,
+        "SoundChannelName": "None",
+        "TransitionFadeIn": 0.0,
+        "TransitionFadeOut": 0.5
       }
     }
   }

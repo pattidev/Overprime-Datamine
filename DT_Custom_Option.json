@@ -106,12 +106,10 @@
       "104": {
         "MapID": "RocketTest_P2",
         "MapType": "EOfficialMapType::EOMT_ARAM",
-        "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_02.T_image_Map_02'",
+        "MapThumbnailPath": "Texture2D'/Game/Textures/image/T_common_Loading_ARAM.T_common_Loading_ARAM'",
         "MapStringKey": "PS.Map_B01_Name",
         "PickType": [
-          "EGamePickType::EGPT_Ban_Draft_Type",
-          "EGamePickType::EGPT_Free_Choice_Type",
-          "EGamePickType::EGPT_Time_Limit_Type"
+          "EGamePickType::EGPT_ARAM"
         ],
         "TeamSize": [
           "ETeamSizeType::ETST_1vs1",
@@ -132,12 +130,12 @@
         ],
         "Min_Spectators": 0,
         "Max_Spectators": 4,
-        "MapEnable": false
+        "MapEnable": true
       },
       "105": {
         "MapID": "RocketTest_P4",
         "MapType": "EOfficialMapType::EOMT_SnipingArena",
-        "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_04.T_image_Map_04'",
+        "MapThumbnailPath": "Texture2D'/Game/Textures/image/T_common_Loading_Sniper.T_common_Loading_Sniper'",
         "MapStringKey": "PS.Map_B03_Name",
         "PickType": [
           "EGamePickType::EGPT_Ban_Draft_Type",
@@ -163,7 +161,7 @@
         ],
         "Min_Spectators": 0,
         "Max_Spectators": 4,
-        "MapEnable": false
+        "MapEnable": true
       },
       "106": {
         "MapID": "RocketTest_P3",
@@ -194,10 +192,10 @@
         ],
         "Min_Spectators": 0,
         "Max_Spectators": 4,
-        "MapEnable": false
+        "MapEnable": true
       },
       "107": {
-        "MapID": "RocketTest_P6",
+        "MapID": "LV_Sdown_P_final",
         "MapType": "EOfficialMapType::EOMT_TeamDeathRoyal",
         "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_04.T_image_Map_06'",
         "MapStringKey": "PS.Map_B06_Name",
@@ -225,7 +223,38 @@
         ],
         "Min_Spectators": 0,
         "Max_Spectators": 4,
-        "MapEnable": false
+        "MapEnable": true
+      },
+      "108": {
+        "MapID": "RocketTest_P5",
+        "MapType": "EOfficialMapType::EOMT_DominationMk2",
+        "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_05.T_image_Map_05'",
+        "MapStringKey": "PS.Map_B06_Name",
+        "PickType": [
+          "EGamePickType::EGPT_Ban_Draft_Type",
+          "EGamePickType::EGPT_Free_Choice_Type",
+          "EGamePickType::EGPT_Time_Limit_Type"
+        ],
+        "TeamSize": [
+          "ETeamSizeType::ETST_1vs1",
+          "ETeamSizeType::ETST_2vs2",
+          "ETeamSizeType::ETST_3vs3",
+          "ETeamSizeType::ETST_4vs4",
+          "ETeamSizeType::ETST_5vs5"
+        ],
+        "TimeLimit": [
+          "ETimeLimitType::ETLT_15min",
+          "ETimeLimitType::ETLT_20min",
+          "ETimeLimitType::ETLT_25min",
+          "ETimeLimitType::ETLT_30min",
+          "ETimeLimitType::ETLT_35min",
+          "ETimeLimitType::ETLT_40min",
+          "ETimeLimitType::ETLT_45min",
+          "ETimeLimitType::ETLT_50min"
+        ],
+        "Min_Spectators": 0,
+        "Max_Spectators": 4,
+        "MapEnable": true
       }
     }
   }

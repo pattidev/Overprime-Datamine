@@ -1,0 +1,45 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_SpellPosition",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'SpellPositionDataTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "PositionDefault": "EPositionType::EPT_None",
+        "DefaultSpellSlot_1": "40101006",
+        "DefaultSpellSlot_2": "40101001"
+      },
+      "2": {
+        "PositionDefault": "EPositionType::EPT_GuardianLane",
+        "DefaultSpellSlot_1": "40101006",
+        "DefaultSpellSlot_2": "40101001"
+      },
+      "3": {
+        "PositionDefault": "EPositionType::EPT_MidLane",
+        "DefaultSpellSlot_1": "40101006",
+        "DefaultSpellSlot_2": "40101001"
+      },
+      "4": {
+        "PositionDefault": "EPositionType::EPT_Jungle",
+        "DefaultSpellSlot_1": "40101006",
+        "DefaultSpellSlot_2": "40101000"
+      },
+      "5": {
+        "PositionDefault": "EPositionType::EPT_SpiritLane_Range",
+        "DefaultSpellSlot_1": "40101006",
+        "DefaultSpellSlot_2": "40101001"
+      },
+      "6": {
+        "PositionDefault": "EPositionType::EPT_SpiritLane_Support",
+        "DefaultSpellSlot_1": "40101006",
+        "DefaultSpellSlot_2": "40101014"
+      }
+    }
+  }
+]
