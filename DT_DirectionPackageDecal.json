@@ -851,14 +851,14 @@
         "DefaultCheck": true
       },
       "140": {
-        "TableID": "Skill_10340105_AOE",
-        "DecalActor": "DA_SF_Sect",
+        "TableID": "Skill_10340104_ATT",
+        "DecalActor": "DA_Simple_Circle",
         "HeroSkinID": "1034001",
         "DefaultCheck": true
       },
       "141": {
-        "TableID": "Skill_10340105_ATT",
-        "DecalActor": "DA_SF_Sect_ATT",
+        "TableID": "Skill_10340105_AOE",
+        "DecalActor": "DA_Sevarog_Sect",
         "HeroSkinID": "1034001",
         "DefaultCheck": true
       },
@@ -876,7 +876,7 @@
       },
       "144": {
         "TableID": "Skill_10350103_ATT",
-        "DecalActor": "DA_AGE_Circle_ATT",
+        "DecalActor": "DA_SF_Circle_ATT",
         "HeroSkinID": "1035001",
         "DefaultCheck": true
       },
@@ -965,26 +965,62 @@
         "DefaultCheck": true
       },
       "159": {
+        "TableID": "Skill_10430102_AOE",
+        "DecalActor": "DA_Projectile_SkillRange",
+        "HeroSkinID": "1043001",
+        "DefaultCheck": true
+      },
+      "160": {
+        "TableID": "Skill_10430103_AOE",
+        "DecalActor": "DA_SF_Circle",
+        "HeroSkinID": "1043001",
+        "DefaultCheck": true
+      },
+      "161": {
+        "TableID": "Skill_10430103_ATT",
+        "DecalActor": "DA_SF_Circle_ATT",
+        "HeroSkinID": "1043001",
+        "DefaultCheck": true
+      },
+      "162": {
+        "TableID": "Skill_10430104_AOE",
+        "DecalActor": "DA_Simple_SkillRange",
+        "HeroSkinID": "1043001",
+        "DefaultCheck": true
+      },
+      "163": {
+        "TableID": "Skill_10430105_AOE",
+        "DecalActor": "DA_SF_Circle",
+        "HeroSkinID": "1043001",
+        "DefaultCheck": true
+      },
+      "164": {
         "TableID": "Item_30900000_AOE",
         "DecalActor": "DecalActor_Ward",
         "HeroSkinID": "None",
         "DefaultCheck": true
       },
-      "160": {
+      "165": {
         "TableID": "Item_30102004_AOE",
         "DecalActor": "DecalActor_Ward",
         "HeroSkinID": "None",
         "DefaultCheck": true
       },
-      "161": {
+      "166": {
         "TableID": "Item_30304004_AOE",
         "DecalActor": "DA_SF_Circle",
         "HeroSkinID": "None",
         "DefaultCheck": true
       },
-      "162": {
+      "167": {
         "TableID": "Item_30304004_ATT",
         "DecalActor": "DA_SF_Circle_ATT",
+        "HeroSkinID": "None",
+        "DefaultCheck": true
+      },
+      "168": {
+        "TableID": "Gimmik_Aram_HealPack",
+        "DecalActor": "DA_Aram_Healpack_ATT",
         "HeroSkinID": "None",
         "DefaultCheck": true
       }

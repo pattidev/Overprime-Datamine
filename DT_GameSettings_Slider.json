@@ -27,6 +27,30 @@
         "UseRate": false
       },
       "3": {
+        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_AutoAim_CircleRadius",
+        "DefaultValue": 100,
+        "MinValue": 100,
+        "MaxValue": 900,
+        "Step": 10.0,
+        "UseRate": false
+      },
+      "4": {
+        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_AutoAim_TargetDistance",
+        "DefaultValue": 120,
+        "MinValue": 100,
+        "MaxValue": 900,
+        "Step": 10.0,
+        "UseRate": false
+      },
+      "5": {
+        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_AutoAim_RetargetDelay",
+        "DefaultValue": 0,
+        "MinValue": 0,
+        "MaxValue": 10,
+        "Step": 1.0,
+        "UseRate": false
+      },
+      "6": {
         "DetailType": "EGameSettingDetailType::EGSD_Display_FrameRate",
         "DefaultValue": 144,
         "MinValue": 30,
@@ -34,7 +58,7 @@
         "Step": 1.0,
         "UseRate": false
       },
-      "4": {
+      "7": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_MouseSensitivity",
         "DefaultValue": 20,
         "MinValue": 1,
@@ -42,7 +66,7 @@
         "Step": 1.0,
         "UseRate": false
       },
-      "5": {
+      "8": {
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_X_Sensitivity",
         "DefaultValue": 250,
         "MinValue": 100,
@@ -50,7 +74,7 @@
         "Step": 10.0,
         "UseRate": false
       },
-      "6": {
+      "9": {
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Y_Sensitivity",
         "DefaultValue": 250,
         "MinValue": 100,
@@ -58,7 +82,7 @@
         "Step": 10.0,
         "UseRate": false
       },
-      "7": {
+      "10": {
         "DetailType": "EGameSettingDetailType::EGSD_Sound_Main",
         "DefaultValue": 8,
         "MinValue": 0,
@@ -66,7 +90,7 @@
         "Step": 1.0,
         "UseRate": false
       },
-      "8": {
+      "11": {
         "DetailType": "EGameSettingDetailType::EGSD_Sound_BGM",
         "DefaultValue": 8,
         "MinValue": 0,
@@ -74,7 +98,7 @@
         "Step": 1.0,
         "UseRate": false
       },
-      "9": {
+      "12": {
         "DetailType": "EGameSettingDetailType::EGSD_Sound_SFX",
         "DefaultValue": 8,
         "MinValue": 0,
@@ -82,7 +106,7 @@
         "Step": 1.0,
         "UseRate": false
       },
-      "10": {
+      "13": {
         "DetailType": "EGameSettingDetailType::EGSD_Sound_UI",
         "DefaultValue": 8,
         "MinValue": 0,
@@ -90,7 +114,7 @@
         "Step": 1.0,
         "UseRate": false
       },
-      "11": {
+      "14": {
         "DetailType": "EGameSettingDetailType::EGSD_Sound_Announcer",
         "DefaultValue": 8,
         "MinValue": 0,
@@ -98,7 +122,7 @@
         "Step": 1.0,
         "UseRate": false
       },
-      "12": {
+      "15": {
         "DetailType": "EGameSettingDetailType::EGSD_Sound_Voice",
         "DefaultValue": 8,
         "MinValue": 0,
@@ -106,7 +130,7 @@
         "Step": 1.0,
         "UseRate": false
       },
-      "13": {
+      "16": {
         "DetailType": "EGameSettingDetailType::EGSD_Sound_Ambient",
         "DefaultValue": 8,
         "MinValue": 0,
@@ -114,7 +138,7 @@
         "Step": 1.0,
         "UseRate": false
       },
-      "14": {
+      "17": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_MotionBlur",
         "DefaultValue": 40,
         "MinValue": 0,
@@ -122,7 +146,7 @@
         "Step": 10.0,
         "UseRate": true
       },
-      "15": {
+      "18": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_Sharpen",
         "DefaultValue": 1,
         "MinValue": 0,
@@ -130,7 +154,7 @@
         "Step": 1.0,
         "UseRate": false
       },
-      "16": {
+      "19": {
         "DetailType": "EGameSettingDetailType::EGSD_Accessibility_ColorVisionSeverity",
         "DefaultValue": 50,
         "MinValue": 0,

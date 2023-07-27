@@ -135,7 +135,7 @@
           "ObjectName": "Texture2D'30900006'",
           "ObjectPath": "Overprime/Content/Textures/Icon/item_icon/30900006.0"
         },
-        "ItemGrade": "EItemGrade::EIG_NORMAL",
+        "ItemGrade": "EItemGrade::EIG_STARTER",
         "DestroyItemWhenDead": false,
         "UnSellable": false,
         "CanBuyPosition": [],
@@ -158,7 +158,7 @@
           "ObjectName": "Texture2D'30900007'",
           "ObjectPath": "Overprime/Content/Textures/Icon/item_icon/30900007.0"
         },
-        "ItemGrade": "EItemGrade::EIG_NORMAL",
+        "ItemGrade": "EItemGrade::EIG_STARTER",
         "DestroyItemWhenDead": false,
         "UnSellable": false,
         "CanBuyPosition": [],
@@ -181,7 +181,7 @@
           "ObjectName": "Texture2D'30900008'",
           "ObjectPath": "Overprime/Content/Textures/Icon/item_icon/30900008.0"
         },
-        "ItemGrade": "EItemGrade::EIG_NORMAL",
+        "ItemGrade": "EItemGrade::EIG_STARTER",
         "DestroyItemWhenDead": false,
         "UnSellable": false,
         "CanBuyPosition": [],
@@ -204,7 +204,7 @@
           "ObjectName": "Texture2D'30900009'",
           "ObjectPath": "Overprime/Content/Textures/Icon/item_icon/30900009.0"
         },
-        "ItemGrade": "EItemGrade::EIG_NORMAL",
+        "ItemGrade": "EItemGrade::EIG_STARTER",
         "DestroyItemWhenDead": false,
         "UnSellable": false,
         "CanBuyPosition": [],
@@ -227,7 +227,7 @@
           "ObjectName": "Texture2D'30900010'",
           "ObjectPath": "Overprime/Content/Textures/Icon/item_icon/30900010.0"
         },
-        "ItemGrade": "EItemGrade::EIG_NORMAL",
+        "ItemGrade": "EItemGrade::EIG_STARTER",
         "DestroyItemWhenDead": false,
         "UnSellable": false,
         "CanBuyPosition": [],
@@ -239,6 +239,29 @@
         "CategoryNumber": 0,
         "QuickBuyKeyword": "",
         "UseHiddenSlot": true
+      },
+      "30900012": {
+        "TableID": "30900012",
+        "GroupID": "30900012",
+        "SkillID": "30900012",
+        "PrintName": "ITEM.Name_30900012",
+        "Description": "ITEM.Item_Desc_30900012",
+        "Icon": {
+          "ObjectName": "Texture2D'30900012'",
+          "ObjectPath": "Overprime/Content/Textures/Icon/item_icon/30900012.0"
+        },
+        "ItemGrade": "EItemGrade::EIG_STARTER",
+        "DestroyItemWhenDead": false,
+        "UnSellable": false,
+        "CanBuyPosition": [],
+        "SellBlockTime": 0.0,
+        "ItemPrice": 300,
+        "MaxItemAmount": 1,
+        "Refillable": 0,
+        "IsStackable": true,
+        "CategoryNumber": 0,
+        "QuickBuyKeyword": "",
+        "UseHiddenSlot": false
       },
       "30101002": {
         "TableID": "30101002",
@@ -325,29 +348,6 @@
         "CanBuyPosition": [],
         "SellBlockTime": 0.0,
         "ItemPrice": 800,
-        "MaxItemAmount": 6,
-        "Refillable": 0,
-        "IsStackable": false,
-        "CategoryNumber": 0,
-        "QuickBuyKeyword": "",
-        "UseHiddenSlot": false
-      },
-      "30102001": {
-        "TableID": "30102001",
-        "GroupID": "30102001",
-        "SkillID": "30102001",
-        "PrintName": "ITEM.Name_30102001",
-        "Description": "ITEM.Item_Desc_30102001",
-        "Icon": {
-          "ObjectName": "Texture2D'30102001'",
-          "ObjectPath": "Overprime/Content/Textures/Icon/item_icon/30102001.0"
-        },
-        "ItemGrade": "EItemGrade::EIG_NORMAL",
-        "DestroyItemWhenDead": false,
-        "UnSellable": false,
-        "CanBuyPosition": [],
-        "SellBlockTime": 0.0,
-        "ItemPrice": 250,
         "MaxItemAmount": 6,
         "Refillable": 0,
         "IsStackable": false,
@@ -539,29 +539,6 @@
         "QuickBuyKeyword": "",
         "UseHiddenSlot": false
       },
-      "30103005": {
-        "TableID": "30103005",
-        "GroupID": "30103005",
-        "SkillID": "30103005",
-        "PrintName": "ITEM.Name_30103005",
-        "Description": "ITEM.Item_Desc_30103005",
-        "Icon": {
-          "ObjectName": "Texture2D'30103005'",
-          "ObjectPath": "Overprime/Content/Textures/Icon/item_icon/30103005.0"
-        },
-        "ItemGrade": "EItemGrade::EIG_NORMAL",
-        "DestroyItemWhenDead": false,
-        "UnSellable": false,
-        "CanBuyPosition": [],
-        "SellBlockTime": 0.0,
-        "ItemPrice": 850,
-        "MaxItemAmount": 6,
-        "Refillable": 0,
-        "IsStackable": false,
-        "CategoryNumber": 0,
-        "QuickBuyKeyword": "",
-        "UseHiddenSlot": false
-      },
       "30103006": {
         "TableID": "30103006",
         "GroupID": "30103006",
@@ -577,7 +554,7 @@
         "UnSellable": false,
         "CanBuyPosition": [],
         "SellBlockTime": 0.0,
-        "ItemPrice": 400,
+        "ItemPrice": 450,
         "MaxItemAmount": 1,
         "Refillable": 0,
         "IsStackable": false,
@@ -785,29 +762,6 @@
         "CanBuyPosition": [],
         "SellBlockTime": 0.0,
         "ItemPrice": 900,
-        "MaxItemAmount": 1,
-        "Refillable": 0,
-        "IsStackable": false,
-        "CategoryNumber": 0,
-        "QuickBuyKeyword": "",
-        "UseHiddenSlot": false
-      },
-      "30201012": {
-        "TableID": "30201012",
-        "GroupID": "30201012",
-        "SkillID": "30201012",
-        "PrintName": "ITEM.Name_30201012",
-        "Description": "ITEM.Item_Desc_30201012",
-        "Icon": {
-          "ObjectName": "Texture2D'30201012'",
-          "ObjectPath": "Overprime/Content/Textures/Icon/item_icon/30201012.0"
-        },
-        "ItemGrade": "EItemGrade::EIG_MAGIC",
-        "DestroyItemWhenDead": false,
-        "UnSellable": false,
-        "CanBuyPosition": [],
-        "SellBlockTime": 0.0,
-        "ItemPrice": 950,
         "MaxItemAmount": 1,
         "Refillable": 0,
         "IsStackable": false,
@@ -1108,29 +1062,6 @@
         "SellBlockTime": 0.0,
         "ItemPrice": 750,
         "MaxItemAmount": 6,
-        "Refillable": 0,
-        "IsStackable": false,
-        "CategoryNumber": 0,
-        "QuickBuyKeyword": "",
-        "UseHiddenSlot": false
-      },
-      "30203003": {
-        "TableID": "30203003",
-        "GroupID": "30203003_01",
-        "SkillID": "30203003",
-        "PrintName": "ITEM.Name_30203003",
-        "Description": "ITEM.Item_Desc_30203003",
-        "Icon": {
-          "ObjectName": "Texture2D'30203003'",
-          "ObjectPath": "Overprime/Content/Textures/Icon/item_icon/30203003.0"
-        },
-        "ItemGrade": "EItemGrade::EIG_MAGIC",
-        "DestroyItemWhenDead": false,
-        "UnSellable": false,
-        "CanBuyPosition": [],
-        "SellBlockTime": 0.0,
-        "ItemPrice": 1100,
-        "MaxItemAmount": 1,
         "Refillable": 0,
         "IsStackable": false,
         "CategoryNumber": 0,
@@ -1497,7 +1428,7 @@
         "UnSellable": false,
         "CanBuyPosition": [],
         "SellBlockTime": 0.0,
-        "ItemPrice": 2900,
+        "ItemPrice": 3100,
         "MaxItemAmount": 1,
         "Refillable": 0,
         "IsStackable": false,
@@ -1666,29 +1597,6 @@
         "QuickBuyKeyword": "SKILL.Skill_Debuff_PhysicalProtection_Down",
         "UseHiddenSlot": false
       },
-      "30301017": {
-        "TableID": "30301017",
-        "GroupID": "30301017",
-        "SkillID": "30301017",
-        "PrintName": "ITEM.Name_30301017",
-        "Description": "ITEM.Item_Desc_30301017",
-        "Icon": {
-          "ObjectName": "Texture2D'30301017'",
-          "ObjectPath": "Overprime/Content/Textures/Icon/item_icon/30301017.0"
-        },
-        "ItemGrade": "EItemGrade::EIG_RARE",
-        "DestroyItemWhenDead": false,
-        "UnSellable": false,
-        "CanBuyPosition": [],
-        "SellBlockTime": 0.0,
-        "ItemPrice": 3000,
-        "MaxItemAmount": 1,
-        "Refillable": 0,
-        "IsStackable": false,
-        "CategoryNumber": 1,
-        "QuickBuyKeyword": "SKILL.Skill_AddPhysicalDamage",
-        "UseHiddenSlot": false
-      },
       "30301018": {
         "TableID": "30301018",
         "GroupID": "30301018",
@@ -1779,29 +1687,6 @@
         "IsStackable": false,
         "CategoryNumber": 2,
         "QuickBuyKeyword": "SKILL.Skill_Buff_Shield",
-        "UseHiddenSlot": false
-      },
-      "30301023": {
-        "TableID": "30301023",
-        "GroupID": "30301023",
-        "SkillID": "30301023",
-        "PrintName": "ITEM.Name_30301023",
-        "Description": "ITEM.Item_Desc_30301023",
-        "Icon": {
-          "ObjectName": "Texture2D'30301023'",
-          "ObjectPath": "Overprime/Content/Textures/Icon/item_icon/30301023.0"
-        },
-        "ItemGrade": "EItemGrade::EIG_RARE",
-        "DestroyItemWhenDead": false,
-        "UnSellable": false,
-        "CanBuyPosition": [],
-        "SellBlockTime": 0.0,
-        "ItemPrice": 2800,
-        "MaxItemAmount": 1,
-        "Refillable": 0,
-        "IsStackable": false,
-        "CategoryNumber": 3,
-        "QuickBuyKeyword": "SKILL.Skill_Buff_MovementSpeed_Up",
         "UseHiddenSlot": false
       },
       "30301027": {
@@ -1938,8 +1823,8 @@
         "MaxItemAmount": 1,
         "Refillable": 0,
         "IsStackable": false,
-        "CategoryNumber": 2,
-        "QuickBuyKeyword": "SKILL.Skill_Buff_Invincible",
+        "CategoryNumber": 1,
+        "QuickBuyKeyword": "SKILL.Skill_AddMagicDamage",
         "UseHiddenSlot": false
       },
       "30302005": {
@@ -2233,12 +2118,12 @@
         "UnSellable": false,
         "CanBuyPosition": [],
         "SellBlockTime": 0.0,
-        "ItemPrice": 2600,
+        "ItemPrice": 2400,
         "MaxItemAmount": 1,
         "Refillable": 0,
         "IsStackable": false,
-        "CategoryNumber": 3,
-        "QuickBuyKeyword": "SKILL.Skill_Transform",
+        "CategoryNumber": 1,
+        "QuickBuyKeyword": "SKILL.Skill_AddMagicDamage",
         "UseHiddenSlot": false
       },
       "30302021": {
@@ -2697,8 +2582,8 @@
         "MaxItemAmount": 1,
         "Refillable": 0,
         "IsStackable": false,
-        "CategoryNumber": 0,
-        "QuickBuyKeyword": "",
+        "CategoryNumber": 2,
+        "QuickBuyKeyword": "SKILL.Skill_Buff_Removal",
         "UseHiddenSlot": false
       },
       "30303023": {
@@ -2739,35 +2624,12 @@
         "UnSellable": false,
         "CanBuyPosition": [],
         "SellBlockTime": 0.0,
-        "ItemPrice": 2700,
+        "ItemPrice": 2600,
         "MaxItemAmount": 1,
         "Refillable": 0,
         "IsStackable": false,
         "CategoryNumber": 2,
         "QuickBuyKeyword": "SKILL.Skill_Buff_Shield",
-        "UseHiddenSlot": false
-      },
-      "30304001": {
-        "TableID": "30304001",
-        "GroupID": "30304001",
-        "SkillID": "30304001",
-        "PrintName": "ITEM.Name_30304001",
-        "Description": "ITEM.Item_Desc_30304001",
-        "Icon": {
-          "ObjectName": "Texture2D'30304001'",
-          "ObjectPath": "Overprime/Content/Textures/Icon/item_icon/30304001.0"
-        },
-        "ItemGrade": "EItemGrade::EIG_RARE",
-        "DestroyItemWhenDead": false,
-        "UnSellable": false,
-        "CanBuyPosition": [],
-        "SellBlockTime": 0.0,
-        "ItemPrice": 2450,
-        "MaxItemAmount": 1,
-        "Refillable": 0,
-        "IsStackable": false,
-        "CategoryNumber": 3,
-        "QuickBuyKeyword": "SKILL.Skill_Buff_MovementSpeed_Up",
         "UseHiddenSlot": false
       },
       "30304002": {
@@ -2791,52 +2653,6 @@
         "IsStackable": false,
         "CategoryNumber": 3,
         "QuickBuyKeyword": "SKILL.Skill_Buff_Removal",
-        "UseHiddenSlot": false
-      },
-      "30304003": {
-        "TableID": "30304003",
-        "GroupID": "30304003",
-        "SkillID": "30304003",
-        "PrintName": "ITEM.Name_30304003",
-        "Description": "ITEM.Item_Desc_30304003",
-        "Icon": {
-          "ObjectName": "Texture2D'30304003'",
-          "ObjectPath": "Overprime/Content/Textures/Icon/item_icon/30304003.0"
-        },
-        "ItemGrade": "EItemGrade::EIG_RARE",
-        "DestroyItemWhenDead": false,
-        "UnSellable": false,
-        "CanBuyPosition": [],
-        "SellBlockTime": 0.0,
-        "ItemPrice": 2500,
-        "MaxItemAmount": 1,
-        "Refillable": 0,
-        "IsStackable": false,
-        "CategoryNumber": 3,
-        "QuickBuyKeyword": "SKILL.Skill_Absorb_Damage",
-        "UseHiddenSlot": false
-      },
-      "30304004": {
-        "TableID": "30304004",
-        "GroupID": "30304004",
-        "SkillID": "30304004",
-        "PrintName": "ITEM.Name_30304004",
-        "Description": "ITEM.Item_Desc_30304004",
-        "Icon": {
-          "ObjectName": "Texture2D'30304004'",
-          "ObjectPath": "Overprime/Content/Textures/Icon/item_icon/30304004.0"
-        },
-        "ItemGrade": "EItemGrade::EIG_RARE",
-        "DestroyItemWhenDead": false,
-        "UnSellable": false,
-        "CanBuyPosition": [],
-        "SellBlockTime": 0.0,
-        "ItemPrice": 2300,
-        "MaxItemAmount": 1,
-        "Refillable": 0,
-        "IsStackable": false,
-        "CategoryNumber": 2,
-        "QuickBuyKeyword": "SKILL.Skill_Buff_HealthRecovery",
         "UseHiddenSlot": false
       },
       "30204005": {

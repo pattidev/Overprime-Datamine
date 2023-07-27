@@ -269,6 +269,19 @@
         "SoundChannelName": "None",
         "TransitionFadeIn": 0.0,
         "TransitionFadeOut": 0.5
+      },
+      "21": {
+        "TableID": "21",
+        "Map": "EOfficialMapType::EOMT_ARAM",
+        "EventType": "EBGMEventType::EBET_First_Spawn",
+        "BGMStopType": "EBGMStopType::EBST_RoundEnd",
+        "StopBGMLeaveMap": true,
+        "EventValue": "None",
+        "SoundID": "BGM_LegacyAgora",
+        "PlayAfter": 0.0,
+        "SoundChannelName": "main_bgm",
+        "TransitionFadeIn": 0.5,
+        "TransitionFadeOut": 0.5
       }
     }
   }

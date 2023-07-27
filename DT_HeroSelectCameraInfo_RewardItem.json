@@ -232,16 +232,16 @@
         },
         "CameraPitch": 0.0,
         "HeroScale": {
-          "X": 1.0,
-          "Y": 1.0,
-          "Z": 1.0
+          "X": 0.8,
+          "Y": 0.8,
+          "Z": 0.8
         },
         "ForceFront": false,
         "HeroYaw": -80.0,
         "HeroRelativeLocation": {
-          "X": 0.0,
-          "Y": 0.0,
-          "Z": 0.0
+          "X": 0.8,
+          "Y": 0.8,
+          "Z": 0.8
         },
         "WBPCharacterLobby": {
           "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_Greystone_OutGame_Base_C'",
@@ -259,18 +259,21 @@
         },
         "CameraPitch": 0.0,
         "HeroScale": {
-          "X": 1.0,
-          "Y": 1.0,
-          "Z": 1.0
+          "X": 0.8,
+          "Y": 0.8,
+          "Z": 0.8
         },
         "ForceFront": false,
         "HeroYaw": -80.0,
         "HeroRelativeLocation": {
           "X": 0.0,
-          "Y": 0.0,
-          "Z": 0.0
+          "Y": -14.0,
+          "Z": 8.0
         },
-        "WBPCharacterLobby": null,
+        "WBPCharacterLobby": {
+          "ObjectName": "AnimBlueprintGeneratedClass'AnimBP_GRIM_OutGame_Base_C'",
+          "ObjectPath": "Overprime/Content/Resources/AnimBlueprints/Store/GRIM/AnimBP_GRIM_OutGame_Base.3"
+        },
         "AMCharacterSelected": null,
         "AMSkinSelected": null
       },

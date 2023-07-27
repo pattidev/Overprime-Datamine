@@ -3418,6 +3418,22 @@
         "CameraModeValue3": 0.3,
         "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
       },
+      "10350105": {
+        "TableID": "10350105",
+        "FOV": 0.0,
+        "ForwardBack": 50.0,
+        "LeftRight": -40.0,
+        "UpDown": -100.0,
+        "FixedCameraAngle": 10.0,
+        "FixedCameraAngleValueStart": 0.5,
+        "FixedCameraAngleValueEnd": 0.5,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 4.0,
+        "CameraModeValue2": 4.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+      },
       "10360102": {
         "TableID": "10360102",
         "FOV": 5.0,

@@ -13,12 +13,6 @@
       "ingame_shop_sell_rate": {
         "ConstantValue": "0.7"
       },
-      "ingame_kill_exp_rate_finish": {
-        "ConstantValue": "0.12"
-      },
-      "ingame_kill_exp_rate_assist": {
-        "ConstantValue": "0.12"
-      },
       "ingame_kill_timecheck_assist": {
         "ConstantValue": "10.0"
       },
@@ -606,6 +600,9 @@
       },
       "ingame_spawn_counter_Silla": {
         "ConstantValue": "3"
+      },
+      "outgame_forum_article_timeout": {
+        "ConstantValue": "30"
       }
     }
   }

@@ -107,15 +107,15 @@
         "GameModeSkill": "None"
       },
       "4": {
-        "HeroID": "13",
+        "HeroID": "13_World",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
         "DefaultSkillSlotGroupCheck": true,
-        "SkillSlotID": "13",
-        "LMBSlot": "1301",
-        "RMBSlot": "None",
-        "QSlot": "None",
-        "ESlot": "None",
+        "SkillSlotID": "13_World",
+        "LMBSlot": "DOM_13_W_01",
+        "RMBSlot": "DOM_13_W_02",
+        "QSlot": "DOM_13_W_03",
+        "ESlot": "DOM_13_W_04",
         "RSlot": "None",
         "PassiveSlot": "None",
         "TravelMode": "None",
@@ -139,6 +139,38 @@
         "GameModeSkill": "None"
       },
       "5": {
+        "HeroID": "13_Team",
+        "DefaultSlotCheck": true,
+        "SkillSlotGroupID": "Common",
+        "DefaultSkillSlotGroupCheck": true,
+        "SkillSlotID": "13_Team",
+        "LMBSlot": "DOM_13_T_01",
+        "RMBSlot": "DOM_13_T_02",
+        "QSlot": "DOM_13_T_03",
+        "ESlot": "DOM_13_T_04",
+        "RSlot": "None",
+        "PassiveSlot": "None",
+        "TravelMode": "None",
+        "TravelModeCancel": "None",
+        "Recall": "None",
+        "Taunt": "None",
+        "OrbDropSkill": "None",
+        "BlueBuffSkill": "None",
+        "RedBuffSkill": "None",
+        "SpiritSkill": "None",
+        "RiverBuffSkill": "None",
+        "GreenBuffSkill": "None",
+        "PurpleBuffSkill": "None",
+        "JumpPadSkill": "None",
+        "ManaStackItem": "None",
+        "GuardianSkill": "None",
+        "GuardianShockWave": "None",
+        "ElixirSkill": "None",
+        "MapSkinSkill": "None",
+        "WardSkill": "None",
+        "GameModeSkill": "None"
+      },
+      "6": {
         "HeroID": "14",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -170,7 +202,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "6": {
+      "7": {
         "HeroID": "20",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -202,7 +234,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "7": {
+      "8": {
         "HeroID": "30",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -234,7 +266,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "8": {
+      "9": {
         "HeroID": "1001",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -266,7 +298,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "9": {
+      "10": {
         "HeroID": "1001",
         "DefaultSlotCheck": false,
         "SkillSlotGroupID": "Common",
@@ -298,7 +330,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "10": {
+      "11": {
         "HeroID": "1002",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -330,7 +362,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "11": {
+      "12": {
         "HeroID": "1003",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -362,7 +394,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "12": {
+      "13": {
         "HeroID": "1004",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -394,7 +426,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "13": {
+      "14": {
         "HeroID": "1004",
         "DefaultSlotCheck": false,
         "SkillSlotGroupID": "Common",
@@ -426,7 +458,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "14": {
+      "15": {
         "HeroID": "1004",
         "DefaultSlotCheck": false,
         "SkillSlotGroupID": "Common",
@@ -458,7 +490,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "15": {
+      "16": {
         "HeroID": "1005",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -490,7 +522,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "16": {
+      "17": {
         "HeroID": "1005",
         "DefaultSlotCheck": false,
         "SkillSlotGroupID": "Common",
@@ -522,7 +554,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "17": {
+      "18": {
         "HeroID": "1006",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -554,7 +586,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "18": {
+      "19": {
         "HeroID": "1006",
         "DefaultSlotCheck": false,
         "SkillSlotGroupID": "Common",
@@ -586,7 +618,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "19": {
+      "20": {
         "HeroID": "1007",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -618,7 +650,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "20": {
+      "21": {
         "HeroID": "1008",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -650,7 +682,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "21": {
+      "22": {
         "HeroID": "1009",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -682,7 +714,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "22": {
+      "23": {
         "HeroID": "1009",
         "DefaultSlotCheck": false,
         "SkillSlotGroupID": "Common",
@@ -714,7 +746,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "23": {
+      "24": {
         "HeroID": "1010",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -746,7 +778,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "24": {
+      "25": {
         "HeroID": "1011",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -778,7 +810,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "25": {
+      "26": {
         "HeroID": "1011",
         "DefaultSlotCheck": false,
         "SkillSlotGroupID": "Common",
@@ -810,7 +842,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "26": {
+      "27": {
         "HeroID": "1012",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -842,7 +874,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "27": {
+      "28": {
         "HeroID": "1013",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -874,7 +906,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "28": {
+      "29": {
         "HeroID": "1014",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -906,7 +938,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "29": {
+      "30": {
         "HeroID": "1015",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -938,7 +970,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "30": {
+      "31": {
         "HeroID": "1015",
         "DefaultSlotCheck": false,
         "SkillSlotGroupID": "Common",
@@ -970,7 +1002,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "31": {
+      "32": {
         "HeroID": "1015",
         "DefaultSlotCheck": false,
         "SkillSlotGroupID": "Common",
@@ -1002,7 +1034,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "32": {
+      "33": {
         "HeroID": "1016",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -1034,7 +1066,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "33": {
+      "34": {
         "HeroID": "1017",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -1066,7 +1098,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "34": {
+      "35": {
         "HeroID": "1017",
         "DefaultSlotCheck": false,
         "SkillSlotGroupID": "Common",
@@ -1098,7 +1130,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "35": {
+      "36": {
         "HeroID": "1018",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -1130,7 +1162,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "36": {
+      "37": {
         "HeroID": "1018",
         "DefaultSlotCheck": false,
         "SkillSlotGroupID": "Common",
@@ -1162,7 +1194,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "37": {
+      "38": {
         "HeroID": "1019",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -1194,7 +1226,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "38": {
+      "39": {
         "HeroID": "1020",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -1226,7 +1258,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "39": {
+      "40": {
         "HeroID": "1021",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -1258,7 +1290,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "40": {
+      "41": {
         "HeroID": "1021",
         "DefaultSlotCheck": false,
         "SkillSlotGroupID": "Common",
@@ -1290,7 +1322,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "41": {
+      "42": {
         "HeroID": "1022",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -1322,7 +1354,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "42": {
+      "43": {
         "HeroID": "1022",
         "DefaultSlotCheck": false,
         "SkillSlotGroupID": "Common",
@@ -1354,7 +1386,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "43": {
+      "44": {
         "HeroID": "1023",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -1386,7 +1418,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "44": {
+      "45": {
         "HeroID": "1023",
         "DefaultSlotCheck": false,
         "SkillSlotGroupID": "Common",
@@ -1418,7 +1450,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "45": {
+      "46": {
         "HeroID": "1024",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -1450,7 +1482,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "46": {
+      "47": {
         "HeroID": "1025",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -1482,7 +1514,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "47": {
+      "48": {
         "HeroID": "1025",
         "DefaultSlotCheck": false,
         "SkillSlotGroupID": "Common",
@@ -1514,7 +1546,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "48": {
+      "49": {
         "HeroID": "1026",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -1546,7 +1578,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "49": {
+      "50": {
         "HeroID": "1026",
         "DefaultSlotCheck": false,
         "SkillSlotGroupID": "Common",
@@ -1578,7 +1610,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "50": {
+      "51": {
         "HeroID": "1027",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -1610,7 +1642,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "51": {
+      "52": {
         "HeroID": "1027",
         "DefaultSlotCheck": false,
         "SkillSlotGroupID": "Common",
@@ -1642,7 +1674,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "52": {
+      "53": {
         "HeroID": "1028",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -1674,7 +1706,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "53": {
+      "54": {
         "HeroID": "1028",
         "DefaultSlotCheck": false,
         "SkillSlotGroupID": "Common",
@@ -1706,7 +1738,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "54": {
+      "55": {
         "HeroID": "1029",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -1738,7 +1770,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "55": {
+      "56": {
         "HeroID": "1030",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -1770,7 +1802,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "56": {
+      "57": {
         "HeroID": "1031",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -1802,7 +1834,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "57": {
+      "58": {
         "HeroID": "1031",
         "DefaultSlotCheck": false,
         "SkillSlotGroupID": "Common",
@@ -1834,7 +1866,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "58": {
+      "59": {
         "HeroID": "1032",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -1866,7 +1898,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "59": {
+      "60": {
         "HeroID": "1032",
         "DefaultSlotCheck": false,
         "SkillSlotGroupID": "Common",
@@ -1898,7 +1930,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "60": {
+      "61": {
         "HeroID": "1033",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -1930,7 +1962,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "61": {
+      "62": {
         "HeroID": "1034",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -1962,7 +1994,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "62": {
+      "63": {
         "HeroID": "1034",
         "DefaultSlotCheck": false,
         "SkillSlotGroupID": "Common",
@@ -1994,7 +2026,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "63": {
+      "64": {
         "HeroID": "1035",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -2026,7 +2058,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "64": {
+      "65": {
         "HeroID": "1036",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -2058,7 +2090,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "65": {
+      "66": {
         "HeroID": "1036",
         "DefaultSlotCheck": false,
         "SkillSlotGroupID": "Common",
@@ -2090,7 +2122,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "66": {
+      "67": {
         "HeroID": "1037",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -2122,7 +2154,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "67": {
+      "68": {
         "HeroID": "1040",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -2154,7 +2186,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "68": {
+      "69": {
         "HeroID": "1040",
         "DefaultSlotCheck": false,
         "SkillSlotGroupID": "Common",
@@ -2186,7 +2218,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "69": {
+      "70": {
         "HeroID": "1040",
         "DefaultSlotCheck": false,
         "SkillSlotGroupID": "Common",
@@ -2218,7 +2250,7 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "70": {
+      "71": {
         "HeroID": "1042",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -2250,7 +2282,39 @@
         "WardSkill": "8000",
         "GameModeSkill": "None"
       },
-      "71": {
+      "72": {
+        "HeroID": "1043",
+        "DefaultSlotCheck": true,
+        "SkillSlotGroupID": "Common",
+        "DefaultSkillSlotGroupCheck": true,
+        "SkillSlotID": "104301",
+        "LMBSlot": "10430101",
+        "RMBSlot": "10430102",
+        "QSlot": "10430103",
+        "ESlot": "10430104",
+        "RSlot": "10430105",
+        "PassiveSlot": "None",
+        "TravelMode": "10430107",
+        "TravelModeCancel": "1000",
+        "Recall": "10430108",
+        "Taunt": "None",
+        "OrbDropSkill": "104301102",
+        "BlueBuffSkill": "300",
+        "RedBuffSkill": "400",
+        "SpiritSkill": "200",
+        "RiverBuffSkill": "500",
+        "GreenBuffSkill": "600",
+        "PurpleBuffSkill": "700",
+        "JumpPadSkill": "20001",
+        "ManaStackItem": "3000",
+        "GuardianSkill": "100",
+        "GuardianShockWave": "101",
+        "ElixirSkill": "None",
+        "MapSkinSkill": "9000",
+        "WardSkill": "8000",
+        "GameModeSkill": "None"
+      },
+      "73": {
         "HeroID": "0",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -2282,7 +2346,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "72": {
+      "74": {
         "HeroID": "2050",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -2314,7 +2378,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "73": {
+      "75": {
         "HeroID": "2051",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -2346,7 +2410,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "74": {
+      "76": {
         "HeroID": "2052",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -2378,7 +2442,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "75": {
+      "77": {
         "HeroID": "2053",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -2410,7 +2474,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "76": {
+      "78": {
         "HeroID": "2054",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -2442,7 +2506,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "77": {
+      "79": {
         "HeroID": "2055",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -2474,7 +2538,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "78": {
+      "80": {
         "HeroID": "2056",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -2506,7 +2570,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "79": {
+      "81": {
         "HeroID": "2057",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -2538,7 +2602,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "80": {
+      "82": {
         "HeroID": "2058",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -2570,7 +2634,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "81": {
+      "83": {
         "HeroID": "2059",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -2602,7 +2666,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "82": {
+      "84": {
         "HeroID": "2060",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -2634,7 +2698,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "83": {
+      "85": {
         "HeroID": "2061",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -2666,7 +2730,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "84": {
+      "86": {
         "HeroID": "2070",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -2698,7 +2762,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "85": {
+      "87": {
         "HeroID": "2071",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -2730,7 +2794,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "86": {
+      "88": {
         "HeroID": "2072",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -2762,7 +2826,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "87": {
+      "89": {
         "HeroID": "2073",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -2794,7 +2858,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "88": {
+      "90": {
         "HeroID": "2010",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -2826,7 +2890,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "89": {
+      "91": {
         "HeroID": "2011",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -2858,7 +2922,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "90": {
+      "92": {
         "HeroID": "2012",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -2890,7 +2954,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "91": {
+      "93": {
         "HeroID": "2013",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -2922,7 +2986,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "92": {
+      "94": {
         "HeroID": "2014",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -2954,7 +3018,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "93": {
+      "95": {
         "HeroID": "2015",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -2986,7 +3050,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "94": {
+      "96": {
         "HeroID": "2016",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3018,7 +3082,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "95": {
+      "97": {
         "HeroID": "2017",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3050,7 +3114,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "96": {
+      "98": {
         "HeroID": "2018",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3082,7 +3146,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "97": {
+      "99": {
         "HeroID": "2019",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3114,7 +3178,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "98": {
+      "100": {
         "HeroID": "2020",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3146,7 +3210,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "99": {
+      "101": {
         "HeroID": "2021",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3178,7 +3242,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "100": {
+      "102": {
         "HeroID": "2022",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3210,7 +3274,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "101": {
+      "103": {
         "HeroID": "2023",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3242,7 +3306,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "102": {
+      "104": {
         "HeroID": "2024",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3274,7 +3338,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "103": {
+      "105": {
         "HeroID": "2025",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3306,7 +3370,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "104": {
+      "106": {
         "HeroID": "2101",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3338,7 +3402,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "105": {
+      "107": {
         "HeroID": "2102",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3370,7 +3434,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "106": {
+      "108": {
         "HeroID": "2103",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3402,7 +3466,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "107": {
+      "109": {
         "HeroID": "2104",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3434,7 +3498,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "108": {
+      "110": {
         "HeroID": "2105",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3466,7 +3530,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "109": {
+      "111": {
         "HeroID": "2112",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3498,7 +3562,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "110": {
+      "112": {
         "HeroID": "2113",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3530,7 +3594,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "111": {
+      "113": {
         "HeroID": "2114",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3562,7 +3626,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "112": {
+      "114": {
         "HeroID": "2106",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3594,7 +3658,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "113": {
+      "115": {
         "HeroID": "2107",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3626,7 +3690,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "114": {
+      "116": {
         "HeroID": "2108",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3658,7 +3722,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "115": {
+      "117": {
         "HeroID": "2109",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3690,7 +3754,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "116": {
+      "118": {
         "HeroID": "2110",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3722,7 +3786,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "117": {
+      "119": {
         "HeroID": "2117",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3754,7 +3818,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "118": {
+      "120": {
         "HeroID": "2118",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3786,7 +3850,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "119": {
+      "121": {
         "HeroID": "2119",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3818,7 +3882,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "120": {
+      "122": {
         "HeroID": "2201",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3850,7 +3914,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "121": {
+      "123": {
         "HeroID": "2202",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3882,7 +3946,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "122": {
+      "124": {
         "HeroID": "2203",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3914,7 +3978,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "123": {
+      "125": {
         "HeroID": "2204",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3946,7 +4010,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "124": {
+      "126": {
         "HeroID": "2205",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -3978,7 +4042,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "125": {
+      "127": {
         "HeroID": "2206",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -4010,7 +4074,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "126": {
+      "128": {
         "HeroID": "2220",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -4042,7 +4106,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "127": {
+      "129": {
         "HeroID": "2221",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -4074,7 +4138,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "128": {
+      "130": {
         "HeroID": "2222",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -4106,7 +4170,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "129": {
+      "131": {
         "HeroID": "2207",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -4138,7 +4202,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "130": {
+      "132": {
         "HeroID": "2208",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -4170,7 +4234,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "131": {
+      "133": {
         "HeroID": "2209",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -4202,7 +4266,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "132": {
+      "134": {
         "HeroID": "2210",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -4234,7 +4298,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "133": {
+      "135": {
         "HeroID": "2211",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -4266,7 +4330,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "134": {
+      "136": {
         "HeroID": "2212",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -4298,7 +4362,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "135": {
+      "137": {
         "HeroID": "2223",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -4330,7 +4394,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "136": {
+      "138": {
         "HeroID": "2224",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -4362,7 +4426,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "137": {
+      "139": {
         "HeroID": "2225",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -4394,7 +4458,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "138": {
+      "140": {
         "HeroID": "2301",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -4426,7 +4490,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "139": {
+      "141": {
         "HeroID": "2302",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -4458,7 +4522,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "140": {
+      "142": {
         "HeroID": "2305",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -4490,7 +4554,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "141": {
+      "143": {
         "HeroID": "2306",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -4522,7 +4586,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "142": {
+      "144": {
         "HeroID": "2307",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -4554,7 +4618,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "143": {
+      "145": {
         "HeroID": "2310",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -4586,7 +4650,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "144": {
+      "146": {
         "HeroID": "2150",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -4618,7 +4682,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "145": {
+      "147": {
         "HeroID": "2151",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -4650,7 +4714,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "146": {
+      "148": {
         "HeroID": "2152",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -4682,7 +4746,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "147": {
+      "149": {
         "HeroID": "2153",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -4714,7 +4778,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "148": {
+      "150": {
         "HeroID": "2154",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -4746,7 +4810,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "149": {
+      "151": {
         "HeroID": "2155",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -4778,7 +4842,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "150": {
+      "152": {
         "HeroID": "2155",
         "DefaultSlotCheck": false,
         "SkillSlotGroupID": "Common",
@@ -4810,7 +4874,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "151": {
+      "153": {
         "HeroID": "2155",
         "DefaultSlotCheck": false,
         "SkillSlotGroupID": "Common",
@@ -4842,7 +4906,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "152": {
+      "154": {
         "HeroID": "2155",
         "DefaultSlotCheck": false,
         "SkillSlotGroupID": "Common",
@@ -4874,7 +4938,39 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "153": {
+      "155": {
+        "HeroID": "2157",
+        "DefaultSlotCheck": true,
+        "SkillSlotGroupID": "Common",
+        "DefaultSkillSlotGroupCheck": true,
+        "SkillSlotID": "215701",
+        "LMBSlot": "21570101",
+        "RMBSlot": "21570102",
+        "QSlot": "21570103",
+        "ESlot": "21570104",
+        "RSlot": "21570105",
+        "PassiveSlot": "None",
+        "TravelMode": "None",
+        "TravelModeCancel": "None",
+        "Recall": "None",
+        "Taunt": "None",
+        "OrbDropSkill": "None",
+        "BlueBuffSkill": "None",
+        "RedBuffSkill": "None",
+        "SpiritSkill": "None",
+        "RiverBuffSkill": "None",
+        "GreenBuffSkill": "None",
+        "PurpleBuffSkill": "None",
+        "JumpPadSkill": "None",
+        "ManaStackItem": "None",
+        "GuardianSkill": "None",
+        "GuardianShockWave": "None",
+        "ElixirSkill": "None",
+        "MapSkinSkill": "None",
+        "WardSkill": "None",
+        "GameModeSkill": "None"
+      },
+      "156": {
         "HeroID": "2400",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -4906,7 +5002,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "154": {
+      "157": {
         "HeroID": "2401",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -4938,7 +5034,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "155": {
+      "158": {
         "HeroID": "2402",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -4970,7 +5066,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "156": {
+      "159": {
         "HeroID": "2403",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5002,7 +5098,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "157": {
+      "160": {
         "HeroID": "2405",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5034,7 +5130,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "158": {
+      "161": {
         "HeroID": "2410",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5066,7 +5162,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "159": {
+      "162": {
         "HeroID": "2411",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5098,7 +5194,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "160": {
+      "163": {
         "HeroID": "2412",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5130,7 +5226,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "161": {
+      "164": {
         "HeroID": "2413",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5162,7 +5258,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "162": {
+      "165": {
         "HeroID": "2414",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5194,7 +5290,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "163": {
+      "166": {
         "HeroID": "2415",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5226,7 +5322,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "164": {
+      "167": {
         "HeroID": "2416",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5258,7 +5354,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "165": {
+      "168": {
         "HeroID": "2417",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5290,7 +5386,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "166": {
+      "169": {
         "HeroID": "4001",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5322,7 +5418,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "167": {
+      "170": {
         "HeroID": "2500",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5354,7 +5450,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "168": {
+      "171": {
         "HeroID": "2501",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5386,7 +5482,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "169": {
+      "172": {
         "HeroID": "2502",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5418,7 +5514,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "170": {
+      "173": {
         "HeroID": "2503",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5450,7 +5546,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "171": {
+      "174": {
         "HeroID": "2504",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5482,7 +5578,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "172": {
+      "175": {
         "HeroID": "2505",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5514,7 +5610,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "173": {
+      "176": {
         "HeroID": "2506",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5546,7 +5642,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "174": {
+      "177": {
         "HeroID": "2507",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5578,7 +5674,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "175": {
+      "178": {
         "HeroID": "2508",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5610,7 +5706,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "176": {
+      "179": {
         "HeroID": "2509",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5642,7 +5738,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "177": {
+      "180": {
         "HeroID": "2510",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5674,7 +5770,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "178": {
+      "181": {
         "HeroID": "2511",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5706,7 +5802,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "179": {
+      "182": {
         "HeroID": "2512",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5738,7 +5834,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "180": {
+      "183": {
         "HeroID": "2513",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5770,7 +5866,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "181": {
+      "184": {
         "HeroID": "2514",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5802,7 +5898,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "182": {
+      "185": {
         "HeroID": "2515",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5834,7 +5930,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "183": {
+      "186": {
         "HeroID": "2516",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5866,7 +5962,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "184": {
+      "187": {
         "HeroID": "2517",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5898,7 +5994,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "185": {
+      "188": {
         "HeroID": "2518",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5930,7 +6026,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "186": {
+      "189": {
         "HeroID": "2519",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5962,7 +6058,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "187": {
+      "190": {
         "HeroID": "2520",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -5994,7 +6090,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "188": {
+      "191": {
         "HeroID": "2521",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -6026,7 +6122,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "189": {
+      "192": {
         "HeroID": "2522",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -6058,7 +6154,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "190": {
+      "193": {
         "HeroID": "2523",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -6090,7 +6186,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "191": {
+      "194": {
         "HeroID": "2524",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -6122,7 +6218,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "192": {
+      "195": {
         "HeroID": "2525",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -6154,7 +6250,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "193": {
+      "196": {
         "HeroID": "2526",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -6186,7 +6282,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "194": {
+      "197": {
         "HeroID": "2527",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -6218,7 +6314,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "195": {
+      "198": {
         "HeroID": "2528",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -6250,7 +6346,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "196": {
+      "199": {
         "HeroID": "2529",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -6282,7 +6378,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "197": {
+      "200": {
         "HeroID": "2530",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -6314,7 +6410,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "198": {
+      "201": {
         "HeroID": "2531",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -6346,7 +6442,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "199": {
+      "202": {
         "HeroID": "2532",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -6378,7 +6474,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "200": {
+      "203": {
         "HeroID": "2533",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -6410,7 +6506,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "201": {
+      "204": {
         "HeroID": "2534",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -6442,7 +6538,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "202": {
+      "205": {
         "HeroID": "2535",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -6474,7 +6570,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "203": {
+      "206": {
         "HeroID": "2536",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -6506,7 +6602,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "204": {
+      "207": {
         "HeroID": "2537",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -6538,7 +6634,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "205": {
+      "208": {
         "HeroID": "2538",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -6570,7 +6666,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "206": {
+      "209": {
         "HeroID": "2539",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -6602,7 +6698,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "207": {
+      "210": {
         "HeroID": "2540",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -6634,7 +6730,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "208": {
+      "211": {
         "HeroID": "2541",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -6666,7 +6762,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "209": {
+      "212": {
         "HeroID": "3001",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -6698,7 +6794,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "210": {
+      "213": {
         "HeroID": "3002",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -6730,7 +6826,71 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "211": {
+      "214": {
+        "HeroID": "3010",
+        "DefaultSlotCheck": true,
+        "SkillSlotGroupID": "Common",
+        "DefaultSkillSlotGroupCheck": true,
+        "SkillSlotID": "301001",
+        "LMBSlot": "20520101",
+        "RMBSlot": "None",
+        "QSlot": "None",
+        "ESlot": "20520104",
+        "RSlot": "None",
+        "PassiveSlot": "None",
+        "TravelMode": "2000",
+        "TravelModeCancel": "None",
+        "Recall": "99_12",
+        "Taunt": "99_13",
+        "OrbDropSkill": "None",
+        "BlueBuffSkill": "None",
+        "RedBuffSkill": "None",
+        "SpiritSkill": "None",
+        "RiverBuffSkill": "None",
+        "GreenBuffSkill": "None",
+        "PurpleBuffSkill": "None",
+        "JumpPadSkill": "None",
+        "ManaStackItem": "None",
+        "GuardianSkill": "None",
+        "GuardianShockWave": "None",
+        "ElixirSkill": "None",
+        "MapSkinSkill": "None",
+        "WardSkill": "None",
+        "GameModeSkill": "None"
+      },
+      "215": {
+        "HeroID": "3011",
+        "DefaultSlotCheck": true,
+        "SkillSlotGroupID": "Common",
+        "DefaultSkillSlotGroupCheck": true,
+        "SkillSlotID": "301101",
+        "LMBSlot": "20530101",
+        "RMBSlot": "None",
+        "QSlot": "None",
+        "ESlot": "20530104",
+        "RSlot": "None",
+        "PassiveSlot": "None",
+        "TravelMode": "2000",
+        "TravelModeCancel": "None",
+        "Recall": "99_12",
+        "Taunt": "99_13",
+        "OrbDropSkill": "None",
+        "BlueBuffSkill": "None",
+        "RedBuffSkill": "None",
+        "SpiritSkill": "None",
+        "RiverBuffSkill": "None",
+        "GreenBuffSkill": "None",
+        "PurpleBuffSkill": "None",
+        "JumpPadSkill": "None",
+        "ManaStackItem": "None",
+        "GuardianSkill": "None",
+        "GuardianShockWave": "None",
+        "ElixirSkill": "None",
+        "MapSkinSkill": "None",
+        "WardSkill": "None",
+        "GameModeSkill": "None"
+      },
+      "216": {
         "HeroID": "5101",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -6762,7 +6922,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "212": {
+      "217": {
         "HeroID": "5102",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -6794,7 +6954,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "213": {
+      "218": {
         "HeroID": "5103",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -6826,7 +6986,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "214": {
+      "219": {
         "HeroID": "5111",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -6858,7 +7018,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "215": {
+      "220": {
         "HeroID": "5112",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",
@@ -6890,7 +7050,7 @@
         "WardSkill": "None",
         "GameModeSkill": "None"
       },
-      "216": {
+      "221": {
         "HeroID": "5113",
         "DefaultSlotCheck": true,
         "SkillSlotGroupID": "Common",

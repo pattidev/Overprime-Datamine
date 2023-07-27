@@ -1167,7 +1167,7 @@
       },
       "1100106": {
         "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
-        "Arrangement": 34,
+        "Arrangement": 35,
         "NameKey": "UI.Emb_SDGRIMexe_0101",
         "DescriptionKey": "UI.Emb_Default_Desc",
         "EmblemTexture": {
@@ -1475,11 +1475,44 @@
       },
       "1100134": {
         "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
-        "Arrangement": 35,
+        "Arrangement": 34,
         "NameKey": "UI.Emb_SDAdel_0101",
         "DescriptionKey": "UI.Emb_Default_Desc",
         "EmblemTexture": {
           "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDAdel_0101.Emb_SDAdel_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100135": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 37,
+        "NameKey": "CHAR.Hero_Name_1034",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Riktor_Portrait.Hero_Icon_Riktor_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100136": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 37,
+        "NameKey": "UI.Emb_SDRiktor_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDRiktor_0101.Emb_SDRiktor_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100137": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 36,
+        "NameKey": "CHAR.Hero_Name_1021",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_GrimEXE_Portrait.Hero_Icon_GrimEXE_Portrait",
           "SubPathString": ""
         },
         "Enable": true

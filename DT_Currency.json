@@ -27,6 +27,24 @@
         "NameKey": "UI.Currency_Renar",
         "DescriptionKey": "UI.Currency_Renar_Desc",
         "Icon_Path": "Texture2D'/Game/UI/Resource/Texture/Common/Cash/T_image_icon_Renar_px_64.T_image_icon_Renar_px_64'"
+      },
+      "801": {
+        "CurrencyType": "ECurrencyType::None",
+        "NameKey": "UI.Currency_Renar",
+        "DescriptionKey": "",
+        "Icon_Path": "Texture2D'/Game/UI/Resource/Texture/Reward/T_Common_Icon_Reward_Exp.T_Common_Icon_Reward_Exp'"
+      },
+      "901": {
+        "CurrencyType": "ECurrencyType::None",
+        "NameKey": "UI.Currency_EXP_Account",
+        "DescriptionKey": "",
+        "Icon_Path": "Texture2D'/Game/UI/Resource/Texture/Reward/T_Common_Icon_Reward_Exp.T_Common_Icon_Reward_Exp'"
+      },
+      "902": {
+        "CurrencyType": "ECurrencyType::None",
+        "NameKey": "UI.Currency_EXP_BattlePass_Newuser",
+        "DescriptionKey": "",
+        "Icon_Path": "Texture2D'/Game/UI/Resource/Texture/Reward/T_Common_Icon_Reward_Exp.T_Common_Icon_Reward_Exp'"
       }
     }
   }

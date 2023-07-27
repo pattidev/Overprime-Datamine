@@ -8472,6 +8472,36 @@
       },
       "859": {
         "SkinID": "1021001",
+        "SoundID": "Hero_1032001_Skill_1021010101_jump_pad",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_jumppad_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/grimexe_jumppad_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "860": {
+        "SkinID": "1021001",
+        "SoundID": "Hero_1032001_Skill_1021010101_recall",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_recall_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/grimexe_recall_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "861": {
+        "SkinID": "1021001",
+        "SoundID": "Hero_1032001_Skill_1021010101_sprint_start",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_travelmode_start_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/grimexe_travelmode_start_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "862": {
+        "SkinID": "1021001",
         "SoundID": "Hero_1021001_Skill_1021010101_shot",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -8480,7 +8510,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "860": {
+      "863": {
         "SkinID": "1021001",
         "SoundID": "Hero_1021001_Skill_1021010101_local_shot",
         "SoundVolume": 1.0,
@@ -8490,7 +8520,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "861": {
+      "864": {
         "SkinID": "1021001",
         "SoundID": "Hero_1021001_Skill_1021010101_reload",
         "SoundVolume": 1.0,
@@ -8500,47 +8530,67 @@
         },
         "SoundTableManagerObject": null
       },
-      "862": {
+      "865": {
         "SkinID": "1021001",
         "SoundID": "Hero_1021001_Skill_1021010201_start",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'grimexe_rmb_ability_start_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/grimexe_rmb_ability_start_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "863": {
-        "SkinID": "1021001",
-        "SoundID": "Hero_1021001_Skill_1021010201_local_start",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'grimexe_rmb_ability_start_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/grimexe_rmb_ability_start_st_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "864": {
-        "SkinID": "1021001",
-        "SoundID": "Hero_1021001_Skill_1021010201_end",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'grimexe_rmb_ability_end_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/grimexe_rmb_ability_end_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "865": {
-        "SkinID": "1021001",
-        "SoundID": "Hero_1021001_Skill_1021010201_local_end",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'grimexe_rmb_ability_end_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/grimexe_rmb_ability_end_st_cue.0"
+          "ObjectName": "SoundCue'grimexe_rmb_ability_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/grimexe_rmb_ability_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "866": {
+        "SkinID": "1021001",
+        "SoundID": "Hero_1021001_Skill_1021010201_local_start",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_rmb_ability_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/grimexe_rmb_ability_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "867": {
+        "SkinID": "1021001",
+        "SoundID": "Hero_1021001_Skill_1021010201_loop",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_rmb_ability_loop_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/grimexe_rmb_ability_loop_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "868": {
+        "SkinID": "1021001",
+        "SoundID": "Hero_1021001_Skill_1021010201_local_loop",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_rmb_ability_loop_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/grimexe_rmb_ability_loop_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "869": {
+        "SkinID": "1021001",
+        "SoundID": "Hero_1021001_Skill_1021010201_finish",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_rmb_ability_finish_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/grimexe_rmb_ability_finish_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "870": {
+        "SkinID": "1021001",
+        "SoundID": "Hero_1021001_Skill_1021010201_local_finish",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_rmb_ability_finish_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/grimexe_rmb_ability_finish_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "871": {
         "SkinID": "1021001",
         "SoundID": "Hero_1021001_Skill_1021010301_shot",
         "SoundVolume": 1.0,
@@ -8550,7 +8600,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "867": {
+      "872": {
         "SkinID": "1021001",
         "SoundID": "Hero_1021001_Skill_1021010301_local_shot",
         "SoundVolume": 1.0,
@@ -8560,7 +8610,47 @@
         },
         "SoundTableManagerObject": null
       },
-      "868": {
+      "873": {
+        "SkinID": "1021001",
+        "SoundID": "Hero_1021001_Skill_1021010301_loop",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_q_ability_loop_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/grimexe_q_ability_loop_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "874": {
+        "SkinID": "1021001",
+        "SoundID": "Hero_1021001_Skill_1021010301_local_loop",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_q_ability_loop_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/grimexe_q_ability_loop_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "875": {
+        "SkinID": "1021001",
+        "SoundID": "Hero_1021001_Skill_1021010301_explosion",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_q_ability_explosion_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/grimexe_q_ability_explosion_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "876": {
+        "SkinID": "1021001",
+        "SoundID": "Hero_1021001_Skill_1021010301_local_explosion",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_q_ability_explosion_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/grimexe_q_ability_explosion_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "877": {
         "SkinID": "1021001",
         "SoundID": "Hero_1021001_Skill_1021010301_ready",
         "SoundVolume": 1.0,
@@ -8570,7 +8660,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "869": {
+      "878": {
         "SkinID": "1021001",
         "SoundID": "Hero_1021001_Skill_1021010301_local_ready",
         "SoundVolume": 1.0,
@@ -8580,7 +8670,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "870": {
+      "879": {
         "SkinID": "1021001",
         "SoundID": "Hero_1021001_Skill_1021010301_cancel",
         "SoundVolume": 1.0,
@@ -8590,7 +8680,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "871": {
+      "880": {
         "SkinID": "1021001",
         "SoundID": "Hero_1021001_Skill_1021010301_local_cancel",
         "SoundVolume": 1.0,
@@ -8600,29 +8690,49 @@
         },
         "SoundTableManagerObject": null
       },
-      "872": {
+      "881": {
         "SkinID": "1021001",
-        "SoundID": "Hero_1021001_Skill_1021010401_modechange",
+        "SoundID": "Hero_1021001_Skill_1021010401_start",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'grimexe_e_ability_modechange_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/grimexe_e_ability_modechange_cue.0"
+          "ObjectName": "SoundCue'grimexe_e_ability_start_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/grimexe_e_ability_start_cue.0"
         },
         "SoundTableManagerObject": null
       },
-      "873": {
+      "882": {
         "SkinID": "1021001",
-        "SoundID": "Hero_1021001_Skill_1021010401_local_modechange",
+        "SoundID": "Hero_1021001_Skill_1021010401_local_start",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'grimexe_e_ability_modechange_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/grimexe_e_ability_modechange_st_cue.0"
+          "ObjectName": "SoundCue'grimexe_e_ability_start_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/grimexe_e_ability_start_st_cue.0"
         },
         "SoundTableManagerObject": null
       },
-      "874": {
+      "883": {
         "SkinID": "1021001",
-        "SoundID": "Hero_1021001_Skill_1021010401_cancel",
+        "SoundID": "Hero_1021001_Skill_1021010401_end",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_e_ability_end_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/grimexe_e_ability_end_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "884": {
+        "SkinID": "1021001",
+        "SoundID": "Hero_1021001_Skill_1021010401_local_end",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_e_ability_end_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/grimexe_e_ability_end_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "885": {
+        "SkinID": "1021001",
+        "SoundID": "Hero_1021001_Skill_1021010401_shot",
         "SoundVolume": 1.0,
         "SoundPath": {
           "ObjectName": "SoundCue'grimexe_e_ability_shot_cue'",
@@ -8630,9 +8740,9 @@
         },
         "SoundTableManagerObject": null
       },
-      "875": {
+      "886": {
         "SkinID": "1021001",
-        "SoundID": "Hero_1021001_Skill_1021010401_local_cancel",
+        "SoundID": "Hero_1021001_Skill_1021010401_local_shot",
         "SoundVolume": 1.0,
         "SoundPath": {
           "ObjectName": "SoundCue'grimexe_e_ability_shot_st_cue'",
@@ -8640,27 +8750,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "876": {
-        "SkinID": "1021001",
-        "SoundID": "Hero_1021001_Skill_1021010501_start",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'grimexe_r_ability_start_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/grimexe_r_ability_start_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "877": {
-        "SkinID": "1021001",
-        "SoundID": "Hero_1021001_Skill_1021010501_local_start",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'grimexe_r_ability_start_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/grimexe_r_ability_start_st_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "878": {
+      "887": {
         "SkinID": "1021001",
         "SoundID": "Hero_1021001_Skill_1021010501_charge",
         "SoundVolume": 1.0,
@@ -8670,7 +8760,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "879": {
+      "888": {
         "SkinID": "1021001",
         "SoundID": "Hero_1021001_Skill_1021010501_local_charge",
         "SoundVolume": 1.0,
@@ -8680,7 +8770,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "880": {
+      "889": {
         "SkinID": "1021001",
         "SoundID": "Hero_1021001_Skill_1021010501_shot",
         "SoundVolume": 1.0,
@@ -8690,7 +8780,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "881": {
+      "890": {
         "SkinID": "1021001",
         "SoundID": "Hero_1021001_Skill_1021010501_local_shot",
         "SoundVolume": 1.0,
@@ -8700,7 +8790,37 @@
         },
         "SoundTableManagerObject": null
       },
-      "882": {
+      "891": {
+        "SkinID": "1021001",
+        "SoundID": "Hero_1021001_Skill_1021010501_exp",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_r_ability_explosion_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/grimexe_r_ability_explosion_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "892": {
+        "SkinID": "1021001",
+        "SoundID": "Hero_1021001_Skill_1021010501_loop",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_r_ability_loop_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/grimexe_r_ability_loop_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "893": {
+        "SkinID": "1021001",
+        "SoundID": "Hero_1021001_Skill_1021010501_local_loop",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_r_ability_loop_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/grimexe_r_ability_loop_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "894": {
         "SkinID": "1021001",
         "SoundID": "Hero_1021001_Skill_1021010501_ready",
         "SoundVolume": 1.0,
@@ -8710,7 +8830,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "883": {
+      "895": {
         "SkinID": "1021001",
         "SoundID": "Hero_1021001_Skill_1021010501_local_ready",
         "SoundVolume": 1.0,
@@ -8720,7 +8840,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "884": {
+      "896": {
         "SkinID": "1021001",
         "SoundID": "Hero_1021001_Skill_1021010501_cancel",
         "SoundVolume": 1.0,
@@ -8730,7 +8850,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "885": {
+      "897": {
         "SkinID": "1021001",
         "SoundID": "Hero_1021001_Skill_1021010501_local_cancel",
         "SoundVolume": 1.0,
@@ -8740,347 +8860,737 @@
         },
         "SoundTableManagerObject": null
       },
-      "886": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010101_shot",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_lmb_shot_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_lmb_shot_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "887": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010101_local_shot",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_lmb_shot_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_lmb_shot_st_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "888": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010101_reload",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_lmb_ability_reload_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_lmb_ability_reload_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "889": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010101_ready",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_ability_ready_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_ability_ready_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "890": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010101_cancel",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_ability_cancel_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_ability_cancel_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "891": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010101_loop",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_ability_fly_loop_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_ability_fly_loop_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "892": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010201_shot",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_rmb_ability_shot_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_shot_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "893": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010201_local_shot",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_rmb_ability_shot_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_shot_st_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "894": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010201_reload",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_rmb_ability_reload_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_reload_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "895": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010201_explosion",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_rmb_ability_exp_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_exp_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "896": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010201_exp",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_rmb_ability_explosion_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_explosion_st_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "897": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010301_ready",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_q_ability_ready_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_ready_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
       "898": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010301_local_ready",
+        "SkinID": "1021006",
+        "SoundID": "Hero_1032001_Skill_1021010101_jump_pad",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_q_ability_ready_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_ready_st_cue.0"
+          "ObjectName": "SoundCue'grimexe_jumppad_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_jumppad_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "899": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010301_shot",
+        "SkinID": "1021006",
+        "SoundID": "Hero_1032001_Skill_1021010101_recall",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_q_ability_shot_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_shot_cue.0"
+          "ObjectName": "SoundCue'grimexe_recall_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_recall_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "900": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010301_local_shot",
+        "SkinID": "1021006",
+        "SoundID": "Hero_1032001_Skill_1021010101_sprint_start",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_q_ability_shot_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_shot_st_cue.0"
+          "ObjectName": "SoundCue'grimexe_travelmode_start_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_travelmode_start_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "901": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010301_start",
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010101_shot",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_q_ability_start_01_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_start_01_cue.0"
+          "ObjectName": "SoundCue'grimexe_lmb_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_lmb_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "902": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010301_rocket",
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010101_local_shot",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_emote_rocket_fire_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_emote_rocket_fire_cue.0"
+          "ObjectName": "SoundCue'grimexe_lmb_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_lmb_st_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "903": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010301_fly_by",
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010101_reload",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_q_ability_fly_by_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_fly_by_cue.0"
+          "ObjectName": "SoundCue'grimexe_lmb_reload_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_lmb_reload_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "904": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010301_explosion",
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010201_start",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_q_ability_exp_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_exp_cue.0"
+          "ObjectName": "SoundCue'grimexe_rmb_ability_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_rmb_ability_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "905": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010401_shot",
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010201_local_start",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_e_ability_shot_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_e_ability_shot_cue.0"
+          "ObjectName": "SoundCue'grimexe_rmb_ability_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_rmb_ability_st_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "906": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010401_local_shot",
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010201_loop",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_e_ability_shot_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_e_ability_shot_st_cue.0"
+          "ObjectName": "SoundCue'grimexe_rmb_ability_loop_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_rmb_ability_loop_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "907": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010401_mine",
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010201_local_loop",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_e_ability_mine_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_e_ability_mine_cue.0"
+          "ObjectName": "SoundCue'grimexe_rmb_ability_loop_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_rmb_ability_loop_st_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "908": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010401_mine_loop",
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010201_finish",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_e_ability_mine_loop_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_e_ability_mine_loop_cue.0"
+          "ObjectName": "SoundCue'grimexe_rmb_ability_finish_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_rmb_ability_finish_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "909": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010401_mine_explosion",
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010201_local_finish",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_e_ability_exp_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_e_ability_exp_cue.0"
+          "ObjectName": "SoundCue'grimexe_rmb_ability_finish_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_rmb_ability_finish_st_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "910": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010401_explosion",
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010301_shot",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_e_ability_explosion_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_e_ability_explosion_st_cue.0"
+          "ObjectName": "SoundCue'grimexe_q_ability_shot_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_q_ability_shot_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "911": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010501_attack",
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010301_local_shot",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_r_ability_atk_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_atk_cue.0"
+          "ObjectName": "SoundCue'grimexe_q_ability_shot_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_q_ability_shot_st_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "912": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010501_shot",
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010301_loop",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_r_ability_shot_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_shot_cue.0"
+          "ObjectName": "SoundCue'grimexe_q_ability_loop_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_q_ability_loop_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "913": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010501_local_shot",
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010301_local_loop",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_r_ability_shot_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_shot_st_cue.0"
+          "ObjectName": "SoundCue'grimexe_q_ability_loop_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_q_ability_loop_st_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "914": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010501_start",
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010301_explosion",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_r_ability_start_01_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_start_01_cue.0"
+          "ObjectName": "SoundCue'grimexe_q_ability_explosion_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_q_ability_explosion_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "915": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010501_local_start",
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010301_local_explosion",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_r_ability_start_st_01_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_start_st_01_cue.0"
+          "ObjectName": "SoundCue'grimexe_q_ability_explosion_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_q_ability_explosion_st_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "916": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010501_end",
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010301_ready",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_r_ability_end_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_end_cue.0"
+          "ObjectName": "SoundCue'grimexe_q_ability_ready_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_q_ability_ready_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "917": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010501_local_end",
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010301_local_ready",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_r_ability_end_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_end_st_cue.0"
+          "ObjectName": "SoundCue'grimexe_q_ability_ready_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_q_ability_ready_st_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "918": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010501_small_explosion",
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010301_cancel",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_r_ability_exp_small_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_exp_small_cue.0"
+          "ObjectName": "SoundCue'grimexe_q_ability_cancel_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_q_ability_cancel_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "919": {
-        "SkinID": "1022001",
-        "SoundID": "Hero_1022001_Skill_1022010501_explosion",
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010301_local_cancel",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_r_ability_explosion_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_explosion_st_cue.0"
+          "ObjectName": "SoundCue'grimexe_q_ability_cancel_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_q_ability_cancel_st_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "920": {
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010401_start",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_e_ability_start_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_e_ability_start_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "921": {
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010401_local_start",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_e_ability_start_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_e_ability_start_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "922": {
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010401_end",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_e_ability_end_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_e_ability_end_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "923": {
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010401_local_end",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_e_ability_end_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_e_ability_end_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "924": {
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010401_shot",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_e_ability_shot_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_e_ability_shot_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "925": {
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010401_local_shot",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_e_ability_shot_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_e_ability_shot_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "926": {
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010501_charge",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_r_ability_charge_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_r_ability_charge_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "927": {
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010501_local_charge",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_r_ability_charge_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_r_ability_charge_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "928": {
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010501_shot",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_r_ability_shot_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_r_ability_shot_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "929": {
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010501_local_shot",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_r_ability_shot_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_r_ability_shot_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "930": {
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010501_exp",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_r_ability_explosion_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_r_ability_explosion_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "931": {
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010501_loop",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_r_ability_loop_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_r_ability_loop_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "932": {
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010501_local_loop",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_r_ability_loop_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_r_ability_loop_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "933": {
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010501_ready",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_r_ability_ready_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_r_ability_ready_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "934": {
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010501_local_ready",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_r_ability_ready_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_r_ability_ready_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "935": {
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010501_cancel",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_r_ability_cancel_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_r_ability_cancel_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "936": {
+        "SkinID": "1021006",
+        "SoundID": "Hero_1021001_Skill_1021010501_local_cancel",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'grimexe_r_ability_cancel_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/grim/1021006/grimexe_r_ability_cancel_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "937": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010101_shot",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_lmb_shot_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_lmb_shot_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "938": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010101_local_shot",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_lmb_shot_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_lmb_shot_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "939": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010101_reload",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_lmb_ability_reload_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_lmb_ability_reload_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "940": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010101_ready",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_ability_ready_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_ability_ready_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "941": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010101_cancel",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_ability_cancel_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_ability_cancel_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "942": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010101_loop",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_ability_fly_loop_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_ability_fly_loop_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "943": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010201_shot",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_rmb_ability_shot_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_shot_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "944": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010201_local_shot",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_rmb_ability_shot_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_shot_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "945": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010201_reload",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_rmb_ability_reload_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_reload_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "946": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010201_explosion",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_rmb_ability_exp_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_exp_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "947": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010201_exp",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_rmb_ability_explosion_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_explosion_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "948": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010301_ready",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_q_ability_ready_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_ready_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "949": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010301_local_ready",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_q_ability_ready_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_ready_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "950": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010301_shot",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_q_ability_shot_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_shot_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "951": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010301_local_shot",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_q_ability_shot_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_shot_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "952": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010301_start",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_q_ability_start_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_start_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "953": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010301_rocket",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_emote_rocket_fire_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_emote_rocket_fire_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "954": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010301_fly_by",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_q_ability_fly_by_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_fly_by_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "955": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010301_explosion",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_q_ability_exp_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_exp_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "956": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010401_shot",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_e_ability_shot_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_e_ability_shot_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "957": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010401_local_shot",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_e_ability_shot_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_e_ability_shot_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "958": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010401_mine",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_e_ability_mine_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_e_ability_mine_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "959": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010401_mine_loop",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_e_ability_mine_loop_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_e_ability_mine_loop_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "960": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010401_mine_explosion",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_e_ability_exp_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_e_ability_exp_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "961": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010401_explosion",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_e_ability_explosion_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_e_ability_explosion_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "962": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010501_attack",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_r_ability_atk_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_atk_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "963": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010501_shot",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_r_ability_shot_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_shot_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "964": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010501_local_shot",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_r_ability_shot_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_shot_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "965": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010501_start",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_r_ability_start_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_start_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "966": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010501_local_start",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_r_ability_start_st_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_start_st_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "967": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010501_end",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_r_ability_end_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_end_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "968": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010501_local_end",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_r_ability_end_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_end_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "969": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010501_small_explosion",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_r_ability_exp_small_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_exp_small_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "970": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010501_explosion",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_r_ability_explosion_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_explosion_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "971": {
         "SkinID": "1022001",
         "SoundID": "Hero_1022001_Skill_1022010501_big_explosion",
         "SoundVolume": 1.0,
@@ -9090,527 +9600,527 @@
         },
         "SoundTableManagerObject": null
       },
-      "921": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010101_shot",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_lmb_shot_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_lmb_shot_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "922": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010101_local_shot",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_lmb_shot_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_lmb_shot_st_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "923": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010101_reload",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_lmb_ability_reload_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_lmb_ability_reload_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "924": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010101_ready",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_ability_ready_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_ability_ready_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "925": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010101_cancel",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_ability_cancel_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_ability_cancel_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "926": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010101_loop",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_ability_fly_loop_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_ability_fly_loop_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "927": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010201_shot",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_rmb_ability_shot_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_shot_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "928": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010201_local_shot",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_rmb_ability_shot_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_shot_st_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "929": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010201_reload",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_rmb_ability_reload_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_reload_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "930": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010201_explosion",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_rmb_ability_exp_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_exp_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "931": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010201_exp",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_rmb_ability_explosion_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_explosion_st_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "932": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010301_ready",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_q_ability_ready_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_ready_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "933": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010301_local_ready",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_q_ability_ready_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_ready_st_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "934": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010301_shot",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_q_ability_shot_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_shot_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "935": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010301_local_shot",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_q_ability_shot_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_shot_st_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "936": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010301_start",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_q_ability_start_01_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_start_01_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "937": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010301_rocket",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_emote_rocket_fire_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_emote_rocket_fire_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "938": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010301_fly_by",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_q_ability_fly_by_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_fly_by_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "939": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010301_explosion",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_q_ability_exp_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_exp_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "940": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010401_shot",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_e_ability_shot_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_e_ability_shot_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "941": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010401_local_shot",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_e_ability_shot_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_e_ability_shot_st_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "942": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010401_mine",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_e_ability_mine_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_e_ability_mine_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "943": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010401_mine_loop",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_e_ability_mine_loop_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_e_ability_mine_loop_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "944": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010401_mine_explosion",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_e_ability_exp_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_e_ability_exp_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "945": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010401_explosion",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_e_ability_explosion_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_e_ability_explosion_st_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "946": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010501_attack",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_r_ability_atk_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_atk_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "947": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010501_shot",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_r_ability_shot_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_shot_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "948": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010501_local_shot",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_r_ability_shot_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_shot_st_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "949": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010501_start",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_r_ability_start_01_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_start_01_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "950": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010501_local_start",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_r_ability_start_st_01_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_start_st_01_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "951": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010501_end",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_r_ability_end_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_end_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "952": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010501_local_end",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_r_ability_end_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_end_st_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "953": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010501_small_explosion",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_r_ability_exp_small_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_exp_small_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "954": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010501_explosion",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_r_ability_explosion_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_explosion_st_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "955": {
-        "SkinID": "1022002",
-        "SoundID": "Hero_1022001_Skill_1022010501_big_explosion",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_r_ability_exp_big_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_exp_big_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "956": {
-        "SkinID": "1022004",
-        "SoundID": "Hero_1022001_Skill_1022010101_shot",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_lmb_shot_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_lmb_shot_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "957": {
-        "SkinID": "1022004",
-        "SoundID": "Hero_1022001_Skill_1022010101_local_shot",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_lmb_shot_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_lmb_shot_st_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "958": {
-        "SkinID": "1022004",
-        "SoundID": "Hero_1022001_Skill_1022010101_reload",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_lmb_ability_reload_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_lmb_ability_reload_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "959": {
-        "SkinID": "1022004",
-        "SoundID": "Hero_1022001_Skill_1022010101_ready",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_ability_ready_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_ability_ready_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "960": {
-        "SkinID": "1022004",
-        "SoundID": "Hero_1022001_Skill_1022010101_cancel",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_ability_cancel_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_ability_cancel_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "961": {
-        "SkinID": "1022004",
-        "SoundID": "Hero_1022001_Skill_1022010101_loop",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_ability_fly_loop_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_ability_fly_loop_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "962": {
-        "SkinID": "1022004",
-        "SoundID": "Hero_1022001_Skill_1022010201_shot",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_rmb_ability_shot_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_shot_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "963": {
-        "SkinID": "1022004",
-        "SoundID": "Hero_1022001_Skill_1022010201_local_shot",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_rmb_ability_shot_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_shot_st_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "964": {
-        "SkinID": "1022004",
-        "SoundID": "Hero_1022001_Skill_1022010201_reload",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_rmb_ability_reload_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_reload_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "965": {
-        "SkinID": "1022004",
-        "SoundID": "Hero_1022001_Skill_1022010201_explosion",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_rmb_ability_exp_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_exp_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "966": {
-        "SkinID": "1022004",
-        "SoundID": "Hero_1022001_Skill_1022010201_exp",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_rmb_ability_explosion_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_explosion_st_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "967": {
-        "SkinID": "1022004",
-        "SoundID": "Hero_1022001_Skill_1022010301_ready",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_q_ability_ready_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_ready_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "968": {
-        "SkinID": "1022004",
-        "SoundID": "Hero_1022001_Skill_1022010301_local_ready",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_q_ability_ready_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_ready_st_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "969": {
-        "SkinID": "1022004",
-        "SoundID": "Hero_1022001_Skill_1022010301_shot",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_q_ability_shot_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_shot_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "970": {
-        "SkinID": "1022004",
-        "SoundID": "Hero_1022001_Skill_1022010301_local_shot",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_q_ability_shot_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_shot_st_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "971": {
-        "SkinID": "1022004",
-        "SoundID": "Hero_1022001_Skill_1022010301_start",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_q_ability_start_01_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_start_01_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
       "972": {
-        "SkinID": "1022004",
-        "SoundID": "Hero_1022001_Skill_1022010301_rocket",
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010101_shot",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'howitzer_emote_rocket_fire_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_emote_rocket_fire_cue.0"
+          "ObjectName": "SoundCue'howitzer_lmb_shot_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_lmb_shot_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "973": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010101_local_shot",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_lmb_shot_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_lmb_shot_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "974": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010101_reload",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_lmb_ability_reload_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_lmb_ability_reload_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "975": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010101_ready",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_ability_ready_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_ability_ready_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "976": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010101_cancel",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_ability_cancel_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_ability_cancel_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "977": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010101_loop",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_ability_fly_loop_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_ability_fly_loop_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "978": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010201_shot",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_rmb_ability_shot_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_shot_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "979": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010201_local_shot",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_rmb_ability_shot_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_shot_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "980": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010201_reload",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_rmb_ability_reload_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_reload_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "981": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010201_explosion",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_rmb_ability_exp_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_exp_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "982": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010201_exp",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_rmb_ability_explosion_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_explosion_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "983": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010301_ready",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_q_ability_ready_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_ready_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "984": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010301_local_ready",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_q_ability_ready_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_ready_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "985": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010301_shot",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_q_ability_shot_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_shot_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "986": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010301_local_shot",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_q_ability_shot_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_shot_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "987": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010301_start",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_q_ability_start_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_start_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "988": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010301_rocket",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_emote_rocket_fire_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_emote_rocket_fire_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "989": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010301_fly_by",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_q_ability_fly_by_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_fly_by_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "990": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010301_explosion",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_q_ability_exp_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_exp_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "991": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010401_shot",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_e_ability_shot_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_e_ability_shot_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "992": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010401_local_shot",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_e_ability_shot_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_e_ability_shot_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "993": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010401_mine",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_e_ability_mine_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_e_ability_mine_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "994": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010401_mine_loop",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_e_ability_mine_loop_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_e_ability_mine_loop_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "995": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010401_mine_explosion",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_e_ability_exp_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_e_ability_exp_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "996": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010401_explosion",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_e_ability_explosion_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_e_ability_explosion_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "997": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010501_attack",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_r_ability_atk_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_atk_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "998": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010501_shot",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_r_ability_shot_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_shot_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "999": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010501_local_shot",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_r_ability_shot_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_shot_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1000": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010501_start",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_r_ability_start_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_start_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1001": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010501_local_start",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_r_ability_start_st_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_start_st_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1002": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010501_end",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_r_ability_end_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_end_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1003": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010501_local_end",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_r_ability_end_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_end_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1004": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010501_small_explosion",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_r_ability_exp_small_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_exp_small_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1005": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010501_explosion",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_r_ability_explosion_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_explosion_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1006": {
+        "SkinID": "1022002",
+        "SoundID": "Hero_1022001_Skill_1022010501_big_explosion",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_r_ability_exp_big_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_r_ability_exp_big_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1007": {
+        "SkinID": "1022004",
+        "SoundID": "Hero_1022001_Skill_1022010101_shot",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_lmb_shot_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_lmb_shot_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1008": {
+        "SkinID": "1022004",
+        "SoundID": "Hero_1022001_Skill_1022010101_local_shot",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_lmb_shot_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_lmb_shot_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1009": {
+        "SkinID": "1022004",
+        "SoundID": "Hero_1022001_Skill_1022010101_reload",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_lmb_ability_reload_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_lmb_ability_reload_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1010": {
+        "SkinID": "1022004",
+        "SoundID": "Hero_1022001_Skill_1022010101_ready",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_ability_ready_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_ability_ready_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1011": {
+        "SkinID": "1022004",
+        "SoundID": "Hero_1022001_Skill_1022010101_cancel",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_ability_cancel_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_ability_cancel_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1012": {
+        "SkinID": "1022004",
+        "SoundID": "Hero_1022001_Skill_1022010101_loop",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_ability_fly_loop_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_ability_fly_loop_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1013": {
+        "SkinID": "1022004",
+        "SoundID": "Hero_1022001_Skill_1022010201_shot",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_rmb_ability_shot_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_shot_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1014": {
+        "SkinID": "1022004",
+        "SoundID": "Hero_1022001_Skill_1022010201_local_shot",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_rmb_ability_shot_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_shot_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1015": {
+        "SkinID": "1022004",
+        "SoundID": "Hero_1022001_Skill_1022010201_reload",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_rmb_ability_reload_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_reload_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1016": {
+        "SkinID": "1022004",
+        "SoundID": "Hero_1022001_Skill_1022010201_explosion",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_rmb_ability_exp_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_exp_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1017": {
+        "SkinID": "1022004",
+        "SoundID": "Hero_1022001_Skill_1022010201_exp",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_rmb_ability_explosion_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_rmb_ability_explosion_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1018": {
+        "SkinID": "1022004",
+        "SoundID": "Hero_1022001_Skill_1022010301_ready",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_q_ability_ready_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_ready_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1019": {
+        "SkinID": "1022004",
+        "SoundID": "Hero_1022001_Skill_1022010301_local_ready",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_q_ability_ready_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_ready_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1020": {
+        "SkinID": "1022004",
+        "SoundID": "Hero_1022001_Skill_1022010301_shot",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_q_ability_shot_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_shot_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1021": {
+        "SkinID": "1022004",
+        "SoundID": "Hero_1022001_Skill_1022010301_local_shot",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_q_ability_shot_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_shot_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1022": {
+        "SkinID": "1022004",
+        "SoundID": "Hero_1022001_Skill_1022010301_start",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_q_ability_start_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_q_ability_start_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1023": {
+        "SkinID": "1022004",
+        "SoundID": "Hero_1022001_Skill_1022010301_rocket",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_emote_rocket_fire_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_emote_rocket_fire_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1024": {
         "SkinID": "1022004",
         "SoundID": "Hero_1022001_Skill_1022010301_fly_by",
         "SoundVolume": 1.0,
@@ -9620,7 +10130,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "974": {
+      "1025": {
         "SkinID": "1022004",
         "SoundID": "Hero_1022001_Skill_1022010301_explosion",
         "SoundVolume": 1.0,
@@ -9630,7 +10140,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "975": {
+      "1026": {
         "SkinID": "1022004",
         "SoundID": "Hero_1022001_Skill_1022010401_shot",
         "SoundVolume": 1.0,
@@ -9640,7 +10150,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "976": {
+      "1027": {
         "SkinID": "1022004",
         "SoundID": "Hero_1022001_Skill_1022010401_local_shot",
         "SoundVolume": 1.0,
@@ -9650,7 +10160,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "977": {
+      "1028": {
         "SkinID": "1022004",
         "SoundID": "Hero_1022001_Skill_1022010401_mine",
         "SoundVolume": 1.0,
@@ -9660,7 +10170,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "978": {
+      "1029": {
         "SkinID": "1022004",
         "SoundID": "Hero_1022001_Skill_1022010401_mine_loop",
         "SoundVolume": 1.0,
@@ -9670,7 +10180,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "979": {
+      "1030": {
         "SkinID": "1022004",
         "SoundID": "Hero_1022001_Skill_1022010401_mine_explosion",
         "SoundVolume": 1.0,
@@ -9680,7 +10190,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "980": {
+      "1031": {
         "SkinID": "1022004",
         "SoundID": "Hero_1022001_Skill_1022010401_explosion",
         "SoundVolume": 1.0,
@@ -9690,7 +10200,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "981": {
+      "1032": {
         "SkinID": "1022004",
         "SoundID": "Hero_1022001_Skill_1022010501_attack",
         "SoundVolume": 1.0,
@@ -9700,7 +10210,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "982": {
+      "1033": {
         "SkinID": "1022004",
         "SoundID": "Hero_1022001_Skill_1022010501_shot",
         "SoundVolume": 1.0,
@@ -9710,7 +10220,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "983": {
+      "1034": {
         "SkinID": "1022004",
         "SoundID": "Hero_1022001_Skill_1022010501_local_shot",
         "SoundVolume": 1.0,
@@ -9720,7 +10230,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "984": {
+      "1035": {
         "SkinID": "1022004",
         "SoundID": "Hero_1022001_Skill_1022010501_start",
         "SoundVolume": 1.0,
@@ -9730,7 +10240,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "985": {
+      "1036": {
         "SkinID": "1022004",
         "SoundID": "Hero_1022001_Skill_1022010501_local_start",
         "SoundVolume": 1.0,
@@ -9740,7 +10250,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "986": {
+      "1037": {
         "SkinID": "1022004",
         "SoundID": "Hero_1022001_Skill_1022010501_end",
         "SoundVolume": 1.0,
@@ -9750,7 +10260,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "987": {
+      "1038": {
         "SkinID": "1022004",
         "SoundID": "Hero_1022001_Skill_1022010501_local_end",
         "SoundVolume": 1.0,
@@ -9760,7 +10270,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "988": {
+      "1039": {
         "SkinID": "1022004",
         "SoundID": "Hero_1022001_Skill_1022010501_small_explosion",
         "SoundVolume": 1.0,
@@ -9770,7 +10280,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "989": {
+      "1040": {
         "SkinID": "1022004",
         "SoundID": "Hero_1022001_Skill_1022010501_explosion",
         "SoundVolume": 1.0,
@@ -9780,7 +10290,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "990": {
+      "1041": {
         "SkinID": "1022004",
         "SoundID": "Hero_1022001_Skill_1022010501_big_explosion",
         "SoundVolume": 1.0,
@@ -9790,7 +10300,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "991": {
+      "1042": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010101_shot",
         "SoundVolume": 1.0,
@@ -9800,7 +10310,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "992": {
+      "1043": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010101_local_shot",
         "SoundVolume": 1.0,
@@ -9810,7 +10320,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "993": {
+      "1044": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010101_reload",
         "SoundVolume": 1.0,
@@ -9820,7 +10330,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "994": {
+      "1045": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010101_ready",
         "SoundVolume": 1.0,
@@ -9830,7 +10340,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "995": {
+      "1046": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010101_cancel",
         "SoundVolume": 1.0,
@@ -9840,7 +10350,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "996": {
+      "1047": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010101_loop",
         "SoundVolume": 1.0,
@@ -9850,7 +10360,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "997": {
+      "1048": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010201_shot",
         "SoundVolume": 1.0,
@@ -9860,7 +10370,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "998": {
+      "1049": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010201_local_shot",
         "SoundVolume": 1.0,
@@ -9870,7 +10380,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "999": {
+      "1050": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010201_reload",
         "SoundVolume": 1.0,
@@ -9880,7 +10390,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1000": {
+      "1051": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010201_explosion",
         "SoundVolume": 1.0,
@@ -9890,7 +10400,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1001": {
+      "1052": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010201_exp",
         "SoundVolume": 1.0,
@@ -9900,7 +10410,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1002": {
+      "1053": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010301_ready",
         "SoundVolume": 1.0,
@@ -9910,7 +10420,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1003": {
+      "1054": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010301_local_ready",
         "SoundVolume": 1.0,
@@ -9920,7 +10430,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1004": {
+      "1055": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010301_shot",
         "SoundVolume": 1.0,
@@ -9930,7 +10440,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1005": {
+      "1056": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010301_local_shot",
         "SoundVolume": 1.0,
@@ -9940,7 +10450,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1006": {
+      "1057": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010301_start",
         "SoundVolume": 1.0,
@@ -9950,7 +10460,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1007": {
+      "1058": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010301_rocket",
         "SoundVolume": 1.0,
@@ -9960,7 +10470,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1008": {
+      "1059": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010301_fly_by",
         "SoundVolume": 1.0,
@@ -9970,7 +10480,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1009": {
+      "1060": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010301_explosion",
         "SoundVolume": 1.0,
@@ -9980,7 +10490,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1010": {
+      "1061": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010401_shot",
         "SoundVolume": 1.0,
@@ -9990,7 +10500,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1011": {
+      "1062": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010401_local_shot",
         "SoundVolume": 1.0,
@@ -10000,7 +10510,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1012": {
+      "1063": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010401_mine",
         "SoundVolume": 1.0,
@@ -10010,7 +10520,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1013": {
+      "1064": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010401_mine_loop",
         "SoundVolume": 1.0,
@@ -10020,7 +10530,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1014": {
+      "1065": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010401_mine_explosion",
         "SoundVolume": 1.0,
@@ -10030,7 +10540,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1015": {
+      "1066": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010401_explosion",
         "SoundVolume": 1.0,
@@ -10040,7 +10550,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1016": {
+      "1067": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010501_attack",
         "SoundVolume": 1.0,
@@ -10050,7 +10560,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1017": {
+      "1068": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010501_shot",
         "SoundVolume": 1.0,
@@ -10060,7 +10570,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1018": {
+      "1069": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010501_local_shot",
         "SoundVolume": 1.0,
@@ -10070,7 +10580,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1019": {
+      "1070": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010501_start",
         "SoundVolume": 1.0,
@@ -10080,7 +10590,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1020": {
+      "1071": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010501_local_start",
         "SoundVolume": 1.0,
@@ -10090,7 +10600,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1021": {
+      "1072": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010501_end",
         "SoundVolume": 1.0,
@@ -10100,7 +10610,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1022": {
+      "1073": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010501_local_end",
         "SoundVolume": 1.0,
@@ -10110,7 +10620,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1023": {
+      "1074": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010501_small_explosion",
         "SoundVolume": 1.0,
@@ -10120,7 +10630,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1024": {
+      "1075": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010501_explosion",
         "SoundVolume": 1.0,
@@ -10130,7 +10640,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1025": {
+      "1076": {
         "SkinID": "1022006",
         "SoundID": "Hero_1022001_Skill_1022010501_big_explosion",
         "SoundVolume": 1.0,
@@ -10140,7 +10650,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1026": {
+      "1077": {
         "SkinID": "1023001",
         "SoundID": "Hero_1023001_Skill_1023010101_whoosh_a",
         "SoundVolume": 1.0,
@@ -10150,7 +10660,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1027": {
+      "1078": {
         "SkinID": "1023001",
         "SoundID": "Hero_1023001_Skill_1023010101_whoosh_b",
         "SoundVolume": 1.0,
@@ -10160,7 +10670,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1028": {
+      "1079": {
         "SkinID": "1023001",
         "SoundID": "Hero_1023001_Skill_1023010101_whoosh_c",
         "SoundVolume": 1.0,
@@ -10170,7 +10680,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1029": {
+      "1080": {
         "SkinID": "1023001",
         "SoundID": "Hero_1023001_Skill_1023010201_ready",
         "SoundVolume": 1.0,
@@ -10180,7 +10690,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1030": {
+      "1081": {
         "SkinID": "1023001",
         "SoundID": "Hero_1023001_Skill_1023010201_local_ready",
         "SoundVolume": 1.0,
@@ -10190,7 +10700,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1031": {
+      "1082": {
         "SkinID": "1023001",
         "SoundID": "Hero_1023001_Skill_1023010201_cancel",
         "SoundVolume": 1.0,
@@ -10200,7 +10710,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1032": {
+      "1083": {
         "SkinID": "1023001",
         "SoundID": "Hero_1023001_Skill_1023010201_local_cancel",
         "SoundVolume": 1.0,
@@ -10210,7 +10720,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1033": {
+      "1084": {
         "SkinID": "1023001",
         "SoundID": "Hero_1023001_Skill_1023010201_start",
         "SoundVolume": 1.0,
@@ -10220,7 +10730,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1034": {
+      "1085": {
         "SkinID": "1023001",
         "SoundID": "Hero_1023001_Skill_1023010201_local_start",
         "SoundVolume": 1.0,
@@ -10230,7 +10740,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1035": {
+      "1086": {
         "SkinID": "1023001",
         "SoundID": "Hero_1023001_Skill_1023010201_exp",
         "SoundVolume": 1.0,
@@ -10240,7 +10750,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1036": {
+      "1087": {
         "SkinID": "1023001",
         "SoundID": "Hero_1023001_Skill_1023010201_local_exp",
         "SoundVolume": 1.0,
@@ -10250,7 +10760,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1037": {
+      "1088": {
         "SkinID": "1023001",
         "SoundID": "Hero_1023001_Skill_1023010201_whoosh_a",
         "SoundVolume": 1.0,
@@ -10260,7 +10770,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1038": {
+      "1089": {
         "SkinID": "1023001",
         "SoundID": "Hero_1023001_Skill_1023010201_whoosh_b",
         "SoundVolume": 1.0,
@@ -10270,7 +10780,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1039": {
+      "1090": {
         "SkinID": "1023001",
         "SoundID": "Hero_1023001_Skill_1023010201_whoosh_c",
         "SoundVolume": 1.0,
@@ -10280,7 +10790,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1040": {
+      "1091": {
         "SkinID": "1023001",
         "SoundID": "Hero_1023001_Skill_1023010301_start",
         "SoundVolume": 1.0,
@@ -10290,7 +10800,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1041": {
+      "1092": {
         "SkinID": "1023001",
         "SoundID": "Hero_1023001_Skill_1023010301_local_start",
         "SoundVolume": 1.0,
@@ -10300,7 +10810,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1042": {
+      "1093": {
         "SkinID": "1023001",
         "SoundID": "Hero_1023001_Skill_1023010501_attack",
         "SoundVolume": 1.0,
@@ -10310,7 +10820,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1043": {
+      "1094": {
         "SkinID": "1023001",
         "SoundID": "Hero_1023001_Skill_1023010501_local_attack",
         "SoundVolume": 1.0,
@@ -10320,7 +10830,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1044": {
+      "1095": {
         "SkinID": "1023001",
         "SoundID": "Hero_1023001_Skill_1023010501_ready",
         "SoundVolume": 1.0,
@@ -10330,7 +10840,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1045": {
+      "1096": {
         "SkinID": "1023001",
         "SoundID": "Hero_1023001_Skill_1023010501_local_ready",
         "SoundVolume": 1.0,
@@ -10340,7 +10850,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1046": {
+      "1097": {
         "SkinID": "1023001",
         "SoundID": "Hero_1023001_Skill_1023010501_cancel",
         "SoundVolume": 1.0,
@@ -10350,7 +10860,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1047": {
+      "1098": {
         "SkinID": "1023001",
         "SoundID": "Hero_1023001_Skill_1023010501_local_cancel",
         "SoundVolume": 1.0,
@@ -10360,7 +10870,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1048": {
+      "1099": {
         "SkinID": "1023002",
         "SoundID": "Hero_1023001_Skill_1023010101_whoosh_a",
         "SoundVolume": 1.0,
@@ -10370,7 +10880,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1049": {
+      "1100": {
         "SkinID": "1023002",
         "SoundID": "Hero_1023001_Skill_1023010101_whoosh_b",
         "SoundVolume": 1.0,
@@ -10380,7 +10890,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1050": {
+      "1101": {
         "SkinID": "1023002",
         "SoundID": "Hero_1023001_Skill_1023010101_whoosh_c",
         "SoundVolume": 1.0,
@@ -10390,7 +10900,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1051": {
+      "1102": {
         "SkinID": "1023002",
         "SoundID": "Hero_1023001_Skill_1023010201_ready",
         "SoundVolume": 1.0,
@@ -10400,7 +10910,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1052": {
+      "1103": {
         "SkinID": "1023002",
         "SoundID": "Hero_1023001_Skill_1023010201_local_ready",
         "SoundVolume": 1.0,
@@ -10410,7 +10920,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1053": {
+      "1104": {
         "SkinID": "1023002",
         "SoundID": "Hero_1023001_Skill_1023010201_cancel",
         "SoundVolume": 1.0,
@@ -10420,7 +10930,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1054": {
+      "1105": {
         "SkinID": "1023002",
         "SoundID": "Hero_1023001_Skill_1023010201_local_cancel",
         "SoundVolume": 1.0,
@@ -10430,7 +10940,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1055": {
+      "1106": {
         "SkinID": "1023002",
         "SoundID": "Hero_1023001_Skill_1023010201_start",
         "SoundVolume": 1.0,
@@ -10440,7 +10950,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1056": {
+      "1107": {
         "SkinID": "1023002",
         "SoundID": "Hero_1023001_Skill_1023010201_local_start",
         "SoundVolume": 1.0,
@@ -10450,7 +10960,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1057": {
+      "1108": {
         "SkinID": "1023002",
         "SoundID": "Hero_1023001_Skill_1023010201_exp",
         "SoundVolume": 1.0,
@@ -10460,7 +10970,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1058": {
+      "1109": {
         "SkinID": "1023002",
         "SoundID": "Hero_1023001_Skill_1023010201_local_exp",
         "SoundVolume": 1.0,
@@ -10470,7 +10980,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1059": {
+      "1110": {
         "SkinID": "1023002",
         "SoundID": "Hero_1023001_Skill_1023010201_whoosh_a",
         "SoundVolume": 1.0,
@@ -10480,7 +10990,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1060": {
+      "1111": {
         "SkinID": "1023002",
         "SoundID": "Hero_1023001_Skill_1023010201_whoosh_b",
         "SoundVolume": 1.0,
@@ -10490,7 +11000,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1061": {
+      "1112": {
         "SkinID": "1023002",
         "SoundID": "Hero_1023001_Skill_1023010201_whoosh_c",
         "SoundVolume": 1.0,
@@ -10500,7 +11010,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1062": {
+      "1113": {
         "SkinID": "1023002",
         "SoundID": "Hero_1023001_Skill_1023010301_start",
         "SoundVolume": 1.0,
@@ -10510,7 +11020,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1063": {
+      "1114": {
         "SkinID": "1023002",
         "SoundID": "Hero_1023001_Skill_1023010301_local_start",
         "SoundVolume": 1.0,
@@ -10520,7 +11030,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1064": {
+      "1115": {
         "SkinID": "1023002",
         "SoundID": "Hero_1023001_Skill_1023010501_attack",
         "SoundVolume": 1.0,
@@ -10530,7 +11040,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1065": {
+      "1116": {
         "SkinID": "1023002",
         "SoundID": "Hero_1023001_Skill_1023010501_local_attack",
         "SoundVolume": 1.0,
@@ -10540,7 +11050,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1066": {
+      "1117": {
         "SkinID": "1023002",
         "SoundID": "Hero_1023001_Skill_1023010501_ready",
         "SoundVolume": 1.0,
@@ -10550,7 +11060,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1067": {
+      "1118": {
         "SkinID": "1023002",
         "SoundID": "Hero_1023001_Skill_1023010501_local_ready",
         "SoundVolume": 1.0,
@@ -10560,7 +11070,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1068": {
+      "1119": {
         "SkinID": "1023002",
         "SoundID": "Hero_1023001_Skill_1023010501_cancel",
         "SoundVolume": 1.0,
@@ -10570,7 +11080,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1069": {
+      "1120": {
         "SkinID": "1023002",
         "SoundID": "Hero_1023001_Skill_1023010501_local_cancel",
         "SoundVolume": 1.0,
@@ -10580,7 +11090,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1070": {
+      "1121": {
         "SkinID": "1023006",
         "SoundID": "Hero_1023001_Skill_1023010101_whoosh_a",
         "SoundVolume": 1.0,
@@ -10590,7 +11100,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1071": {
+      "1122": {
         "SkinID": "1023006",
         "SoundID": "Hero_1023001_Skill_1023010101_whoosh_b",
         "SoundVolume": 1.0,
@@ -10600,7 +11110,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1072": {
+      "1123": {
         "SkinID": "1023006",
         "SoundID": "Hero_1023001_Skill_1023010101_whoosh_c",
         "SoundVolume": 1.0,
@@ -10610,7 +11120,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1073": {
+      "1124": {
         "SkinID": "1023006",
         "SoundID": "Hero_1023001_Skill_1023010201_ready",
         "SoundVolume": 1.0,
@@ -10620,7 +11130,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1074": {
+      "1125": {
         "SkinID": "1023006",
         "SoundID": "Hero_1023001_Skill_1023010201_local_ready",
         "SoundVolume": 1.0,
@@ -10630,7 +11140,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1075": {
+      "1126": {
         "SkinID": "1023006",
         "SoundID": "Hero_1023001_Skill_1023010201_cancel",
         "SoundVolume": 1.0,
@@ -10640,7 +11150,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1076": {
+      "1127": {
         "SkinID": "1023006",
         "SoundID": "Hero_1023001_Skill_1023010201_local_cancel",
         "SoundVolume": 1.0,
@@ -10650,7 +11160,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1077": {
+      "1128": {
         "SkinID": "1023006",
         "SoundID": "Hero_1023001_Skill_1023010201_start",
         "SoundVolume": 1.0,
@@ -10660,7 +11170,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1078": {
+      "1129": {
         "SkinID": "1023006",
         "SoundID": "Hero_1023001_Skill_1023010201_local_start",
         "SoundVolume": 1.0,
@@ -10670,7 +11180,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1079": {
+      "1130": {
         "SkinID": "1023006",
         "SoundID": "Hero_1023001_Skill_1023010201_exp",
         "SoundVolume": 1.0,
@@ -10680,7 +11190,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1080": {
+      "1131": {
         "SkinID": "1023006",
         "SoundID": "Hero_1023001_Skill_1023010201_local_exp",
         "SoundVolume": 1.0,
@@ -10690,7 +11200,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1081": {
+      "1132": {
         "SkinID": "1023006",
         "SoundID": "Hero_1023001_Skill_1023010201_whoosh_a",
         "SoundVolume": 1.0,
@@ -10700,7 +11210,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1082": {
+      "1133": {
         "SkinID": "1023006",
         "SoundID": "Hero_1023001_Skill_1023010201_whoosh_b",
         "SoundVolume": 1.0,
@@ -10710,7 +11220,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1083": {
+      "1134": {
         "SkinID": "1023006",
         "SoundID": "Hero_1023001_Skill_1023010201_whoosh_c",
         "SoundVolume": 1.0,
@@ -10720,7 +11230,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1084": {
+      "1135": {
         "SkinID": "1023006",
         "SoundID": "Hero_1023001_Skill_1023010301_start",
         "SoundVolume": 1.0,
@@ -10730,7 +11240,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1085": {
+      "1136": {
         "SkinID": "1023006",
         "SoundID": "Hero_1023001_Skill_1023010301_local_start",
         "SoundVolume": 1.0,
@@ -10740,7 +11250,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1086": {
+      "1137": {
         "SkinID": "1023006",
         "SoundID": "Hero_1023001_Skill_1023010501_attack",
         "SoundVolume": 1.0,
@@ -10750,7 +11260,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1087": {
+      "1138": {
         "SkinID": "1023006",
         "SoundID": "Hero_1023001_Skill_1023010501_local_attack",
         "SoundVolume": 1.0,
@@ -10760,7 +11270,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1088": {
+      "1139": {
         "SkinID": "1023006",
         "SoundID": "Hero_1023001_Skill_1023010501_ready",
         "SoundVolume": 1.0,
@@ -10770,7 +11280,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1089": {
+      "1140": {
         "SkinID": "1023006",
         "SoundID": "Hero_1023001_Skill_1023010501_local_ready",
         "SoundVolume": 1.0,
@@ -10780,7 +11290,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1090": {
+      "1141": {
         "SkinID": "1023006",
         "SoundID": "Hero_1023001_Skill_1023010501_cancel",
         "SoundVolume": 1.0,
@@ -10790,7 +11300,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1091": {
+      "1142": {
         "SkinID": "1023006",
         "SoundID": "Hero_1023001_Skill_1023010501_local_cancel",
         "SoundVolume": 1.0,

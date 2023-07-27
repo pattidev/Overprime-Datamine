@@ -7300,8 +7300,12 @@
         "SoundGroupID": "None",
         "SuperpositionType": "EEffectKeywordSoundDirectionSuperpositionType::ESUPT_IgnoreLater",
         "SuperpositionValue": 0.0,
-        "EffectStartSound": [],
-        "EffectStartSoundLocal": [],
+        "EffectStartSound": [
+          "Hero_1028001_Skill_1028010401_spawn"
+        ],
+        "EffectStartSoundLocal": [
+          "Hero_1028001_Skill_1028010401_local_spawn"
+        ],
         "StopOngoingSoundOnEnd": false,
         "EffectOngoingSound": [],
         "EffectOngoingSoundLocal": [],
@@ -7330,8 +7334,12 @@
         "SoundGroupID": "None",
         "SuperpositionType": "EEffectKeywordSoundDirectionSuperpositionType::ESUPT_IgnoreLater",
         "SuperpositionValue": 0.0,
-        "EffectStartSound": [],
-        "EffectStartSoundLocal": [],
+        "EffectStartSound": [
+          "Hero_1028001_Skill_1028010402_spawn"
+        ],
+        "EffectStartSoundLocal": [
+          "Hero_1028001_Skill_1028010402_local_spawn"
+        ],
         "StopOngoingSoundOnEnd": false,
         "EffectOngoingSound": [],
         "EffectOngoingSoundLocal": [],
@@ -9641,6 +9649,158 @@
           "spell_ignition_end"
         ],
         "EffectEndSoundLocal": [],
+        "EffectSoundLocalRule": "EEffectKeywordLocalSoundRuleType::EEKLSRT_Caster"
+      },
+      "626": {
+        "TableID": "626",
+        "ExpansionEffectKeyword": "Debuff_Stun_Tower",
+        "SoundGroupID": "None",
+        "SuperpositionType": "EEffectKeywordSoundDirectionSuperpositionType::ESUPT_IgnoreLater",
+        "SuperpositionValue": 0.0,
+        "EffectStartSound": [
+          "tower_debuff_start"
+        ],
+        "EffectStartSoundLocal": [],
+        "StopOngoingSoundOnEnd": false,
+        "EffectOngoingSound": [
+          "tower_debuff_loop"
+        ],
+        "EffectOngoingSoundLocal": [],
+        "EffectEndSound": [
+          "tower_debuff_end"
+        ],
+        "EffectEndSoundLocal": [],
+        "EffectSoundLocalRule": "EEffectKeywordLocalSoundRuleType::EEKLSRT_Both"
+      },
+      "627": {
+        "TableID": "627",
+        "ExpansionEffectKeyword": "Buff_SkillSlotChange_1021",
+        "SoundGroupID": "None",
+        "SuperpositionType": "EEffectKeywordSoundDirectionSuperpositionType::ESUPT_IgnoreLater",
+        "SuperpositionValue": 0.0,
+        "EffectStartSound": [
+          "Hero_1021001_Skill_1021010401_start"
+        ],
+        "EffectStartSoundLocal": [
+          "Hero_1021001_Skill_1021010401_local_start"
+        ],
+        "StopOngoingSoundOnEnd": false,
+        "EffectOngoingSound": [],
+        "EffectOngoingSoundLocal": [],
+        "EffectEndSound": [
+          "Hero_1021001_Skill_1021010401_end"
+        ],
+        "EffectEndSoundLocal": [
+          "Hero_1021001_Skill_1021010401_local_end"
+        ],
+        "EffectSoundLocalRule": "EEffectKeywordLocalSoundRuleType::EEKLSRT_Caster"
+      },
+      "628": {
+        "TableID": "628",
+        "ExpansionEffectKeyword": "Debuff_Damage_TDR_GasZone_Phase1_TotalHP_Target",
+        "SoundGroupID": "None",
+        "SuperpositionType": "EEffectKeywordSoundDirectionSuperpositionType::ESUPT_IgnoreLater",
+        "SuperpositionValue": 0.0,
+        "EffectStartSound": [],
+        "EffectStartSoundLocal": [
+          "sca_tdr_zone_hit"
+        ],
+        "StopOngoingSoundOnEnd": false,
+        "EffectOngoingSound": [],
+        "EffectOngoingSoundLocal": [],
+        "EffectEndSound": [],
+        "EffectEndSoundLocal": [],
+        "EffectSoundLocalRule": "EEffectKeywordLocalSoundRuleType::EEKLSRT_Both"
+      },
+      "629": {
+        "TableID": "629",
+        "ExpansionEffectKeyword": "Debuff_Damage_TDR_GasZone_Phase3_TotalHP_Target",
+        "SoundGroupID": "None",
+        "SuperpositionType": "EEffectKeywordSoundDirectionSuperpositionType::ESUPT_IgnoreLater",
+        "SuperpositionValue": 0.0,
+        "EffectStartSound": [],
+        "EffectStartSoundLocal": [
+          "sca_tdr_zone_hit"
+        ],
+        "StopOngoingSoundOnEnd": false,
+        "EffectOngoingSound": [],
+        "EffectOngoingSoundLocal": [],
+        "EffectEndSound": [],
+        "EffectEndSoundLocal": [],
+        "EffectSoundLocalRule": "EEffectKeywordLocalSoundRuleType::EEKLSRT_Both"
+      },
+      "630": {
+        "TableID": "630",
+        "ExpansionEffectKeyword": "Custom_InGasZone_Direction",
+        "SoundGroupID": "None",
+        "SuperpositionType": "EEffectKeywordSoundDirectionSuperpositionType::ESUPT_IgnoreLater",
+        "SuperpositionValue": 0.0,
+        "EffectStartSound": [],
+        "EffectStartSoundLocal": [],
+        "StopOngoingSoundOnEnd": false,
+        "EffectOngoingSound": [],
+        "EffectOngoingSoundLocal": [
+          "sca_tdr_ingaszone"
+        ],
+        "EffectEndSound": [],
+        "EffectEndSoundLocal": [],
+        "EffectSoundLocalRule": "EEffectKeywordLocalSoundRuleType::EEKLSRT_Both"
+      },
+      "631": {
+        "TableID": "631",
+        "ExpansionEffectKeyword": "Custom_SoundDirection_1028_E_1",
+        "SoundGroupID": "None",
+        "SuperpositionType": "EEffectKeywordSoundDirectionSuperpositionType::ESUPT_IgnoreLater",
+        "SuperpositionValue": 0.0,
+        "EffectStartSound": [],
+        "EffectStartSoundLocal": [],
+        "StopOngoingSoundOnEnd": false,
+        "EffectOngoingSound": [],
+        "EffectOngoingSoundLocal": [],
+        "EffectEndSound": [],
+        "EffectEndSoundLocal": [],
+        "EffectSoundLocalRule": "EEffectKeywordLocalSoundRuleType::EEKLSRT_Caster"
+      },
+      "632": {
+        "TableID": "632",
+        "ExpansionEffectKeyword": "Custom_SoundDirection_1028_E_OnR_1",
+        "SoundGroupID": "None",
+        "SuperpositionType": "EEffectKeywordSoundDirectionSuperpositionType::ESUPT_IgnoreLater",
+        "SuperpositionValue": 0.0,
+        "EffectStartSound": [],
+        "EffectStartSoundLocal": [],
+        "StopOngoingSoundOnEnd": false,
+        "EffectOngoingSound": [],
+        "EffectOngoingSoundLocal": [],
+        "EffectEndSound": [],
+        "EffectEndSoundLocal": [],
+        "EffectSoundLocalRule": "EEffectKeywordLocalSoundRuleType::EEKLSRT_Caster"
+      },
+      "633": {
+        "TableID": "633",
+        "ExpansionEffectKeyword": "Buff_SkillGuard_1021",
+        "SoundGroupID": "None",
+        "SuperpositionType": "EEffectKeywordSoundDirectionSuperpositionType::ESUPT_IgnoreLater",
+        "SuperpositionValue": 0.0,
+        "EffectStartSound": [
+          "Hero_1021001_Skill_1021010201_start"
+        ],
+        "EffectStartSoundLocal": [
+          "Hero_1021001_Skill_1021010201_local_start"
+        ],
+        "StopOngoingSoundOnEnd": true,
+        "EffectOngoingSound": [
+          "Hero_1021001_Skill_1021010201_loop"
+        ],
+        "EffectOngoingSoundLocal": [
+          "Hero_1021001_Skill_1021010201_local_loop"
+        ],
+        "EffectEndSound": [
+          "Hero_1021001_Skill_1021010201_finish"
+        ],
+        "EffectEndSoundLocal": [
+          "Hero_1021001_Skill_1021010201_local_finish"
+        ],
         "EffectSoundLocalRule": "EEffectKeywordLocalSoundRuleType::EEKLSRT_Caster"
       }
     }

@@ -220,9 +220,9 @@
       },
       "17": {
         "LayoutType": 0,
-        "DetailType": "EGameSettingDetailType::EGSD_GamePad_Item_1",
-        "DefaultKey": "Gamepad_FaceButton_Left",
-        "PropertyName": "ActiveItem_1",
+        "DetailType": "EGameSettingDetailType::EGSD_GamePad_Spell_1",
+        "DefaultKey": "Gamepad_FaceButton_Top",
+        "PropertyName": "ActiveSpell_1",
         "Function1": true,
         "Function2": false,
         "Function3": false,
@@ -233,9 +233,9 @@
       },
       "18": {
         "LayoutType": 0,
-        "DetailType": "EGameSettingDetailType::EGSD_GamePad_Item_2",
-        "DefaultKey": "Gamepad_FaceButton_Top",
-        "PropertyName": "ActiveItem_2",
+        "DetailType": "EGameSettingDetailType::EGSD_GamePad_Spell_2",
+        "DefaultKey": "Gamepad_FaceButton_Right",
+        "PropertyName": "ActiveSpell_2",
         "Function1": true,
         "Function2": false,
         "Function3": false,
@@ -246,9 +246,9 @@
       },
       "19": {
         "LayoutType": 0,
-        "DetailType": "EGameSettingDetailType::EGSD_GamePad_Item_3",
-        "DefaultKey": "Gamepad_FaceButton_Right",
-        "PropertyName": "ActiveItem_3",
+        "DetailType": "EGameSettingDetailType::EGSD_GamePad_ActiveItem_1",
+        "DefaultKey": "Gamepad_FaceButton_Left",
+        "PropertyName": "ActiveItem_1",
         "Function1": true,
         "Function2": false,
         "Function3": false,
@@ -259,9 +259,9 @@
       },
       "20": {
         "LayoutType": 0,
-        "DetailType": "EGameSettingDetailType::EGSD_GamePad_Item_4",
+        "DetailType": "EGameSettingDetailType::EGSD_GamePad_ActiveItem_2",
         "DefaultKey": "Gamepad_FaceButton_Bottom",
-        "PropertyName": "ActiveItem_4",
+        "PropertyName": "ActiveItem_2",
         "Function1": true,
         "Function2": false,
         "Function3": false,
@@ -271,32 +271,6 @@
         "KeySwitchGroup": 4
       },
       "21": {
-        "LayoutType": 0,
-        "DetailType": "EGameSettingDetailType::EGSD_GamePad_Item_5",
-        "DefaultKey": "Gamepad_LeftThumbstick",
-        "PropertyName": "ActiveItem_5",
-        "Function1": true,
-        "Function2": false,
-        "Function3": false,
-        "Function4": false,
-        "IsSmartKey": true,
-        "KeyGroup": 1,
-        "KeySwitchGroup": 4
-      },
-      "22": {
-        "LayoutType": 0,
-        "DetailType": "EGameSettingDetailType::EGSD_GamePad_Item_6",
-        "DefaultKey": "Gamepad_RightThumbstick",
-        "PropertyName": "ActiveItem_6",
-        "Function1": true,
-        "Function2": false,
-        "Function3": false,
-        "Function4": false,
-        "IsSmartKey": true,
-        "KeyGroup": 1,
-        "KeySwitchGroup": 4
-      },
-      "23": {
         "LayoutType": 0,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Ping_Positive",
         "DefaultKey": "Gamepad_LeftTrigger",
@@ -309,7 +283,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 5
       },
-      "24": {
+      "22": {
         "LayoutType": 0,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Ping_Negative",
         "DefaultKey": "",
@@ -322,7 +296,7 @@
         "KeyGroup": 1,
         "KeySwitchGroup": 5
       },
-      "25": {
+      "23": {
         "LayoutType": 0,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_PingClose",
         "DefaultKey": "Gamepad_FaceButton_Right",
@@ -335,7 +309,7 @@
         "KeyGroup": 11,
         "KeySwitchGroup": 5
       },
-      "26": {
+      "24": {
         "LayoutType": 0,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Return",
         "DefaultKey": "Gamepad_DPad_Down",
@@ -348,7 +322,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "27": {
+      "25": {
         "LayoutType": 0,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Shop",
         "DefaultKey": "Gamepad_DPad_Right",
@@ -361,7 +335,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "28": {
+      "26": {
         "LayoutType": 0,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_SkillInfo",
         "DefaultKey": "Gamepad_RightShoulder",
@@ -374,7 +348,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "29": {
+      "27": {
         "LayoutType": 0,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Emote",
         "DefaultKey": "",
@@ -387,7 +361,7 @@
         "KeyGroup": 1,
         "KeySwitchGroup": 0
       },
-      "30": {
+      "28": {
         "LayoutType": 0,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_ScoreBoard",
         "DefaultKey": "Gamepad_Special_Left",
@@ -400,7 +374,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "31": {
+      "29": {
         "LayoutType": 0,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_ChatBox",
         "DefaultKey": "Gamepad_DPad_Right",
@@ -413,10 +387,10 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "32": {
+      "30": {
         "LayoutType": 0,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_ChatBox_Lobby",
-        "DefaultKey": "Gamepad_FaceButton_Left",
+        "DefaultKey": "Gamepad_RightThumbstick",
         "PropertyName": "ChatBox_Lobby",
         "Function1": false,
         "Function2": false,
@@ -426,7 +400,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "33": {
+      "31": {
         "LayoutType": 0,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_OrbDrop",
         "DefaultKey": "Gamepad_RightShoulder",
@@ -439,7 +413,7 @@
         "KeyGroup": 1,
         "KeySwitchGroup": 0
       },
-      "34": {
+      "32": {
         "LayoutType": 0,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Surrender_Yes",
         "DefaultKey": "Gamepad_DPad_Up",
@@ -452,7 +426,7 @@
         "KeyGroup": 1,
         "KeySwitchGroup": 0
       },
-      "35": {
+      "33": {
         "LayoutType": 0,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Surrender_No",
         "DefaultKey": "Gamepad_DPad_Down",
@@ -465,7 +439,7 @@
         "KeyGroup": 1,
         "KeySwitchGroup": 0
       },
-      "36": {
+      "34": {
         "LayoutType": 0,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Training",
         "DefaultKey": "Gamepad_FaceButton_Bottom",
@@ -478,7 +452,7 @@
         "KeyGroup": 20,
         "KeySwitchGroup": 20
       },
-      "37": {
+      "35": {
         "LayoutType": 0,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_QuickBuy_Offensive",
         "DefaultKey": "Gamepad_FaceButton_Left",
@@ -491,7 +465,7 @@
         "KeyGroup": 30,
         "KeySwitchGroup": 30
       },
-      "38": {
+      "36": {
         "LayoutType": 0,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_QuickBuy_Defensive",
         "DefaultKey": "Gamepad_FaceButton_Top",
@@ -504,7 +478,7 @@
         "KeyGroup": 30,
         "KeySwitchGroup": 30
       },
-      "39": {
+      "37": {
         "LayoutType": 0,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_QuickBuy_Assistant",
         "DefaultKey": "Gamepad_FaceButton_Right",
@@ -517,7 +491,7 @@
         "KeyGroup": 30,
         "KeySwitchGroup": 30
       },
-      "40": {
+      "38": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Function1",
         "DefaultKey": "Gamepad_LeftShoulder",
@@ -530,7 +504,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 1
       },
-      "41": {
+      "39": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Function2",
         "DefaultKey": "Gamepad_LeftTrigger",
@@ -543,7 +517,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 1
       },
-      "42": {
+      "40": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Function3",
         "DefaultKey": "Gamepad_DPad_Left",
@@ -556,7 +530,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 1
       },
-      "43": {
+      "41": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Function4",
         "DefaultKey": "",
@@ -569,7 +543,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 1
       },
-      "44": {
+      "42": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Jump",
         "DefaultKey": "Gamepad_RightThumbstick",
@@ -582,7 +556,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 1
       },
-      "45": {
+      "43": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Sprint",
         "DefaultKey": "Gamepad_LeftThumbstick",
@@ -595,7 +569,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 1
       },
-      "46": {
+      "44": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_QuickTurn",
         "DefaultKey": "",
@@ -608,7 +582,7 @@
         "KeyGroup": 1,
         "KeySwitchGroup": 1
       },
-      "47": {
+      "45": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_BaseAttack",
         "DefaultKey": "Gamepad_RightTrigger",
@@ -621,7 +595,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 2
       },
-      "48": {
+      "46": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Skill_1",
         "DefaultKey": "Gamepad_FaceButton_Left",
@@ -634,7 +608,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 2
       },
-      "49": {
+      "47": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Skill_2",
         "DefaultKey": "Gamepad_FaceButton_Bottom",
@@ -647,7 +621,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 2
       },
-      "50": {
+      "48": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Skill_3",
         "DefaultKey": "Gamepad_FaceButton_Top",
@@ -660,7 +634,7 @@
         "KeyGroup": 3,
         "KeySwitchGroup": 6
       },
-      "51": {
+      "49": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Skill_4",
         "DefaultKey": "Gamepad_FaceButton_Right",
@@ -673,7 +647,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 2
       },
-      "52": {
+      "50": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_WardSkill",
         "DefaultKey": "Gamepad_DPad_Up",
@@ -686,7 +660,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 2
       },
-      "53": {
+      "51": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Skill_Self",
         "DefaultKey": "",
@@ -699,7 +673,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 2
       },
-      "54": {
+      "52": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_ActiveCast",
         "DefaultKey": "Gamepad_RightTrigger",
@@ -712,7 +686,7 @@
         "KeyGroup": 10,
         "KeySwitchGroup": 0
       },
-      "55": {
+      "53": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_CancelCast",
         "DefaultKey": "Gamepad_RightShoulder",
@@ -725,9 +699,35 @@
         "KeyGroup": 10,
         "KeySwitchGroup": 0
       },
+      "54": {
+        "LayoutType": 1,
+        "DetailType": "EGameSettingDetailType::EGSD_GamePad_Spell_1",
+        "DefaultKey": "Gamepad_FaceButton_Top",
+        "PropertyName": "ActiveSpell_1",
+        "Function1": true,
+        "Function2": false,
+        "Function3": false,
+        "Function4": false,
+        "IsSmartKey": true,
+        "KeyGroup": 0,
+        "KeySwitchGroup": 3
+      },
+      "55": {
+        "LayoutType": 1,
+        "DetailType": "EGameSettingDetailType::EGSD_GamePad_Spell_2",
+        "DefaultKey": "Gamepad_FaceButton_Right",
+        "PropertyName": "ActiveSpell_2",
+        "Function1": true,
+        "Function2": false,
+        "Function3": false,
+        "Function4": false,
+        "IsSmartKey": true,
+        "KeyGroup": 0,
+        "KeySwitchGroup": 3
+      },
       "56": {
         "LayoutType": 1,
-        "DetailType": "EGameSettingDetailType::EGSD_GamePad_Item_1",
+        "DetailType": "EGameSettingDetailType::EGSD_GamePad_ActiveItem_1",
         "DefaultKey": "Gamepad_FaceButton_Left",
         "PropertyName": "ActiveItem_1",
         "Function1": true,
@@ -740,7 +740,7 @@
       },
       "57": {
         "LayoutType": 1,
-        "DetailType": "EGameSettingDetailType::EGSD_GamePad_Item_2",
+        "DetailType": "EGameSettingDetailType::EGSD_GamePad_ActiveItem_2",
         "DefaultKey": "Gamepad_FaceButton_Bottom",
         "PropertyName": "ActiveItem_2",
         "Function1": true,
@@ -748,62 +748,10 @@
         "Function3": false,
         "Function4": false,
         "IsSmartKey": true,
-        "KeyGroup": 0,
-        "KeySwitchGroup": 3
+        "KeyGroup": 1,
+        "KeySwitchGroup": 4
       },
       "58": {
-        "LayoutType": 1,
-        "DetailType": "EGameSettingDetailType::EGSD_GamePad_Item_3",
-        "DefaultKey": "Gamepad_FaceButton_Right",
-        "PropertyName": "ActiveItem_3",
-        "Function1": true,
-        "Function2": false,
-        "Function3": false,
-        "Function4": false,
-        "IsSmartKey": true,
-        "KeyGroup": 0,
-        "KeySwitchGroup": 3
-      },
-      "59": {
-        "LayoutType": 1,
-        "DetailType": "EGameSettingDetailType::EGSD_GamePad_Item_4",
-        "DefaultKey": "Gamepad_FaceButton_Top",
-        "PropertyName": "ActiveItem_4",
-        "Function1": true,
-        "Function2": false,
-        "Function3": false,
-        "Function4": false,
-        "IsSmartKey": true,
-        "KeyGroup": 1,
-        "KeySwitchGroup": 4
-      },
-      "60": {
-        "LayoutType": 1,
-        "DetailType": "EGameSettingDetailType::EGSD_GamePad_Item_5",
-        "DefaultKey": "Gamepad_LeftThumbstick",
-        "PropertyName": "ActiveItem_5",
-        "Function1": true,
-        "Function2": false,
-        "Function3": false,
-        "Function4": false,
-        "IsSmartKey": true,
-        "KeyGroup": 1,
-        "KeySwitchGroup": 4
-      },
-      "61": {
-        "LayoutType": 1,
-        "DetailType": "EGameSettingDetailType::EGSD_GamePad_Item_6",
-        "DefaultKey": "Gamepad_RightThumbstick",
-        "PropertyName": "ActiveItem_6",
-        "Function1": true,
-        "Function2": false,
-        "Function3": false,
-        "Function4": false,
-        "IsSmartKey": true,
-        "KeyGroup": 1,
-        "KeySwitchGroup": 4
-      },
-      "62": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Ping_Positive",
         "DefaultKey": "Gamepad_LeftTrigger",
@@ -816,7 +764,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 5
       },
-      "63": {
+      "59": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Ping_Negative",
         "DefaultKey": "",
@@ -829,7 +777,7 @@
         "KeyGroup": 1,
         "KeySwitchGroup": 5
       },
-      "64": {
+      "60": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_PingClose",
         "DefaultKey": "Gamepad_FaceButton_Right",
@@ -842,7 +790,7 @@
         "KeyGroup": 11,
         "KeySwitchGroup": 5
       },
-      "65": {
+      "61": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Return",
         "DefaultKey": "Gamepad_DPad_Down",
@@ -855,7 +803,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "66": {
+      "62": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Shop",
         "DefaultKey": "Gamepad_DPad_Right",
@@ -868,7 +816,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "67": {
+      "63": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_SkillInfo",
         "DefaultKey": "Gamepad_RightShoulder",
@@ -881,7 +829,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "68": {
+      "64": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Emote",
         "DefaultKey": "",
@@ -894,7 +842,7 @@
         "KeyGroup": 1,
         "KeySwitchGroup": 0
       },
-      "69": {
+      "65": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_ScoreBoard",
         "DefaultKey": "Gamepad_Special_Left",
@@ -907,7 +855,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "70": {
+      "66": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_ChatBox",
         "DefaultKey": "Gamepad_DPad_Right",
@@ -920,10 +868,10 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "71": {
+      "67": {
         "LayoutType": 0,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_ChatBox_Lobby",
-        "DefaultKey": "Gamepad_FaceButton_Left",
+        "DefaultKey": "Gamepad_RightThumbstick",
         "PropertyName": "ChatBox_Lobby",
         "Function1": false,
         "Function2": false,
@@ -933,7 +881,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "72": {
+      "68": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_OrbDrop",
         "DefaultKey": "Gamepad_RightShoulder",
@@ -946,7 +894,7 @@
         "KeyGroup": 1,
         "KeySwitchGroup": 0
       },
-      "73": {
+      "69": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Surrender_Yes",
         "DefaultKey": "Gamepad_DPad_Up",
@@ -959,7 +907,7 @@
         "KeyGroup": 1,
         "KeySwitchGroup": 0
       },
-      "74": {
+      "70": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Surrender_No",
         "DefaultKey": "Gamepad_DPad_Down",
@@ -972,7 +920,7 @@
         "KeyGroup": 1,
         "KeySwitchGroup": 0
       },
-      "75": {
+      "71": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Training",
         "DefaultKey": "Gamepad_FaceButton_Top",
@@ -985,7 +933,7 @@
         "KeyGroup": 20,
         "KeySwitchGroup": 20
       },
-      "76": {
+      "72": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_QuickBuy_Offensive",
         "DefaultKey": "Gamepad_FaceButton_Left",
@@ -998,7 +946,7 @@
         "KeyGroup": 30,
         "KeySwitchGroup": 30
       },
-      "77": {
+      "73": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_QuickBuy_Defensive",
         "DefaultKey": "Gamepad_FaceButton_Bottom",
@@ -1011,7 +959,7 @@
         "KeyGroup": 30,
         "KeySwitchGroup": 30
       },
-      "78": {
+      "74": {
         "LayoutType": 1,
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_QuickBuy_Assistant",
         "DefaultKey": "Gamepad_FaceButton_Right",

@@ -11,7 +11,7 @@
     },
     "Rows": {
       "1": {
-        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_UseAutoTargetting",
+        "DetailType": "EGameSettingDetailType::EGSD_None",
         "DefaultValue": 0,
         "DisplayTexts": [
           "UI.Setting_Dropdownlist_Common_Disable",
@@ -19,7 +19,7 @@
         ]
       },
       "2": {
-        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_UseAutoTargettingWithCrosshair",
+        "DetailType": "EGameSettingDetailType::EGSD_None",
         "DefaultValue": 0,
         "DisplayTexts": [
           "UI.Setting_Dropdownlist_Common_Disable",
@@ -101,7 +101,7 @@
         ]
       },
       "12": {
-        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_CrossPlay",
+        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_UsingAutoAim",
         "DefaultValue": 0,
         "DisplayTexts": [
           "UI.Setting_Dropdownlist_Common_Disable",
@@ -109,6 +109,14 @@
         ]
       },
       "13": {
+        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_CrossPlay",
+        "DefaultValue": 0,
+        "DisplayTexts": [
+          "UI.Setting_Dropdownlist_Common_Disable",
+          "UI.Setting_Dropdownlist_Common_Activation"
+        ]
+      },
+      "14": {
         "DetailType": "EGameSettingDetailType::EGSD_Accessibility_ColorVisionType",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -118,7 +126,7 @@
           "UI.Setting_Accessibility_ColorVision_Dropdownlist_Blue"
         ]
       },
-      "14": {
+      "15": {
         "DetailType": "EGameSettingDetailType::EGSD_Display_ScreenMode",
         "DefaultValue": 1,
         "DisplayTexts": [
@@ -127,12 +135,12 @@
           "UI.Setting_Display_Screen_Mode_WindowMode"
         ]
       },
-      "15": {
+      "16": {
         "DetailType": "EGameSettingDetailType::EGSD_Display_Resolution",
         "DefaultValue": 3,
         "DisplayTexts": []
       },
-      "16": {
+      "17": {
         "DetailType": "EGameSettingDetailType::EGSD_Display_VSync",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -140,7 +148,7 @@
           "UI.Setting_Dropdownlist_Common_Activation"
         ]
       },
-      "17": {
+      "18": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_FSR_1_0",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -151,7 +159,7 @@
           "UI.Setting_Graphic_FSR_Performance"
         ]
       },
-      "18": {
+      "19": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_FSR_2_0",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -162,7 +170,7 @@
           "UI.Setting_Graphic_FSR_UltraPerformance"
         ]
       },
-      "19": {
+      "20": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_XeSS",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -173,7 +181,7 @@
           "UltraQuality"
         ]
       },
-      "20": {
+      "21": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_DLSS",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -185,7 +193,7 @@
           "ULTRAPERFORMANCE"
         ]
       },
-      "21": {
+      "22": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_Graphic_All",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -196,7 +204,7 @@
           "UI.Setting_Graphic_Dropdownlist_Common_Custom"
         ]
       },
-      "22": {
+      "23": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_ViewDistance",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -206,7 +214,7 @@
           "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
         ]
       },
-      "23": {
+      "24": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_AntiAliasing",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -216,7 +224,7 @@
           "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
         ]
       },
-      "24": {
+      "25": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_Shadow",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -226,7 +234,7 @@
           "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
         ]
       },
-      "25": {
+      "26": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_PostProcess",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -236,7 +244,7 @@
           "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
         ]
       },
-      "26": {
+      "27": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_Texture",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -246,7 +254,7 @@
           "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
         ]
       },
-      "27": {
+      "28": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_Effect",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -256,7 +264,7 @@
           "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
         ]
       },
-      "28": {
+      "29": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_Foliage",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -266,7 +274,7 @@
           "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
         ]
       },
-      "29": {
+      "30": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_Shader",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -276,7 +284,7 @@
           "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
         ]
       },
-      "30": {
+      "31": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_StaticMesh_LOD_Distance",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -286,7 +294,7 @@
           "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
         ]
       },
-      "31": {
+      "32": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_Landscape_LOD_Distribution",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -296,7 +304,7 @@
           "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
         ]
       },
-      "32": {
+      "33": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_ScreenPercentage",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -306,7 +314,7 @@
           "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
         ]
       },
-      "33": {
+      "34": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_RHI_Version",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -314,7 +322,7 @@
           "UI.Setting_Graphic_DX12"
         ]
       },
-      "34": {
+      "35": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_VolumetricFog",
         "DefaultValue": 1,
         "DisplayTexts": [
@@ -322,7 +330,7 @@
           "UI.Setting_Dropdownlist_Common_Activation"
         ]
       },
-      "35": {
+      "36": {
         "DetailType": "EGameSettingDetailType::EGSD_Sound_App_Background_Volume",
         "DefaultValue": 1,
         "DisplayTexts": [
@@ -330,7 +338,7 @@
           "UI.Setting_Dropdownlist_Common_Activation"
         ]
       },
-      "36": {
+      "37": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_Quality_Console",
         "DefaultValue": 1,
         "DisplayTexts": [
@@ -338,7 +346,7 @@
           "PS.Setting_Graphic_Console_Quality"
         ]
       },
-      "37": {
+      "38": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_Mouse_Y_Reverse",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -346,7 +354,7 @@
           "UI.Setting_Dropdownlist_Common_Activation"
         ]
       },
-      "38": {
+      "39": {
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Layout",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -354,7 +362,7 @@
           "PS.Setting_GamePad_Layout_Type_Default_B"
         ]
       },
-      "39": {
+      "40": {
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_X_Reverse",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -362,7 +370,7 @@
           "UI.Setting_Dropdownlist_Common_Activation"
         ]
       },
-      "40": {
+      "41": {
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Y_Reverse",
         "DefaultValue": 0,
         "DisplayTexts": [

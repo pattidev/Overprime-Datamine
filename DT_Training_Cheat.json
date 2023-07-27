@@ -98,6 +98,17 @@
         "CheatOptionActivateDesc": "UI.Cheat_Option_Activate_player_respawn",
         "CheatOptionDeActivateDesc": ""
       },
+      "109": {
+        "CheatCategory": "ECheatCategory::MyHero",
+        "CheatType": "ECheatType::Spell_Set",
+        "CheatValue": 0,
+        "UseType": "EUseType::Instant",
+        "DefaultCheat": false,
+        "CheatEnable": true,
+        "CheatOptionName": "UI.Cheat_Option_Spell_Set",
+        "CheatOptionActivateDesc": "UI.Cheat_Option_Activate_Spell_Set",
+        "CheatOptionDeActivateDesc": ""
+      },
       "201": {
         "CheatCategory": "ECheatCategory::Lane",
         "CheatType": "ECheatType::Structure_Tower_Spawn",

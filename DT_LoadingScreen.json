@@ -1281,6 +1281,25 @@
         "MovieSkip": false,
         "MovieSkipBlockTime": -1.0,
         "MovieAutoSkip": false
+      },
+      "1101": {
+        "LoadingType": "ELoadingSelectedGameModeType::ELSGMT_Mode1",
+        "LoadingSubType": "ELoadingSubType::ELSBT_Default",
+        "LoadingScreenImagePath": {
+          "AssetPathName": "/Game/Textures/image/T_Common_Loading_Map_Sdown.T_Common_Loading_Map_Sdown",
+          "SubPathString": ""
+        },
+        "ImageRatio": "ELoadingScreenImageRatio::ELSI_21_9",
+        "ImageTitle": "UI.Lobby_TopMenu_Play_SubMenu_TeamBR",
+        "ToolTipsID": [
+          "1101"
+        ],
+        "Enabled": true,
+        "MoviePlayType": "EMoviePlayType::EMPT_None",
+        "LoadingMoviePath": "None",
+        "MovieSkip": false,
+        "MovieSkipBlockTime": -1.0,
+        "MovieAutoSkip": false
       }
     }
   }

@@ -12,80 +12,231 @@
     "Rows": {
       "1": {
         "MapID": "default",
-        "MinimapImage": "Material'/Game/Textures/UI/MAT_Minimap_Ago.MAT_Minimap_Ago'",
-        "MinimapImageInvert": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Invert.MAT_Minimap_Ago_Invert'",
-        "MinimapImageHover": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Hover.MAT_Minimap_Ago_Hover'",
-        "MinimapImageHoverInvert": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Invert_Hover.MAT_Minimap_Ago_Invert_Hover'"
+        "MiniMapType": "EMiniMapType::EMMT_Fixed",
+        "MiniMapValue": 0,
+        "MinimapImage": {
+          "ObjectName": "Material'MAT_Minimap_Ago'",
+          "ObjectPath": "Overprime/Content/Textures/UI/MAT_Minimap_Ago.0"
+        },
+        "MinimapImageInvert": {
+          "ObjectName": "Material'MAT_Minimap_Ago_Invert'",
+          "ObjectPath": "Overprime/Content/Textures/UI/MAT_Minimap_Ago_Invert.0"
+        },
+        "MinimapImageHover": {
+          "ObjectName": "Material'MAT_Minimap_Ago_Hover'",
+          "ObjectPath": "Overprime/Content/Textures/UI/MAT_Minimap_Ago_Hover.0"
+        },
+        "MinimapImageHoverInvert": {
+          "ObjectName": "Material'MAT_Minimap_Ago_Invert_Hover'",
+          "ObjectPath": "Overprime/Content/Textures/UI/MAT_Minimap_Ago_Invert_Hover.0"
+        }
       },
       "2": {
         "MapID": "OP_Test_simple",
-        "MinimapImage": "Material'/Game/Textures/UI/MAT_Minimap_Ago.MAT_Minimap_Ago'",
-        "MinimapImageInvert": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Invert.MAT_Minimap_Ago_Invert'",
-        "MinimapImageHover": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Hover.MAT_Minimap_Ago_Hover'",
-        "MinimapImageHoverInvert": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Invert_Hover.MAT_Minimap_Ago_Invert_Hover'"
+        "MiniMapType": "EMiniMapType::EMMT_Fixed",
+        "MiniMapValue": 0,
+        "MinimapImage": {
+          "ObjectName": "Material'MAT_Minimap_Ago'",
+          "ObjectPath": "Overprime/Content/Textures/UI/MAT_Minimap_Ago.0"
+        },
+        "MinimapImageInvert": {
+          "ObjectName": "Material'MAT_Minimap_Ago_Invert'",
+          "ObjectPath": "Overprime/Content/Textures/UI/MAT_Minimap_Ago_Invert.0"
+        },
+        "MinimapImageHover": {
+          "ObjectName": "Material'MAT_Minimap_Ago_Hover'",
+          "ObjectPath": "Overprime/Content/Textures/UI/MAT_Minimap_Ago_Hover.0"
+        },
+        "MinimapImageHoverInvert": {
+          "ObjectName": "Material'MAT_Minimap_Ago_Invert_Hover'",
+          "ObjectPath": "Overprime/Content/Textures/UI/MAT_Minimap_Ago_Invert_Hover.0"
+        }
       },
       "3": {
         "MapID": "Cradle of Genesis",
-        "MinimapImage": "Material'/Game/Textures/UI/MAT_Minimap_Ago.MAT_Minimap_Ago'",
-        "MinimapImageInvert": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Invert.MAT_Minimap_Ago_Invert'",
-        "MinimapImageHover": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Hover.MAT_Minimap_Ago_Hover'",
-        "MinimapImageHoverInvert": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Invert_Hover.MAT_Minimap_Ago_Invert_Hover'"
+        "MiniMapType": "EMiniMapType::EMMT_Fixed",
+        "MiniMapValue": 0,
+        "MinimapImage": {
+          "ObjectName": "Material'MAT_Minimap_Ago'",
+          "ObjectPath": "Overprime/Content/Textures/UI/MAT_Minimap_Ago.0"
+        },
+        "MinimapImageInvert": {
+          "ObjectName": "Material'MAT_Minimap_Ago_Invert'",
+          "ObjectPath": "Overprime/Content/Textures/UI/MAT_Minimap_Ago_Invert.0"
+        },
+        "MinimapImageHover": {
+          "ObjectName": "Material'MAT_Minimap_Ago_Hover'",
+          "ObjectPath": "Overprime/Content/Textures/UI/MAT_Minimap_Ago_Hover.0"
+        },
+        "MinimapImageHoverInvert": {
+          "ObjectName": "Material'MAT_Minimap_Ago_Invert_Hover'",
+          "ObjectPath": "Overprime/Content/Textures/UI/MAT_Minimap_Ago_Invert_Hover.0"
+        }
       },
       "4": {
         "MapID": "NewAltarOfPower",
-        "MinimapImage": "Material'/Game/Textures/UI/MAT_Minimap_AOP.MAT_Minimap_AOP'",
-        "MinimapImageInvert": "Material'/Game/Textures/UI/MAT_Minimap_AOP_Invert.MAT_Minimap_AOP_Invert'",
-        "MinimapImageHover": "Material'/Game/Textures/UI/MAT_Minimap_AOP_Hover.MAT_Minimap_AOP_Hover'",
-        "MinimapImageHoverInvert": "Material'/Game/Textures/UI/MAT_Minimap_AOP_Invert_Hover.MAT_Minimap_AOP_Invert_Hover'"
+        "MiniMapType": "EMiniMapType::EMMT_Fixed",
+        "MiniMapValue": 0,
+        "MinimapImage": {
+          "ObjectName": "Material'MAT_Minimap_AOP'",
+          "ObjectPath": "Overprime/Content/Textures/UI/MAT_Minimap_AOP.0"
+        },
+        "MinimapImageInvert": {
+          "ObjectName": "Material'MAT_Minimap_AOP_Invert'",
+          "ObjectPath": "Overprime/Content/Textures/UI/MAT_Minimap_AOP_Invert.0"
+        },
+        "MinimapImageHover": {
+          "ObjectName": "Material'MAT_Minimap_AOP_Hover'",
+          "ObjectPath": "Overprime/Content/Textures/UI/MAT_Minimap_AOP_Hover.0"
+        },
+        "MinimapImageHoverInvert": {
+          "ObjectName": "Material'MAT_Minimap_AOP_Invert_Hover'",
+          "ObjectPath": "Overprime/Content/Textures/UI/MAT_Minimap_AOP_Invert_Hover.0"
+        }
       },
       "5": {
         "MapID": "Legacy_NewAgora",
-        "MinimapImage": "Material'/Game/Textures/UI/MAT_Minimap_Ago.MAT_Minimap_Ago'",
-        "MinimapImageInvert": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Invert.MAT_Minimap_Ago_Invert'",
-        "MinimapImageHover": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Hover.MAT_Minimap_Ago_Hover'",
-        "MinimapImageHoverInvert": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Invert_Hover.MAT_Minimap_Ago_Invert_Hover'"
+        "MiniMapType": "EMiniMapType::EMMT_Fixed",
+        "MiniMapValue": 0,
+        "MinimapImage": {
+          "ObjectName": "Material'MAT_Minimap_Ago'",
+          "ObjectPath": "Overprime/Content/Textures/UI/MAT_Minimap_Ago.0"
+        },
+        "MinimapImageInvert": {
+          "ObjectName": "Material'MAT_Minimap_Ago_Invert'",
+          "ObjectPath": "Overprime/Content/Textures/UI/MAT_Minimap_Ago_Invert.0"
+        },
+        "MinimapImageHover": {
+          "ObjectName": "Material'MAT_Minimap_Ago_Hover'",
+          "ObjectPath": "Overprime/Content/Textures/UI/MAT_Minimap_Ago_Hover.0"
+        },
+        "MinimapImageHoverInvert": {
+          "ObjectName": "Material'MAT_Minimap_Ago_Invert_Hover'",
+          "ObjectPath": "Overprime/Content/Textures/UI/MAT_Minimap_Ago_Invert_Hover.0"
+        }
       },
       "6": {
         "MapID": "LV_Agolith_P",
-        "MinimapImage": "Material'/Game/Textures/UI/MAT_Minimap_Ago.MAT_Minimap_Ago'",
-        "MinimapImageInvert": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Invert.MAT_Minimap_Ago_Invert'",
-        "MinimapImageHover": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Hover.MAT_Minimap_Ago_Hover'",
-        "MinimapImageHoverInvert": "Material'/Game/Textures/UI/MAT_Minimap_Ago_Invert_Hover.MAT_Minimap_Ago_Invert_Hover'"
+        "MiniMapType": "EMiniMapType::EMMT_Fixed",
+        "MiniMapValue": 0,
+        "MinimapImage": {
+          "ObjectName": "Material'MAT_Minimap_Ago'",
+          "ObjectPath": "Overprime/Content/Textures/UI/MAT_Minimap_Ago.0"
+        },
+        "MinimapImageInvert": {
+          "ObjectName": "Material'MAT_Minimap_Ago_Invert'",
+          "ObjectPath": "Overprime/Content/Textures/UI/MAT_Minimap_Ago_Invert.0"
+        },
+        "MinimapImageHover": {
+          "ObjectName": "Material'MAT_Minimap_Ago_Hover'",
+          "ObjectPath": "Overprime/Content/Textures/UI/MAT_Minimap_Ago_Hover.0"
+        },
+        "MinimapImageHoverInvert": {
+          "ObjectName": "Material'MAT_Minimap_Ago_Invert_Hover'",
+          "ObjectPath": "Overprime/Content/Textures/UI/MAT_Minimap_Ago_Invert_Hover.0"
+        }
       },
       "7": {
         "MapID": "Tutorial01",
-        "MinimapImage": "Material'/Game/Textures/UI/Minimap/MAT_Minimap_Tutorial_A.MAT_Minimap_Tutorial_A'",
-        "MinimapImageInvert": "Material'/Game/Textures/UI/Minimap/MAT_Minimap_Tutorial_A_Hover.MAT_Minimap_Tutorial_A_Hover'",
-        "MinimapImageHover": "Material'/Game/Textures/UI/Minimap/MAT_Minimap_Tutorial_A.MAT_Minimap_Tutorial_A'",
-        "MinimapImageHoverInvert": "Material'/Game/Textures/UI/Minimap/MAT_Minimap_Tutorial_A_Hover.MAT_Minimap_Tutorial_A_Hover'"
+        "MiniMapType": "EMiniMapType::EMMT_Fixed",
+        "MiniMapValue": 0,
+        "MinimapImage": {
+          "ObjectName": "Material'MAT_Minimap_Tutorial_A'",
+          "ObjectPath": "Overprime/Content/Textures/UI/Minimap/MAT_Minimap_Tutorial_A.0"
+        },
+        "MinimapImageInvert": {
+          "ObjectName": "Material'MAT_Minimap_Tutorial_A_Hover'",
+          "ObjectPath": "Overprime/Content/Textures/UI/Minimap/MAT_Minimap_Tutorial_A_Hover.0"
+        },
+        "MinimapImageHover": {
+          "ObjectName": "Material'MAT_Minimap_Tutorial_A'",
+          "ObjectPath": "Overprime/Content/Textures/UI/Minimap/MAT_Minimap_Tutorial_A.0"
+        },
+        "MinimapImageHoverInvert": {
+          "ObjectName": "Material'MAT_Minimap_Tutorial_A_Hover'",
+          "ObjectPath": "Overprime/Content/Textures/UI/Minimap/MAT_Minimap_Tutorial_A_Hover.0"
+        }
       },
       "8": {
         "MapID": "Tutorial02",
-        "MinimapImage": "Material'/Game/Textures/UI/Minimap/MAT_Minimap_Tutorial_2.MAT_Minimap_Tutorial_2'",
-        "MinimapImageInvert": "Material'/Game/Textures/UI/Minimap/MAT_Minimap_Tutorial_2_Hover.MAT_Minimap_Tutorial_2_Hover'",
-        "MinimapImageHover": "Material'/Game/Textures/UI/Minimap/MAT_Minimap_Tutorial_2.MAT_Minimap_Tutorial_2'",
-        "MinimapImageHoverInvert": "Material'/Game/Textures/UI/Minimap/MAT_Minimap_Tutorial_2_Hover.MAT_Minimap_Tutorial_2_Hover'"
+        "MiniMapType": "EMiniMapType::EMMT_Fixed",
+        "MiniMapValue": 0,
+        "MinimapImage": {
+          "ObjectName": "Material'MAT_Minimap_Tutorial_2'",
+          "ObjectPath": "Overprime/Content/Textures/UI/Minimap/MAT_Minimap_Tutorial_2.0"
+        },
+        "MinimapImageInvert": {
+          "ObjectName": "Material'MAT_Minimap_Tutorial_2_Hover'",
+          "ObjectPath": "Overprime/Content/Textures/UI/Minimap/MAT_Minimap_Tutorial_2_Hover.0"
+        },
+        "MinimapImageHover": {
+          "ObjectName": "Material'MAT_Minimap_Tutorial_2'",
+          "ObjectPath": "Overprime/Content/Textures/UI/Minimap/MAT_Minimap_Tutorial_2.0"
+        },
+        "MinimapImageHoverInvert": {
+          "ObjectName": "Material'MAT_Minimap_Tutorial_2_Hover'",
+          "ObjectPath": "Overprime/Content/Textures/UI/Minimap/MAT_Minimap_Tutorial_2_Hover.0"
+        }
       },
       "9": {
         "MapID": "RocketTest_P2",
-        "MinimapImage": "Material'/Game/Textures/UI/Minimap/RedMoon/MAT_Minimap_RedMoon.MAT_Minimap_RedMoon'",
-        "MinimapImageInvert": "Material'/Game/Textures/UI/Minimap/RedMoon/MAT_Minimap_RedMoon_Invert.MAT_Minimap_RedMoon_Invert'",
-        "MinimapImageHover": "Material'/Game/Textures/UI/Minimap/RedMoon/MAT_Minimap_RedMoon_Hover.MAT_Minimap_RedMoon_Hover'",
-        "MinimapImageHoverInvert": "Material'/Game/Textures/UI/Minimap/RedMoon/MAT_Minimap_RedMoon_Invert_Hover.MAT_Minimap_RedMoon_Invert_Hover'"
+        "MiniMapType": "EMiniMapType::EMMT_Fixed",
+        "MiniMapValue": 0,
+        "MinimapImage": {
+          "ObjectName": "Material'MAT_Minimap_RedMoon'",
+          "ObjectPath": "Overprime/Content/Textures/UI/Minimap/RedMoon/MAT_Minimap_RedMoon.0"
+        },
+        "MinimapImageInvert": {
+          "ObjectName": "Material'MAT_Minimap_RedMoon_Invert'",
+          "ObjectPath": "Overprime/Content/Textures/UI/Minimap/RedMoon/MAT_Minimap_RedMoon_Invert.0"
+        },
+        "MinimapImageHover": {
+          "ObjectName": "Material'MAT_Minimap_RedMoon_Hover'",
+          "ObjectPath": "Overprime/Content/Textures/UI/Minimap/RedMoon/MAT_Minimap_RedMoon_Hover.0"
+        },
+        "MinimapImageHoverInvert": {
+          "ObjectName": "Material'MAT_Minimap_RedMoon_Invert_Hover'",
+          "ObjectPath": "Overprime/Content/Textures/UI/Minimap/RedMoon/MAT_Minimap_RedMoon_Invert_Hover.0"
+        }
       },
       "10": {
         "MapID": "RocketTest_P3",
-        "MinimapImage": "None",
-        "MinimapImageInvert": "None",
-        "MinimapImageHover": "None",
-        "MinimapImageHoverInvert": "None"
+        "MiniMapType": "EMiniMapType::EMMT_Sync_Complete",
+        "MiniMapValue": 3500,
+        "MinimapImage": null,
+        "MinimapImageInvert": null,
+        "MinimapImageHover": null,
+        "MinimapImageHoverInvert": null
       },
       "11": {
         "MapID": "RocketTest_P4",
-        "MinimapImage": "Material'/Game/Textures/UI/Minimap/Sniper/MAT_Minimap_Sniper.MAT_Minimap_Sniper'",
-        "MinimapImageInvert": "Material'/Game/Textures/UI/Minimap/Sniper/MAT_Minimap_Sniper.MAT_Minimap_Sniper_Invert'",
-        "MinimapImageHover": "Material'/Game/Textures/UI/Minimap/Sniper/MAT_Minimap_Sniper.MAT_Minimap_Sniper_Hover'",
-        "MinimapImageHoverInvert": "Material'/Game/Textures/UI/Minimap/Sniper/MAT_Minimap_Sniper.MAT_Minimap_Sniper_Invert_Hover'"
+        "MiniMapType": "EMiniMapType::EMMT_Sync_Complete",
+        "MiniMapValue": 3500,
+        "MinimapImage": null,
+        "MinimapImageInvert": null,
+        "MinimapImageHover": null,
+        "MinimapImageHoverInvert": null
+      },
+      "12": {
+        "MapID": "LV_Sdown_P_final",
+        "MiniMapType": "EMiniMapType::EMMT_Fixed",
+        "MiniMapValue": 0,
+        "MinimapImage": {
+          "ObjectName": "Material'MAT_Minimap_Showdown'",
+          "ObjectPath": "Overprime/Content/Textures/UI/Minimap/Showdown/MAT_Minimap_Showdown.0"
+        },
+        "MinimapImageInvert": {
+          "ObjectName": "Material'MAT_Minimap_Showdown_Hover'",
+          "ObjectPath": "Overprime/Content/Textures/UI/Minimap/Showdown/MAT_Minimap_Showdown_Hover.0"
+        },
+        "MinimapImageHover": {
+          "ObjectName": "Material'MAT_Minimap_Showdown_Hover'",
+          "ObjectPath": "Overprime/Content/Textures/UI/Minimap/Showdown/MAT_Minimap_Showdown_Hover.0"
+        },
+        "MinimapImageHoverInvert": {
+          "ObjectName": "Material'MAT_Minimap_Showdown_Hover'",
+          "ObjectPath": "Overprime/Content/Textures/UI/Minimap/Showdown/MAT_Minimap_Showdown_Hover.0"
+        }
       }
     }
   }

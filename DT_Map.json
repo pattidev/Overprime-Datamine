@@ -28,17 +28,19 @@
         "GenGoldPerInterval": 6,
         "InhibitorRespawnDelay": 300.0,
         "WorldManagerID": "10",
+        "TeamManagerID": "None",
         "Afk_Check_Time": 90,
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MiniMapType": "EMiniMapType::EMMT_Fixed",
-        "MiniMapValue": 0,
-        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "3"
         ],
+        "IngameHUDPath": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'UMGHUD_C'",
+          "ObjectPath": "Overprime/Content/UI/Battle/UMGHUD.14"
+        },
         "StartSequence_Dawn": null,
         "StartSequence_Dusk": null,
         "MapNameEN": "",
@@ -70,10 +72,17 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
+        "ResurrectPostProcessType": "EResurrectPostProcessType::ERPPT_None",
+        "ResurrectPostProcessValue": "None",
+        "ResurrectPositionType": "EResurrectPositionType::ERPT_Spawner_Rand_Ally",
+        "ResurrectPositionValue": "None",
         "GameDefeatType": [
-          "EGameDefeatType::EGDT_NotVictory"
+          "EGameDefeatType::EGDT_NotVictory",
+          "EGameDefeatType::EGDT_Surrender"
         ],
-        "UseSkillSlotGroupID": "None"
+        "UseSkillSlotGroupID": "None",
+        "HeroKillExpRateFinish": 0.12,
+        "HeroKillExpRateAssist": 0.12
       },
       "2": {
         "MapID": "NewAltarOfPower",
@@ -93,17 +102,19 @@
         "GenGoldPerInterval": 6,
         "InhibitorRespawnDelay": 300.0,
         "WorldManagerID": "10",
+        "TeamManagerID": "None",
         "Afk_Check_Time": 90,
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MiniMapType": "EMiniMapType::EMMT_Fixed",
-        "MiniMapValue": 0,
-        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "3"
         ],
+        "IngameHUDPath": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'UMGHUD_C'",
+          "ObjectPath": "Overprime/Content/UI/Battle/UMGHUD.14"
+        },
         "StartSequence_Dawn": null,
         "StartSequence_Dusk": null,
         "MapNameEN": "",
@@ -135,10 +146,17 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
+        "ResurrectPostProcessType": "EResurrectPostProcessType::ERPPT_None",
+        "ResurrectPostProcessValue": "None",
+        "ResurrectPositionType": "EResurrectPositionType::ERPT_Spawner_Rand_Ally",
+        "ResurrectPositionValue": "None",
         "GameDefeatType": [
-          "EGameDefeatType::EGDT_NotVictory"
+          "EGameDefeatType::EGDT_NotVictory",
+          "EGameDefeatType::EGDT_Surrender"
         ],
-        "UseSkillSlotGroupID": "None"
+        "UseSkillSlotGroupID": "None",
+        "HeroKillExpRateFinish": 0.12,
+        "HeroKillExpRateAssist": 0.12
       },
       "3": {
         "MapID": "NewAltarOfPower",
@@ -158,17 +176,19 @@
         "GenGoldPerInterval": 6,
         "InhibitorRespawnDelay": 300.0,
         "WorldManagerID": "10",
+        "TeamManagerID": "None",
         "Afk_Check_Time": 90,
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MiniMapType": "EMiniMapType::EMMT_Fixed",
-        "MiniMapValue": 0,
-        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "3"
         ],
+        "IngameHUDPath": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'UMGHUD_C'",
+          "ObjectPath": "Overprime/Content/UI/Battle/UMGHUD.14"
+        },
         "StartSequence_Dawn": null,
         "StartSequence_Dusk": null,
         "MapNameEN": "",
@@ -200,10 +220,17 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
+        "ResurrectPostProcessType": "EResurrectPostProcessType::ERPPT_None",
+        "ResurrectPostProcessValue": "None",
+        "ResurrectPositionType": "EResurrectPositionType::ERPT_Spawner_Rand_Ally",
+        "ResurrectPositionValue": "None",
         "GameDefeatType": [
-          "EGameDefeatType::EGDT_NotVictory"
+          "EGameDefeatType::EGDT_NotVictory",
+          "EGameDefeatType::EGDT_Surrender"
         ],
-        "UseSkillSlotGroupID": "None"
+        "UseSkillSlotGroupID": "None",
+        "HeroKillExpRateFinish": 0.12,
+        "HeroKillExpRateAssist": 0.12
       },
       "4": {
         "MapID": "NewAltarOfPower",
@@ -223,17 +250,19 @@
         "GenGoldPerInterval": 6,
         "InhibitorRespawnDelay": 300.0,
         "WorldManagerID": "10",
+        "TeamManagerID": "None",
         "Afk_Check_Time": 90,
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MiniMapType": "EMiniMapType::EMMT_Fixed",
-        "MiniMapValue": 0,
-        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "3"
         ],
+        "IngameHUDPath": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'UMGHUD_C'",
+          "ObjectPath": "Overprime/Content/UI/Battle/UMGHUD.14"
+        },
         "StartSequence_Dawn": null,
         "StartSequence_Dusk": null,
         "MapNameEN": "",
@@ -265,10 +294,17 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
+        "ResurrectPostProcessType": "EResurrectPostProcessType::ERPPT_None",
+        "ResurrectPostProcessValue": "None",
+        "ResurrectPositionType": "EResurrectPositionType::ERPT_Spawner_Rand_Ally",
+        "ResurrectPositionValue": "None",
         "GameDefeatType": [
-          "EGameDefeatType::EGDT_NotVictory"
+          "EGameDefeatType::EGDT_NotVictory",
+          "EGameDefeatType::EGDT_Surrender"
         ],
-        "UseSkillSlotGroupID": "None"
+        "UseSkillSlotGroupID": "None",
+        "HeroKillExpRateFinish": 0.12,
+        "HeroKillExpRateAssist": 0.12
       },
       "5": {
         "MapID": "Legacy_NewAgora",
@@ -288,17 +324,19 @@
         "GenGoldPerInterval": 3,
         "InhibitorRespawnDelay": 300.0,
         "WorldManagerID": "10",
+        "TeamManagerID": "None",
         "Afk_Check_Time": 90,
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MiniMapType": "EMiniMapType::EMMT_Fixed",
-        "MiniMapValue": 0,
-        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "5"
         ],
+        "IngameHUDPath": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'UMGHUD_C'",
+          "ObjectPath": "Overprime/Content/UI/Battle/UMGHUD.14"
+        },
         "StartSequence_Dawn": null,
         "StartSequence_Dusk": null,
         "MapNameEN": "",
@@ -324,10 +362,17 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
+        "ResurrectPostProcessType": "EResurrectPostProcessType::ERPPT_None",
+        "ResurrectPostProcessValue": "None",
+        "ResurrectPositionType": "EResurrectPositionType::ERPT_Spawner_Rand_Ally",
+        "ResurrectPositionValue": "None",
         "GameDefeatType": [
-          "EGameDefeatType::EGDT_NotVictory"
+          "EGameDefeatType::EGDT_NotVictory",
+          "EGameDefeatType::EGDT_Surrender"
         ],
-        "UseSkillSlotGroupID": "None"
+        "UseSkillSlotGroupID": "None",
+        "HeroKillExpRateFinish": 0.12,
+        "HeroKillExpRateAssist": 0.12
       },
       "6": {
         "MapID": "Legacy_NewAgora",
@@ -347,17 +392,19 @@
         "GenGoldPerInterval": 3,
         "InhibitorRespawnDelay": 300.0,
         "WorldManagerID": "10",
+        "TeamManagerID": "None",
         "Afk_Check_Time": 90,
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MiniMapType": "EMiniMapType::EMMT_Fixed",
-        "MiniMapValue": 0,
-        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "5"
         ],
+        "IngameHUDPath": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'UMGHUD_C'",
+          "ObjectPath": "Overprime/Content/UI/Battle/UMGHUD.14"
+        },
         "StartSequence_Dawn": null,
         "StartSequence_Dusk": null,
         "MapNameEN": "",
@@ -383,10 +430,17 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
+        "ResurrectPostProcessType": "EResurrectPostProcessType::ERPPT_None",
+        "ResurrectPostProcessValue": "None",
+        "ResurrectPositionType": "EResurrectPositionType::ERPT_Spawner_Rand_Ally",
+        "ResurrectPositionValue": "None",
         "GameDefeatType": [
-          "EGameDefeatType::EGDT_NotVictory"
+          "EGameDefeatType::EGDT_NotVictory",
+          "EGameDefeatType::EGDT_Surrender"
         ],
-        "UseSkillSlotGroupID": "None"
+        "UseSkillSlotGroupID": "None",
+        "HeroKillExpRateFinish": 0.12,
+        "HeroKillExpRateAssist": 0.12
       },
       "7": {
         "MapID": "Legacy_NewAgora",
@@ -406,17 +460,19 @@
         "GenGoldPerInterval": 3,
         "InhibitorRespawnDelay": 300.0,
         "WorldManagerID": "10",
+        "TeamManagerID": "None",
         "Afk_Check_Time": 90,
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MiniMapType": "EMiniMapType::EMMT_Fixed",
-        "MiniMapValue": 0,
-        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "5"
         ],
+        "IngameHUDPath": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'UMGHUD_C'",
+          "ObjectPath": "Overprime/Content/UI/Battle/UMGHUD.14"
+        },
         "StartSequence_Dawn": null,
         "StartSequence_Dusk": null,
         "MapNameEN": "",
@@ -442,10 +498,17 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
+        "ResurrectPostProcessType": "EResurrectPostProcessType::ERPPT_None",
+        "ResurrectPostProcessValue": "None",
+        "ResurrectPositionType": "EResurrectPositionType::ERPT_Spawner_Rand_Ally",
+        "ResurrectPositionValue": "None",
         "GameDefeatType": [
-          "EGameDefeatType::EGDT_NotVictory"
+          "EGameDefeatType::EGDT_NotVictory",
+          "EGameDefeatType::EGDT_Surrender"
         ],
-        "UseSkillSlotGroupID": "None"
+        "UseSkillSlotGroupID": "None",
+        "HeroKillExpRateFinish": 0.12,
+        "HeroKillExpRateAssist": 0.12
       },
       "8": {
         "MapID": "Legacy_NewAgora",
@@ -465,17 +528,19 @@
         "GenGoldPerInterval": 3,
         "InhibitorRespawnDelay": 300.0,
         "WorldManagerID": "10",
+        "TeamManagerID": "None",
         "Afk_Check_Time": 90,
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MiniMapType": "EMiniMapType::EMMT_Fixed",
-        "MiniMapValue": 0,
-        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "5"
         ],
+        "IngameHUDPath": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'UMGHUD_C'",
+          "ObjectPath": "Overprime/Content/UI/Battle/UMGHUD.14"
+        },
         "StartSequence_Dawn": null,
         "StartSequence_Dusk": null,
         "MapNameEN": "",
@@ -501,10 +566,17 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
+        "ResurrectPostProcessType": "EResurrectPostProcessType::ERPPT_None",
+        "ResurrectPostProcessValue": "None",
+        "ResurrectPositionType": "EResurrectPositionType::ERPT_Spawner_Rand_Ally",
+        "ResurrectPositionValue": "None",
         "GameDefeatType": [
-          "EGameDefeatType::EGDT_NotVictory"
+          "EGameDefeatType::EGDT_NotVictory",
+          "EGameDefeatType::EGDT_Surrender"
         ],
-        "UseSkillSlotGroupID": "None"
+        "UseSkillSlotGroupID": "None",
+        "HeroKillExpRateFinish": 0.12,
+        "HeroKillExpRateAssist": 0.12
       },
       "9": {
         "MapID": "Training_P",
@@ -524,17 +596,19 @@
         "GenGoldPerInterval": 3,
         "InhibitorRespawnDelay": 300.0,
         "WorldManagerID": "20",
+        "TeamManagerID": "None",
         "Afk_Check_Time": 90,
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MiniMapType": "EMiniMapType::EMMT_Fixed",
-        "MiniMapValue": 0,
-        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "5"
         ],
+        "IngameHUDPath": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'UMGHUD_C'",
+          "ObjectPath": "Overprime/Content/UI/Battle/UMGHUD.14"
+        },
         "StartSequence_Dawn": null,
         "StartSequence_Dusk": null,
         "MapNameEN": "",
@@ -560,10 +634,17 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
+        "ResurrectPostProcessType": "EResurrectPostProcessType::ERPPT_None",
+        "ResurrectPostProcessValue": "None",
+        "ResurrectPositionType": "EResurrectPositionType::ERPT_Spawner_Rand_Ally",
+        "ResurrectPositionValue": "None",
         "GameDefeatType": [
-          "EGameDefeatType::EGDT_NotVictory"
+          "EGameDefeatType::EGDT_NotVictory",
+          "EGameDefeatType::EGDT_Surrender"
         ],
-        "UseSkillSlotGroupID": "None"
+        "UseSkillSlotGroupID": "None",
+        "HeroKillExpRateFinish": 0.12,
+        "HeroKillExpRateAssist": 0.12
       },
       "10": {
         "MapID": "TrainingMap",
@@ -583,17 +664,19 @@
         "GenGoldPerInterval": 3,
         "InhibitorRespawnDelay": 300.0,
         "WorldManagerID": "20",
+        "TeamManagerID": "None",
         "Afk_Check_Time": 90,
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MiniMapType": "EMiniMapType::EMMT_Fixed",
-        "MiniMapValue": 0,
-        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "5"
         ],
+        "IngameHUDPath": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'UMGHUD_C'",
+          "ObjectPath": "Overprime/Content/UI/Battle/UMGHUD.14"
+        },
         "StartSequence_Dawn": null,
         "StartSequence_Dusk": null,
         "MapNameEN": "",
@@ -619,10 +702,17 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
+        "ResurrectPostProcessType": "EResurrectPostProcessType::ERPPT_None",
+        "ResurrectPostProcessValue": "None",
+        "ResurrectPositionType": "EResurrectPositionType::ERPT_Spawner_Rand_Ally",
+        "ResurrectPositionValue": "None",
         "GameDefeatType": [
-          "EGameDefeatType::EGDT_NotVictory"
+          "EGameDefeatType::EGDT_NotVictory",
+          "EGameDefeatType::EGDT_Surrender"
         ],
-        "UseSkillSlotGroupID": "None"
+        "UseSkillSlotGroupID": "None",
+        "HeroKillExpRateFinish": 0.12,
+        "HeroKillExpRateAssist": 0.12
       },
       "11": {
         "MapID": "LV_Agolith_P",
@@ -642,17 +732,19 @@
         "GenGoldPerInterval": 2,
         "InhibitorRespawnDelay": 300.0,
         "WorldManagerID": "10",
+        "TeamManagerID": "None",
         "Afk_Check_Time": 90,
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MiniMapType": "EMiniMapType::EMMT_Fixed",
-        "MiniMapValue": 0,
-        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "5"
         ],
+        "IngameHUDPath": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'UMGHUD_C'",
+          "ObjectPath": "Overprime/Content/UI/Battle/UMGHUD.14"
+        },
         "StartSequence_Dawn": {
           "ObjectName": "LevelSequence'UI_Team_A'",
           "ObjectPath": "Overprime/Content/UI/UI_Camera/UI_Team_A.2"
@@ -684,10 +776,17 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
+        "ResurrectPostProcessType": "EResurrectPostProcessType::ERPPT_None",
+        "ResurrectPostProcessValue": "None",
+        "ResurrectPositionType": "EResurrectPositionType::ERPT_Spawner_Rand_Ally",
+        "ResurrectPositionValue": "None",
         "GameDefeatType": [
-          "EGameDefeatType::EGDT_NotVictory"
+          "EGameDefeatType::EGDT_NotVictory",
+          "EGameDefeatType::EGDT_Surrender"
         ],
-        "UseSkillSlotGroupID": "None"
+        "UseSkillSlotGroupID": "None",
+        "HeroKillExpRateFinish": 0.12,
+        "HeroKillExpRateAssist": 0.12
       },
       "12": {
         "MapID": "LV_Agolith_P",
@@ -707,17 +806,19 @@
         "GenGoldPerInterval": 2,
         "InhibitorRespawnDelay": 300.0,
         "WorldManagerID": "10",
+        "TeamManagerID": "None",
         "Afk_Check_Time": 90,
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MiniMapType": "EMiniMapType::EMMT_Fixed",
-        "MiniMapValue": 0,
-        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "5"
         ],
+        "IngameHUDPath": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'UMGHUD_C'",
+          "ObjectPath": "Overprime/Content/UI/Battle/UMGHUD.14"
+        },
         "StartSequence_Dawn": {
           "ObjectName": "LevelSequence'UI_Team_A'",
           "ObjectPath": "Overprime/Content/UI/UI_Camera/UI_Team_A.2"
@@ -749,10 +850,17 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
+        "ResurrectPostProcessType": "EResurrectPostProcessType::ERPPT_None",
+        "ResurrectPostProcessValue": "None",
+        "ResurrectPositionType": "EResurrectPositionType::ERPT_Spawner_Rand_Ally",
+        "ResurrectPositionValue": "None",
         "GameDefeatType": [
-          "EGameDefeatType::EGDT_NotVictory"
+          "EGameDefeatType::EGDT_NotVictory",
+          "EGameDefeatType::EGDT_Surrender"
         ],
-        "UseSkillSlotGroupID": "None"
+        "UseSkillSlotGroupID": "None",
+        "HeroKillExpRateFinish": 0.12,
+        "HeroKillExpRateAssist": 0.12
       },
       "13": {
         "MapID": "LV_Agolith_P",
@@ -772,17 +880,19 @@
         "GenGoldPerInterval": 2,
         "InhibitorRespawnDelay": 300.0,
         "WorldManagerID": "10",
+        "TeamManagerID": "None",
         "Afk_Check_Time": 90,
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MiniMapType": "EMiniMapType::EMMT_Fixed",
-        "MiniMapValue": 0,
-        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "5"
         ],
+        "IngameHUDPath": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'UMGHUD_C'",
+          "ObjectPath": "Overprime/Content/UI/Battle/UMGHUD.14"
+        },
         "StartSequence_Dawn": {
           "ObjectName": "LevelSequence'UI_Team_A'",
           "ObjectPath": "Overprime/Content/UI/UI_Camera/UI_Team_A.2"
@@ -814,10 +924,17 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
+        "ResurrectPostProcessType": "EResurrectPostProcessType::ERPPT_None",
+        "ResurrectPostProcessValue": "None",
+        "ResurrectPositionType": "EResurrectPositionType::ERPT_Spawner_Rand_Ally",
+        "ResurrectPositionValue": "None",
         "GameDefeatType": [
-          "EGameDefeatType::EGDT_NotVictory"
+          "EGameDefeatType::EGDT_NotVictory",
+          "EGameDefeatType::EGDT_Surrender"
         ],
-        "UseSkillSlotGroupID": "None"
+        "UseSkillSlotGroupID": "None",
+        "HeroKillExpRateFinish": 0.12,
+        "HeroKillExpRateAssist": 0.12
       },
       "14": {
         "MapID": "Tutorial01",
@@ -837,16 +954,18 @@
         "GenGoldPerInterval": 3,
         "InhibitorRespawnDelay": 300.0,
         "WorldManagerID": "10",
+        "TeamManagerID": "None",
         "Afk_Check_Time": 90,
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MiniMapType": "EMiniMapType::EMMT_Fixed",
-        "MiniMapValue": 0,
-        "MiniMapPath": "None",
         "Num_Players": [
           "1"
         ],
+        "IngameHUDPath": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'UMGHUD_C'",
+          "ObjectPath": "Overprime/Content/UI/Battle/UMGHUD.14"
+        },
         "StartSequence_Dawn": null,
         "StartSequence_Dusk": null,
         "MapNameEN": "",
@@ -872,10 +991,17 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
+        "ResurrectPostProcessType": "EResurrectPostProcessType::ERPPT_None",
+        "ResurrectPostProcessValue": "None",
+        "ResurrectPositionType": "EResurrectPositionType::ERPT_Spawner_Rand_Ally",
+        "ResurrectPositionValue": "None",
         "GameDefeatType": [
-          "EGameDefeatType::EGDT_NotVictory"
+          "EGameDefeatType::EGDT_NotVictory",
+          "EGameDefeatType::EGDT_Surrender"
         ],
-        "UseSkillSlotGroupID": "None"
+        "UseSkillSlotGroupID": "None",
+        "HeroKillExpRateFinish": 0.12,
+        "HeroKillExpRateAssist": 0.12
       },
       "15": {
         "MapID": "Tutorial02",
@@ -895,16 +1021,18 @@
         "GenGoldPerInterval": 3,
         "InhibitorRespawnDelay": 300.0,
         "WorldManagerID": "10",
+        "TeamManagerID": "None",
         "Afk_Check_Time": 90,
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MiniMapType": "EMiniMapType::EMMT_Fixed",
-        "MiniMapValue": 0,
-        "MiniMapPath": "None",
         "Num_Players": [
           "1"
         ],
+        "IngameHUDPath": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'UMGHUD_C'",
+          "ObjectPath": "Overprime/Content/UI/Battle/UMGHUD.14"
+        },
         "StartSequence_Dawn": null,
         "StartSequence_Dusk": null,
         "MapNameEN": "",
@@ -930,10 +1058,17 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
+        "ResurrectPostProcessType": "EResurrectPostProcessType::ERPPT_None",
+        "ResurrectPostProcessValue": "None",
+        "ResurrectPositionType": "EResurrectPositionType::ERPT_Spawner_Rand_Ally",
+        "ResurrectPositionValue": "None",
         "GameDefeatType": [
-          "EGameDefeatType::EGDT_NotVictory"
+          "EGameDefeatType::EGDT_NotVictory",
+          "EGameDefeatType::EGDT_Surrender"
         ],
-        "UseSkillSlotGroupID": "None"
+        "UseSkillSlotGroupID": "None",
+        "HeroKillExpRateFinish": 0.12,
+        "HeroKillExpRateAssist": 0.12
       },
       "16": {
         "MapID": "Monolith",
@@ -953,17 +1088,19 @@
         "GenGoldPerInterval": 6,
         "InhibitorRespawnDelay": 300.0,
         "WorldManagerID": "10",
+        "TeamManagerID": "None",
         "Afk_Check_Time": 90,
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MiniMapType": "EMiniMapType::EMMT_Fixed",
-        "MiniMapValue": 0,
-        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "5"
         ],
+        "IngameHUDPath": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'UMGHUD_C'",
+          "ObjectPath": "Overprime/Content/UI/Battle/UMGHUD.14"
+        },
         "StartSequence_Dawn": null,
         "StartSequence_Dusk": null,
         "MapNameEN": "",
@@ -989,10 +1126,17 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
+        "ResurrectPostProcessType": "EResurrectPostProcessType::ERPPT_None",
+        "ResurrectPostProcessValue": "None",
+        "ResurrectPositionType": "EResurrectPositionType::ERPT_Spawner_Rand_Ally",
+        "ResurrectPositionValue": "None",
         "GameDefeatType": [
-          "EGameDefeatType::EGDT_NotVictory"
+          "EGameDefeatType::EGDT_NotVictory",
+          "EGameDefeatType::EGDT_Surrender"
         ],
-        "UseSkillSlotGroupID": "None"
+        "UseSkillSlotGroupID": "None",
+        "HeroKillExpRateFinish": 0.12,
+        "HeroKillExpRateAssist": 0.12
       },
       "17": {
         "MapID": "Monolith",
@@ -1012,17 +1156,19 @@
         "GenGoldPerInterval": 6,
         "InhibitorRespawnDelay": 300.0,
         "WorldManagerID": "10",
+        "TeamManagerID": "None",
         "Afk_Check_Time": 90,
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MiniMapType": "EMiniMapType::EMMT_Fixed",
-        "MiniMapValue": 0,
-        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "5"
         ],
+        "IngameHUDPath": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'UMGHUD_C'",
+          "ObjectPath": "Overprime/Content/UI/Battle/UMGHUD.14"
+        },
         "StartSequence_Dawn": null,
         "StartSequence_Dusk": null,
         "MapNameEN": "",
@@ -1048,16 +1194,23 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "None",
+        "ResurrectPostProcessType": "EResurrectPostProcessType::ERPPT_None",
+        "ResurrectPostProcessValue": "None",
+        "ResurrectPositionType": "EResurrectPositionType::ERPT_Spawner_Rand_Ally",
+        "ResurrectPositionValue": "None",
         "GameDefeatType": [
-          "EGameDefeatType::EGDT_NotVictory"
+          "EGameDefeatType::EGDT_NotVictory",
+          "EGameDefeatType::EGDT_Surrender"
         ],
-        "UseSkillSlotGroupID": "None"
+        "UseSkillSlotGroupID": "None",
+        "HeroKillExpRateFinish": 0.12,
+        "HeroKillExpRateAssist": 0.12
       },
       "18": {
         "MapID": "RocketTest_P2",
         "MapCode": "EOfficialMapType::EOMT_ARAM",
-        "MapNameLocalID": "PS.Map_B01_Name",
-        "MapDescLocalID": "PS.Map_B01_Desc_A",
+        "MapNameLocalID": "UI.Map_B01_Name",
+        "MapDescLocalID": "UI.Map_B01_Desc_A",
         "LevelFile": "World'/Game/Maps/RocketTest/RocketTest_P2.RocketTest_P2'",
         "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_02.T_image_Map_02'",
         "GameModeToUse": "ESelectedGameModeType::ESGMT_Normal",
@@ -1071,17 +1224,19 @@
         "GenGoldPerInterval": 6,
         "InhibitorRespawnDelay": 0.0,
         "WorldManagerID": "11",
+        "TeamManagerID": "None",
         "Afk_Check_Time": 90,
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MiniMapType": "EMiniMapType::EMMT_Fixed",
-        "MiniMapValue": 0,
-        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "5"
         ],
+        "IngameHUDPath": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'UMGHUD_C'",
+          "ObjectPath": "Overprime/Content/UI/Battle/UMGHUD.14"
+        },
         "StartSequence_Dawn": {
           "ObjectName": "LevelSequence'UI_Team_A1'",
           "ObjectPath": "Overprime/Content/UI/UI_Camera/UI_Team_A1.2"
@@ -1119,16 +1274,23 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_Fumula_Agolith",
         "ResurrectValue": "-2",
+        "ResurrectPostProcessType": "EResurrectPostProcessType::ERPPT_None",
+        "ResurrectPostProcessValue": "None",
+        "ResurrectPositionType": "EResurrectPositionType::ERPT_Spawner_Rand_Ally",
+        "ResurrectPositionValue": "None",
         "GameDefeatType": [
-          "EGameDefeatType::EGDT_NotVictory"
+          "EGameDefeatType::EGDT_NotVictory",
+          "EGameDefeatType::EGDT_Surrender"
         ],
-        "UseSkillSlotGroupID": "None"
+        "UseSkillSlotGroupID": "None",
+        "HeroKillExpRateFinish": 0.12,
+        "HeroKillExpRateAssist": 0.12
       },
       "20": {
         "MapID": "RocketTest_P4",
         "MapCode": "EOfficialMapType::EOMT_SnipingArena",
-        "MapNameLocalID": "PS.Map_B03_Name",
-        "MapDescLocalID": "PS.Map_B03_Desc",
+        "MapNameLocalID": "UI.Map_B03_Name",
+        "MapDescLocalID": "UI.Map_B03_Desc",
         "LevelFile": "World'/Game/Maps/RocketTest/RocketTest_P4.RocketTest_P4'",
         "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_04.T_image_Map_04'",
         "GameModeToUse": "ESelectedGameModeType::ESGMT_Normal",
@@ -1142,17 +1304,19 @@
         "GenGoldPerInterval": 0,
         "InhibitorRespawnDelay": 0.0,
         "WorldManagerID": "12",
+        "TeamManagerID": "None",
         "Afk_Check_Time": 90,
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MiniMapType": "EMiniMapType::EMMT_None",
-        "MiniMapValue": 0,
-        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "5"
         ],
+        "IngameHUDPath": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'UMGHUD_C'",
+          "ObjectPath": "Overprime/Content/UI/Battle/UMGHUD.14"
+        },
         "StartSequence_Dawn": null,
         "StartSequence_Dusk": null,
         "MapNameEN": "MURDOCK SNIPING ARENA",
@@ -1201,40 +1365,49 @@
         "GameResultType": "EGameResultType::EGRT_SimpleRanking",
         "ResurrectType": "EResurrectType::ERT_Resurrect_FixedTime",
         "ResurrectValue": "5",
+        "ResurrectPostProcessType": "EResurrectPostProcessType::ERPPT_None",
+        "ResurrectPostProcessValue": "None",
+        "ResurrectPositionType": "EResurrectPositionType::ERPT_Spawner_Random_Empty",
+        "ResurrectPositionValue": "None",
         "GameDefeatType": [
-          "EGameDefeatType::EGDT_NotVictory"
+          "EGameDefeatType::EGDT_NotVictory",
+          "EGameDefeatType::EGDT_Surrender"
         ],
-        "UseSkillSlotGroupID": "None"
+        "UseSkillSlotGroupID": "None",
+        "HeroKillExpRateFinish": 0.12,
+        "HeroKillExpRateAssist": 0.12
       },
       "21": {
         "MapID": "RocketTest_P3",
         "MapCode": "EOfficialMapType::EOMT_Domination",
-        "MapNameLocalID": "PS.Map_B02_Name",
-        "MapDescLocalID": "PS.Map_B02_Desc_A",
+        "MapNameLocalID": "UI.Map_B02_Name",
+        "MapDescLocalID": "UI.Map_B02_Desc",
         "LevelFile": "World'/Game/Maps/RocketTest/RocketTest_P3.RocketTest_P3'",
         "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_03.T_image_Map_03'",
         "GameModeToUse": "ESelectedGameModeType::ESGMT_Normal",
         "UseSpell": false,
-        "StartLevel": 12,
-        "StartSkillPoint": 12,
+        "StartLevel": 18,
+        "StartSkillPoint": 0,
         "MaxTeamLimit": 5,
-        "StartGold": 6000,
+        "StartGold": 10000,
         "GenGoldStartTime": 90,
         "GenGoldInterval": 1.0,
         "GenGoldPerInterval": 3,
         "InhibitorRespawnDelay": 0.0,
-        "WorldManagerID": "13",
+        "WorldManagerID": "13_World",
+        "TeamManagerID": "13_Team",
         "Afk_Check_Time": 90,
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MiniMapType": "EMiniMapType::EMMT_Sync_Complete",
-        "MiniMapValue": 3500,
-        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "5"
         ],
+        "IngameHUDPath": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'UMGHUD_Conquest_C'",
+          "ObjectPath": "Overprime/Content/UI/Battle/UMGHUD_Conquest.14"
+        },
         "StartSequence_Dawn": null,
         "StartSequence_Dusk": null,
         "MapNameEN": "DOMINATION",
@@ -1263,40 +1436,49 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_FixedTime",
         "ResurrectValue": "5",
+        "ResurrectPostProcessType": "EResurrectPostProcessType::ERPPT_None",
+        "ResurrectPostProcessValue": "None",
+        "ResurrectPositionType": "EResurrectPositionType::ERPT_Spawner_Random_Empty",
+        "ResurrectPositionValue": "None",
         "GameDefeatType": [
-          "EGameDefeatType::EGDT_NotVictory"
+          "EGameDefeatType::EGDT_NotVictory",
+          "EGameDefeatType::EGDT_Surrender"
         ],
-        "UseSkillSlotGroupID": "None"
+        "UseSkillSlotGroupID": "None",
+        "HeroKillExpRateFinish": 0.12,
+        "HeroKillExpRateAssist": 0.12
       },
       "22": {
         "MapID": "RocketTest_P5",
         "MapCode": "EOfficialMapType::EOMT_DominationMk2",
-        "MapNameLocalID": "PS.Map_B04_Name",
-        "MapDescLocalID": "PS.Map_B04_Desc",
+        "MapNameLocalID": "UI.Map_B04_Name",
+        "MapDescLocalID": "UI.Map_B04_Desc",
         "LevelFile": "World'/Game/Maps/RocketTest/RocketTest_P5.RocketTest_P5'",
         "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_05.T_image_Map_05'",
         "GameModeToUse": "ESelectedGameModeType::ESGMT_Normal",
         "UseSpell": false,
-        "StartLevel": 12,
-        "StartSkillPoint": 12,
+        "StartLevel": 18,
+        "StartSkillPoint": 0,
         "MaxTeamLimit": 5,
-        "StartGold": 6000,
+        "StartGold": 10000,
         "GenGoldStartTime": 90,
         "GenGoldInterval": 1.0,
         "GenGoldPerInterval": 3,
         "InhibitorRespawnDelay": 0.0,
-        "WorldManagerID": "13",
+        "WorldManagerID": "13_World",
+        "TeamManagerID": "13_Team",
         "Afk_Check_Time": 90,
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MiniMapType": "EMiniMapType::EMMT_Sync_Complete",
-        "MiniMapValue": 0,
-        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "5"
         ],
+        "IngameHUDPath": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'UMGHUD_Conquest_C'",
+          "ObjectPath": "Overprime/Content/UI/Battle/UMGHUD_Conquest.14"
+        },
         "StartSequence_Dawn": null,
         "StartSequence_Dusk": null,
         "MapNameEN": "DOMINATION",
@@ -1325,22 +1507,29 @@
         "GameResultType": "EGameResultType::EGRT_Normal",
         "ResurrectType": "EResurrectType::ERT_Resurrect_FixedTime",
         "ResurrectValue": "5",
+        "ResurrectPostProcessType": "EResurrectPostProcessType::ERPPT_None",
+        "ResurrectPostProcessValue": "None",
+        "ResurrectPositionType": "EResurrectPositionType::ERPT_Spawner_Random_Empty",
+        "ResurrectPositionValue": "None",
         "GameDefeatType": [
-          "EGameDefeatType::EGDT_NotVictory"
+          "EGameDefeatType::EGDT_NotVictory",
+          "EGameDefeatType::EGDT_Surrender"
         ],
-        "UseSkillSlotGroupID": "None"
+        "UseSkillSlotGroupID": "None",
+        "HeroKillExpRateFinish": 0.12,
+        "HeroKillExpRateAssist": 0.12
       },
       "23": {
         "MapID": "LV_Sdown_P_final",
         "MapCode": "EOfficialMapType::EOMT_TeamDeathRoyal",
-        "MapNameLocalID": "PS.Map_B06_Name",
-        "MapDescLocalID": "PS.Map_B06_Desc",
+        "MapNameLocalID": "UI.Map_B06_Name",
+        "MapDescLocalID": "UI.Map_B06_Desc",
         "LevelFile": "World'/Game/Maps/RocketTest/RocketTest_P4.RocketTest_P6'",
-        "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_04.T_image_Map_06'",
-        "GameModeToUse": "ESelectedGameModeType::ESGMT_10_Player",
+        "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_06.T_image_Map_06'",
+        "GameModeToUse": "ESelectedGameModeType::ESGMT_None",
         "UseSpell": false,
         "StartLevel": 1,
-        "StartSkillPoint": 18,
+        "StartSkillPoint": 1,
         "MaxTeamLimit": 5,
         "StartGold": 0,
         "GenGoldStartTime": 90,
@@ -1348,22 +1537,24 @@
         "GenGoldPerInterval": 0,
         "InhibitorRespawnDelay": 0.0,
         "WorldManagerID": "14",
+        "TeamManagerID": "None",
         "Afk_Check_Time": 90,
         "Afk_Escape_Time": 30,
         "Surrender_Enable_Time": 600,
         "Surrender_Enable_Retry_Time": 120,
-        "MiniMapType": "EMiniMapType::EMMT_Sync_Partial",
-        "MiniMapValue": 3500,
-        "MiniMapPath": "None",
         "Num_Players": [
           "1",
           "5",
           "10"
         ],
+        "IngameHUDPath": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'UMGHUD_C'",
+          "ObjectPath": "Overprime/Content/UI/Battle/UMGHUD.14"
+        },
         "StartSequence_Dawn": null,
         "StartSequence_Dusk": null,
         "MapNameEN": "The District 9",
-        "HeroSpawnZoneSelectionRule": "EHeroSpawnZoneSelectionType::EHSZST_Random",
+        "HeroSpawnZoneSelectionRule": "EHeroSpawnZoneSelectionType::EHSZST_Random_AllyAll",
         "GameTeamRule": "EGameTeamRule::EGTR_Team",
         "GameTeamRuleValue": "2,5",
         "GameWinType": "EGameWinType::EGWT_LastTeamStanding",
@@ -1387,14 +1578,20 @@
         "ItemShopType": "EItemShopType::EIST_NomalShop_SelectGroup",
         "ItemShopValue": "None",
         "GameResultType": "EGameResultType::EGRT_SimpleRanking",
-        "ResurrectType": "EResurrectType::ERT_Death",
-        "ResurrectValue": "5",
+        "ResurrectType": "EResurrectType::ERT_Resurrect_FixedTime",
+        "ResurrectValue": "20",
+        "ResurrectPostProcessType": "EResurrectPostProcessType::ERPPT_Reduce_Lv_Half",
+        "ResurrectPostProcessValue": "None",
+        "ResurrectPositionType": "EResurrectPositionType::ERPT_Hero_Ally",
+        "ResurrectPositionValue": "None",
         "GameDefeatType": [
           "EGameDefeatType::EGDT_AFK",
           "EGameDefeatType::EGDT_TeamAnnihilation",
           "EGameDefeatType::EGDT_NotVictory"
         ],
-        "UseSkillSlotGroupID": "None"
+        "UseSkillSlotGroupID": "None",
+        "HeroKillExpRateFinish": 0.0,
+        "HeroKillExpRateAssist": 0.0
       }
     }
   }

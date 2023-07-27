@@ -232,7 +232,7 @@
         "KeySwitchGroup": 3
       },
       "18": {
-        "DetailType": "EGameSettingDetailType::EGSD_Control_Item_1",
+        "DetailType": "EGameSettingDetailType::EGSD_Control_ActiveItem_1",
         "DefaultAxis": 0,
         "DefaultKey_QWERTY": "Three",
         "DefaultKey_AZERTY": "Quote",
@@ -245,7 +245,7 @@
         "KeySwitchGroup": 3
       },
       "19": {
-        "DetailType": "EGameSettingDetailType::EGSD_Control_Item_2",
+        "DetailType": "EGameSettingDetailType::EGSD_Control_ActiveItem_2",
         "DefaultAxis": 0,
         "DefaultKey_QWERTY": "Four",
         "DefaultKey_AZERTY": "Apostrophe",
@@ -258,58 +258,6 @@
         "KeySwitchGroup": 3
       },
       "20": {
-        "DetailType": "EGameSettingDetailType::EGSD_Control_Item_3",
-        "DefaultAxis": 0,
-        "DefaultKey_QWERTY": "Five",
-        "DefaultKey_AZERTY": "LeftParantheses",
-        "DefaultKey_QWERTZ": "Five",
-        "DefaultKey_QWERTZ_CS": "UnknownCharCode_345",
-        "PropertyName": "ActiveItem_3",
-        "IsAxis": false,
-        "IsSmartKey": true,
-        "KeyGroup": 0,
-        "KeySwitchGroup": 3
-      },
-      "21": {
-        "DetailType": "EGameSettingDetailType::EGSD_Control_Item_4",
-        "DefaultAxis": 0,
-        "DefaultKey_QWERTY": "Six",
-        "DefaultKey_AZERTY": "Hyphen",
-        "DefaultKey_QWERTZ": "Six",
-        "DefaultKey_QWERTZ_CS": "UnknownCharCode_382",
-        "PropertyName": "ActiveItem_4",
-        "IsAxis": false,
-        "IsSmartKey": true,
-        "KeyGroup": 0,
-        "KeySwitchGroup": 3
-      },
-      "22": {
-        "DetailType": "EGameSettingDetailType::EGSD_Control_Item_5",
-        "DefaultAxis": 0,
-        "DefaultKey_QWERTY": "Seven",
-        "DefaultKey_AZERTY": "",
-        "DefaultKey_QWERTZ": "Seven",
-        "DefaultKey_QWERTZ_CS": "",
-        "PropertyName": "ActiveItem_5",
-        "IsAxis": false,
-        "IsSmartKey": true,
-        "KeyGroup": 0,
-        "KeySwitchGroup": 3
-      },
-      "23": {
-        "DetailType": "EGameSettingDetailType::EGSD_Control_Item_6",
-        "DefaultAxis": 0,
-        "DefaultKey_QWERTY": "Eight",
-        "DefaultKey_AZERTY": "",
-        "DefaultKey_QWERTZ": "Eight",
-        "DefaultKey_QWERTZ_CS": "",
-        "PropertyName": "ActiveItem_6",
-        "IsAxis": false,
-        "IsSmartKey": true,
-        "KeyGroup": 0,
-        "KeySwitchGroup": 3
-      },
-      "24": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_Ping_Positive",
         "DefaultAxis": 0,
         "DefaultKey_QWERTY": "F",
@@ -322,7 +270,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 4
       },
-      "25": {
+      "21": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_Ping_Negative",
         "DefaultAxis": 0,
         "DefaultKey_QWERTY": "C",
@@ -335,7 +283,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 4
       },
-      "26": {
+      "22": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_PingClose",
         "DefaultAxis": 0,
         "DefaultKey_QWERTY": "RightMouseButton",
@@ -348,7 +296,7 @@
         "KeyGroup": 11,
         "KeySwitchGroup": 4
       },
-      "27": {
+      "23": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_Return",
         "DefaultAxis": 0,
         "DefaultKey_QWERTY": "B",
@@ -361,7 +309,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "28": {
+      "24": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_Shop",
         "DefaultAxis": 0,
         "DefaultKey_QWERTY": "I",
@@ -374,7 +322,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "29": {
+      "25": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_SkillInfo",
         "DefaultAxis": 0,
         "DefaultKey_QWERTY": "LeftControl",
@@ -387,7 +335,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "30": {
+      "26": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_Emote",
         "DefaultAxis": 0,
         "DefaultKey_QWERTY": "T",
@@ -400,7 +348,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "31": {
+      "27": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_ScoreBoard",
         "DefaultAxis": 0,
         "DefaultKey_QWERTY": "Tab",
@@ -413,7 +361,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "32": {
+      "28": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_ChatBox",
         "DefaultAxis": 0,
         "DefaultKey_QWERTY": "Enter",
@@ -426,7 +374,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "33": {
+      "29": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_ToggleUI",
         "DefaultAxis": 0,
         "DefaultKey_QWERTY": "Divide",
@@ -439,7 +387,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "34": {
+      "30": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_ToggleHud",
         "DefaultAxis": 0,
         "DefaultKey_QWERTY": "Multiply",
@@ -452,7 +400,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "35": {
+      "31": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_OrbDrop",
         "DefaultAxis": 0,
         "DefaultKey_QWERTY": "H",
@@ -465,7 +413,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "36": {
+      "32": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_Surrender_Yes",
         "DefaultAxis": 0,
         "DefaultKey_QWERTY": "F5",
@@ -478,7 +426,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "37": {
+      "33": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_Surrender_No",
         "DefaultAxis": 0,
         "DefaultKey_QWERTY": "F8",
@@ -491,7 +439,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "38": {
+      "34": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_Training",
         "DefaultAxis": 0,
         "DefaultKey_QWERTY": "V",
@@ -504,7 +452,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "39": {
+      "35": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_QuickBuy_Offensive",
         "DefaultAxis": 0,
         "DefaultKey_QWERTY": "F1",
@@ -517,7 +465,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "40": {
+      "36": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_QuickBuy_Defensive",
         "DefaultAxis": 0,
         "DefaultKey_QWERTY": "F2",
@@ -530,7 +478,7 @@
         "KeyGroup": 0,
         "KeySwitchGroup": 0
       },
-      "41": {
+      "37": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_QuickBuy_Assistant",
         "DefaultAxis": 0,
         "DefaultKey_QWERTY": "F3",

@@ -1,0 +1,400 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_News_MenuSeq",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPNewsMenuSeqDataTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "Type": "ENewsType::Notice",
+        "LocaleCode": "en_US",
+        "Alpha": 0,
+        "Dev": 7,
+        "Real": 6
+      },
+      "2": {
+        "Type": "ENewsType::Notice",
+        "LocaleCode": "ko_KR",
+        "Alpha": 0,
+        "Dev": 15,
+        "Real": 14
+      },
+      "3": {
+        "Type": "ENewsType::Notice",
+        "LocaleCode": "ja_JP",
+        "Alpha": 0,
+        "Dev": 23,
+        "Real": 22
+      },
+      "4": {
+        "Type": "ENewsType::Notice",
+        "LocaleCode": "zh_CN",
+        "Alpha": 0,
+        "Dev": 31,
+        "Real": 30
+      },
+      "5": {
+        "Type": "ENewsType::Notice",
+        "LocaleCode": "zh_TW",
+        "Alpha": 0,
+        "Dev": 86,
+        "Real": 82
+      },
+      "6": {
+        "Type": "ENewsType::Notice",
+        "LocaleCode": "th_TH",
+        "Alpha": 0,
+        "Dev": 39,
+        "Real": 38
+      },
+      "7": {
+        "Type": "ENewsType::Notice",
+        "LocaleCode": "fr_FR",
+        "Alpha": 0,
+        "Dev": 47,
+        "Real": 46
+      },
+      "8": {
+        "Type": "ENewsType::Notice",
+        "LocaleCode": "de_DE",
+        "Alpha": 0,
+        "Dev": 55,
+        "Real": 54
+      },
+      "9": {
+        "Type": "ENewsType::Notice",
+        "LocaleCode": "es_ES",
+        "Alpha": 0,
+        "Dev": 63,
+        "Real": 62
+      },
+      "10": {
+        "Type": "ENewsType::Notice",
+        "LocaleCode": "pt_PT",
+        "Alpha": 0,
+        "Dev": 71,
+        "Real": 70
+      },
+      "11": {
+        "Type": "ENewsType::Notice",
+        "LocaleCode": "ru_RU",
+        "Alpha": 0,
+        "Dev": 79,
+        "Real": 78
+      },
+      "12": {
+        "Type": "ENewsType::Event",
+        "LocaleCode": "en_US",
+        "Alpha": 0,
+        "Dev": 4,
+        "Real": 3
+      },
+      "13": {
+        "Type": "ENewsType::Event",
+        "LocaleCode": "ko_KR",
+        "Alpha": 0,
+        "Dev": 12,
+        "Real": 11
+      },
+      "14": {
+        "Type": "ENewsType::Event",
+        "LocaleCode": "ja_JP",
+        "Alpha": 0,
+        "Dev": 20,
+        "Real": 19
+      },
+      "15": {
+        "Type": "ENewsType::Event",
+        "LocaleCode": "zh_CN",
+        "Alpha": 0,
+        "Dev": 28,
+        "Real": 27
+      },
+      "16": {
+        "Type": "ENewsType::Event",
+        "LocaleCode": "zh_TW",
+        "Alpha": 0,
+        "Dev": 87,
+        "Real": 83
+      },
+      "17": {
+        "Type": "ENewsType::Event",
+        "LocaleCode": "th_TH",
+        "Alpha": 0,
+        "Dev": 36,
+        "Real": 35
+      },
+      "18": {
+        "Type": "ENewsType::Event",
+        "LocaleCode": "fr_FR",
+        "Alpha": 0,
+        "Dev": 44,
+        "Real": 43
+      },
+      "19": {
+        "Type": "ENewsType::Event",
+        "LocaleCode": "de_DE",
+        "Alpha": 0,
+        "Dev": 52,
+        "Real": 51
+      },
+      "20": {
+        "Type": "ENewsType::Event",
+        "LocaleCode": "es_ES",
+        "Alpha": 0,
+        "Dev": 60,
+        "Real": 59
+      },
+      "21": {
+        "Type": "ENewsType::Event",
+        "LocaleCode": "pt_PT",
+        "Alpha": 0,
+        "Dev": 68,
+        "Real": 67
+      },
+      "22": {
+        "Type": "ENewsType::Event",
+        "LocaleCode": "ru_RU",
+        "Alpha": 0,
+        "Dev": 76,
+        "Real": 75
+      },
+      "23": {
+        "Type": "ENewsType::DevNote",
+        "LocaleCode": "en_US",
+        "Alpha": 0,
+        "Dev": 6,
+        "Real": 5
+      },
+      "24": {
+        "Type": "ENewsType::DevNote",
+        "LocaleCode": "ko_KR",
+        "Alpha": 0,
+        "Dev": 14,
+        "Real": 13
+      },
+      "25": {
+        "Type": "ENewsType::DevNote",
+        "LocaleCode": "ja_JP",
+        "Alpha": 0,
+        "Dev": 22,
+        "Real": 21
+      },
+      "26": {
+        "Type": "ENewsType::DevNote",
+        "LocaleCode": "zh_CN",
+        "Alpha": 0,
+        "Dev": 30,
+        "Real": 29
+      },
+      "27": {
+        "Type": "ENewsType::DevNote",
+        "LocaleCode": "zh_TW",
+        "Alpha": 0,
+        "Dev": 88,
+        "Real": 84
+      },
+      "28": {
+        "Type": "ENewsType::DevNote",
+        "LocaleCode": "th_TH",
+        "Alpha": 0,
+        "Dev": 38,
+        "Real": 37
+      },
+      "29": {
+        "Type": "ENewsType::DevNote",
+        "LocaleCode": "fr_FR",
+        "Alpha": 0,
+        "Dev": 46,
+        "Real": 45
+      },
+      "30": {
+        "Type": "ENewsType::DevNote",
+        "LocaleCode": "de_DE",
+        "Alpha": 0,
+        "Dev": 54,
+        "Real": 53
+      },
+      "31": {
+        "Type": "ENewsType::DevNote",
+        "LocaleCode": "es_ES",
+        "Alpha": 0,
+        "Dev": 62,
+        "Real": 61
+      },
+      "32": {
+        "Type": "ENewsType::DevNote",
+        "LocaleCode": "pt_PT",
+        "Alpha": 0,
+        "Dev": 70,
+        "Real": 69
+      },
+      "33": {
+        "Type": "ENewsType::DevNote",
+        "LocaleCode": "ru_RU",
+        "Alpha": 0,
+        "Dev": 78,
+        "Real": 77
+      },
+      "34": {
+        "Type": "ENewsType::Maintenance",
+        "LocaleCode": "en_US",
+        "Alpha": 0,
+        "Dev": 89,
+        "Real": 97
+      },
+      "35": {
+        "Type": "ENewsType::Maintenance",
+        "LocaleCode": "ko_KR",
+        "Alpha": 0,
+        "Dev": 90,
+        "Real": 98
+      },
+      "36": {
+        "Type": "ENewsType::Maintenance",
+        "LocaleCode": "ja_JP",
+        "Alpha": 0,
+        "Dev": 91,
+        "Real": 99
+      },
+      "37": {
+        "Type": "ENewsType::Maintenance",
+        "LocaleCode": "zh_CN",
+        "Alpha": 0,
+        "Dev": 92,
+        "Real": 100
+      },
+      "38": {
+        "Type": "ENewsType::Maintenance",
+        "LocaleCode": "zh_TW",
+        "Alpha": 0,
+        "Dev": 99,
+        "Real": 107
+      },
+      "39": {
+        "Type": "ENewsType::Maintenance",
+        "LocaleCode": "th_TH",
+        "Alpha": 0,
+        "Dev": 93,
+        "Real": 101
+      },
+      "40": {
+        "Type": "ENewsType::Maintenance",
+        "LocaleCode": "fr_FR",
+        "Alpha": 0,
+        "Dev": 94,
+        "Real": 102
+      },
+      "41": {
+        "Type": "ENewsType::Maintenance",
+        "LocaleCode": "de_DE",
+        "Alpha": 0,
+        "Dev": 95,
+        "Real": 103
+      },
+      "42": {
+        "Type": "ENewsType::Maintenance",
+        "LocaleCode": "es_ES",
+        "Alpha": 0,
+        "Dev": 96,
+        "Real": 104
+      },
+      "43": {
+        "Type": "ENewsType::Maintenance",
+        "LocaleCode": "pt_PT",
+        "Alpha": 0,
+        "Dev": 97,
+        "Real": 105
+      },
+      "44": {
+        "Type": "ENewsType::Maintenance",
+        "LocaleCode": "ru_RU",
+        "Alpha": 0,
+        "Dev": 98,
+        "Real": 106
+      },
+      "45": {
+        "Type": "ENewsType::UpdateNote",
+        "LocaleCode": "en_US",
+        "Alpha": 0,
+        "Dev": 5,
+        "Real": 86
+      },
+      "46": {
+        "Type": "ENewsType::UpdateNote",
+        "LocaleCode": "ko_KR",
+        "Alpha": 0,
+        "Dev": 90,
+        "Real": 87
+      },
+      "47": {
+        "Type": "ENewsType::UpdateNote",
+        "LocaleCode": "ja_JP",
+        "Alpha": 0,
+        "Dev": 21,
+        "Real": 88
+      },
+      "48": {
+        "Type": "ENewsType::UpdateNote",
+        "LocaleCode": "zh_CN",
+        "Alpha": 0,
+        "Dev": 29,
+        "Real": 89
+      },
+      "49": {
+        "Type": "ENewsType::UpdateNote",
+        "LocaleCode": "zh_TW",
+        "Alpha": 0,
+        "Dev": 99,
+        "Real": 96
+      },
+      "50": {
+        "Type": "ENewsType::UpdateNote",
+        "LocaleCode": "th_TH",
+        "Alpha": 0,
+        "Dev": 37,
+        "Real": 90
+      },
+      "51": {
+        "Type": "ENewsType::UpdateNote",
+        "LocaleCode": "fr_FR",
+        "Alpha": 0,
+        "Dev": 45,
+        "Real": 91
+      },
+      "52": {
+        "Type": "ENewsType::UpdateNote",
+        "LocaleCode": "de_DE",
+        "Alpha": 0,
+        "Dev": 53,
+        "Real": 92
+      },
+      "53": {
+        "Type": "ENewsType::UpdateNote",
+        "LocaleCode": "es_ES",
+        "Alpha": 0,
+        "Dev": 61,
+        "Real": 93
+      },
+      "54": {
+        "Type": "ENewsType::UpdateNote",
+        "LocaleCode": "pt_PT",
+        "Alpha": 0,
+        "Dev": 69,
+        "Real": 94
+      },
+      "55": {
+        "Type": "ENewsType::UpdateNote",
+        "LocaleCode": "ru_RU",
+        "Alpha": 0,
+        "Dev": 11,
+        "Real": 95
+      }
+    }
+  }
+]

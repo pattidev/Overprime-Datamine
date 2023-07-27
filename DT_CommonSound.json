@@ -312,6 +312,56 @@
       },
       "31": {
         "SkinID": "None",
+        "SoundID": "sca_tdr_zone_start",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sca_tdr_zone_start_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/map_gimmick/showdown/sca_tdr_zone_start_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "32": {
+        "SkinID": "None",
+        "SoundID": "sca_tdr_zone_loop",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sca_tdr_zone_loop_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/map_gimmick/showdown/sca_tdr_zone_loop_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "33": {
+        "SkinID": "None",
+        "SoundID": "sca_tdr_ingaszone",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sca_tdr_ingaszone_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/map_gimmick/showdown/sca_tdr_ingaszone_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "34": {
+        "SkinID": "None",
+        "SoundID": "sca_exp_orb_drop",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sca_exp_orb_drop_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/map_gimmick/showdown/sca_exp_orb_drop_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "35": {
+        "SkinID": "None",
+        "SoundID": "sca_exp_orb_played",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sca_exp_orb_played_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/map_gimmick/showdown/sca_exp_orb_played_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "36": {
+        "SkinID": "None",
         "SoundID": "map_gimmick_redmoon_activation",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -320,7 +370,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "32": {
+      "37": {
         "SkinID": "None",
         "SoundID": "map_gimmick_redmoon_app",
         "SoundVolume": 1.0,
@@ -330,7 +380,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "33": {
+      "38": {
         "SkinID": "None",
         "SoundID": "map_gimmick_redmoon_cast",
         "SoundVolume": 1.0,
@@ -340,7 +390,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "34": {
+      "39": {
         "SkinID": "None",
         "SoundID": "map_gimmick_redmoon_loop",
         "SoundVolume": 1.0,
@@ -350,7 +400,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "35": {
+      "40": {
         "SkinID": "None",
         "SoundID": "map_gimmick_redmoon_end",
         "SoundVolume": 1.0,
@@ -360,7 +410,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "36": {
+      "41": {
         "SkinID": "None",
         "SoundID": "Hero_TravelMode_Start",
         "SoundVolume": 1.0,
@@ -370,7 +420,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "37": {
+      "42": {
         "SkinID": "None",
         "SoundID": "Hero_TravelMode_Start_02",
         "SoundVolume": 1.0,
@@ -380,7 +430,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "38": {
+      "43": {
         "SkinID": "None",
         "SoundID": "Hero_TravelMode_Loop",
         "SoundVolume": 1.0,
@@ -390,7 +440,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "39": {
+      "44": {
         "SkinID": "None",
         "SoundID": "Hero_TravelMode_End",
         "SoundVolume": 1.0,
@@ -400,7 +450,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "40": {
+      "45": {
         "SkinID": "None",
         "SoundID": "Hero_JumpPad_Start",
         "SoundVolume": 1.0,
@@ -410,7 +460,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "41": {
+      "46": {
         "SkinID": "None",
         "SoundID": "Hero_JumpPad_Local_Start",
         "SoundVolume": 1.0,
@@ -420,7 +470,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "42": {
+      "47": {
         "SkinID": "None",
         "SoundID": "spell_ignition_end",
         "SoundVolume": 1.0,
@@ -430,7 +480,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "43": {
+      "48": {
         "SkinID": "None",
         "SoundID": "spell_ignition_loop",
         "SoundVolume": 1.0,
@@ -440,7 +490,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "44": {
+      "49": {
         "SkinID": "None",
         "SoundID": "spell_ignition_start",
         "SoundVolume": 1.0,
@@ -450,7 +500,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "45": {
+      "50": {
         "SkinID": "None",
         "SoundID": "hero_debuff_stun",
         "SoundVolume": 1.0,
@@ -460,7 +510,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "46": {
+      "51": {
         "SkinID": "None",
         "SoundID": "SC_Buff_Drop",
         "SoundVolume": 1.0,
@@ -470,7 +520,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "47": {
+      "52": {
         "SkinID": "None",
         "SoundID": "SCA_Agora_Tower_BaseAttack",
         "SoundVolume": 1.0,
@@ -480,7 +530,37 @@
         },
         "SoundTableManagerObject": null
       },
-      "48": {
+      "53": {
+        "SkinID": "None",
+        "SoundID": "tower_debuff_start",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'tower_debuff_start_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/object/common/tower_debuff_start_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "54": {
+        "SkinID": "None",
+        "SoundID": "tower_debuff_loop",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'tower_debuff_loop_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/object/common/tower_debuff_loop_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "55": {
+        "SkinID": "None",
+        "SoundID": "tower_debuff_end",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'tower_debuff_end_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/object/common/tower_debuff_end_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "56": {
         "SkinID": "None",
         "SoundID": "SCA_Agora_Core_BaseAttack_Charge",
         "SoundVolume": 1.0,
@@ -490,7 +570,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "49": {
+      "57": {
         "SkinID": "None",
         "SoundID": "SCA_Agora_Core_BaseAttack",
         "SoundVolume": 1.0,
@@ -500,7 +580,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "50": {
+      "58": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_001",
         "SoundVolume": 1.0,
@@ -510,7 +590,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "51": {
+      "59": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_002",
         "SoundVolume": 1.0,
@@ -520,7 +600,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "52": {
+      "60": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_003",
         "SoundVolume": 1.0,
@@ -530,7 +610,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "53": {
+      "61": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_004",
         "SoundVolume": 1.0,
@@ -540,7 +620,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "54": {
+      "62": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_005",
         "SoundVolume": 1.0,
@@ -550,7 +630,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "55": {
+      "63": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_006",
         "SoundVolume": 1.0,
@@ -560,7 +640,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "56": {
+      "64": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_007",
         "SoundVolume": 1.0,
@@ -570,7 +650,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "57": {
+      "65": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_008",
         "SoundVolume": 1.0,
@@ -580,7 +660,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "58": {
+      "66": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_009",
         "SoundVolume": 1.0,
@@ -590,7 +670,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "59": {
+      "67": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_010",
         "SoundVolume": 1.0,
@@ -600,21 +680,21 @@
         },
         "SoundTableManagerObject": null
       },
-      "60": {
+      "68": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_011",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "61": {
+      "69": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_012",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "62": {
+      "70": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_013",
         "SoundVolume": 1.0,
@@ -624,14 +704,14 @@
         },
         "SoundTableManagerObject": null
       },
-      "63": {
+      "71": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_014",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "64": {
+      "72": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_015",
         "SoundVolume": 1.0,
@@ -641,35 +721,35 @@
         },
         "SoundTableManagerObject": null
       },
-      "65": {
+      "73": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_016",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "66": {
+      "74": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_017",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "67": {
+      "75": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_018",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "68": {
+      "76": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_019",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "69": {
+      "77": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_020",
         "SoundVolume": 1.0,
@@ -679,14 +759,14 @@
         },
         "SoundTableManagerObject": null
       },
-      "70": {
+      "78": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_021",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "71": {
+      "79": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_022",
         "SoundVolume": 1.0,
@@ -696,14 +776,14 @@
         },
         "SoundTableManagerObject": null
       },
-      "72": {
+      "80": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_023",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "73": {
+      "81": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_024",
         "SoundVolume": 1.0,
@@ -713,14 +793,14 @@
         },
         "SoundTableManagerObject": null
       },
-      "74": {
+      "82": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_025",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "75": {
+      "83": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_026",
         "SoundVolume": 1.0,
@@ -730,14 +810,14 @@
         },
         "SoundTableManagerObject": null
       },
-      "76": {
+      "84": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_027",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "77": {
+      "85": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_028",
         "SoundVolume": 1.0,
@@ -747,7 +827,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "78": {
+      "86": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_029",
         "SoundVolume": 1.0,
@@ -757,7 +837,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "79": {
+      "87": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_030",
         "SoundVolume": 1.0,
@@ -767,7 +847,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "80": {
+      "88": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_031",
         "SoundVolume": 1.0,
@@ -777,7 +857,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "81": {
+      "89": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_032",
         "SoundVolume": 1.0,
@@ -787,7 +867,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "82": {
+      "90": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_033",
         "SoundVolume": 1.0,
@@ -797,7 +877,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "83": {
+      "91": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_034",
         "SoundVolume": 1.0,
@@ -807,7 +887,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "84": {
+      "92": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_035",
         "SoundVolume": 1.0,
@@ -817,7 +897,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "85": {
+      "93": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_036",
         "SoundVolume": 1.0,
@@ -827,7 +907,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "86": {
+      "94": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_037",
         "SoundVolume": 1.0,
@@ -837,7 +917,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "87": {
+      "95": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_038",
         "SoundVolume": 1.0,
@@ -847,7 +927,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "88": {
+      "96": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_039",
         "SoundVolume": 1.0,
@@ -857,7 +937,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "89": {
+      "97": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_040",
         "SoundVolume": 1.0,
@@ -867,7 +947,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "90": {
+      "98": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_041",
         "SoundVolume": 1.0,
@@ -877,7 +957,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "91": {
+      "99": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_042",
         "SoundVolume": 1.0,
@@ -887,7 +967,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "92": {
+      "100": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_043",
         "SoundVolume": 1.0,
@@ -897,7 +977,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "93": {
+      "101": {
         "SkinID": "None",
         "SoundID": "Global_Common_Battle_Event_044",
         "SoundVolume": 1.0,
