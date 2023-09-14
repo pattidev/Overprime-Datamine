@@ -1497,7 +1497,7 @@
       },
       "1100136": {
         "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
-        "Arrangement": 37,
+        "Arrangement": 38,
         "NameKey": "UI.Emb_SDRiktor_0101",
         "DescriptionKey": "UI.Emb_Default_Desc",
         "EmblemTexture": {
@@ -1513,6 +1513,39 @@
         "DescriptionKey": "UI.Emb_Default_Desc",
         "EmblemTexture": {
           "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_GrimEXE_Portrait.Hero_Icon_GrimEXE_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100138": {
+        "GainedType": "EEmblemGainedType::EEGT_Netmarble_Coupon",
+        "Arrangement": 12,
+        "NameKey": "UI.Emb_RangersCup_0101",
+        "DescriptionKey": "UI.Emb_RangersCup_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_RangerCup_0101.Emb_RangerCup_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100139": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 38,
+        "NameKey": "CHAR.Hero_Name_1035",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Morigesh_Portrait.Hero_Icon_Morigesh_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100140": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 39,
+        "NameKey": "UI.Emb_SDMorigesh_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDMorigesh_0101.Emb_SDMorigesh_0101",
           "SubPathString": ""
         },
         "Enable": true

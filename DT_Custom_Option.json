@@ -228,8 +228,39 @@
       "108": {
         "MapID": "RocketTest_P5",
         "MapType": "EOfficialMapType::EOMT_DominationMk2",
-        "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_05.T_image_Map_05'",
+        "MapThumbnailPath": "Texture2D'/Game/Textures/image/T_common_Loading_Conquest.T_common_Loading_Conquest'",
         "MapStringKey": "UI.Map_B06_Name",
+        "PickType": [
+          "EGamePickType::EGPT_Ban_Draft_Type",
+          "EGamePickType::EGPT_Free_Choice_Type",
+          "EGamePickType::EGPT_Time_Limit_Type"
+        ],
+        "TeamSize": [
+          "ETeamSizeType::ETST_1vs1",
+          "ETeamSizeType::ETST_2vs2",
+          "ETeamSizeType::ETST_3vs3",
+          "ETeamSizeType::ETST_4vs4",
+          "ETeamSizeType::ETST_5vs5"
+        ],
+        "TimeLimit": [
+          "ETimeLimitType::ETLT_15min",
+          "ETimeLimitType::ETLT_20min",
+          "ETimeLimitType::ETLT_25min",
+          "ETimeLimitType::ETLT_30min",
+          "ETimeLimitType::ETLT_35min",
+          "ETimeLimitType::ETLT_40min",
+          "ETimeLimitType::ETLT_45min",
+          "ETimeLimitType::ETLT_50min"
+        ],
+        "Min_Spectators": 0,
+        "Max_Spectators": 4,
+        "MapEnable": true
+      },
+      "109": {
+        "MapID": "Monolith",
+        "MapType": "EOfficialMapType::EOMT_Monolith",
+        "MapThumbnailPath": "Texture2D'/Game/Textures/image/Monolith.Monolith'",
+        "MapStringKey": "UI.Maps_Monolith_Name",
         "PickType": [
           "EGamePickType::EGPT_Ban_Draft_Type",
           "EGamePickType::EGPT_Free_Choice_Type",

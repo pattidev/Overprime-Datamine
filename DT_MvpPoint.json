@@ -1,0 +1,119 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_MvpPoint",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPMvpPointDataTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "TableID": "1",
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "GameModeType": [
+          "ESelectedGameModeType::ESGMT_Normal",
+          "ESelectedGameModeType::ESGMT_Ranked",
+          "ESelectedGameModeType::ESGMT_Normal_AI",
+          "ESelectedGameModeType::ESGMT_Fake_AI_2"
+        ],
+        "EventType": "EUserIngameEventType::EUIET_KillScore",
+        "ActorType_Sub": "EActorType::EAT_None",
+        "MvpPoint": 1.0
+      },
+      "2": {
+        "TableID": "2",
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "GameModeType": [
+          "ESelectedGameModeType::ESGMT_Normal",
+          "ESelectedGameModeType::ESGMT_Ranked",
+          "ESelectedGameModeType::ESGMT_Normal_AI",
+          "ESelectedGameModeType::ESGMT_Fake_AI_2"
+        ],
+        "EventType": "EUserIngameEventType::EUIET_LastHitKill",
+        "ActorType_Sub": "EActorType::EAT_Tower",
+        "MvpPoint": 2.0
+      },
+      "3": {
+        "TableID": "3",
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "GameModeType": [
+          "ESelectedGameModeType::ESGMT_Normal",
+          "ESelectedGameModeType::ESGMT_Ranked",
+          "ESelectedGameModeType::ESGMT_Normal_AI",
+          "ESelectedGameModeType::ESGMT_Fake_AI_2"
+        ],
+        "EventType": "EUserIngameEventType::EUIET_LastHitKill",
+        "ActorType_Sub": "EActorType::EAT_Inhibitor",
+        "MvpPoint": 3.0
+      },
+      "4": {
+        "TableID": "4",
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "GameModeType": [
+          "ESelectedGameModeType::ESGMT_Normal",
+          "ESelectedGameModeType::ESGMT_Ranked",
+          "ESelectedGameModeType::ESGMT_Normal_AI",
+          "ESelectedGameModeType::ESGMT_Fake_AI_2"
+        ],
+        "EventType": "EUserIngameEventType::EUIET_LastHitKill",
+        "ActorType_Sub": "EActorType::EAT_Prime_Spirit",
+        "MvpPoint": 3.0
+      },
+      "5": {
+        "TableID": "5",
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "GameModeType": [
+          "ESelectedGameModeType::ESGMT_Normal",
+          "ESelectedGameModeType::ESGMT_Ranked",
+          "ESelectedGameModeType::ESGMT_Normal_AI",
+          "ESelectedGameModeType::ESGMT_Fake_AI_2"
+        ],
+        "EventType": "EUserIngameEventType::EUIET_LastHitKill",
+        "ActorType_Sub": "EActorType::EAT_Jungle_Baby_Prime",
+        "MvpPoint": 4.0
+      },
+      "6": {
+        "TableID": "6",
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "GameModeType": [
+          "ESelectedGameModeType::ESGMT_Normal",
+          "ESelectedGameModeType::ESGMT_Ranked",
+          "ESelectedGameModeType::ESGMT_Normal_AI",
+          "ESelectedGameModeType::ESGMT_Fake_AI_2"
+        ],
+        "EventType": "EUserIngameEventType::EUIET_LastHitKill",
+        "ActorType_Sub": "EActorType::EAT_Lane_Baby_Prime",
+        "MvpPoint": 4.0
+      },
+      "7": {
+        "TableID": "7",
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "GameModeType": [
+          "ESelectedGameModeType::ESGMT_Normal",
+          "ESelectedGameModeType::ESGMT_Ranked",
+          "ESelectedGameModeType::ESGMT_Normal_AI",
+          "ESelectedGameModeType::ESGMT_Fake_AI_2"
+        ],
+        "EventType": "EUserIngameEventType::EUIET_LastHitKill",
+        "ActorType_Sub": "EActorType::EAT_Prime_Guardian",
+        "MvpPoint": 5.0
+      },
+      "8": {
+        "TableID": "8",
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "GameModeType": [
+          "ESelectedGameModeType::ESGMT_Normal",
+          "ESelectedGameModeType::ESGMT_Ranked",
+          "ESelectedGameModeType::ESGMT_Normal_AI",
+          "ESelectedGameModeType::ESGMT_Fake_AI_2"
+        ],
+        "EventType": "EUserIngameEventType::EUIET_AssistScore",
+        "ActorType_Sub": "EActorType::EAT_None",
+        "MvpPoint": 1.1
+      }
+    }
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_MasteryStatus",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPMasteryStatusDataTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "BaseGainPP": 5,
+        "BaseGainPP_String": "UI.BaseGainPP",
+        "MatchWinPP": 30,
+        "MatchWinPP_String": "UI.MatchWinPP",
+        "MatchDefeatPP": 10,
+        "MatchDefeatPP_String": "UI.MatchDefeatPP",
+        "PrimeSpiritPP": 5,
+        "PrimeSpiritPP_String": "UI.PrimeSpiritPP",
+        "PrimeGuardianPP": 10,
+        "PrimeGuardianPP_String": "UI.PrimeGuardianPP",
+        "BGradePP": 5,
+        "BGradePP_String": "UI.GradePP",
+        "AGradePP": 10,
+        "AGradePP_String": "UI.GradePP",
+        "SGradePP": 15,
+        "SGradePP_String": "UI.GradePP"
+      }
+    }
+  }
+]

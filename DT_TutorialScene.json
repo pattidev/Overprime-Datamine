@@ -236,7 +236,7 @@
           "ETRAINING_BEHAVIOR::BHInterfaceGuideLine"
         ],
         "BehaviorOptionInt": [
-          3
+          4
         ],
         "Targets": [],
         "InjuryTime": 0.1,
@@ -260,7 +260,7 @@
           "ETRAINING_BEHAVIOR::BHInterfaceGuideLine"
         ],
         "BehaviorOptionInt": [
-          4
+          5
         ],
         "Targets": [],
         "InjuryTime": 0.1,
@@ -289,7 +289,7 @@
           "ETRAINING_BEHAVIOR::BHInterfaceGuideLine"
         ],
         "BehaviorOptionInt": [
-          5
+          6
         ],
         "Targets": [],
         "InjuryTime": 0.1,
@@ -313,7 +313,7 @@
           "ETRAINING_BEHAVIOR::BHInterfaceGuideLine"
         ],
         "BehaviorOptionInt": [
-          6
+          7
         ],
         "Targets": [],
         "InjuryTime": 0.1,
@@ -323,6 +323,30 @@
         "StepNum": 1,
         "Group": 15,
         "Index": 15,
+        "Title": "None",
+        "TitleArg": [],
+        "Desc": "None",
+        "DescArg": [],
+        "ToastDesc": "UI.Tutorial_Interface_Toast_106",
+        "ToastDescArg": [],
+        "BShowToastOpenAnimation": false,
+        "BGroupTypingToast": false,
+        "Condition": "ETRAINING_CONDITION::ESCT_LMB_CLICK_PASS",
+        "ConditionOptionInt": 0,
+        "Behavior": [
+          "ETRAINING_BEHAVIOR::BHInterfaceGuideLine"
+        ],
+        "BehaviorOptionInt": [
+          8
+        ],
+        "Targets": [],
+        "InjuryTime": 0.1,
+        "PauseTime": 0.0
+      },
+      "16": {
+        "StepNum": 1,
+        "Group": 16,
+        "Index": 16,
         "Title": "UI.Tutorial_Move_Title",
         "TitleArg": [],
         "Desc": "None",
@@ -339,10 +363,10 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "16": {
+      "17": {
         "StepNum": 1,
-        "Group": 15,
-        "Index": 16,
+        "Group": 16,
+        "Index": 17,
         "Title": "UI.Tutorial_Move_Title",
         "TitleArg": [],
         "Desc": "UI.Tutorial_Move_Todo_101",
@@ -373,10 +397,10 @@
         "InjuryTime": 1.0,
         "PauseTime": 0.0
       },
-      "17": {
+      "18": {
         "StepNum": 1,
-        "Group": 15,
-        "Index": 17,
+        "Group": 16,
+        "Index": 18,
         "Title": "UI.Tutorial_Move_Title",
         "TitleArg": [],
         "Desc": "UI.Tutorial_Move_Todo_102",
@@ -397,10 +421,10 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "18": {
+      "19": {
         "StepNum": 1,
-        "Group": 15,
-        "Index": 18,
+        "Group": 16,
+        "Index": 19,
         "Title": "UI.Tutorial_Move_Title",
         "TitleArg": [],
         "Desc": "UI.Tutorial_Move_Todo_103",
@@ -421,10 +445,10 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "19": {
+      "20": {
         "StepNum": 1,
-        "Group": 15,
-        "Index": 19,
+        "Group": 16,
+        "Index": 20,
         "Title": "UI.Tutorial_Move_Title",
         "TitleArg": [],
         "Desc": "None",
@@ -445,10 +469,10 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "20": {
+      "21": {
         "StepNum": 1,
-        "Group": 16,
-        "Index": 20,
+        "Group": 17,
+        "Index": 21,
         "Title": "UI.Tutorial_Battle_Title",
         "TitleArg": [],
         "Desc": "None",
@@ -465,10 +489,10 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "21": {
+      "22": {
         "StepNum": 1,
-        "Group": 16,
-        "Index": 21,
+        "Group": 17,
+        "Index": 22,
         "Title": "UI.Tutorial_Battle_Title",
         "TitleArg": [],
         "Desc": "None",
@@ -493,10 +517,10 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "22": {
+      "23": {
         "StepNum": 1,
-        "Group": 16,
-        "Index": 22,
+        "Group": 17,
+        "Index": 23,
         "Title": "UI.Tutorial_Battle_Title",
         "TitleArg": [],
         "Desc": "UI.Tutorial_Battle_Todo_101",
@@ -515,10 +539,10 @@
         "InjuryTime": 1.0,
         "PauseTime": 0.0
       },
-      "23": {
+      "24": {
         "StepNum": 1,
-        "Group": 16,
-        "Index": 23,
+        "Group": 17,
+        "Index": 24,
         "Title": "UI.Tutorial_Battle_Title",
         "TitleArg": [],
         "Desc": "UI.Tutorial_Battle_Todo_102",
@@ -539,10 +563,10 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "24": {
+      "25": {
         "StepNum": 1,
-        "Group": 16,
-        "Index": 24,
+        "Group": 17,
+        "Index": 25,
         "Title": "UI.Tutorial_Battle_Title",
         "TitleArg": [],
         "Desc": "UI.Tutorial_Battle_Todo_103",
@@ -565,10 +589,10 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "25": {
+      "26": {
         "StepNum": 1,
-        "Group": 16,
-        "Index": 25,
+        "Group": 17,
+        "Index": 26,
         "Title": "UI.Tutorial_Battle_Title",
         "TitleArg": [],
         "Desc": "None",
@@ -585,10 +609,10 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "26": {
+      "27": {
         "StepNum": 1,
-        "Group": 16,
-        "Index": 26,
+        "Group": 17,
+        "Index": 27,
         "Title": "UI.Tutorial_Battle_Title",
         "TitleArg": [],
         "Desc": "UI.Tutorial_Battle_Todo_104",
@@ -607,10 +631,10 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "27": {
+      "28": {
         "StepNum": 1,
-        "Group": 16,
-        "Index": 27,
+        "Group": 17,
+        "Index": 28,
         "Title": "UI.Tutorial_Battle_Title",
         "TitleArg": [],
         "Desc": "UI.Tutorial_Battle_Todo_105",
@@ -627,10 +651,10 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "28": {
+      "29": {
         "StepNum": 1,
-        "Group": 17,
-        "Index": 28,
+        "Group": 18,
+        "Index": 29,
         "Title": "UI.Tutorial_WardUse_Title",
         "TitleArg": [],
         "Desc": "None",
@@ -647,10 +671,10 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "29": {
+      "30": {
         "StepNum": 1,
-        "Group": 17,
-        "Index": 29,
+        "Group": 18,
+        "Index": 30,
         "Title": "UI.Tutorial_WardUse_Title",
         "TitleArg": [],
         "Desc": "None",
@@ -665,16 +689,16 @@
           "ETRAINING_BEHAVIOR::BHInterfaceGuideLine"
         ],
         "BehaviorOptionInt": [
-          7
+          9
         ],
         "Targets": [],
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "30": {
+      "31": {
         "StepNum": 1,
-        "Group": 17,
-        "Index": 30,
+        "Group": 18,
+        "Index": 31,
         "Title": "UI.Tutorial_WardUse_Title",
         "TitleArg": [],
         "Desc": "UI.Tutorial_WardUse_Todo_101",
@@ -701,10 +725,10 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "31": {
+      "32": {
         "StepNum": 1,
-        "Group": 17,
-        "Index": 31,
+        "Group": 18,
+        "Index": 32,
         "Title": "UI.Tutorial_WardUse_Title",
         "TitleArg": [],
         "Desc": "UI.Tutorial_WardUse_Todo_102",
@@ -723,10 +747,10 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "32": {
+      "33": {
         "StepNum": 1,
-        "Group": 17,
-        "Index": 32,
+        "Group": 18,
+        "Index": 33,
         "Title": "UI.Tutorial_WardUse_Title",
         "TitleArg": [],
         "Desc": "None",
@@ -743,10 +767,10 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "33": {
+      "34": {
         "StepNum": 1,
-        "Group": 18,
-        "Index": 33,
+        "Group": 19,
+        "Index": 34,
         "Title": "UI.Tutorial_TowerAttack_Title",
         "TitleArg": [],
         "Desc": "None",
@@ -763,10 +787,10 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "34": {
+      "35": {
         "StepNum": 1,
-        "Group": 18,
-        "Index": 34,
+        "Group": 19,
+        "Index": 35,
         "Title": "UI.Tutorial_TowerAttack_Title",
         "TitleArg": [],
         "Desc": "UI.Tutorial_TowerAttack_Todo_101",
@@ -783,10 +807,10 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "35": {
+      "36": {
         "StepNum": 1,
-        "Group": 18,
-        "Index": 35,
+        "Group": 19,
+        "Index": 36,
         "Title": "UI.Tutorial_TowerAttack_Title",
         "TitleArg": [],
         "Desc": "None",
@@ -805,10 +829,10 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "36": {
+      "37": {
         "StepNum": 1,
-        "Group": 18,
-        "Index": 36,
+        "Group": 19,
+        "Index": 37,
         "Title": "UI.Tutorial_TowerAttack_Title",
         "TitleArg": [],
         "Desc": "None",
@@ -825,10 +849,10 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "37": {
+      "38": {
         "StepNum": 1,
-        "Group": 18,
-        "Index": 37,
+        "Group": 19,
+        "Index": 38,
         "Title": "UI.Tutorial_TowerAttack_Title",
         "TitleArg": [],
         "Desc": "None",
@@ -845,10 +869,10 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "38": {
+      "39": {
         "StepNum": 1,
-        "Group": 18,
-        "Index": 38,
+        "Group": 19,
+        "Index": 39,
         "Title": "UI.Tutorial_TowerAttack_Title",
         "TitleArg": [],
         "Desc": "UI.Tutorial_TowerAttack_Todo_102",
@@ -863,16 +887,16 @@
           "ETRAINING_BEHAVIOR::BHSpawnMinion"
         ],
         "BehaviorOptionInt": [
-          38
+          39
         ],
         "Targets": [],
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "39": {
+      "40": {
         "StepNum": 1,
-        "Group": 19,
-        "Index": 39,
+        "Group": 20,
+        "Index": 40,
         "Title": "UI.Tutorial_Recall_Title",
         "TitleArg": [],
         "Desc": "None",
@@ -889,10 +913,10 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "40": {
+      "41": {
         "StepNum": 1,
-        "Group": 19,
-        "Index": 40,
+        "Group": 20,
+        "Index": 41,
         "Title": "UI.Tutorial_Recall_Title",
         "TitleArg": [],
         "Desc": "None",
@@ -907,16 +931,16 @@
           "ETRAINING_BEHAVIOR::BHInterfaceGuideLine"
         ],
         "BehaviorOptionInt": [
-          8
+          10
         ],
         "Targets": [],
         "InjuryTime": 2.0,
         "PauseTime": 0.0
       },
-      "41": {
+      "42": {
         "StepNum": 1,
-        "Group": 19,
-        "Index": 41,
+        "Group": 20,
+        "Index": 42,
         "Title": "UI.Tutorial_Recall_Title",
         "TitleArg": [],
         "Desc": "UI.Tutorial_Recall_Todo_101",
@@ -941,10 +965,10 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "42": {
+      "43": {
         "StepNum": 1,
-        "Group": 20,
-        "Index": 42,
+        "Group": 21,
+        "Index": 43,
         "Title": "None",
         "TitleArg": [],
         "Desc": "None",
@@ -961,10 +985,10 @@
         "InjuryTime": 1.0,
         "PauseTime": 0.0
       },
-      "43": {
+      "44": {
         "StepNum": 1,
-        "Group": 21,
-        "Index": 43,
+        "Group": 22,
+        "Index": 44,
         "Title": "None",
         "TitleArg": [],
         "Desc": "None",
@@ -973,7 +997,7 @@
         "ToastDescArg": [],
         "BShowToastOpenAnimation": false,
         "BGroupTypingToast": false,
-        "Condition": "ETRAINING_CONDITION::ESCT_Tutorial_Complete",
+        "Condition": "ETRAINING_CONDITION::ESCT_Next_Tutorial_Popup",
         "ConditionOptionInt": 0,
         "Behavior": [],
         "BehaviorOptionInt": [],
@@ -981,7 +1005,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "44": {
+      "45": {
         "StepNum": 2,
         "Group": 1,
         "Index": 1,
@@ -1005,7 +1029,7 @@
         "InjuryTime": 2.0,
         "PauseTime": 0.0
       },
-      "45": {
+      "46": {
         "StepNum": 2,
         "Group": 2,
         "Index": 2,
@@ -1025,7 +1049,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "46": {
+      "47": {
         "StepNum": 2,
         "Group": 3,
         "Index": 3,
@@ -1045,7 +1069,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "47": {
+      "48": {
         "StepNum": 2,
         "Group": 4,
         "Index": 4,
@@ -1065,7 +1089,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "48": {
+      "49": {
         "StepNum": 2,
         "Group": 5,
         "Index": 5,
@@ -1085,7 +1109,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "49": {
+      "50": {
         "StepNum": 2,
         "Group": 6,
         "Index": 6,
@@ -1109,7 +1133,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "50": {
+      "51": {
         "StepNum": 2,
         "Group": 7,
         "Index": 7,
@@ -1119,23 +1143,25 @@
         "DescArg": [],
         "ToastDesc": "UI.Tutorial_QuickBuy_Toast_203",
         "ToastDescArg": [
-          "EGameSettingDetailType::EGSD_Control_QuickBuy_Assistant"
+          "EGameSettingDetailType::EGSD_Control_QuickBuy_Offensive"
         ],
         "BShowToastOpenAnimation": false,
         "BGroupTypingToast": false,
         "Condition": "ETRAINING_CONDITION::ESCT_SmartShop_Item_Buy",
-        "ConditionOptionInt": 3,
+        "ConditionOptionInt": 1,
         "Behavior": [
           "ETRAINING_BEHAVIOR::BHInterfaceGuideLine"
         ],
         "BehaviorOptionInt": [
           2
         ],
-        "Targets": [],
+        "Targets": [
+          "30301009"
+        ],
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "51": {
+      "52": {
         "StepNum": 2,
         "Group": 8,
         "Index": 8,
@@ -1157,7 +1183,7 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "52": {
+      "53": {
         "StepNum": 2,
         "Group": 9,
         "Index": 9,
@@ -1181,7 +1207,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "53": {
+      "54": {
         "StepNum": 2,
         "Group": 10,
         "Index": 10,
@@ -1205,7 +1231,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "54": {
+      "55": {
         "StepNum": 2,
         "Group": 11,
         "Index": 11,
@@ -1229,7 +1255,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "55": {
+      "56": {
         "StepNum": 2,
         "Group": 12,
         "Index": 12,
@@ -1253,7 +1279,7 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "56": {
+      "57": {
         "StepNum": 2,
         "Group": 13,
         "Index": 13,
@@ -1277,7 +1303,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "57": {
+      "58": {
         "StepNum": 2,
         "Group": 14,
         "Index": 14,
@@ -1301,7 +1327,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "58": {
+      "59": {
         "StepNum": 2,
         "Group": 15,
         "Index": 15,
@@ -1325,7 +1351,7 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "59": {
+      "60": {
         "StepNum": 2,
         "Group": 16,
         "Index": 16,
@@ -1349,7 +1375,7 @@
         "InjuryTime": 1.0,
         "PauseTime": 0.0
       },
-      "60": {
+      "61": {
         "StepNum": 2,
         "Group": 17,
         "Index": 17,
@@ -1373,7 +1399,7 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "61": {
+      "62": {
         "StepNum": 2,
         "Group": 18,
         "Index": 18,
@@ -1397,7 +1423,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "62": {
+      "63": {
         "StepNum": 2,
         "Group": 19,
         "Index": 19,
@@ -1410,7 +1436,7 @@
         "BShowToastOpenAnimation": true,
         "BGroupTypingToast": false,
         "Condition": "ETRAINING_CONDITION::ESCT_BUY_ANY_ITEM",
-        "ConditionOptionInt": 4,
+        "ConditionOptionInt": 5,
         "Behavior": [
           "ETRAINING_BEHAVIOR::BHShopGuideLine"
         ],
@@ -1421,7 +1447,7 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "63": {
+      "64": {
         "StepNum": 2,
         "Group": 20,
         "Index": 20,
@@ -1445,7 +1471,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "64": {
+      "65": {
         "StepNum": 2,
         "Group": 21,
         "Index": 21,
@@ -1469,7 +1495,7 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "65": {
+      "66": {
         "StepNum": 2,
         "Group": 22,
         "Index": 22,
@@ -1493,7 +1519,7 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "66": {
+      "67": {
         "StepNum": 2,
         "Group": 23,
         "Index": 23,
@@ -1519,7 +1545,7 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "67": {
+      "68": {
         "StepNum": 2,
         "Group": 24,
         "Index": 24,
@@ -1539,7 +1565,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "68": {
+      "69": {
         "StepNum": 2,
         "Group": 25,
         "Index": 25,
@@ -1559,7 +1585,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "69": {
+      "70": {
         "StepNum": 2,
         "Group": 26,
         "Index": 26,
@@ -1579,7 +1605,7 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "70": {
+      "71": {
         "StepNum": 2,
         "Group": 27,
         "Index": 27,
@@ -1599,7 +1625,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "71": {
+      "72": {
         "StepNum": 2,
         "Group": 27,
         "Index": 28,
@@ -1623,7 +1649,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "72": {
+      "73": {
         "StepNum": 2,
         "Group": 27,
         "Index": 29,
@@ -1649,7 +1675,7 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "73": {
+      "74": {
         "StepNum": 2,
         "Group": 27,
         "Index": 30,
@@ -1659,24 +1685,26 @@
         "DescArg": [],
         "ToastDesc": "UI.Tutorial_RedMonster_Toast_204",
         "ToastDescArg": [
-          "EGameSettingDetailType::EGSD_MAX",
-          "EGameSettingDetailType::EGSD_MAX",
-          "EGameSettingDetailType::EGSD_MAX",
-          "EGameSettingDetailType::EGSD_MAX",
-          "EGameSettingDetailType::EGSD_MAX",
-          "EGameSettingDetailType::EGSD_MAX"
+          "EGameSettingDetailType::EGSD_Control_Spell_1",
+          "EGameSettingDetailType::EGSD_Control_Spell_2",
+          "EGameSettingDetailType::EGSD_Control_ActiveItem_1",
+          "EGameSettingDetailType::EGSD_Control_ActiveItem_2"
         ],
         "BShowToastOpenAnimation": false,
         "BGroupTypingToast": false,
         "Condition": "ETRAINING_CONDITION::ESCT_LMB_CLICK_PASS",
         "ConditionOptionInt": 0,
-        "Behavior": [],
-        "BehaviorOptionInt": [],
+        "Behavior": [
+          "ETRAINING_BEHAVIOR::BHInterfaceGuideLine"
+        ],
+        "BehaviorOptionInt": [
+          3
+        ],
         "Targets": [],
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "74": {
+      "75": {
         "StepNum": 2,
         "Group": 27,
         "Index": 31,
@@ -1696,7 +1724,7 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "75": {
+      "76": {
         "StepNum": 2,
         "Group": 27,
         "Index": 32,
@@ -1711,16 +1739,18 @@
         "Condition": "ETRAINING_CONDITION::ESCT_KILL_RedMonster",
         "ConditionOptionInt": 0,
         "Behavior": [
+          "ETRAINING_BEHAVIOR::BHInterfaceGuideLine",
           "ETRAINING_BEHAVIOR::BHHeroMoveLocked"
         ],
         "BehaviorOptionInt": [
+          0,
           0
         ],
         "Targets": [],
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "76": {
+      "77": {
         "StepNum": 2,
         "Group": 28,
         "Index": 33,
@@ -1740,7 +1770,7 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "77": {
+      "78": {
         "StepNum": 2,
         "Group": 28,
         "Index": 34,
@@ -1766,7 +1796,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "78": {
+      "79": {
         "StepNum": 2,
         "Group": 28,
         "Index": 35,
@@ -1790,7 +1820,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "79": {
+      "80": {
         "StepNum": 2,
         "Group": 29,
         "Index": 36,
@@ -1810,7 +1840,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "80": {
+      "81": {
         "StepNum": 2,
         "Group": 29,
         "Index": 37,
@@ -1830,7 +1860,7 @@
         "InjuryTime": 2.5,
         "PauseTime": 0.0
       },
-      "81": {
+      "82": {
         "StepNum": 2,
         "Group": 29,
         "Index": 38,
@@ -1854,7 +1884,7 @@
         "InjuryTime": 1.0,
         "PauseTime": 0.0
       },
-      "82": {
+      "83": {
         "StepNum": 2,
         "Group": 30,
         "Index": 39,
@@ -1874,7 +1904,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "83": {
+      "84": {
         "StepNum": 3,
         "Group": 1,
         "Index": 1,
@@ -1898,7 +1928,7 @@
         "InjuryTime": 2.0,
         "PauseTime": 0.0
       },
-      "84": {
+      "85": {
         "StepNum": 3,
         "Group": 2,
         "Index": 2,
@@ -1918,7 +1948,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "85": {
+      "86": {
         "StepNum": 3,
         "Group": 3,
         "Index": 3,
@@ -1938,7 +1968,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "86": {
+      "87": {
         "StepNum": 3,
         "Group": 4,
         "Index": 4,
@@ -1958,7 +1988,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "87": {
+      "88": {
         "StepNum": 3,
         "Group": 5,
         "Index": 5,
@@ -1982,7 +2012,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "88": {
+      "89": {
         "StepNum": 3,
         "Group": 6,
         "Index": 6,
@@ -2002,7 +2032,7 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "89": {
+      "90": {
         "StepNum": 3,
         "Group": 7,
         "Index": 7,
@@ -2022,7 +2052,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "90": {
+      "91": {
         "StepNum": 3,
         "Group": 7,
         "Index": 8,
@@ -2046,7 +2076,7 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "91": {
+      "92": {
         "StepNum": 3,
         "Group": 7,
         "Index": 9,
@@ -2072,7 +2102,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "92": {
+      "93": {
         "StepNum": 3,
         "Group": 7,
         "Index": 10,
@@ -2096,7 +2126,7 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "93": {
+      "94": {
         "StepNum": 3,
         "Group": 7,
         "Index": 11,
@@ -2118,7 +2148,7 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "94": {
+      "95": {
         "StepNum": 3,
         "Group": 8,
         "Index": 12,
@@ -2138,7 +2168,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "95": {
+      "96": {
         "StepNum": 3,
         "Group": 8,
         "Index": 13,
@@ -2158,7 +2188,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "96": {
+      "97": {
         "StepNum": 3,
         "Group": 8,
         "Index": 14,
@@ -2184,7 +2214,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "97": {
+      "98": {
         "StepNum": 3,
         "Group": 8,
         "Index": 15,
@@ -2208,7 +2238,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "98": {
+      "99": {
         "StepNum": 3,
         "Group": 8,
         "Index": 16,
@@ -2234,7 +2264,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "99": {
+      "100": {
         "StepNum": 3,
         "Group": 9,
         "Index": 17,
@@ -2254,7 +2284,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "100": {
+      "101": {
         "StepNum": 3,
         "Group": 10,
         "Index": 18,
@@ -2274,7 +2304,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "101": {
+      "102": {
         "StepNum": 3,
         "Group": 11,
         "Index": 19,
@@ -2294,7 +2324,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "102": {
+      "103": {
         "StepNum": 3,
         "Group": 12,
         "Index": 20,
@@ -2318,7 +2348,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "103": {
+      "104": {
         "StepNum": 3,
         "Group": 12,
         "Index": 21,
@@ -2342,7 +2372,7 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "104": {
+      "105": {
         "StepNum": 3,
         "Group": 12,
         "Index": 22,
@@ -2368,7 +2398,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "105": {
+      "106": {
         "StepNum": 3,
         "Group": 12,
         "Index": 23,
@@ -2390,7 +2420,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "106": {
+      "107": {
         "StepNum": 3,
         "Group": 13,
         "Index": 24,
@@ -2414,7 +2444,7 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "107": {
+      "108": {
         "StepNum": 3,
         "Group": 13,
         "Index": 25,
@@ -2438,7 +2468,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "108": {
+      "109": {
         "StepNum": 3,
         "Group": 13,
         "Index": 26,
@@ -2458,7 +2488,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "109": {
+      "110": {
         "StepNum": 3,
         "Group": 13,
         "Index": 27,
@@ -2480,7 +2510,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "110": {
+      "111": {
         "StepNum": 3,
         "Group": 13,
         "Index": 28,
@@ -2500,7 +2530,7 @@
         "InjuryTime": 1.0,
         "PauseTime": 0.0
       },
-      "111": {
+      "112": {
         "StepNum": 3,
         "Group": 14,
         "Index": 29,
@@ -2524,7 +2554,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "112": {
+      "113": {
         "StepNum": 3,
         "Group": 14,
         "Index": 30,
@@ -2544,7 +2574,7 @@
         "InjuryTime": 2.5,
         "PauseTime": 0.0
       },
-      "113": {
+      "114": {
         "StepNum": 3,
         "Group": 14,
         "Index": 31,
@@ -2568,7 +2598,7 @@
         "InjuryTime": 1.0,
         "PauseTime": 0.0
       },
-      "114": {
+      "115": {
         "StepNum": 3,
         "Group": 15,
         "Index": 32,
@@ -2588,7 +2618,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "115": {
+      "116": {
         "StepNum": 4,
         "Group": 1,
         "Index": 1,
@@ -2608,7 +2638,7 @@
         "InjuryTime": 2.0,
         "PauseTime": 0.0
       },
-      "116": {
+      "117": {
         "StepNum": 4,
         "Group": 2,
         "Index": 2,
@@ -2628,7 +2658,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "117": {
+      "118": {
         "StepNum": 4,
         "Group": 3,
         "Index": 3,
@@ -2648,7 +2678,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "118": {
+      "119": {
         "StepNum": 4,
         "Group": 4,
         "Index": 4,
@@ -2668,7 +2698,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "119": {
+      "120": {
         "StepNum": 4,
         "Group": 5,
         "Index": 5,
@@ -2692,7 +2722,7 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "120": {
+      "121": {
         "StepNum": 4,
         "Group": 5,
         "Index": 6,
@@ -2716,7 +2746,7 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "121": {
+      "122": {
         "StepNum": 4,
         "Group": 5,
         "Index": 7,
@@ -2741,7 +2771,7 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "122": {
+      "123": {
         "StepNum": 4,
         "Group": 5,
         "Index": 8,
@@ -2761,7 +2791,7 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "123": {
+      "124": {
         "StepNum": 4,
         "Group": 6,
         "Index": 9,
@@ -2781,7 +2811,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "124": {
+      "125": {
         "StepNum": 4,
         "Group": 6,
         "Index": 10,
@@ -2805,7 +2835,7 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "125": {
+      "126": {
         "StepNum": 4,
         "Group": 6,
         "Index": 11,
@@ -2831,7 +2861,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "126": {
+      "127": {
         "StepNum": 4,
         "Group": 6,
         "Index": 12,
@@ -2855,7 +2885,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "127": {
+      "128": {
         "StepNum": 4,
         "Group": 6,
         "Index": 13,
@@ -2879,7 +2909,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "128": {
+      "129": {
         "StepNum": 4,
         "Group": 6,
         "Index": 14,
@@ -2899,7 +2929,7 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "129": {
+      "130": {
         "StepNum": 4,
         "Group": 6,
         "Index": 15,
@@ -2919,7 +2949,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "130": {
+      "131": {
         "StepNum": 4,
         "Group": 6,
         "Index": 16,
@@ -2939,7 +2969,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "131": {
+      "132": {
         "StepNum": 4,
         "Group": 6,
         "Index": 17,
@@ -2963,7 +2993,7 @@
         "InjuryTime": 1.0,
         "PauseTime": 0.0
       },
-      "132": {
+      "133": {
         "StepNum": 4,
         "Group": 6,
         "Index": 18,
@@ -2987,7 +3017,7 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "133": {
+      "134": {
         "StepNum": 4,
         "Group": 6,
         "Index": 19,
@@ -3013,7 +3043,7 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "134": {
+      "135": {
         "StepNum": 4,
         "Group": 7,
         "Index": 20,
@@ -3033,7 +3063,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "135": {
+      "136": {
         "StepNum": 4,
         "Group": 7,
         "Index": 21,
@@ -3057,7 +3087,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "136": {
+      "137": {
         "StepNum": 4,
         "Group": 7,
         "Index": 22,
@@ -3077,7 +3107,7 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "137": {
+      "138": {
         "StepNum": 4,
         "Group": 8,
         "Index": 23,
@@ -3097,7 +3127,7 @@
         "InjuryTime": 0.1,
         "PauseTime": 0.0
       },
-      "138": {
+      "139": {
         "StepNum": 4,
         "Group": 8,
         "Index": 24,
@@ -3117,7 +3147,7 @@
         "InjuryTime": 2.5,
         "PauseTime": 0.0
       },
-      "139": {
+      "140": {
         "StepNum": 4,
         "Group": 8,
         "Index": 25,
@@ -3141,7 +3171,7 @@
         "InjuryTime": 1.0,
         "PauseTime": 0.0
       },
-      "140": {
+      "141": {
         "StepNum": 4,
         "Group": 9,
         "Index": 26,

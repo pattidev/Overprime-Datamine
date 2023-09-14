@@ -3960,7 +3960,7 @@
         "EffectEndSoundLocal": [
           "Hero_1015001_Skill_1015010501_local_end"
         ],
-        "EffectSoundLocalRule": "EEffectKeywordLocalSoundRuleType::EEKLSRT_Caster"
+        "EffectSoundLocalRule": "EEffectKeywordLocalSoundRuleType::EEKLSRT_Holder"
       },
       "259": {
         "TableID": "259",
@@ -8253,7 +8253,9 @@
         "SoundGroupID": "None",
         "SuperpositionType": "EEffectKeywordSoundDirectionSuperpositionType::ESUPT_IgnoreLater",
         "SuperpositionValue": 0.0,
-        "EffectStartSound": [],
+        "EffectStartSound": [
+          "bpitem_30304002"
+        ],
         "EffectStartSoundLocal": [],
         "StopOngoingSoundOnEnd": false,
         "EffectOngoingSound": [],
@@ -9385,7 +9387,7 @@
       },
       "612": {
         "TableID": "612",
-        "ExpansionEffectKeyword": "Buff_Heist_30301023",
+        "ExpansionEffectKeyword": "Buff_MovementSpeed_Up_30301023",
         "SoundGroupID": "None",
         "SuperpositionType": "EEffectKeywordSoundDirectionSuperpositionType::ESUPT_IgnoreLater",
         "SuperpositionValue": 0.0,
@@ -9801,6 +9803,74 @@
         "EffectEndSoundLocal": [
           "Hero_1021001_Skill_1021010201_local_finish"
         ],
+        "EffectSoundLocalRule": "EEffectKeywordLocalSoundRuleType::EEKLSRT_Caster"
+      },
+      "634": {
+        "TableID": "634",
+        "ExpansionEffectKeyword": "Buff_MovementSpeed_Up_2010",
+        "SoundGroupID": "None",
+        "SuperpositionType": "EEffectKeywordSoundDirectionSuperpositionType::ESUPT_IgnoreLater",
+        "SuperpositionValue": 0.0,
+        "EffectStartSound": [
+          "bpitem_30301002"
+        ],
+        "EffectStartSoundLocal": [],
+        "StopOngoingSoundOnEnd": false,
+        "EffectOngoingSound": [],
+        "EffectOngoingSoundLocal": [],
+        "EffectEndSound": [],
+        "EffectEndSoundLocal": [],
+        "EffectSoundLocalRule": "EEffectKeywordLocalSoundRuleType::EEKLSRT_Caster"
+      },
+      "635": {
+        "TableID": "635",
+        "ExpansionEffectKeyword": "Buff_InComingDamageDecrement_Up_30303022",
+        "SoundGroupID": "None",
+        "SuperpositionType": "EEffectKeywordSoundDirectionSuperpositionType::ESUPT_IgnoreLater",
+        "SuperpositionValue": 0.0,
+        "EffectStartSound": [
+          "bpitem_30301002"
+        ],
+        "EffectStartSoundLocal": [],
+        "StopOngoingSoundOnEnd": false,
+        "EffectOngoingSound": [],
+        "EffectOngoingSoundLocal": [],
+        "EffectEndSound": [],
+        "EffectEndSoundLocal": [],
+        "EffectSoundLocalRule": "EEffectKeywordLocalSoundRuleType::EEKLSRT_Caster"
+      },
+      "636": {
+        "TableID": "636",
+        "ExpansionEffectKeyword": "Buff_Removal_30304002",
+        "SoundGroupID": "None",
+        "SuperpositionType": "EEffectKeywordSoundDirectionSuperpositionType::ESUPT_IgnoreLater",
+        "SuperpositionValue": 0.0,
+        "EffectStartSound": [
+          "bpitem_30301002"
+        ],
+        "EffectStartSoundLocal": [],
+        "StopOngoingSoundOnEnd": false,
+        "EffectOngoingSound": [],
+        "EffectOngoingSoundLocal": [],
+        "EffectEndSound": [],
+        "EffectEndSoundLocal": [],
+        "EffectSoundLocalRule": "EEffectKeywordLocalSoundRuleType::EEKLSRT_Caster"
+      },
+      "637": {
+        "TableID": "637",
+        "ExpansionEffectKeyword": "Buff_Removal_30203003",
+        "SoundGroupID": "None",
+        "SuperpositionType": "EEffectKeywordSoundDirectionSuperpositionType::ESUPT_IgnoreLater",
+        "SuperpositionValue": 0.0,
+        "EffectStartSound": [
+          "bpitem_30301002"
+        ],
+        "EffectStartSoundLocal": [],
+        "StopOngoingSoundOnEnd": false,
+        "EffectOngoingSound": [],
+        "EffectOngoingSoundLocal": [],
+        "EffectEndSound": [],
+        "EffectEndSoundLocal": [],
         "EffectSoundLocalRule": "EEffectKeywordLocalSoundRuleType::EEKLSRT_Caster"
       }
     }

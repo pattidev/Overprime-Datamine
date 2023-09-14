@@ -2603,7 +2603,7 @@
       },
       "Hero_1021001_Voice_Jump": {
         "Sound": [
-          "Hero_1021001_Voice_Jump"
+          "Hero_1021001_Voice_jump"
         ],
         "LocalSound": [],
         "StopSpawnSoundOnDestroy": true,
@@ -4185,6 +4185,258 @@
         "Sound": [],
         "LocalSound": [
           "Hero_1033001_Voice_HeroPick"
+        ],
+        "StopSpawnSoundOnDestroy": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1034001_Voice_Clothes": {
+        "Sound": [
+          "Hero_1034001_Voice_Clothes"
+        ],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1034001_Voice_Kill": {
+        "Sound": [
+          "Hero_1034001_Voice_Kill"
+        ],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": true,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1034001_Voice_Death": {
+        "Sound": [
+          "Hero_1034001_Voice_Death"
+        ],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1034001_Voice_Jump": {
+        "Sound": [
+          "Hero_1034001_Voice_Jump"
+        ],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": true,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1034001_Voice_Hit": {
+        "Sound": [
+          "Hero_1034001_Voice_Hit"
+        ],
+        "LocalSound": [
+          "Hero_Common_Skill_Common_TakeHit"
+        ],
+        "StopSpawnSoundOnDestroy": true,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1034001_Voice_Cooltime": {
+        "Sound": [],
+        "LocalSound": [
+          "Hero_1034001_Voice_Cooltime"
+        ],
+        "StopSpawnSoundOnDestroy": true,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1034001_Voice_LvUp": {
+        "Sound": [],
+        "LocalSound": [
+          "Hero_1034001_Voice_LvUp"
+        ],
+        "StopSpawnSoundOnDestroy": true,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1034001_Voice_Land": {
+        "Sound": [],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": true,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1034001_Voice_HeroPick": {
+        "Sound": [],
+        "LocalSound": [
+          "Hero_1034001_Voice_HeroPick"
+        ],
+        "StopSpawnSoundOnDestroy": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1035001_Voice_Clothes": {
+        "Sound": [
+          "Hero_1035001_Voice_Clothes"
+        ],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1035001_Voice_Kill": {
+        "Sound": [
+          "Hero_1035001_Voice_Kill"
+        ],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": true,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1035001_Voice_Death": {
+        "Sound": [
+          "Hero_1035001_Voice_Death"
+        ],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1035001_Voice_Jump": {
+        "Sound": [
+          "Hero_1035001_Voice_Jump"
+        ],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": true,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1035001_Voice_Hit": {
+        "Sound": [
+          "Hero_1035001_Voice_Hit"
+        ],
+        "LocalSound": [
+          "Hero_Common_Skill_Common_TakeHit"
+        ],
+        "StopSpawnSoundOnDestroy": true,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1035001_Voice_Cooltime": {
+        "Sound": [],
+        "LocalSound": [
+          "Hero_1035001_Voice_Cooltime"
+        ],
+        "StopSpawnSoundOnDestroy": true,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1035001_Voice_LvUp": {
+        "Sound": [],
+        "LocalSound": [
+          "Hero_1035001_Voice_LvUp"
+        ],
+        "StopSpawnSoundOnDestroy": true,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1035001_Voice_Land": {
+        "Sound": [],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": true,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1035001_Voice_HeroPick": {
+        "Sound": [],
+        "LocalSound": [
+          "Hero_1035001_Voice_HeroPick"
         ],
         "StopSpawnSoundOnDestroy": false,
         "Particle": null,

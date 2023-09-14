@@ -1,0 +1,148 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_BannerImage",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPLobbyEventBannerImageDataTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "Ad_1001_GameGuide": {
+        "ImageResource": {
+          "ObjectName": "Texture2D'T_UI_Lobby_Event_Banner_001'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Common/Event_Banner/T_UI_Lobby_Event_Banner_001.0"
+        },
+        "ResourceName": "UI.Banner_Ad_Title_1001"
+      },
+      "Ad_1002_Official_Utube": {
+        "ImageResource": {
+          "ObjectName": "Texture2D'T_UI_Lobby_Event_Banner_008'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Common/Event_Banner/T_UI_Lobby_Event_Banner_008.0"
+        },
+        "ResourceName": "UI.Banner_Ad_Title_1002"
+      },
+      "Ad_1003_Official_Website": {
+        "ImageResource": {
+          "ObjectName": "Texture2D'T_UI_Lobby_Event_Banner_001'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Common/Event_Banner/T_UI_Lobby_Event_Banner_001.0"
+        },
+        "ResourceName": "UI.Banner_Ad_Title_1003"
+      },
+      "Ad_1004_Official_Discord": {
+        "ImageResource": {
+          "ObjectName": "Texture2D'T_UI_Lobby_Event_Banner_009'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Common/Event_Banner/T_UI_Lobby_Event_Banner_009.0"
+        },
+        "ResourceName": "UI.Banner_Ad_Title_1004"
+      },
+      "Ad_1005_Official_Twitch": {
+        "ImageResource": {
+          "ObjectName": "Texture2D'T_UI_Lobby_Event_Banner_010'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Common/Event_Banner/T_UI_Lobby_Event_Banner_010.0"
+        },
+        "ResourceName": "UI.Banner_Ad_Title_1005"
+      },
+      "Ad_2001_NewHero": {
+        "ImageResource": {
+          "ObjectName": "Texture2D'T_UI_Lobby_Event_Banner_001'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Common/Event_Banner/T_UI_Lobby_Event_Banner_001.0"
+        },
+        "ResourceName": "UI.Banner_Ad_Title_2001"
+      },
+      "Ad_3001_FAQ1": {
+        "ImageResource": {
+          "ObjectName": "Texture2D'T_UI_Lobby_Event_Banner_006'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Common/Event_Banner/T_UI_Lobby_Event_Banner_006.0"
+        },
+        "ResourceName": "UI.Banner_Ad_Title_3001"
+      },
+      "Ad_3002_FAQ2": {
+        "ImageResource": {
+          "ObjectName": "Texture2D'T_UI_Lobby_Event_Banner_006'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Common/Event_Banner/T_UI_Lobby_Event_Banner_006.0"
+        },
+        "ResourceName": "UI.Banner_Ad_Title_3002"
+      },
+      "Ad_4001_Survey1": {
+        "ImageResource": {
+          "ObjectName": "Texture2D'T_UI_Lobby_Event_Banner_002'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Common/Event_Banner/T_UI_Lobby_Event_Banner_002.0"
+        },
+        "ResourceName": "UI.Banner_Ad_Title_4001"
+      },
+      "Ad_4002_Survey2": {
+        "ImageResource": {
+          "ObjectName": "Texture2D'T_UI_Lobby_Event_Banner_002'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Common/Event_Banner/T_UI_Lobby_Event_Banner_002.0"
+        },
+        "ResourceName": "UI.Banner_Ad_Title_4002"
+      },
+      "Ad_5001_Official_Tournament": {
+        "ImageResource": {
+          "ObjectName": "Texture2D'T_UI_Lobby_Event_Banner_004'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Common/Event_Banner/T_UI_Lobby_Event_Banner_004.0"
+        },
+        "ResourceName": "UI.Banner_Ad_Title_5001"
+      },
+      "Ad_5002_Steamer_Tournament": {
+        "ImageResource": {
+          "ObjectName": "Texture2D'T_UI_Lobby_Event_Banner_004'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Common/Event_Banner/T_UI_Lobby_Event_Banner_004.0"
+        },
+        "ResourceName": "UI.Banner_Ad_Title_5002"
+      },
+      "Ad_5003_Utuber_Tournament": {
+        "ImageResource": {
+          "ObjectName": "Texture2D'T_UI_Lobby_Event_Banner_004'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Common/Event_Banner/T_UI_Lobby_Event_Banner_004.0"
+        },
+        "ResourceName": "UI.Banner_Ad_Title_5003"
+      },
+      "Ad_6001_Game_Broadcast": {
+        "ImageResource": {
+          "ObjectName": "Texture2D'T_UI_Lobby_Event_Banner_010'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Common/Event_Banner/T_UI_Lobby_Event_Banner_010.0"
+        },
+        "ResourceName": "UI.Banner_Ad_Title_6001"
+      },
+      "Ad_6002_Dev_Broadcast": {
+        "ImageResource": {
+          "ObjectName": "Texture2D'T_UI_Lobby_Event_Banner_005'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Common/Event_Banner/T_UI_Lobby_Event_Banner_005.0"
+        },
+        "ResourceName": "UI.Banner_Ad_Title_6002"
+      },
+      "Ad_6003_Partner_Broadcast": {
+        "ImageResource": {
+          "ObjectName": "Texture2D'T_UI_Lobby_Event_Banner_003'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Common/Event_Banner/T_UI_Lobby_Event_Banner_003.0"
+        },
+        "ResourceName": "UI.Banner_Ad_Title_6003"
+      },
+      "Ad_7001_Season_Event": {
+        "ImageResource": {
+          "ObjectName": "Texture2D'T_UI_Lobby_Event_Banner_001'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Common/Event_Banner/T_UI_Lobby_Event_Banner_001.0"
+        },
+        "ResourceName": "UI.Banner_Ad_Title_7001"
+      },
+      "Ad_7002_Summer_Event": {
+        "ImageResource": {
+          "ObjectName": "Texture2D'T_UI_Lobby_Event_Banner_007'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Common/Event_Banner/T_UI_Lobby_Event_Banner_007.0"
+        },
+        "ResourceName": "UI.Banner_Ad_Title_7002"
+      },
+      "Ad_7003_Winter_Event": {
+        "ImageResource": {
+          "ObjectName": "Texture2D'T_UI_Lobby_Event_Banner_001'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Common/Event_Banner/T_UI_Lobby_Event_Banner_001.0"
+        },
+        "ResourceName": "UI.Banner_Ad_Title_7003"
+      }
+    }
+  }
+]

@@ -34902,7 +34902,7 @@
         "AirShotLocal": "Hero_1034001_Skill_1034010101_Miss",
         "HeroSkinID": "1034",
         "AttackHitLocal": "Hero_1034001_Skill_1034010101_Hit",
-        "PowerAttackHitLocal": "None",
+        "PowerAttackHitLocal": "Hero_1034001_Skill_1034010102_Hit",
         "CriticalAttackHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
         "TakeHitLocal": "Hero_1034001_Skill_1034010101_Hit",
         "TakeCriticalHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
@@ -34919,7 +34919,7 @@
         "PreparationSoundFinish": "None",
         "PreparationAimSound": "None",
         "CastStartVoice": "None",
-        "CastStartSound": "Hero_1034001_Skill_1034010101_lmb_a",
+        "CastStartSound": "None",
         "CastStartSoundLocal": "None",
         "CastCancelSound": "None",
         "CastCancelSoundLocal": "None",
@@ -34940,7 +34940,7 @@
         "AirShotLocal": "0",
         "HeroSkinID": "1034",
         "AttackHitLocal": "Hero_1034001_Skill_1034010101_Hit",
-        "PowerAttackHitLocal": "None",
+        "PowerAttackHitLocal": "Hero_1034001_Skill_1034010102_Hit",
         "CriticalAttackHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
         "TakeHitLocal": "Hero_1034001_Skill_1034010101_Hit",
         "TakeCriticalHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
@@ -34957,7 +34957,7 @@
         "PreparationSoundFinish": "None",
         "PreparationAimSound": "None",
         "CastStartVoice": "None",
-        "CastStartSound": "Hero_1034001_Skill_1034010101_lmb_b",
+        "CastStartSound": "None",
         "CastStartSoundLocal": "None",
         "CastCancelSound": "None",
         "CastCancelSoundLocal": "None",
@@ -34978,7 +34978,7 @@
         "AirShotLocal": "0",
         "HeroSkinID": "1034",
         "AttackHitLocal": "Hero_1034001_Skill_1034010101_Hit",
-        "PowerAttackHitLocal": "None",
+        "PowerAttackHitLocal": "Hero_1034001_Skill_1034010102_Hit",
         "CriticalAttackHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
         "TakeHitLocal": "Hero_1034001_Skill_1034010101_Hit",
         "TakeCriticalHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
@@ -34995,7 +34995,7 @@
         "PreparationSoundFinish": "None",
         "PreparationAimSound": "None",
         "CastStartVoice": "None",
-        "CastStartSound": "Hero_1034001_Skill_1034010101_lmb_c",
+        "CastStartSound": "None",
         "CastStartSoundLocal": "None",
         "CastCancelSound": "None",
         "CastCancelSoundLocal": "None",
@@ -35033,7 +35033,7 @@
         "PreparationSoundFinish": "None",
         "PreparationAimSound": "None",
         "CastStartVoice": "None",
-        "CastStartSound": "Hero_1034001_Skill_1034010301_attack",
+        "CastStartSound": "None",
         "CastStartSoundLocal": "None",
         "CastCancelSound": "None",
         "CastCancelSoundLocal": "None",
@@ -35049,6 +35049,82 @@
         }
       },
       "977": {
+        "SkillID": "1034020102",
+        "SkillGroupID": "10340101",
+        "AirShotLocal": "0",
+        "HeroSkinID": "1034",
+        "AttackHitLocal": "Hero_1034001_Skill_1034010301_Hit",
+        "PowerAttackHitLocal": "None",
+        "CriticalAttackHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "TakeHitLocal": "Hero_1034001_Skill_1034010301_Hit",
+        "TakeCriticalHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "ReadySound": "None",
+        "ReadySoundHearable": false,
+        "PrepareCamera": "None",
+        "CastCamera": "None",
+        "ActionCamera": "None",
+        "PreviewDecalActor": "None",
+        "PreviewDecalActor2": "None",
+        "SkillProcessingCrosshair": "None",
+        "PreparationSoundStart": "None",
+        "PreparationSoundLoop": "None",
+        "PreparationSoundFinish": "None",
+        "PreparationAimSound": "None",
+        "CastStartVoice": "None",
+        "CastStartSound": "None",
+        "CastStartSoundLocal": "None",
+        "CastCancelSound": "None",
+        "CastCancelSoundLocal": "None",
+        "ActionStartSound": "None",
+        "ActionStartSoundLocal": "None",
+        "ActionLoopSound": "None",
+        "ActionLoopSoundLocal": "None",
+        "ActionFinishSound": "None",
+        "ActionFinishSoundLocal": "None",
+        "CrosshairBP": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'Crosshair_Melee_C'",
+          "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Crosshair_Melee.12"
+        }
+      },
+      "978": {
+        "SkillID": "1034020103",
+        "SkillGroupID": "10340101",
+        "AirShotLocal": "0",
+        "HeroSkinID": "1034",
+        "AttackHitLocal": "Hero_1034001_Skill_1034010301_Hit",
+        "PowerAttackHitLocal": "None",
+        "CriticalAttackHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "TakeHitLocal": "Hero_1034001_Skill_1034010301_Hit",
+        "TakeCriticalHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "ReadySound": "None",
+        "ReadySoundHearable": false,
+        "PrepareCamera": "None",
+        "CastCamera": "None",
+        "ActionCamera": "None",
+        "PreviewDecalActor": "None",
+        "PreviewDecalActor2": "None",
+        "SkillProcessingCrosshair": "None",
+        "PreparationSoundStart": "None",
+        "PreparationSoundLoop": "None",
+        "PreparationSoundFinish": "None",
+        "PreparationAimSound": "None",
+        "CastStartVoice": "None",
+        "CastStartSound": "None",
+        "CastStartSoundLocal": "None",
+        "CastCancelSound": "None",
+        "CastCancelSoundLocal": "None",
+        "ActionStartSound": "None",
+        "ActionStartSoundLocal": "None",
+        "ActionLoopSound": "None",
+        "ActionLoopSoundLocal": "None",
+        "ActionFinishSound": "None",
+        "ActionFinishSoundLocal": "None",
+        "CrosshairBP": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'Crosshair_Melee_C'",
+          "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Crosshair_Melee.12"
+        }
+      },
+      "979": {
         "SkillID": "1034010201",
         "SkillGroupID": "10340102",
         "AirShotLocal": "0",
@@ -35067,12 +35143,12 @@
         "PreviewDecalActor2": "None",
         "SkillProcessingCrosshair": "None",
         "PreparationSoundStart": "Hero_1034001_Skill_1034010201_ready",
-        "PreparationSoundLoop": "None",
+        "PreparationSoundLoop": "Hero_1034001_Skill_1034010201_loop",
         "PreparationSoundFinish": "Hero_1034001_Skill_1034010201_cancel",
         "PreparationAimSound": "Hero_1015001_Skill_1015010401_rockon",
         "CastStartVoice": "None",
-        "CastStartSound": "Hero_1034001_Skill_1034010201_whoosh",
-        "CastStartSoundLocal": "Hero_1034001_Skill_1034010201_local_whoosh",
+        "CastStartSound": "None",
+        "CastStartSoundLocal": "None",
         "CastCancelSound": "None",
         "CastCancelSoundLocal": "None",
         "ActionStartSound": "None",
@@ -35086,7 +35162,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Aim.16"
         }
       },
-      "978": {
+      "980": {
         "SkillID": "1034010202",
         "SkillGroupID": "10340102",
         "AirShotLocal": "0",
@@ -35105,12 +35181,12 @@
         "PreviewDecalActor2": "None",
         "SkillProcessingCrosshair": "None",
         "PreparationSoundStart": "Hero_1034001_Skill_1034010201_ready",
-        "PreparationSoundLoop": "None",
+        "PreparationSoundLoop": "Hero_1034001_Skill_1034010201_loop",
         "PreparationSoundFinish": "Hero_1034001_Skill_1034010201_cancel",
         "PreparationAimSound": "Hero_1015001_Skill_1015010401_rockon",
         "CastStartVoice": "None",
-        "CastStartSound": "Hero_1034001_Skill_1034010201_whoosh",
-        "CastStartSoundLocal": "Hero_1034001_Skill_1034010201_local_whoosh",
+        "CastStartSound": "None",
+        "CastStartSoundLocal": "None",
         "CastCancelSound": "None",
         "CastCancelSoundLocal": "None",
         "ActionStartSound": "None",
@@ -35124,7 +35200,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Aim.16"
         }
       },
-      "979": {
+      "981": {
         "SkillID": "1034010203",
         "SkillGroupID": "10340102",
         "AirShotLocal": "0",
@@ -35143,12 +35219,12 @@
         "PreviewDecalActor2": "None",
         "SkillProcessingCrosshair": "None",
         "PreparationSoundStart": "Hero_1034001_Skill_1034010201_ready",
-        "PreparationSoundLoop": "None",
+        "PreparationSoundLoop": "Hero_1034001_Skill_1034010201_loop",
         "PreparationSoundFinish": "Hero_1034001_Skill_1034010201_cancel",
         "PreparationAimSound": "Hero_1015001_Skill_1015010401_rockon",
         "CastStartVoice": "None",
-        "CastStartSound": "Hero_1034001_Skill_1034010201_whoosh",
-        "CastStartSoundLocal": "Hero_1034001_Skill_1034010201_local_whoosh",
+        "CastStartSound": "None",
+        "CastStartSoundLocal": "None",
         "CastCancelSound": "None",
         "CastCancelSoundLocal": "None",
         "ActionStartSound": "None",
@@ -35162,7 +35238,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Aim.16"
         }
       },
-      "980": {
+      "982": {
         "SkillID": "1034010204",
         "SkillGroupID": "10340102",
         "AirShotLocal": "0",
@@ -35181,12 +35257,12 @@
         "PreviewDecalActor2": "None",
         "SkillProcessingCrosshair": "None",
         "PreparationSoundStart": "Hero_1034001_Skill_1034010201_ready",
-        "PreparationSoundLoop": "None",
+        "PreparationSoundLoop": "Hero_1034001_Skill_1034010201_loop",
         "PreparationSoundFinish": "Hero_1034001_Skill_1034010201_cancel",
         "PreparationAimSound": "Hero_1015001_Skill_1015010401_rockon",
         "CastStartVoice": "None",
-        "CastStartSound": "Hero_1034001_Skill_1034010201_whoosh",
-        "CastStartSoundLocal": "Hero_1034001_Skill_1034010201_local_whoosh",
+        "CastStartSound": "None",
+        "CastStartSoundLocal": "None",
         "CastCancelSound": "None",
         "CastCancelSoundLocal": "None",
         "ActionStartSound": "None",
@@ -35200,7 +35276,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Aim.16"
         }
       },
-      "981": {
+      "983": {
         "SkillID": "1034010205",
         "SkillGroupID": "10340102",
         "AirShotLocal": "0",
@@ -35219,12 +35295,12 @@
         "PreviewDecalActor2": "None",
         "SkillProcessingCrosshair": "None",
         "PreparationSoundStart": "Hero_1034001_Skill_1034010201_ready",
-        "PreparationSoundLoop": "None",
+        "PreparationSoundLoop": "Hero_1034001_Skill_1034010201_loop",
         "PreparationSoundFinish": "Hero_1034001_Skill_1034010201_cancel",
         "PreparationAimSound": "Hero_1015001_Skill_1015010401_rockon",
         "CastStartVoice": "None",
-        "CastStartSound": "Hero_1034001_Skill_1034010201_whoosh",
-        "CastStartSoundLocal": "Hero_1034001_Skill_1034010201_local_whoosh",
+        "CastStartSound": "None",
+        "CastStartSoundLocal": "None",
         "CastCancelSound": "None",
         "CastCancelSoundLocal": "None",
         "ActionStartSound": "None",
@@ -35238,7 +35314,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Aim.16"
         }
       },
-      "982": {
+      "984": {
         "SkillID": "1034010301",
         "SkillGroupID": "10340103",
         "AirShotLocal": "0",
@@ -35273,7 +35349,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "983": {
+      "985": {
         "SkillID": "1034010302",
         "SkillGroupID": "10340103",
         "AirShotLocal": "0",
@@ -35308,7 +35384,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "984": {
+      "986": {
         "SkillID": "1034010303",
         "SkillGroupID": "10340103",
         "AirShotLocal": "0",
@@ -35343,7 +35419,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "985": {
+      "987": {
         "SkillID": "1034010304",
         "SkillGroupID": "10340103",
         "AirShotLocal": "0",
@@ -35378,7 +35454,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "986": {
+      "988": {
         "SkillID": "1034010305",
         "SkillGroupID": "10340103",
         "AirShotLocal": "0",
@@ -35413,7 +35489,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "987": {
+      "989": {
         "SkillID": "1034010401",
         "SkillGroupID": "10340104",
         "AirShotLocal": "0",
@@ -35448,7 +35524,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "988": {
+      "990": {
         "SkillID": "1034010402",
         "SkillGroupID": "10340104",
         "AirShotLocal": "0",
@@ -35483,7 +35559,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "989": {
+      "991": {
         "SkillID": "1034010403",
         "SkillGroupID": "10340104",
         "AirShotLocal": "0",
@@ -35518,7 +35594,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "990": {
+      "992": {
         "SkillID": "1034010404",
         "SkillGroupID": "10340104",
         "AirShotLocal": "0",
@@ -35553,7 +35629,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "991": {
+      "993": {
         "SkillID": "1034010405",
         "SkillGroupID": "10340104",
         "AirShotLocal": "0",
@@ -35588,7 +35664,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "992": {
+      "994": {
         "SkillID": "1034010501",
         "SkillGroupID": "10340105",
         "AirShotLocal": "0",
@@ -35606,9 +35682,9 @@
         "PreviewDecalActor": "Skill_10340105_AOE",
         "PreviewDecalActor2": "None",
         "SkillProcessingCrosshair": "None",
-        "PreparationSoundStart": "None",
+        "PreparationSoundStart": "Hero_1034001_Skill_1034010501_rdy",
         "PreparationSoundLoop": "None",
-        "PreparationSoundFinish": "None",
+        "PreparationSoundFinish": "Hero_1034001_Skill_1034010501_cancel",
         "PreparationAimSound": "None",
         "CastStartVoice": "None",
         "CastStartSound": "None",
@@ -35623,7 +35699,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "993": {
+      "995": {
         "SkillID": "1034010502",
         "SkillGroupID": "10340105",
         "AirShotLocal": "0",
@@ -35641,9 +35717,9 @@
         "PreviewDecalActor": "Skill_10340105_AOE",
         "PreviewDecalActor2": "None",
         "SkillProcessingCrosshair": "None",
-        "PreparationSoundStart": "None",
+        "PreparationSoundStart": "Hero_1034001_Skill_1034010501_rdy",
         "PreparationSoundLoop": "None",
-        "PreparationSoundFinish": "None",
+        "PreparationSoundFinish": "Hero_1034001_Skill_1034010501_cancel",
         "PreparationAimSound": "None",
         "CastStartVoice": "None",
         "CastStartSound": "None",
@@ -35658,7 +35734,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "994": {
+      "996": {
         "SkillID": "1034010503",
         "SkillGroupID": "10340105",
         "AirShotLocal": "0",
@@ -35676,9 +35752,9 @@
         "PreviewDecalActor": "Skill_10340105_AOE",
         "PreviewDecalActor2": "None",
         "SkillProcessingCrosshair": "None",
-        "PreparationSoundStart": "None",
+        "PreparationSoundStart": "Hero_1034001_Skill_1034010501_rdy",
         "PreparationSoundLoop": "None",
-        "PreparationSoundFinish": "None",
+        "PreparationSoundFinish": "Hero_1034001_Skill_1034010501_cancel",
         "PreparationAimSound": "None",
         "CastStartVoice": "None",
         "CastStartSound": "None",
@@ -35693,7 +35769,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "995": {
+      "997": {
         "SkillID": "1034010601",
         "SkillGroupID": "10340106",
         "AirShotLocal": "0",
@@ -35728,7 +35804,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "996": {
+      "998": {
         "SkillID": "1034010701",
         "SkillGroupID": "10340107",
         "AirShotLocal": "0",
@@ -35763,7 +35839,7 @@
         "ActionFinishSoundLocal": "Hero_TravelMode_Start_02",
         "CrosshairBP": null
       },
-      "997": {
+      "999": {
         "SkillID": "1034010801",
         "SkillGroupID": "10340108",
         "AirShotLocal": "0",
@@ -35798,7 +35874,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "998": {
+      "1000": {
         "SkillID": "1034010901",
         "SkillGroupID": "10340109",
         "AirShotLocal": "0",
@@ -35833,7 +35909,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "999": {
+      "1001": {
         "SkillID": "1034010902",
         "SkillGroupID": "10340109",
         "AirShotLocal": "0",
@@ -35868,7 +35944,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1000": {
+      "1002": {
         "SkillID": "1034010903",
         "SkillGroupID": "10340109",
         "AirShotLocal": "0",
@@ -35903,7 +35979,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1001": {
+      "1003": {
         "SkillID": "103401102",
         "SkillGroupID": "103401102",
         "AirShotLocal": "None",
@@ -35938,92 +36014,16 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1002": {
+      "1004": {
         "SkillID": "1035010101",
         "SkillGroupID": "10350101",
-        "AirShotLocal": "0",
+        "AirShotLocal": "Hero_1035001_Skill_1035010101_Miss",
         "HeroSkinID": "1035",
-        "AttackHitLocal": "None",
+        "AttackHitLocal": "Hero_1035001_Skill_1035010101_Hit",
         "PowerAttackHitLocal": "None",
-        "CriticalAttackHitLocal": "None",
-        "TakeHitLocal": "None",
-        "TakeCriticalHitLocal": "None",
-        "ReadySound": "None",
-        "ReadySoundHearable": false,
-        "PrepareCamera": "None",
-        "CastCamera": "None",
-        "ActionCamera": "None",
-        "PreviewDecalActor": "None",
-        "PreviewDecalActor2": "None",
-        "SkillProcessingCrosshair": "None",
-        "PreparationSoundStart": "None",
-        "PreparationSoundLoop": "None",
-        "PreparationSoundFinish": "None",
-        "PreparationAimSound": "None",
-        "CastStartVoice": "None",
-        "CastStartSound": "None",
-        "CastStartSoundLocal": "None",
-        "CastCancelSound": "None",
-        "CastCancelSoundLocal": "None",
-        "ActionStartSound": "None",
-        "ActionStartSoundLocal": "None",
-        "ActionLoopSound": "None",
-        "ActionLoopSoundLocal": "None",
-        "ActionFinishSound": "None",
-        "ActionFinishSoundLocal": "None",
-        "CrosshairBP": {
-          "ObjectName": "WidgetBlueprintGeneratedClass'Crosshair_New_C'",
-          "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Crosshair_New.12"
-        }
-      },
-      "1003": {
-        "SkillID": "1035010102",
-        "SkillGroupID": "10350101",
-        "AirShotLocal": "0",
-        "HeroSkinID": "1035",
-        "AttackHitLocal": "None",
-        "PowerAttackHitLocal": "None",
-        "CriticalAttackHitLocal": "None",
-        "TakeHitLocal": "None",
-        "TakeCriticalHitLocal": "None",
-        "ReadySound": "None",
-        "ReadySoundHearable": false,
-        "PrepareCamera": "None",
-        "CastCamera": "None",
-        "ActionCamera": "None",
-        "PreviewDecalActor": "None",
-        "PreviewDecalActor2": "None",
-        "SkillProcessingCrosshair": "None",
-        "PreparationSoundStart": "None",
-        "PreparationSoundLoop": "None",
-        "PreparationSoundFinish": "None",
-        "PreparationAimSound": "None",
-        "CastStartVoice": "None",
-        "CastStartSound": "None",
-        "CastStartSoundLocal": "None",
-        "CastCancelSound": "None",
-        "CastCancelSoundLocal": "None",
-        "ActionStartSound": "None",
-        "ActionStartSoundLocal": "None",
-        "ActionLoopSound": "None",
-        "ActionLoopSoundLocal": "None",
-        "ActionFinishSound": "None",
-        "ActionFinishSoundLocal": "None",
-        "CrosshairBP": {
-          "ObjectName": "WidgetBlueprintGeneratedClass'Crosshair_New_C'",
-          "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Crosshair_New.12"
-        }
-      },
-      "1004": {
-        "SkillID": "1035010103",
-        "SkillGroupID": "10350101",
-        "AirShotLocal": "0",
-        "HeroSkinID": "1035",
-        "AttackHitLocal": "None",
-        "PowerAttackHitLocal": "None",
-        "CriticalAttackHitLocal": "None",
-        "TakeHitLocal": "None",
-        "TakeCriticalHitLocal": "None",
+        "CriticalAttackHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "TakeHitLocal": "Hero_1035001_Skill_1035010101_Hit",
+        "TakeCriticalHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
         "ReadySound": "None",
         "ReadySoundHearable": false,
         "PrepareCamera": "None",
@@ -36053,15 +36053,91 @@
         }
       },
       "1005": {
+        "SkillID": "1035010102",
+        "SkillGroupID": "10350101",
+        "AirShotLocal": "Hero_1035001_Skill_1035010101_Miss",
+        "HeroSkinID": "1035",
+        "AttackHitLocal": "Hero_1035001_Skill_1035010101_Hit",
+        "PowerAttackHitLocal": "None",
+        "CriticalAttackHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "TakeHitLocal": "Hero_1035001_Skill_1035010101_Hit",
+        "TakeCriticalHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "ReadySound": "None",
+        "ReadySoundHearable": false,
+        "PrepareCamera": "None",
+        "CastCamera": "None",
+        "ActionCamera": "None",
+        "PreviewDecalActor": "None",
+        "PreviewDecalActor2": "None",
+        "SkillProcessingCrosshair": "None",
+        "PreparationSoundStart": "None",
+        "PreparationSoundLoop": "None",
+        "PreparationSoundFinish": "None",
+        "PreparationAimSound": "None",
+        "CastStartVoice": "None",
+        "CastStartSound": "None",
+        "CastStartSoundLocal": "None",
+        "CastCancelSound": "None",
+        "CastCancelSoundLocal": "None",
+        "ActionStartSound": "None",
+        "ActionStartSoundLocal": "None",
+        "ActionLoopSound": "None",
+        "ActionLoopSoundLocal": "None",
+        "ActionFinishSound": "None",
+        "ActionFinishSoundLocal": "None",
+        "CrosshairBP": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'Crosshair_New_C'",
+          "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Crosshair_New.12"
+        }
+      },
+      "1006": {
+        "SkillID": "1035010103",
+        "SkillGroupID": "10350101",
+        "AirShotLocal": "Hero_1035001_Skill_1035010101_Miss",
+        "HeroSkinID": "1035",
+        "AttackHitLocal": "Hero_1035001_Skill_1035010101_Hit",
+        "PowerAttackHitLocal": "None",
+        "CriticalAttackHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "TakeHitLocal": "Hero_1035001_Skill_1035010101_Hit",
+        "TakeCriticalHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "ReadySound": "None",
+        "ReadySoundHearable": false,
+        "PrepareCamera": "None",
+        "CastCamera": "None",
+        "ActionCamera": "None",
+        "PreviewDecalActor": "None",
+        "PreviewDecalActor2": "None",
+        "SkillProcessingCrosshair": "None",
+        "PreparationSoundStart": "None",
+        "PreparationSoundLoop": "None",
+        "PreparationSoundFinish": "None",
+        "PreparationAimSound": "None",
+        "CastStartVoice": "None",
+        "CastStartSound": "None",
+        "CastStartSoundLocal": "None",
+        "CastCancelSound": "None",
+        "CastCancelSoundLocal": "None",
+        "ActionStartSound": "None",
+        "ActionStartSoundLocal": "None",
+        "ActionLoopSound": "None",
+        "ActionLoopSoundLocal": "None",
+        "ActionFinishSound": "None",
+        "ActionFinishSoundLocal": "None",
+        "CrosshairBP": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'Crosshair_New_C'",
+          "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Crosshair_New.12"
+        }
+      },
+      "1007": {
         "SkillID": "1035010201",
         "SkillGroupID": "10350102",
         "AirShotLocal": "0",
         "HeroSkinID": "1035",
-        "AttackHitLocal": "None",
+        "AttackHitLocal": "Hero_1035001_Skill_1035010201_Hit",
         "PowerAttackHitLocal": "None",
-        "CriticalAttackHitLocal": "None",
-        "TakeHitLocal": "None",
-        "TakeCriticalHitLocal": "None",
+        "CriticalAttackHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "TakeHitLocal": "Hero_1035001_Skill_1035010201_Hit",
+        "TakeCriticalHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
         "ReadySound": "None",
         "ReadySoundHearable": false,
         "PrepareCamera": "None",
@@ -36070,86 +36146,10 @@
         "PreviewDecalActor": "Skill_10350102_AOE",
         "PreviewDecalActor2": "None",
         "SkillProcessingCrosshair": "None",
-        "PreparationSoundStart": "None",
+        "PreparationSoundStart": "Hero_1035001_Skill_1035010201_ready",
         "PreparationSoundLoop": "None",
-        "PreparationSoundFinish": "None",
-        "PreparationAimSound": "None",
-        "CastStartVoice": "None",
-        "CastStartSound": "None",
-        "CastStartSoundLocal": "None",
-        "CastCancelSound": "None",
-        "CastCancelSoundLocal": "None",
-        "ActionStartSound": "None",
-        "ActionStartSoundLocal": "None",
-        "ActionLoopSound": "None",
-        "ActionLoopSoundLocal": "None",
-        "ActionFinishSound": "None",
-        "ActionFinishSoundLocal": "None",
-        "CrosshairBP": {
-          "ObjectName": "WidgetBlueprintGeneratedClass'Crosshair_Mode_Target_C'",
-          "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
-        }
-      },
-      "1006": {
-        "SkillID": "1035010202",
-        "SkillGroupID": "10350102",
-        "AirShotLocal": "0",
-        "HeroSkinID": "1035",
-        "AttackHitLocal": "None",
-        "PowerAttackHitLocal": "None",
-        "CriticalAttackHitLocal": "None",
-        "TakeHitLocal": "None",
-        "TakeCriticalHitLocal": "None",
-        "ReadySound": "None",
-        "ReadySoundHearable": false,
-        "PrepareCamera": "None",
-        "CastCamera": "None",
-        "ActionCamera": "None",
-        "PreviewDecalActor": "Skill_10350102_AOE",
-        "PreviewDecalActor2": "None",
-        "SkillProcessingCrosshair": "None",
-        "PreparationSoundStart": "None",
-        "PreparationSoundLoop": "None",
-        "PreparationSoundFinish": "None",
-        "PreparationAimSound": "None",
-        "CastStartVoice": "None",
-        "CastStartSound": "None",
-        "CastStartSoundLocal": "None",
-        "CastCancelSound": "None",
-        "CastCancelSoundLocal": "None",
-        "ActionStartSound": "None",
-        "ActionStartSoundLocal": "None",
-        "ActionLoopSound": "None",
-        "ActionLoopSoundLocal": "None",
-        "ActionFinishSound": "None",
-        "ActionFinishSoundLocal": "None",
-        "CrosshairBP": {
-          "ObjectName": "WidgetBlueprintGeneratedClass'Crosshair_Mode_Target_C'",
-          "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
-        }
-      },
-      "1007": {
-        "SkillID": "1035010203",
-        "SkillGroupID": "10350102",
-        "AirShotLocal": "0",
-        "HeroSkinID": "1035",
-        "AttackHitLocal": "None",
-        "PowerAttackHitLocal": "None",
-        "CriticalAttackHitLocal": "None",
-        "TakeHitLocal": "None",
-        "TakeCriticalHitLocal": "None",
-        "ReadySound": "None",
-        "ReadySoundHearable": false,
-        "PrepareCamera": "None",
-        "CastCamera": "None",
-        "ActionCamera": "None",
-        "PreviewDecalActor": "Skill_10350102_AOE",
-        "PreviewDecalActor2": "None",
-        "SkillProcessingCrosshair": "None",
-        "PreparationSoundStart": "None",
-        "PreparationSoundLoop": "None",
-        "PreparationSoundFinish": "None",
-        "PreparationAimSound": "None",
+        "PreparationSoundFinish": "Hero_1035001_Skill_1035010201_cancel",
+        "PreparationAimSound": "Hero_1015001_Skill_1015010401_rockon",
         "CastStartVoice": "None",
         "CastStartSound": "None",
         "CastStartSoundLocal": "None",
@@ -36167,15 +36167,15 @@
         }
       },
       "1008": {
-        "SkillID": "1035010204",
+        "SkillID": "1035010202",
         "SkillGroupID": "10350102",
         "AirShotLocal": "0",
         "HeroSkinID": "1035",
-        "AttackHitLocal": "None",
+        "AttackHitLocal": "Hero_1035001_Skill_1035010201_Hit",
         "PowerAttackHitLocal": "None",
-        "CriticalAttackHitLocal": "None",
-        "TakeHitLocal": "None",
-        "TakeCriticalHitLocal": "None",
+        "CriticalAttackHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "TakeHitLocal": "Hero_1035001_Skill_1035010201_Hit",
+        "TakeCriticalHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
         "ReadySound": "None",
         "ReadySoundHearable": false,
         "PrepareCamera": "None",
@@ -36184,10 +36184,10 @@
         "PreviewDecalActor": "Skill_10350102_AOE",
         "PreviewDecalActor2": "None",
         "SkillProcessingCrosshair": "None",
-        "PreparationSoundStart": "None",
+        "PreparationSoundStart": "Hero_1035001_Skill_1035010201_ready",
         "PreparationSoundLoop": "None",
-        "PreparationSoundFinish": "None",
-        "PreparationAimSound": "None",
+        "PreparationSoundFinish": "Hero_1035001_Skill_1035010201_cancel",
+        "PreparationAimSound": "Hero_1015001_Skill_1015010401_rockon",
         "CastStartVoice": "None",
         "CastStartSound": "None",
         "CastStartSoundLocal": "None",
@@ -36205,15 +36205,15 @@
         }
       },
       "1009": {
-        "SkillID": "1035010205",
+        "SkillID": "1035010203",
         "SkillGroupID": "10350102",
         "AirShotLocal": "0",
         "HeroSkinID": "1035",
-        "AttackHitLocal": "None",
+        "AttackHitLocal": "Hero_1035001_Skill_1035010201_Hit",
         "PowerAttackHitLocal": "None",
-        "CriticalAttackHitLocal": "None",
-        "TakeHitLocal": "None",
-        "TakeCriticalHitLocal": "None",
+        "CriticalAttackHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "TakeHitLocal": "Hero_1035001_Skill_1035010201_Hit",
+        "TakeCriticalHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
         "ReadySound": "None",
         "ReadySoundHearable": false,
         "PrepareCamera": "None",
@@ -36222,10 +36222,10 @@
         "PreviewDecalActor": "Skill_10350102_AOE",
         "PreviewDecalActor2": "None",
         "SkillProcessingCrosshair": "None",
-        "PreparationSoundStart": "None",
+        "PreparationSoundStart": "Hero_1035001_Skill_1035010201_ready",
         "PreparationSoundLoop": "None",
-        "PreparationSoundFinish": "None",
-        "PreparationAimSound": "None",
+        "PreparationSoundFinish": "Hero_1035001_Skill_1035010201_cancel",
+        "PreparationAimSound": "Hero_1015001_Skill_1015010401_rockon",
         "CastStartVoice": "None",
         "CastStartSound": "None",
         "CastStartSoundLocal": "None",
@@ -36243,15 +36243,91 @@
         }
       },
       "1010": {
+        "SkillID": "1035010204",
+        "SkillGroupID": "10350102",
+        "AirShotLocal": "0",
+        "HeroSkinID": "1035",
+        "AttackHitLocal": "Hero_1035001_Skill_1035010201_Hit",
+        "PowerAttackHitLocal": "None",
+        "CriticalAttackHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "TakeHitLocal": "Hero_1035001_Skill_1035010201_Hit",
+        "TakeCriticalHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "ReadySound": "None",
+        "ReadySoundHearable": false,
+        "PrepareCamera": "None",
+        "CastCamera": "None",
+        "ActionCamera": "None",
+        "PreviewDecalActor": "Skill_10350102_AOE",
+        "PreviewDecalActor2": "None",
+        "SkillProcessingCrosshair": "None",
+        "PreparationSoundStart": "Hero_1035001_Skill_1035010201_ready",
+        "PreparationSoundLoop": "None",
+        "PreparationSoundFinish": "Hero_1035001_Skill_1035010201_cancel",
+        "PreparationAimSound": "Hero_1015001_Skill_1015010401_rockon",
+        "CastStartVoice": "None",
+        "CastStartSound": "None",
+        "CastStartSoundLocal": "None",
+        "CastCancelSound": "None",
+        "CastCancelSoundLocal": "None",
+        "ActionStartSound": "None",
+        "ActionStartSoundLocal": "None",
+        "ActionLoopSound": "None",
+        "ActionLoopSoundLocal": "None",
+        "ActionFinishSound": "None",
+        "ActionFinishSoundLocal": "None",
+        "CrosshairBP": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'Crosshair_Mode_Target_C'",
+          "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
+        }
+      },
+      "1011": {
+        "SkillID": "1035010205",
+        "SkillGroupID": "10350102",
+        "AirShotLocal": "0",
+        "HeroSkinID": "1035",
+        "AttackHitLocal": "Hero_1035001_Skill_1035010201_Hit",
+        "PowerAttackHitLocal": "None",
+        "CriticalAttackHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "TakeHitLocal": "Hero_1035001_Skill_1035010201_Hit",
+        "TakeCriticalHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "ReadySound": "None",
+        "ReadySoundHearable": false,
+        "PrepareCamera": "None",
+        "CastCamera": "None",
+        "ActionCamera": "None",
+        "PreviewDecalActor": "Skill_10350102_AOE",
+        "PreviewDecalActor2": "None",
+        "SkillProcessingCrosshair": "None",
+        "PreparationSoundStart": "Hero_1035001_Skill_1035010201_ready",
+        "PreparationSoundLoop": "None",
+        "PreparationSoundFinish": "Hero_1035001_Skill_1035010201_cancel",
+        "PreparationAimSound": "Hero_1015001_Skill_1015010401_rockon",
+        "CastStartVoice": "None",
+        "CastStartSound": "None",
+        "CastStartSoundLocal": "None",
+        "CastCancelSound": "None",
+        "CastCancelSoundLocal": "None",
+        "ActionStartSound": "None",
+        "ActionStartSoundLocal": "None",
+        "ActionLoopSound": "None",
+        "ActionLoopSoundLocal": "None",
+        "ActionFinishSound": "None",
+        "ActionFinishSoundLocal": "None",
+        "CrosshairBP": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'Crosshair_Mode_Target_C'",
+          "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
+        }
+      },
+      "1012": {
         "SkillID": "1035010301",
         "SkillGroupID": "10350103",
         "AirShotLocal": "0",
         "HeroSkinID": "1035",
-        "AttackHitLocal": "None",
+        "AttackHitLocal": "Hero_1035001_Skill_1035010301_Hit",
         "PowerAttackHitLocal": "None",
-        "CriticalAttackHitLocal": "None",
-        "TakeHitLocal": "None",
-        "TakeCriticalHitLocal": "None",
+        "CriticalAttackHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "TakeHitLocal": "Hero_1035001_Skill_1035010301_Hit",
+        "TakeCriticalHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
         "ReadySound": "None",
         "ReadySoundHearable": false,
         "PrepareCamera": "None",
@@ -36260,79 +36336,9 @@
         "PreviewDecalActor": "Skill_10350103_AOE",
         "PreviewDecalActor2": "Skill_Common_Circle_CastRange",
         "SkillProcessingCrosshair": "None",
-        "PreparationSoundStart": "None",
+        "PreparationSoundStart": "Hero_1035001_Skill_1035010301_ready",
         "PreparationSoundLoop": "None",
-        "PreparationSoundFinish": "None",
-        "PreparationAimSound": "None",
-        "CastStartVoice": "None",
-        "CastStartSound": "None",
-        "CastStartSoundLocal": "None",
-        "CastCancelSound": "None",
-        "CastCancelSoundLocal": "None",
-        "ActionStartSound": "None",
-        "ActionStartSoundLocal": "None",
-        "ActionLoopSound": "None",
-        "ActionLoopSoundLocal": "None",
-        "ActionFinishSound": "None",
-        "ActionFinishSoundLocal": "None",
-        "CrosshairBP": null
-      },
-      "1011": {
-        "SkillID": "1035010302",
-        "SkillGroupID": "10350103",
-        "AirShotLocal": "0",
-        "HeroSkinID": "1035",
-        "AttackHitLocal": "None",
-        "PowerAttackHitLocal": "None",
-        "CriticalAttackHitLocal": "None",
-        "TakeHitLocal": "None",
-        "TakeCriticalHitLocal": "None",
-        "ReadySound": "None",
-        "ReadySoundHearable": false,
-        "PrepareCamera": "None",
-        "CastCamera": "None",
-        "ActionCamera": "None",
-        "PreviewDecalActor": "Skill_10350103_AOE",
-        "PreviewDecalActor2": "Skill_Common_Circle_CastRange",
-        "SkillProcessingCrosshair": "None",
-        "PreparationSoundStart": "None",
-        "PreparationSoundLoop": "None",
-        "PreparationSoundFinish": "None",
-        "PreparationAimSound": "None",
-        "CastStartVoice": "None",
-        "CastStartSound": "None",
-        "CastStartSoundLocal": "None",
-        "CastCancelSound": "None",
-        "CastCancelSoundLocal": "None",
-        "ActionStartSound": "None",
-        "ActionStartSoundLocal": "None",
-        "ActionLoopSound": "None",
-        "ActionLoopSoundLocal": "None",
-        "ActionFinishSound": "None",
-        "ActionFinishSoundLocal": "None",
-        "CrosshairBP": null
-      },
-      "1012": {
-        "SkillID": "1035010303",
-        "SkillGroupID": "10350103",
-        "AirShotLocal": "0",
-        "HeroSkinID": "1035",
-        "AttackHitLocal": "None",
-        "PowerAttackHitLocal": "None",
-        "CriticalAttackHitLocal": "None",
-        "TakeHitLocal": "None",
-        "TakeCriticalHitLocal": "None",
-        "ReadySound": "None",
-        "ReadySoundHearable": false,
-        "PrepareCamera": "None",
-        "CastCamera": "None",
-        "ActionCamera": "None",
-        "PreviewDecalActor": "Skill_10350103_AOE",
-        "PreviewDecalActor2": "Skill_Common_Circle_CastRange",
-        "SkillProcessingCrosshair": "None",
-        "PreparationSoundStart": "None",
-        "PreparationSoundLoop": "None",
-        "PreparationSoundFinish": "None",
+        "PreparationSoundFinish": "Hero_1035001_Skill_1035010301_cancel",
         "PreparationAimSound": "None",
         "CastStartVoice": "None",
         "CastStartSound": "None",
@@ -36348,15 +36354,15 @@
         "CrosshairBP": null
       },
       "1013": {
-        "SkillID": "1035010304",
+        "SkillID": "1035010302",
         "SkillGroupID": "10350103",
         "AirShotLocal": "0",
         "HeroSkinID": "1035",
-        "AttackHitLocal": "None",
+        "AttackHitLocal": "Hero_1035001_Skill_1035010301_Hit",
         "PowerAttackHitLocal": "None",
-        "CriticalAttackHitLocal": "None",
-        "TakeHitLocal": "None",
-        "TakeCriticalHitLocal": "None",
+        "CriticalAttackHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "TakeHitLocal": "Hero_1035001_Skill_1035010301_Hit",
+        "TakeCriticalHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
         "ReadySound": "None",
         "ReadySoundHearable": false,
         "PrepareCamera": "None",
@@ -36365,9 +36371,9 @@
         "PreviewDecalActor": "Skill_10350103_AOE",
         "PreviewDecalActor2": "Skill_Common_Circle_CastRange",
         "SkillProcessingCrosshair": "None",
-        "PreparationSoundStart": "None",
+        "PreparationSoundStart": "Hero_1035001_Skill_1035010301_ready",
         "PreparationSoundLoop": "None",
-        "PreparationSoundFinish": "None",
+        "PreparationSoundFinish": "Hero_1035001_Skill_1035010301_cancel",
         "PreparationAimSound": "None",
         "CastStartVoice": "None",
         "CastStartSound": "None",
@@ -36383,15 +36389,15 @@
         "CrosshairBP": null
       },
       "1014": {
-        "SkillID": "1035010305",
+        "SkillID": "1035010303",
         "SkillGroupID": "10350103",
         "AirShotLocal": "0",
         "HeroSkinID": "1035",
-        "AttackHitLocal": "None",
+        "AttackHitLocal": "Hero_1035001_Skill_1035010301_Hit",
         "PowerAttackHitLocal": "None",
-        "CriticalAttackHitLocal": "None",
-        "TakeHitLocal": "None",
-        "TakeCriticalHitLocal": "None",
+        "CriticalAttackHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "TakeHitLocal": "Hero_1035001_Skill_1035010301_Hit",
+        "TakeCriticalHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
         "ReadySound": "None",
         "ReadySoundHearable": false,
         "PrepareCamera": "None",
@@ -36400,9 +36406,9 @@
         "PreviewDecalActor": "Skill_10350103_AOE",
         "PreviewDecalActor2": "Skill_Common_Circle_CastRange",
         "SkillProcessingCrosshair": "None",
-        "PreparationSoundStart": "None",
+        "PreparationSoundStart": "Hero_1035001_Skill_1035010301_ready",
         "PreparationSoundLoop": "None",
-        "PreparationSoundFinish": "None",
+        "PreparationSoundFinish": "Hero_1035001_Skill_1035010301_cancel",
         "PreparationAimSound": "None",
         "CastStartVoice": "None",
         "CastStartSound": "None",
@@ -36418,26 +36424,26 @@
         "CrosshairBP": null
       },
       "1015": {
-        "SkillID": "1035010401",
-        "SkillGroupID": "10350104",
+        "SkillID": "1035010304",
+        "SkillGroupID": "10350103",
         "AirShotLocal": "0",
         "HeroSkinID": "1035",
-        "AttackHitLocal": "None",
+        "AttackHitLocal": "Hero_1035001_Skill_1035010301_Hit",
         "PowerAttackHitLocal": "None",
-        "CriticalAttackHitLocal": "None",
-        "TakeHitLocal": "None",
-        "TakeCriticalHitLocal": "None",
+        "CriticalAttackHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "TakeHitLocal": "Hero_1035001_Skill_1035010301_Hit",
+        "TakeCriticalHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
         "ReadySound": "None",
         "ReadySoundHearable": false,
         "PrepareCamera": "None",
         "CastCamera": "None",
         "ActionCamera": "None",
-        "PreviewDecalActor": "None",
-        "PreviewDecalActor2": "None",
+        "PreviewDecalActor": "Skill_10350103_AOE",
+        "PreviewDecalActor2": "Skill_Common_Circle_CastRange",
         "SkillProcessingCrosshair": "None",
-        "PreparationSoundStart": "None",
+        "PreparationSoundStart": "Hero_1035001_Skill_1035010301_ready",
         "PreparationSoundLoop": "None",
-        "PreparationSoundFinish": "None",
+        "PreparationSoundFinish": "Hero_1035001_Skill_1035010301_cancel",
         "PreparationAimSound": "None",
         "CastStartVoice": "None",
         "CastStartSound": "None",
@@ -36453,26 +36459,26 @@
         "CrosshairBP": null
       },
       "1016": {
-        "SkillID": "1035010402",
-        "SkillGroupID": "10350104",
+        "SkillID": "1035010305",
+        "SkillGroupID": "10350103",
         "AirShotLocal": "0",
         "HeroSkinID": "1035",
-        "AttackHitLocal": "None",
+        "AttackHitLocal": "Hero_1035001_Skill_1035010301_Hit",
         "PowerAttackHitLocal": "None",
-        "CriticalAttackHitLocal": "None",
-        "TakeHitLocal": "None",
-        "TakeCriticalHitLocal": "None",
+        "CriticalAttackHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "TakeHitLocal": "Hero_1035001_Skill_1035010301_Hit",
+        "TakeCriticalHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
         "ReadySound": "None",
         "ReadySoundHearable": false,
         "PrepareCamera": "None",
         "CastCamera": "None",
         "ActionCamera": "None",
-        "PreviewDecalActor": "None",
-        "PreviewDecalActor2": "None",
+        "PreviewDecalActor": "Skill_10350103_AOE",
+        "PreviewDecalActor2": "Skill_Common_Circle_CastRange",
         "SkillProcessingCrosshair": "None",
-        "PreparationSoundStart": "None",
+        "PreparationSoundStart": "Hero_1035001_Skill_1035010301_ready",
         "PreparationSoundLoop": "None",
-        "PreparationSoundFinish": "None",
+        "PreparationSoundFinish": "Hero_1035001_Skill_1035010301_cancel",
         "PreparationAimSound": "None",
         "CastStartVoice": "None",
         "CastStartSound": "None",
@@ -36488,15 +36494,15 @@
         "CrosshairBP": null
       },
       "1017": {
-        "SkillID": "1035010403",
+        "SkillID": "1035010401",
         "SkillGroupID": "10350104",
         "AirShotLocal": "0",
         "HeroSkinID": "1035",
-        "AttackHitLocal": "None",
+        "AttackHitLocal": "Hero_1035001_Skill_1035010401_Hit",
         "PowerAttackHitLocal": "None",
-        "CriticalAttackHitLocal": "None",
-        "TakeHitLocal": "None",
-        "TakeCriticalHitLocal": "None",
+        "CriticalAttackHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "TakeHitLocal": "Hero_1035001_Skill_1035010401_Hit",
+        "TakeCriticalHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
         "ReadySound": "None",
         "ReadySoundHearable": false,
         "PrepareCamera": "None",
@@ -36523,15 +36529,15 @@
         "CrosshairBP": null
       },
       "1018": {
-        "SkillID": "1035010404",
+        "SkillID": "1035010402",
         "SkillGroupID": "10350104",
         "AirShotLocal": "0",
         "HeroSkinID": "1035",
-        "AttackHitLocal": "None",
+        "AttackHitLocal": "Hero_1035001_Skill_1035010401_Hit",
         "PowerAttackHitLocal": "None",
-        "CriticalAttackHitLocal": "None",
-        "TakeHitLocal": "None",
-        "TakeCriticalHitLocal": "None",
+        "CriticalAttackHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "TakeHitLocal": "Hero_1035001_Skill_1035010401_Hit",
+        "TakeCriticalHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
         "ReadySound": "None",
         "ReadySoundHearable": false,
         "PrepareCamera": "None",
@@ -36558,15 +36564,15 @@
         "CrosshairBP": null
       },
       "1019": {
-        "SkillID": "1035010405",
+        "SkillID": "1035010403",
         "SkillGroupID": "10350104",
         "AirShotLocal": "0",
         "HeroSkinID": "1035",
-        "AttackHitLocal": "None",
+        "AttackHitLocal": "Hero_1035001_Skill_1035010401_Hit",
         "PowerAttackHitLocal": "None",
-        "CriticalAttackHitLocal": "None",
-        "TakeHitLocal": "None",
-        "TakeCriticalHitLocal": "None",
+        "CriticalAttackHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "TakeHitLocal": "Hero_1035001_Skill_1035010401_Hit",
+        "TakeCriticalHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
         "ReadySound": "None",
         "ReadySoundHearable": false,
         "PrepareCamera": "None",
@@ -36593,20 +36599,20 @@
         "CrosshairBP": null
       },
       "1020": {
-        "SkillID": "1035010501",
-        "SkillGroupID": "10350105",
+        "SkillID": "1035010404",
+        "SkillGroupID": "10350104",
         "AirShotLocal": "0",
         "HeroSkinID": "1035",
-        "AttackHitLocal": "None",
+        "AttackHitLocal": "Hero_1035001_Skill_1035010401_Hit",
         "PowerAttackHitLocal": "None",
-        "CriticalAttackHitLocal": "None",
-        "TakeHitLocal": "None",
-        "TakeCriticalHitLocal": "None",
+        "CriticalAttackHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "TakeHitLocal": "Hero_1035001_Skill_1035010401_Hit",
+        "TakeCriticalHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
         "ReadySound": "None",
         "ReadySoundHearable": false,
         "PrepareCamera": "None",
         "CastCamera": "None",
-        "ActionCamera": "10350105",
+        "ActionCamera": "None",
         "PreviewDecalActor": "None",
         "PreviewDecalActor2": "None",
         "SkillProcessingCrosshair": "None",
@@ -36628,20 +36634,20 @@
         "CrosshairBP": null
       },
       "1021": {
-        "SkillID": "1035010502",
-        "SkillGroupID": "10350105",
+        "SkillID": "1035010405",
+        "SkillGroupID": "10350104",
         "AirShotLocal": "0",
         "HeroSkinID": "1035",
-        "AttackHitLocal": "None",
+        "AttackHitLocal": "Hero_1035001_Skill_1035010401_Hit",
         "PowerAttackHitLocal": "None",
-        "CriticalAttackHitLocal": "None",
-        "TakeHitLocal": "None",
-        "TakeCriticalHitLocal": "None",
+        "CriticalAttackHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "TakeHitLocal": "Hero_1035001_Skill_1035010401_Hit",
+        "TakeCriticalHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
         "ReadySound": "None",
         "ReadySoundHearable": false,
         "PrepareCamera": "None",
         "CastCamera": "None",
-        "ActionCamera": "10350105",
+        "ActionCamera": "None",
         "PreviewDecalActor": "None",
         "PreviewDecalActor2": "None",
         "SkillProcessingCrosshair": "None",
@@ -36663,16 +36669,16 @@
         "CrosshairBP": null
       },
       "1022": {
-        "SkillID": "1035010503",
+        "SkillID": "1035010501",
         "SkillGroupID": "10350105",
         "AirShotLocal": "0",
         "HeroSkinID": "1035",
-        "AttackHitLocal": "None",
+        "AttackHitLocal": "Hero_1035001_Skill_1035010501_Hit",
         "PowerAttackHitLocal": "None",
-        "CriticalAttackHitLocal": "None",
-        "TakeHitLocal": "None",
-        "TakeCriticalHitLocal": "None",
-        "ReadySound": "None",
+        "CriticalAttackHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "TakeHitLocal": "Hero_1035001_Skill_1035010501_Hit",
+        "TakeCriticalHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "ReadySound": "Hero_1035001_Skill_1035010501_Ready",
         "ReadySoundHearable": false,
         "PrepareCamera": "None",
         "CastCamera": "None",
@@ -36698,6 +36704,76 @@
         "CrosshairBP": null
       },
       "1023": {
+        "SkillID": "1035010502",
+        "SkillGroupID": "10350105",
+        "AirShotLocal": "0",
+        "HeroSkinID": "1035",
+        "AttackHitLocal": "Hero_1035001_Skill_1035010501_Hit",
+        "PowerAttackHitLocal": "None",
+        "CriticalAttackHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "TakeHitLocal": "Hero_1035001_Skill_1035010501_Hit",
+        "TakeCriticalHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "ReadySound": "Hero_1035001_Skill_1035010501_Ready",
+        "ReadySoundHearable": false,
+        "PrepareCamera": "None",
+        "CastCamera": "None",
+        "ActionCamera": "10350105",
+        "PreviewDecalActor": "None",
+        "PreviewDecalActor2": "None",
+        "SkillProcessingCrosshair": "None",
+        "PreparationSoundStart": "None",
+        "PreparationSoundLoop": "None",
+        "PreparationSoundFinish": "None",
+        "PreparationAimSound": "None",
+        "CastStartVoice": "None",
+        "CastStartSound": "None",
+        "CastStartSoundLocal": "None",
+        "CastCancelSound": "None",
+        "CastCancelSoundLocal": "None",
+        "ActionStartSound": "None",
+        "ActionStartSoundLocal": "None",
+        "ActionLoopSound": "None",
+        "ActionLoopSoundLocal": "None",
+        "ActionFinishSound": "None",
+        "ActionFinishSoundLocal": "None",
+        "CrosshairBP": null
+      },
+      "1024": {
+        "SkillID": "1035010503",
+        "SkillGroupID": "10350105",
+        "AirShotLocal": "0",
+        "HeroSkinID": "1035",
+        "AttackHitLocal": "Hero_1035001_Skill_1035010501_Hit",
+        "PowerAttackHitLocal": "None",
+        "CriticalAttackHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "TakeHitLocal": "Hero_1035001_Skill_1035010501_Hit",
+        "TakeCriticalHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "ReadySound": "Hero_1035001_Skill_1035010501_Ready",
+        "ReadySoundHearable": false,
+        "PrepareCamera": "None",
+        "CastCamera": "None",
+        "ActionCamera": "10350105",
+        "PreviewDecalActor": "None",
+        "PreviewDecalActor2": "None",
+        "SkillProcessingCrosshair": "None",
+        "PreparationSoundStart": "None",
+        "PreparationSoundLoop": "None",
+        "PreparationSoundFinish": "None",
+        "PreparationAimSound": "None",
+        "CastStartVoice": "None",
+        "CastStartSound": "None",
+        "CastStartSoundLocal": "None",
+        "CastCancelSound": "None",
+        "CastCancelSoundLocal": "None",
+        "ActionStartSound": "None",
+        "ActionStartSoundLocal": "None",
+        "ActionLoopSound": "None",
+        "ActionLoopSoundLocal": "None",
+        "ActionFinishSound": "None",
+        "ActionFinishSoundLocal": "None",
+        "CrosshairBP": null
+      },
+      "1025": {
         "SkillID": "1035010601",
         "SkillGroupID": "10350106",
         "AirShotLocal": "0",
@@ -36732,7 +36808,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1024": {
+      "1026": {
         "SkillID": "1035010701",
         "SkillGroupID": "10350107",
         "AirShotLocal": "0",
@@ -36756,7 +36832,7 @@
         "PreparationAimSound": "None",
         "CastStartVoice": "None",
         "CastStartSound": "None",
-        "CastStartSoundLocal": "None",
+        "CastStartSoundLocal": "Hero_TravelMode_Start",
         "CastCancelSound": "None",
         "CastCancelSoundLocal": "None",
         "ActionStartSound": "None",
@@ -36767,7 +36843,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1025": {
+      "1027": {
         "SkillID": "1035010801",
         "SkillGroupID": "10350108",
         "AirShotLocal": "0",
@@ -36790,11 +36866,11 @@
         "PreparationSoundFinish": "None",
         "PreparationAimSound": "None",
         "CastStartVoice": "None",
-        "CastStartSound": "None",
+        "CastStartSound": "Global_Common_Battle_Event_005",
         "CastStartSoundLocal": "None",
-        "CastCancelSound": "None",
+        "CastCancelSound": "Global_Common_Battle_Event_007",
         "CastCancelSoundLocal": "None",
-        "ActionStartSound": "None",
+        "ActionStartSound": "Global_Common_Battle_Event_006",
         "ActionStartSoundLocal": "None",
         "ActionLoopSound": "None",
         "ActionLoopSoundLocal": "None",
@@ -36802,7 +36878,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1026": {
+      "1028": {
         "SkillID": "1035010901",
         "SkillGroupID": "10350109",
         "AirShotLocal": "0",
@@ -36837,7 +36913,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1027": {
+      "1029": {
         "SkillID": "1035010902",
         "SkillGroupID": "10350109",
         "AirShotLocal": "0",
@@ -36872,7 +36948,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1028": {
+      "1030": {
         "SkillID": "1035010903",
         "SkillGroupID": "10350109",
         "AirShotLocal": "0",
@@ -36907,7 +36983,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1029": {
+      "1031": {
         "SkillID": "103501102",
         "SkillGroupID": "103501102",
         "AirShotLocal": "None",
@@ -36942,7 +37018,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1030": {
+      "1032": {
         "SkillID": "1036010101",
         "SkillGroupID": "10360101",
         "AirShotLocal": "Hero_1036001_Skill_1036010101_Miss",
@@ -36980,7 +37056,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Crosshair_Melee.12"
         }
       },
-      "1031": {
+      "1033": {
         "SkillID": "1036010102",
         "SkillGroupID": "10360101",
         "AirShotLocal": "Hero_1036001_Skill_1036010101_Miss",
@@ -37018,7 +37094,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Crosshair_Melee.12"
         }
       },
-      "1032": {
+      "1034": {
         "SkillID": "1036010103",
         "SkillGroupID": "10360101",
         "AirShotLocal": "Hero_1036001_Skill_1036010101_Miss",
@@ -37056,7 +37132,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Crosshair_Melee.12"
         }
       },
-      "1033": {
+      "1035": {
         "SkillID": "1036010104",
         "SkillGroupID": "10360101",
         "AirShotLocal": "Hero_1036001_Skill_1036010101_Miss",
@@ -37094,7 +37170,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Crosshair_Melee.12"
         }
       },
-      "1034": {
+      "1036": {
         "SkillID": "1036010201",
         "SkillGroupID": "10360102",
         "AirShotLocal": "0",
@@ -37132,7 +37208,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Aim.16"
         }
       },
-      "1035": {
+      "1037": {
         "SkillID": "1036010202",
         "SkillGroupID": "10360102",
         "AirShotLocal": "0",
@@ -37170,7 +37246,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Aim.16"
         }
       },
-      "1036": {
+      "1038": {
         "SkillID": "1036010203",
         "SkillGroupID": "10360102",
         "AirShotLocal": "0",
@@ -37208,7 +37284,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Aim.16"
         }
       },
-      "1037": {
+      "1039": {
         "SkillID": "1036010204",
         "SkillGroupID": "10360102",
         "AirShotLocal": "0",
@@ -37246,7 +37322,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Aim.16"
         }
       },
-      "1038": {
+      "1040": {
         "SkillID": "1036010205",
         "SkillGroupID": "10360102",
         "AirShotLocal": "0",
@@ -37284,7 +37360,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Aim.16"
         }
       },
-      "1039": {
+      "1041": {
         "SkillID": "1036020201",
         "SkillGroupID": "10360202",
         "AirShotLocal": "0",
@@ -37319,7 +37395,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1040": {
+      "1042": {
         "SkillID": "103602020101",
         "SkillGroupID": "1036020201",
         "AirShotLocal": "0",
@@ -37354,7 +37430,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1041": {
+      "1043": {
         "SkillID": "103602020102",
         "SkillGroupID": "1036020201",
         "AirShotLocal": "0",
@@ -37389,7 +37465,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1042": {
+      "1044": {
         "SkillID": "103602020103",
         "SkillGroupID": "1036020201",
         "AirShotLocal": "0",
@@ -37424,7 +37500,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1043": {
+      "1045": {
         "SkillID": "103602020104",
         "SkillGroupID": "1036020201",
         "AirShotLocal": "0",
@@ -37459,7 +37535,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1044": {
+      "1046": {
         "SkillID": "103602020105",
         "SkillGroupID": "1036020201",
         "AirShotLocal": "0",
@@ -37494,7 +37570,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1045": {
+      "1047": {
         "SkillID": "103602020106",
         "SkillGroupID": "1036020201",
         "AirShotLocal": "0",
@@ -37529,7 +37605,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1046": {
+      "1048": {
         "SkillID": "103602020107",
         "SkillGroupID": "1036020201",
         "AirShotLocal": "0",
@@ -37564,7 +37640,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1047": {
+      "1049": {
         "SkillID": "103602020108",
         "SkillGroupID": "1036020201",
         "AirShotLocal": "0",
@@ -37599,7 +37675,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1048": {
+      "1050": {
         "SkillID": "1036020202",
         "SkillGroupID": "10360202",
         "AirShotLocal": "0",
@@ -37634,7 +37710,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1049": {
+      "1051": {
         "SkillID": "103602020201",
         "SkillGroupID": "1036020202",
         "AirShotLocal": "0",
@@ -37669,7 +37745,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1050": {
+      "1052": {
         "SkillID": "103602020202",
         "SkillGroupID": "1036020202",
         "AirShotLocal": "0",
@@ -37704,7 +37780,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1051": {
+      "1053": {
         "SkillID": "103602020203",
         "SkillGroupID": "1036020202",
         "AirShotLocal": "0",
@@ -37739,7 +37815,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1052": {
+      "1054": {
         "SkillID": "103602020204",
         "SkillGroupID": "1036020202",
         "AirShotLocal": "0",
@@ -37774,7 +37850,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1053": {
+      "1055": {
         "SkillID": "103602020205",
         "SkillGroupID": "1036020202",
         "AirShotLocal": "0",
@@ -37809,7 +37885,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1054": {
+      "1056": {
         "SkillID": "103602020206",
         "SkillGroupID": "1036020202",
         "AirShotLocal": "0",
@@ -37844,7 +37920,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1055": {
+      "1057": {
         "SkillID": "103602020207",
         "SkillGroupID": "1036020202",
         "AirShotLocal": "0",
@@ -37879,7 +37955,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1056": {
+      "1058": {
         "SkillID": "103602020208",
         "SkillGroupID": "1036020202",
         "AirShotLocal": "0",
@@ -37914,7 +37990,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1057": {
+      "1059": {
         "SkillID": "1036020203",
         "SkillGroupID": "10360202",
         "AirShotLocal": "0",
@@ -37949,7 +38025,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1058": {
+      "1060": {
         "SkillID": "103602020301",
         "SkillGroupID": "1036020203",
         "AirShotLocal": "0",
@@ -37984,7 +38060,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1059": {
+      "1061": {
         "SkillID": "103602020302",
         "SkillGroupID": "1036020203",
         "AirShotLocal": "0",
@@ -38019,7 +38095,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1060": {
+      "1062": {
         "SkillID": "103602020303",
         "SkillGroupID": "1036020203",
         "AirShotLocal": "0",
@@ -38054,7 +38130,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1061": {
+      "1063": {
         "SkillID": "103602020304",
         "SkillGroupID": "1036020203",
         "AirShotLocal": "0",
@@ -38089,7 +38165,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1062": {
+      "1064": {
         "SkillID": "103602020305",
         "SkillGroupID": "1036020203",
         "AirShotLocal": "0",
@@ -38124,7 +38200,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1063": {
+      "1065": {
         "SkillID": "103602020306",
         "SkillGroupID": "1036020203",
         "AirShotLocal": "0",
@@ -38159,7 +38235,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1064": {
+      "1066": {
         "SkillID": "103602020307",
         "SkillGroupID": "1036020203",
         "AirShotLocal": "0",
@@ -38194,7 +38270,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1065": {
+      "1067": {
         "SkillID": "103602020308",
         "SkillGroupID": "1036020203",
         "AirShotLocal": "0",
@@ -38229,7 +38305,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1066": {
+      "1068": {
         "SkillID": "1036020204",
         "SkillGroupID": "10360202",
         "AirShotLocal": "0",
@@ -38264,7 +38340,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1067": {
+      "1069": {
         "SkillID": "103602020401",
         "SkillGroupID": "1036020204",
         "AirShotLocal": "0",
@@ -38299,7 +38375,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1068": {
+      "1070": {
         "SkillID": "103602020402",
         "SkillGroupID": "1036020204",
         "AirShotLocal": "0",
@@ -38334,7 +38410,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1069": {
+      "1071": {
         "SkillID": "103602020403",
         "SkillGroupID": "1036020204",
         "AirShotLocal": "0",
@@ -38369,7 +38445,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1070": {
+      "1072": {
         "SkillID": "103602020404",
         "SkillGroupID": "1036020204",
         "AirShotLocal": "0",
@@ -38404,7 +38480,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1071": {
+      "1073": {
         "SkillID": "103602020405",
         "SkillGroupID": "1036020204",
         "AirShotLocal": "0",
@@ -38439,7 +38515,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1072": {
+      "1074": {
         "SkillID": "103602020406",
         "SkillGroupID": "1036020204",
         "AirShotLocal": "0",
@@ -38474,7 +38550,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1073": {
+      "1075": {
         "SkillID": "103602020407",
         "SkillGroupID": "1036020204",
         "AirShotLocal": "0",
@@ -38509,7 +38585,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1074": {
+      "1076": {
         "SkillID": "103602020408",
         "SkillGroupID": "1036020204",
         "AirShotLocal": "0",
@@ -38544,7 +38620,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1075": {
+      "1077": {
         "SkillID": "1036020205",
         "SkillGroupID": "10360202",
         "AirShotLocal": "0",
@@ -38579,7 +38655,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1076": {
+      "1078": {
         "SkillID": "103602020501",
         "SkillGroupID": "1036020205",
         "AirShotLocal": "0",
@@ -38614,7 +38690,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1077": {
+      "1079": {
         "SkillID": "103602020502",
         "SkillGroupID": "1036020205",
         "AirShotLocal": "0",
@@ -38649,7 +38725,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1078": {
+      "1080": {
         "SkillID": "103602020503",
         "SkillGroupID": "1036020205",
         "AirShotLocal": "0",
@@ -38684,7 +38760,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1079": {
+      "1081": {
         "SkillID": "103602020504",
         "SkillGroupID": "1036020205",
         "AirShotLocal": "0",
@@ -38719,7 +38795,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1080": {
+      "1082": {
         "SkillID": "103602020505",
         "SkillGroupID": "1036020205",
         "AirShotLocal": "0",
@@ -38754,7 +38830,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1081": {
+      "1083": {
         "SkillID": "103602020506",
         "SkillGroupID": "1036020205",
         "AirShotLocal": "0",
@@ -38789,7 +38865,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1082": {
+      "1084": {
         "SkillID": "103602020507",
         "SkillGroupID": "1036020205",
         "AirShotLocal": "0",
@@ -38824,7 +38900,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1083": {
+      "1085": {
         "SkillID": "103602020508",
         "SkillGroupID": "1036020205",
         "AirShotLocal": "0",
@@ -38859,7 +38935,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1084": {
+      "1086": {
         "SkillID": "1036010301",
         "SkillGroupID": "10360103",
         "AirShotLocal": "0",
@@ -38894,7 +38970,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1085": {
+      "1087": {
         "SkillID": "1036010302",
         "SkillGroupID": "10360103",
         "AirShotLocal": "0",
@@ -38929,7 +39005,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1086": {
+      "1088": {
         "SkillID": "1036010303",
         "SkillGroupID": "10360103",
         "AirShotLocal": "0",
@@ -38964,7 +39040,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1087": {
+      "1089": {
         "SkillID": "1036010304",
         "SkillGroupID": "10360103",
         "AirShotLocal": "0",
@@ -38999,7 +39075,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1088": {
+      "1090": {
         "SkillID": "1036010305",
         "SkillGroupID": "10360103",
         "AirShotLocal": "0",
@@ -39034,7 +39110,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1089": {
+      "1091": {
         "SkillID": "1036020301",
         "SkillGroupID": "10360203",
         "AirShotLocal": "0",
@@ -39069,7 +39145,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1090": {
+      "1092": {
         "SkillID": "1036020302",
         "SkillGroupID": "10360203",
         "AirShotLocal": "0",
@@ -39104,7 +39180,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1091": {
+      "1093": {
         "SkillID": "1036020303",
         "SkillGroupID": "10360203",
         "AirShotLocal": "0",
@@ -39139,7 +39215,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1092": {
+      "1094": {
         "SkillID": "1036020304",
         "SkillGroupID": "10360203",
         "AirShotLocal": "0",
@@ -39174,7 +39250,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1093": {
+      "1095": {
         "SkillID": "1036020305",
         "SkillGroupID": "10360203",
         "AirShotLocal": "0",
@@ -39209,7 +39285,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1094": {
+      "1096": {
         "SkillID": "1036030301",
         "SkillGroupID": "10360303",
         "AirShotLocal": "0",
@@ -39244,7 +39320,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1095": {
+      "1097": {
         "SkillID": "1036030302",
         "SkillGroupID": "10360303",
         "AirShotLocal": "0",
@@ -39279,7 +39355,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1096": {
+      "1098": {
         "SkillID": "1036030303",
         "SkillGroupID": "10360303",
         "AirShotLocal": "0",
@@ -39314,7 +39390,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1097": {
+      "1099": {
         "SkillID": "1036030304",
         "SkillGroupID": "10360303",
         "AirShotLocal": "0",
@@ -39349,7 +39425,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1098": {
+      "1100": {
         "SkillID": "1036030305",
         "SkillGroupID": "10360303",
         "AirShotLocal": "0",
@@ -39384,7 +39460,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1099": {
+      "1101": {
         "SkillID": "1036040301",
         "SkillGroupID": "10360403",
         "AirShotLocal": "0",
@@ -39419,7 +39495,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1100": {
+      "1102": {
         "SkillID": "1036040302",
         "SkillGroupID": "10360403",
         "AirShotLocal": "0",
@@ -39454,7 +39530,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1101": {
+      "1103": {
         "SkillID": "1036040303",
         "SkillGroupID": "10360403",
         "AirShotLocal": "0",
@@ -39489,7 +39565,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1102": {
+      "1104": {
         "SkillID": "1036040304",
         "SkillGroupID": "10360403",
         "AirShotLocal": "0",
@@ -39524,7 +39600,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1103": {
+      "1105": {
         "SkillID": "1036040305",
         "SkillGroupID": "10360403",
         "AirShotLocal": "0",
@@ -39559,7 +39635,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1104": {
+      "1106": {
         "SkillID": "1036050301",
         "SkillGroupID": "10360503",
         "AirShotLocal": "0",
@@ -39594,7 +39670,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1105": {
+      "1107": {
         "SkillID": "1036050302",
         "SkillGroupID": "10360503",
         "AirShotLocal": "0",
@@ -39629,7 +39705,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1106": {
+      "1108": {
         "SkillID": "1036050303",
         "SkillGroupID": "10360503",
         "AirShotLocal": "0",
@@ -39664,7 +39740,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1107": {
+      "1109": {
         "SkillID": "1036050304",
         "SkillGroupID": "10360503",
         "AirShotLocal": "0",
@@ -39699,7 +39775,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1108": {
+      "1110": {
         "SkillID": "1036050305",
         "SkillGroupID": "10360503",
         "AirShotLocal": "0",
@@ -39734,7 +39810,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1109": {
+      "1111": {
         "SkillID": "1036060301",
         "SkillGroupID": "10360603",
         "AirShotLocal": "0",
@@ -39769,7 +39845,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1110": {
+      "1112": {
         "SkillID": "1036060302",
         "SkillGroupID": "10360603",
         "AirShotLocal": "0",
@@ -39804,7 +39880,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1111": {
+      "1113": {
         "SkillID": "1036060303",
         "SkillGroupID": "10360603",
         "AirShotLocal": "0",
@@ -39839,7 +39915,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1112": {
+      "1114": {
         "SkillID": "1036060304",
         "SkillGroupID": "10360603",
         "AirShotLocal": "0",
@@ -39874,7 +39950,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1113": {
+      "1115": {
         "SkillID": "1036060305",
         "SkillGroupID": "10360603",
         "AirShotLocal": "0",
@@ -39909,7 +39985,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1114": {
+      "1116": {
         "SkillID": "1036070301",
         "SkillGroupID": "10360703",
         "AirShotLocal": "0",
@@ -39944,7 +40020,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1115": {
+      "1117": {
         "SkillID": "1036070302",
         "SkillGroupID": "10360703",
         "AirShotLocal": "0",
@@ -39979,7 +40055,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1116": {
+      "1118": {
         "SkillID": "1036070303",
         "SkillGroupID": "10360703",
         "AirShotLocal": "0",
@@ -40014,7 +40090,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1117": {
+      "1119": {
         "SkillID": "1036070304",
         "SkillGroupID": "10360703",
         "AirShotLocal": "0",
@@ -40049,7 +40125,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1118": {
+      "1120": {
         "SkillID": "1036070305",
         "SkillGroupID": "10360703",
         "AirShotLocal": "0",
@@ -40084,7 +40160,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1119": {
+      "1121": {
         "SkillID": "1036080301",
         "SkillGroupID": "10360803",
         "AirShotLocal": "0",
@@ -40119,7 +40195,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1120": {
+      "1122": {
         "SkillID": "1036080302",
         "SkillGroupID": "10360803",
         "AirShotLocal": "0",
@@ -40154,7 +40230,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1121": {
+      "1123": {
         "SkillID": "1036080303",
         "SkillGroupID": "10360803",
         "AirShotLocal": "0",
@@ -40189,7 +40265,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1122": {
+      "1124": {
         "SkillID": "1036080304",
         "SkillGroupID": "10360803",
         "AirShotLocal": "0",
@@ -40224,7 +40300,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1123": {
+      "1125": {
         "SkillID": "1036080305",
         "SkillGroupID": "10360803",
         "AirShotLocal": "0",
@@ -40259,7 +40335,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1124": {
+      "1126": {
         "SkillID": "1036010401",
         "SkillGroupID": "10360104",
         "AirShotLocal": "0",
@@ -40294,7 +40370,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1125": {
+      "1127": {
         "SkillID": "1036010402",
         "SkillGroupID": "10360104",
         "AirShotLocal": "0",
@@ -40329,7 +40405,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1126": {
+      "1128": {
         "SkillID": "1036010403",
         "SkillGroupID": "10360104",
         "AirShotLocal": "0",
@@ -40364,7 +40440,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1127": {
+      "1129": {
         "SkillID": "1036010404",
         "SkillGroupID": "10360104",
         "AirShotLocal": "0",
@@ -40399,7 +40475,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1128": {
+      "1130": {
         "SkillID": "1036010405",
         "SkillGroupID": "10360104",
         "AirShotLocal": "0",
@@ -40434,7 +40510,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1129": {
+      "1131": {
         "SkillID": "1036020401",
         "SkillGroupID": "10360204",
         "AirShotLocal": "0",
@@ -40469,7 +40545,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1130": {
+      "1132": {
         "SkillID": "1036020402",
         "SkillGroupID": "10360204",
         "AirShotLocal": "0",
@@ -40504,7 +40580,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1131": {
+      "1133": {
         "SkillID": "1036020403",
         "SkillGroupID": "10360204",
         "AirShotLocal": "0",
@@ -40539,7 +40615,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1132": {
+      "1134": {
         "SkillID": "1036020404",
         "SkillGroupID": "10360204",
         "AirShotLocal": "0",
@@ -40574,7 +40650,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1133": {
+      "1135": {
         "SkillID": "1036020405",
         "SkillGroupID": "10360204",
         "AirShotLocal": "0",
@@ -40609,7 +40685,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1134": {
+      "1136": {
         "SkillID": "1036010501",
         "SkillGroupID": "10360105",
         "AirShotLocal": "0",
@@ -40644,7 +40720,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1135": {
+      "1137": {
         "SkillID": "1036010502",
         "SkillGroupID": "10360105",
         "AirShotLocal": "0",
@@ -40679,7 +40755,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1136": {
+      "1138": {
         "SkillID": "1036010503",
         "SkillGroupID": "10360105",
         "AirShotLocal": "0",
@@ -40714,7 +40790,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1137": {
+      "1139": {
         "SkillID": "1036010601",
         "SkillGroupID": "10360106",
         "AirShotLocal": "0",
@@ -40749,7 +40825,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1138": {
+      "1140": {
         "SkillID": "1036010701",
         "SkillGroupID": "10360107",
         "AirShotLocal": "0",
@@ -40784,7 +40860,7 @@
         "ActionFinishSoundLocal": "Hero_TravelMode_Start_02",
         "CrosshairBP": null
       },
-      "1139": {
+      "1141": {
         "SkillID": "1036010801",
         "SkillGroupID": "10360108",
         "AirShotLocal": "0",
@@ -40819,7 +40895,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1140": {
+      "1142": {
         "SkillID": "1036010901",
         "SkillGroupID": "10360109",
         "AirShotLocal": "0",
@@ -40854,7 +40930,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1141": {
+      "1143": {
         "SkillID": "1036010902",
         "SkillGroupID": "10360109",
         "AirShotLocal": "0",
@@ -40889,7 +40965,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1142": {
+      "1144": {
         "SkillID": "1036010903",
         "SkillGroupID": "10360109",
         "AirShotLocal": "0",
@@ -40924,7 +41000,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1143": {
+      "1145": {
         "SkillID": "1036010904",
         "SkillGroupID": "10360109",
         "AirShotLocal": "0",
@@ -40959,7 +41035,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1144": {
+      "1146": {
         "SkillID": "103601102",
         "SkillGroupID": "103601102",
         "AirShotLocal": "None",
@@ -40994,7 +41070,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1145": {
+      "1147": {
         "SkillID": "1037010101",
         "SkillGroupID": "10370101",
         "AirShotLocal": "Hero_1040001_Skill_1040010101_Miss",
@@ -41032,7 +41108,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Crosshair_New.12"
         }
       },
-      "1146": {
+      "1148": {
         "SkillID": "1037010201",
         "SkillGroupID": "10370102",
         "AirShotLocal": "0",
@@ -41067,7 +41143,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1147": {
+      "1149": {
         "SkillID": "1037010202",
         "SkillGroupID": "10370102",
         "AirShotLocal": "0",
@@ -41102,7 +41178,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1148": {
+      "1150": {
         "SkillID": "1037010203",
         "SkillGroupID": "10370102",
         "AirShotLocal": "0",
@@ -41137,7 +41213,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1149": {
+      "1151": {
         "SkillID": "1037010204",
         "SkillGroupID": "10370102",
         "AirShotLocal": "0",
@@ -41172,7 +41248,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1150": {
+      "1152": {
         "SkillID": "1037010205",
         "SkillGroupID": "10370102",
         "AirShotLocal": "0",
@@ -41207,7 +41283,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1151": {
+      "1153": {
         "SkillID": "1037010301",
         "SkillGroupID": "10370103",
         "AirShotLocal": "0",
@@ -41242,7 +41318,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1152": {
+      "1154": {
         "SkillID": "1037010302",
         "SkillGroupID": "10370103",
         "AirShotLocal": "0",
@@ -41277,7 +41353,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1153": {
+      "1155": {
         "SkillID": "1037010303",
         "SkillGroupID": "10370103",
         "AirShotLocal": "0",
@@ -41312,7 +41388,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1154": {
+      "1156": {
         "SkillID": "1037010304",
         "SkillGroupID": "10370103",
         "AirShotLocal": "0",
@@ -41347,7 +41423,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1155": {
+      "1157": {
         "SkillID": "1037010305",
         "SkillGroupID": "10370103",
         "AirShotLocal": "0",
@@ -41382,7 +41458,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1156": {
+      "1158": {
         "SkillID": "1037010401",
         "SkillGroupID": "10370104",
         "AirShotLocal": "0",
@@ -41417,7 +41493,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1157": {
+      "1159": {
         "SkillID": "1037010402",
         "SkillGroupID": "10370104",
         "AirShotLocal": "0",
@@ -41452,7 +41528,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1158": {
+      "1160": {
         "SkillID": "1037010403",
         "SkillGroupID": "10370104",
         "AirShotLocal": "0",
@@ -41487,7 +41563,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1159": {
+      "1161": {
         "SkillID": "1037010404",
         "SkillGroupID": "10370104",
         "AirShotLocal": "0",
@@ -41522,7 +41598,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1160": {
+      "1162": {
         "SkillID": "1037010405",
         "SkillGroupID": "10370104",
         "AirShotLocal": "0",
@@ -41557,7 +41633,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1161": {
+      "1163": {
         "SkillID": "1037010501",
         "SkillGroupID": "10370105",
         "AirShotLocal": "0",
@@ -41592,7 +41668,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1162": {
+      "1164": {
         "SkillID": "1037010502",
         "SkillGroupID": "10370105",
         "AirShotLocal": "0",
@@ -41627,7 +41703,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1163": {
+      "1165": {
         "SkillID": "1037010503",
         "SkillGroupID": "10370105",
         "AirShotLocal": "0",
@@ -41662,7 +41738,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1164": {
+      "1166": {
         "SkillID": "1037010601",
         "SkillGroupID": "10370106",
         "AirShotLocal": "0",
@@ -41697,7 +41773,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1165": {
+      "1167": {
         "SkillID": "1037010701",
         "SkillGroupID": "10370107",
         "AirShotLocal": "0",
@@ -41732,7 +41808,7 @@
         "ActionFinishSoundLocal": "Hero_TravelMode_Start_02",
         "CrosshairBP": null
       },
-      "1166": {
+      "1168": {
         "SkillID": "1037010801",
         "SkillGroupID": "10370108",
         "AirShotLocal": "0",
@@ -41767,7 +41843,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1167": {
+      "1169": {
         "SkillID": "1037010901",
         "SkillGroupID": "10370109",
         "AirShotLocal": "0",
@@ -41802,7 +41878,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1168": {
+      "1170": {
         "SkillID": "103701102",
         "SkillGroupID": "103701102",
         "AirShotLocal": "0",
@@ -41837,7 +41913,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1169": {
+      "1171": {
         "SkillID": "1040010101",
         "SkillGroupID": "10400101",
         "AirShotLocal": "Hero_1040001_Skill_1040010101_Miss",
@@ -41875,7 +41951,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Crosshair_Melee.12"
         }
       },
-      "1170": {
+      "1172": {
         "SkillID": "1040010102",
         "SkillGroupID": "10400101",
         "AirShotLocal": "Hero_1040001_Skill_1040010101_Miss",
@@ -41913,7 +41989,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Crosshair_Melee.12"
         }
       },
-      "1171": {
+      "1173": {
         "SkillID": "1040010103",
         "SkillGroupID": "10400101",
         "AirShotLocal": "Hero_1040001_Skill_1040010101_Miss",
@@ -41951,7 +42027,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Crosshair_Melee.12"
         }
       },
-      "1172": {
+      "1174": {
         "SkillID": "1040010104",
         "SkillGroupID": "10400101",
         "AirShotLocal": "Hero_1040001_Skill_1040010101_Miss",
@@ -41989,7 +42065,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Crosshair_Melee.12"
         }
       },
-      "1173": {
+      "1175": {
         "SkillID": "1040010201",
         "SkillGroupID": "10400102",
         "AirShotLocal": "0",
@@ -42027,7 +42103,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Aim.16"
         }
       },
-      "1174": {
+      "1176": {
         "SkillID": "1040010202",
         "SkillGroupID": "10400102",
         "AirShotLocal": "0",
@@ -42065,7 +42141,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Aim.16"
         }
       },
-      "1175": {
+      "1177": {
         "SkillID": "1040010203",
         "SkillGroupID": "10400102",
         "AirShotLocal": "0",
@@ -42103,7 +42179,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Aim.16"
         }
       },
-      "1176": {
+      "1178": {
         "SkillID": "1040010204",
         "SkillGroupID": "10400102",
         "AirShotLocal": "0",
@@ -42141,7 +42217,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Aim.16"
         }
       },
-      "1177": {
+      "1179": {
         "SkillID": "1040010205",
         "SkillGroupID": "10400102",
         "AirShotLocal": "0",
@@ -42179,7 +42255,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Aim.16"
         }
       },
-      "1178": {
+      "1180": {
         "SkillID": "1040020201",
         "SkillGroupID": "10400202",
         "AirShotLocal": "0",
@@ -42214,7 +42290,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1179": {
+      "1181": {
         "SkillID": "1040020202",
         "SkillGroupID": "10400202",
         "AirShotLocal": "0",
@@ -42249,7 +42325,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1180": {
+      "1182": {
         "SkillID": "1040020203",
         "SkillGroupID": "10400202",
         "AirShotLocal": "0",
@@ -42284,7 +42360,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1181": {
+      "1183": {
         "SkillID": "1040020204",
         "SkillGroupID": "10400202",
         "AirShotLocal": "0",
@@ -42319,7 +42395,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1182": {
+      "1184": {
         "SkillID": "1040020205",
         "SkillGroupID": "10400202",
         "AirShotLocal": "0",
@@ -42354,7 +42430,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1183": {
+      "1185": {
         "SkillID": "1040030201",
         "SkillGroupID": "10400302",
         "AirShotLocal": "0",
@@ -42389,7 +42465,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1184": {
+      "1186": {
         "SkillID": "1040030202",
         "SkillGroupID": "10400302",
         "AirShotLocal": "0",
@@ -42424,7 +42500,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1185": {
+      "1187": {
         "SkillID": "1040030203",
         "SkillGroupID": "10400302",
         "AirShotLocal": "0",
@@ -42459,7 +42535,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1186": {
+      "1188": {
         "SkillID": "1040030204",
         "SkillGroupID": "10400302",
         "AirShotLocal": "0",
@@ -42494,7 +42570,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1187": {
+      "1189": {
         "SkillID": "1040030205",
         "SkillGroupID": "10400302",
         "AirShotLocal": "0",
@@ -42529,7 +42605,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1188": {
+      "1190": {
         "SkillID": "1040020301",
         "SkillGroupID": "10400203",
         "AirShotLocal": "0",
@@ -42564,7 +42640,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1189": {
+      "1191": {
         "SkillID": "1040020302",
         "SkillGroupID": "10400203",
         "AirShotLocal": "0",
@@ -42599,7 +42675,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1190": {
+      "1192": {
         "SkillID": "1040020303",
         "SkillGroupID": "10400203",
         "AirShotLocal": "0",
@@ -42634,7 +42710,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1191": {
+      "1193": {
         "SkillID": "1040020304",
         "SkillGroupID": "10400203",
         "AirShotLocal": "0",
@@ -42669,7 +42745,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1192": {
+      "1194": {
         "SkillID": "1040020305",
         "SkillGroupID": "10400203",
         "AirShotLocal": "0",
@@ -42704,7 +42780,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1193": {
+      "1195": {
         "SkillID": "1040030301",
         "SkillGroupID": "10400303",
         "AirShotLocal": "0",
@@ -42739,7 +42815,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1194": {
+      "1196": {
         "SkillID": "1040030302",
         "SkillGroupID": "10400303",
         "AirShotLocal": "0",
@@ -42774,7 +42850,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1195": {
+      "1197": {
         "SkillID": "1040030303",
         "SkillGroupID": "10400303",
         "AirShotLocal": "0",
@@ -42809,7 +42885,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1196": {
+      "1198": {
         "SkillID": "1040030304",
         "SkillGroupID": "10400303",
         "AirShotLocal": "0",
@@ -42844,7 +42920,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1197": {
+      "1199": {
         "SkillID": "1040030305",
         "SkillGroupID": "10400303",
         "AirShotLocal": "0",
@@ -42879,7 +42955,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1198": {
+      "1200": {
         "SkillID": "1040020401",
         "SkillGroupID": "10400204",
         "AirShotLocal": "0",
@@ -42914,7 +42990,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1199": {
+      "1201": {
         "SkillID": "1040020402",
         "SkillGroupID": "10400204",
         "AirShotLocal": "0",
@@ -42949,7 +43025,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1200": {
+      "1202": {
         "SkillID": "1040020403",
         "SkillGroupID": "10400204",
         "AirShotLocal": "0",
@@ -42984,7 +43060,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1201": {
+      "1203": {
         "SkillID": "1040020404",
         "SkillGroupID": "10400204",
         "AirShotLocal": "0",
@@ -43019,7 +43095,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1202": {
+      "1204": {
         "SkillID": "1040020405",
         "SkillGroupID": "10400204",
         "AirShotLocal": "0",
@@ -43054,7 +43130,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1203": {
+      "1205": {
         "SkillID": "1040030401",
         "SkillGroupID": "10400304",
         "AirShotLocal": "0",
@@ -43089,7 +43165,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1204": {
+      "1206": {
         "SkillID": "1040030402",
         "SkillGroupID": "10400304",
         "AirShotLocal": "0",
@@ -43124,7 +43200,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1205": {
+      "1207": {
         "SkillID": "1040030403",
         "SkillGroupID": "10400304",
         "AirShotLocal": "0",
@@ -43159,7 +43235,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1206": {
+      "1208": {
         "SkillID": "1040030404",
         "SkillGroupID": "10400304",
         "AirShotLocal": "0",
@@ -43194,7 +43270,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1207": {
+      "1209": {
         "SkillID": "1040030405",
         "SkillGroupID": "10400304",
         "AirShotLocal": "0",
@@ -43229,7 +43305,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1208": {
+      "1210": {
         "SkillID": "1040010501",
         "SkillGroupID": "10400105",
         "AirShotLocal": "0",
@@ -43267,7 +43343,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Aim.16"
         }
       },
-      "1209": {
+      "1211": {
         "SkillID": "1040010502",
         "SkillGroupID": "10400105",
         "AirShotLocal": "0",
@@ -43305,7 +43381,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Aim.16"
         }
       },
-      "1210": {
+      "1212": {
         "SkillID": "1040010503",
         "SkillGroupID": "10400105",
         "AirShotLocal": "0",
@@ -43343,7 +43419,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Aim.16"
         }
       },
-      "1211": {
+      "1213": {
         "SkillID": "1040010601",
         "SkillGroupID": "10400106",
         "AirShotLocal": "0",
@@ -43378,7 +43454,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1212": {
+      "1214": {
         "SkillID": "1040010701",
         "SkillGroupID": "10400107",
         "AirShotLocal": "0",
@@ -43413,7 +43489,7 @@
         "ActionFinishSoundLocal": "Hero_TravelMode_Start_02",
         "CrosshairBP": null
       },
-      "1213": {
+      "1215": {
         "SkillID": "1040010801",
         "SkillGroupID": "10400108",
         "AirShotLocal": "0",
@@ -43448,7 +43524,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1214": {
+      "1216": {
         "SkillID": "1040010901",
         "SkillGroupID": "10400109",
         "AirShotLocal": "0",
@@ -43483,7 +43559,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1215": {
+      "1217": {
         "SkillID": "104001102",
         "SkillGroupID": "104001102",
         "AirShotLocal": "0",
@@ -43518,7 +43594,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1216": {
+      "1218": {
         "SkillID": "1042010101",
         "SkillGroupID": "10420101",
         "AirShotLocal": "Hero_1042001_Skill_1042010102_Miss",
@@ -43556,7 +43632,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Crosshair_New.12"
         }
       },
-      "1217": {
+      "1219": {
         "SkillID": "1042010102",
         "SkillGroupID": "10420101",
         "AirShotLocal": "Hero_1042001_Skill_1042010102_Miss",
@@ -43594,7 +43670,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Crosshair_New.12"
         }
       },
-      "1218": {
+      "1220": {
         "SkillID": "1042020101",
         "SkillGroupID": "10420201",
         "AirShotLocal": "Hero_1037001_Skill_1037010101_Miss",
@@ -43632,7 +43708,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Crosshair_New.12"
         }
       },
-      "1219": {
+      "1221": {
         "SkillID": "1042020102",
         "SkillGroupID": "10420201",
         "AirShotLocal": "Hero_1037001_Skill_1037010101_Miss",
@@ -43670,7 +43746,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Crosshair_New.12"
         }
       },
-      "1220": {
+      "1222": {
         "SkillID": "1042010201",
         "SkillGroupID": "10420102",
         "AirShotLocal": "0",
@@ -43708,7 +43784,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Aim.16"
         }
       },
-      "1221": {
+      "1223": {
         "SkillID": "1042020201",
         "SkillGroupID": "10420202",
         "AirShotLocal": "0",
@@ -43743,7 +43819,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1222": {
+      "1224": {
         "SkillID": "1042010202",
         "SkillGroupID": "10420102",
         "AirShotLocal": "0",
@@ -43781,7 +43857,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Aim.16"
         }
       },
-      "1223": {
+      "1225": {
         "SkillID": "1042020202",
         "SkillGroupID": "10420202",
         "AirShotLocal": "0",
@@ -43816,7 +43892,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1224": {
+      "1226": {
         "SkillID": "1042010203",
         "SkillGroupID": "10420102",
         "AirShotLocal": "0",
@@ -43854,7 +43930,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Aim.16"
         }
       },
-      "1225": {
+      "1227": {
         "SkillID": "1042020203",
         "SkillGroupID": "10420202",
         "AirShotLocal": "0",
@@ -43889,7 +43965,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1226": {
+      "1228": {
         "SkillID": "1042010204",
         "SkillGroupID": "10420102",
         "AirShotLocal": "0",
@@ -43927,7 +44003,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Aim.16"
         }
       },
-      "1227": {
+      "1229": {
         "SkillID": "1042020204",
         "SkillGroupID": "10420202",
         "AirShotLocal": "0",
@@ -43962,7 +44038,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1228": {
+      "1230": {
         "SkillID": "1042010205",
         "SkillGroupID": "10420102",
         "AirShotLocal": "0",
@@ -44000,7 +44076,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Aim.16"
         }
       },
-      "1229": {
+      "1231": {
         "SkillID": "1042020205",
         "SkillGroupID": "10420202",
         "AirShotLocal": "0",
@@ -44035,7 +44111,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1230": {
+      "1232": {
         "SkillID": "1042010301",
         "SkillGroupID": "10420103",
         "AirShotLocal": "0",
@@ -44070,7 +44146,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1231": {
+      "1233": {
         "SkillID": "1042010302",
         "SkillGroupID": "10420103",
         "AirShotLocal": "0",
@@ -44105,7 +44181,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1232": {
+      "1234": {
         "SkillID": "1042010303",
         "SkillGroupID": "10420103",
         "AirShotLocal": "0",
@@ -44140,7 +44216,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1233": {
+      "1235": {
         "SkillID": "1042010304",
         "SkillGroupID": "10420103",
         "AirShotLocal": "0",
@@ -44175,7 +44251,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1234": {
+      "1236": {
         "SkillID": "1042010305",
         "SkillGroupID": "10420103",
         "AirShotLocal": "0",
@@ -44210,7 +44286,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1235": {
+      "1237": {
         "SkillID": "1042010401",
         "SkillGroupID": "10420104",
         "AirShotLocal": "0",
@@ -44245,7 +44321,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1236": {
+      "1238": {
         "SkillID": "104201040100",
         "SkillGroupID": "1042010400",
         "AirShotLocal": "0",
@@ -44280,7 +44356,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1237": {
+      "1239": {
         "SkillID": "104201040101",
         "SkillGroupID": "1042010401",
         "AirShotLocal": "0",
@@ -44315,7 +44391,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1238": {
+      "1240": {
         "SkillID": "104201040102",
         "SkillGroupID": "1042010401",
         "AirShotLocal": "0",
@@ -44350,7 +44426,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1239": {
+      "1241": {
         "SkillID": "104201040103",
         "SkillGroupID": "1042010401",
         "AirShotLocal": "0",
@@ -44385,7 +44461,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1240": {
+      "1242": {
         "SkillID": "104201040104",
         "SkillGroupID": "1042010401",
         "AirShotLocal": "0",
@@ -44420,7 +44496,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1241": {
+      "1243": {
         "SkillID": "104201040105",
         "SkillGroupID": "1042010401",
         "AirShotLocal": "0",
@@ -44455,7 +44531,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1242": {
+      "1244": {
         "SkillID": "104201040106",
         "SkillGroupID": "1042010401",
         "AirShotLocal": "0",
@@ -44490,7 +44566,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1243": {
+      "1245": {
         "SkillID": "104201040107",
         "SkillGroupID": "1042010401",
         "AirShotLocal": "0",
@@ -44525,7 +44601,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1244": {
+      "1246": {
         "SkillID": "104201040108",
         "SkillGroupID": "1042010401",
         "AirShotLocal": "0",
@@ -44560,7 +44636,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1245": {
+      "1247": {
         "SkillID": "1042010402",
         "SkillGroupID": "10420104",
         "AirShotLocal": "0",
@@ -44595,7 +44671,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1246": {
+      "1248": {
         "SkillID": "104201040200",
         "SkillGroupID": "1042010400",
         "AirShotLocal": "0",
@@ -44630,7 +44706,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1247": {
+      "1249": {
         "SkillID": "104201040201",
         "SkillGroupID": "1042010402",
         "AirShotLocal": "0",
@@ -44665,7 +44741,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1248": {
+      "1250": {
         "SkillID": "104201040202",
         "SkillGroupID": "1042010402",
         "AirShotLocal": "0",
@@ -44700,7 +44776,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1249": {
+      "1251": {
         "SkillID": "104201040203",
         "SkillGroupID": "1042010402",
         "AirShotLocal": "0",
@@ -44735,7 +44811,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1250": {
+      "1252": {
         "SkillID": "104201040204",
         "SkillGroupID": "1042010402",
         "AirShotLocal": "0",
@@ -44770,7 +44846,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1251": {
+      "1253": {
         "SkillID": "104201040205",
         "SkillGroupID": "1042010402",
         "AirShotLocal": "0",
@@ -44805,7 +44881,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1252": {
+      "1254": {
         "SkillID": "104201040206",
         "SkillGroupID": "1042010402",
         "AirShotLocal": "0",
@@ -44840,7 +44916,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1253": {
+      "1255": {
         "SkillID": "104201040207",
         "SkillGroupID": "1042010402",
         "AirShotLocal": "0",
@@ -44875,7 +44951,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1254": {
+      "1256": {
         "SkillID": "104201040208",
         "SkillGroupID": "1042010402",
         "AirShotLocal": "0",
@@ -44910,7 +44986,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1255": {
+      "1257": {
         "SkillID": "1042010403",
         "SkillGroupID": "10420104",
         "AirShotLocal": "0",
@@ -44945,7 +45021,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1256": {
+      "1258": {
         "SkillID": "104201040300",
         "SkillGroupID": "1042010400",
         "AirShotLocal": "0",
@@ -44980,7 +45056,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1257": {
+      "1259": {
         "SkillID": "104201040301",
         "SkillGroupID": "1042010403",
         "AirShotLocal": "0",
@@ -45015,7 +45091,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1258": {
+      "1260": {
         "SkillID": "104201040302",
         "SkillGroupID": "1042010403",
         "AirShotLocal": "0",
@@ -45050,7 +45126,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1259": {
+      "1261": {
         "SkillID": "104201040303",
         "SkillGroupID": "1042010403",
         "AirShotLocal": "0",
@@ -45085,7 +45161,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1260": {
+      "1262": {
         "SkillID": "104201040304",
         "SkillGroupID": "1042010403",
         "AirShotLocal": "0",
@@ -45120,7 +45196,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1261": {
+      "1263": {
         "SkillID": "104201040305",
         "SkillGroupID": "1042010403",
         "AirShotLocal": "0",
@@ -45155,7 +45231,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1262": {
+      "1264": {
         "SkillID": "104201040306",
         "SkillGroupID": "1042010403",
         "AirShotLocal": "0",
@@ -45190,7 +45266,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1263": {
+      "1265": {
         "SkillID": "104201040307",
         "SkillGroupID": "1042010403",
         "AirShotLocal": "0",
@@ -45225,7 +45301,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1264": {
+      "1266": {
         "SkillID": "104201040308",
         "SkillGroupID": "1042010403",
         "AirShotLocal": "0",
@@ -45260,7 +45336,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1265": {
+      "1267": {
         "SkillID": "1042010404",
         "SkillGroupID": "10420104",
         "AirShotLocal": "0",
@@ -45295,7 +45371,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1266": {
+      "1268": {
         "SkillID": "104201040400",
         "SkillGroupID": "1042010400",
         "AirShotLocal": "0",
@@ -45330,7 +45406,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1267": {
+      "1269": {
         "SkillID": "104201040401",
         "SkillGroupID": "1042010404",
         "AirShotLocal": "0",
@@ -45365,7 +45441,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1268": {
+      "1270": {
         "SkillID": "104201040402",
         "SkillGroupID": "1042010404",
         "AirShotLocal": "0",
@@ -45400,7 +45476,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1269": {
+      "1271": {
         "SkillID": "104201040403",
         "SkillGroupID": "1042010404",
         "AirShotLocal": "0",
@@ -45435,7 +45511,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1270": {
+      "1272": {
         "SkillID": "104201040404",
         "SkillGroupID": "1042010404",
         "AirShotLocal": "0",
@@ -45470,7 +45546,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1271": {
+      "1273": {
         "SkillID": "104201040405",
         "SkillGroupID": "1042010404",
         "AirShotLocal": "0",
@@ -45505,7 +45581,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1272": {
+      "1274": {
         "SkillID": "104201040406",
         "SkillGroupID": "1042010404",
         "AirShotLocal": "0",
@@ -45540,7 +45616,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1273": {
+      "1275": {
         "SkillID": "104201040407",
         "SkillGroupID": "1042010404",
         "AirShotLocal": "0",
@@ -45575,7 +45651,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1274": {
+      "1276": {
         "SkillID": "104201040408",
         "SkillGroupID": "1042010404",
         "AirShotLocal": "0",
@@ -45610,7 +45686,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1275": {
+      "1277": {
         "SkillID": "1042010405",
         "SkillGroupID": "10420104",
         "AirShotLocal": "0",
@@ -45645,7 +45721,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1276": {
+      "1278": {
         "SkillID": "104201040500",
         "SkillGroupID": "1042010400",
         "AirShotLocal": "0",
@@ -45680,7 +45756,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1277": {
+      "1279": {
         "SkillID": "104201040501",
         "SkillGroupID": "1042010405",
         "AirShotLocal": "0",
@@ -45715,7 +45791,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1278": {
+      "1280": {
         "SkillID": "104201040502",
         "SkillGroupID": "1042010405",
         "AirShotLocal": "0",
@@ -45750,7 +45826,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1279": {
+      "1281": {
         "SkillID": "104201040503",
         "SkillGroupID": "1042010405",
         "AirShotLocal": "0",
@@ -45785,7 +45861,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1280": {
+      "1282": {
         "SkillID": "104201040504",
         "SkillGroupID": "1042010405",
         "AirShotLocal": "0",
@@ -45820,7 +45896,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1281": {
+      "1283": {
         "SkillID": "104201040505",
         "SkillGroupID": "1042010405",
         "AirShotLocal": "0",
@@ -45855,7 +45931,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1282": {
+      "1284": {
         "SkillID": "104201040506",
         "SkillGroupID": "1042010405",
         "AirShotLocal": "0",
@@ -45890,7 +45966,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1283": {
+      "1285": {
         "SkillID": "104201040507",
         "SkillGroupID": "1042010405",
         "AirShotLocal": "0",
@@ -45925,7 +46001,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1284": {
+      "1286": {
         "SkillID": "104201040508",
         "SkillGroupID": "1042010405",
         "AirShotLocal": "0",
@@ -45960,7 +46036,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1285": {
+      "1287": {
         "SkillID": "1042010501",
         "SkillGroupID": "10420105",
         "AirShotLocal": "0",
@@ -45998,7 +46074,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Charging.16"
         }
       },
-      "1286": {
+      "1288": {
         "SkillID": "1042010502",
         "SkillGroupID": "10420105",
         "AirShotLocal": "0",
@@ -46036,7 +46112,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Charging.16"
         }
       },
-      "1287": {
+      "1289": {
         "SkillID": "1042010503",
         "SkillGroupID": "10420105",
         "AirShotLocal": "0",
@@ -46074,7 +46150,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Charging.16"
         }
       },
-      "1288": {
+      "1290": {
         "SkillID": "1042010601",
         "SkillGroupID": "10420106",
         "AirShotLocal": "0",
@@ -46109,7 +46185,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1289": {
+      "1291": {
         "SkillID": "1042010701",
         "SkillGroupID": "10420107",
         "AirShotLocal": "0",
@@ -46144,7 +46220,7 @@
         "ActionFinishSoundLocal": "Hero_TravelMode_Start_02",
         "CrosshairBP": null
       },
-      "1290": {
+      "1292": {
         "SkillID": "1042010801",
         "SkillGroupID": "10420108",
         "AirShotLocal": "0",
@@ -46179,7 +46255,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1291": {
+      "1293": {
         "SkillID": "1042010901",
         "SkillGroupID": "10420109",
         "AirShotLocal": "0",
@@ -46214,7 +46290,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1292": {
+      "1294": {
         "SkillID": "1042010902",
         "SkillGroupID": "10420109",
         "AirShotLocal": "0",
@@ -46249,7 +46325,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1293": {
+      "1295": {
         "SkillID": "1042010903",
         "SkillGroupID": "10420109",
         "AirShotLocal": "0",
@@ -46284,7 +46360,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1294": {
+      "1296": {
         "SkillID": "1042010904",
         "SkillGroupID": "10420109",
         "AirShotLocal": "0",
@@ -46319,7 +46395,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1295": {
+      "1297": {
         "SkillID": "104201102",
         "SkillGroupID": "104201102",
         "AirShotLocal": "0",
@@ -46354,10 +46430,10 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1296": {
+      "1298": {
         "SkillID": "1043010101",
         "SkillGroupID": "10430101",
-        "AirShotLocal": "Hero_1043001_Skill_1043010102_Miss",
+        "AirShotLocal": "Hero_1043001_Skill_1043010101_Miss",
         "HeroSkinID": "1043",
         "AttackHitLocal": "Hero_1043001_Skill_1043010101_Hit",
         "PowerAttackHitLocal": "0",
@@ -46392,7 +46468,45 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Crosshair_New.12"
         }
       },
-      "1297": {
+      "1299": {
+        "SkillID": "1043010102",
+        "SkillGroupID": "10430101",
+        "AirShotLocal": "Hero_1043001_Skill_1043010101_Miss",
+        "HeroSkinID": "1043",
+        "AttackHitLocal": "Hero_1043001_Skill_1043010101_Hit",
+        "PowerAttackHitLocal": "0",
+        "CriticalAttackHitLocal": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "TakeHitLocal": "Hero_1043001_Skill_1043010101_Hit",
+        "TakeCriticalHitLocal": "Hero_Common_Skill_Common_TakeCriticalHit",
+        "ReadySound": "None",
+        "ReadySoundHearable": false,
+        "PrepareCamera": "None",
+        "CastCamera": "None",
+        "ActionCamera": "None",
+        "PreviewDecalActor": "Skill_Common_BaseAttack_CastRange",
+        "PreviewDecalActor2": "Skill_Common_BaseAttack_CastRange_Simple",
+        "SkillProcessingCrosshair": "None",
+        "PreparationSoundStart": "None",
+        "PreparationSoundLoop": "None",
+        "PreparationSoundFinish": "None",
+        "PreparationAimSound": "None",
+        "CastStartVoice": "None",
+        "CastStartSound": "None",
+        "CastStartSoundLocal": "None",
+        "CastCancelSound": "None",
+        "CastCancelSoundLocal": "None",
+        "ActionStartSound": "None",
+        "ActionStartSoundLocal": "None",
+        "ActionLoopSound": "None",
+        "ActionLoopSoundLocal": "None",
+        "ActionFinishSound": "None",
+        "ActionFinishSoundLocal": "None",
+        "CrosshairBP": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'Crosshair_New_C'",
+          "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Crosshair_New.12"
+        }
+      },
+      "1300": {
         "SkillID": "1043010201",
         "SkillGroupID": "10430102",
         "AirShotLocal": "0",
@@ -46430,7 +46544,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Aim.16"
         }
       },
-      "1298": {
+      "1301": {
         "SkillID": "1043010202",
         "SkillGroupID": "10430102",
         "AirShotLocal": "0",
@@ -46468,7 +46582,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Aim.16"
         }
       },
-      "1299": {
+      "1302": {
         "SkillID": "1043010203",
         "SkillGroupID": "10430102",
         "AirShotLocal": "0",
@@ -46506,7 +46620,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Aim.16"
         }
       },
-      "1300": {
+      "1303": {
         "SkillID": "1043010204",
         "SkillGroupID": "10430102",
         "AirShotLocal": "0",
@@ -46544,7 +46658,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Aim.16"
         }
       },
-      "1301": {
+      "1304": {
         "SkillID": "1043010205",
         "SkillGroupID": "10430102",
         "AirShotLocal": "0",
@@ -46582,7 +46696,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Aim.16"
         }
       },
-      "1302": {
+      "1305": {
         "SkillID": "1043010301",
         "SkillGroupID": "10430103",
         "AirShotLocal": "0",
@@ -46617,7 +46731,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1303": {
+      "1306": {
         "SkillID": "1043010302",
         "SkillGroupID": "10430103",
         "AirShotLocal": "0",
@@ -46652,7 +46766,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1304": {
+      "1307": {
         "SkillID": "1043010303",
         "SkillGroupID": "10430103",
         "AirShotLocal": "0",
@@ -46687,7 +46801,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1305": {
+      "1308": {
         "SkillID": "1043010304",
         "SkillGroupID": "10430103",
         "AirShotLocal": "0",
@@ -46722,7 +46836,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1306": {
+      "1309": {
         "SkillID": "1043010305",
         "SkillGroupID": "10430103",
         "AirShotLocal": "0",
@@ -46757,7 +46871,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1307": {
+      "1310": {
         "SkillID": "1043010401",
         "SkillGroupID": "10430104",
         "AirShotLocal": "0",
@@ -46795,7 +46909,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1308": {
+      "1311": {
         "SkillID": "1043010402",
         "SkillGroupID": "10430104",
         "AirShotLocal": "0",
@@ -46833,7 +46947,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1309": {
+      "1312": {
         "SkillID": "1043010403",
         "SkillGroupID": "10430104",
         "AirShotLocal": "0",
@@ -46871,7 +46985,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1310": {
+      "1313": {
         "SkillID": "1043010404",
         "SkillGroupID": "10430104",
         "AirShotLocal": "0",
@@ -46909,7 +47023,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1311": {
+      "1314": {
         "SkillID": "1043010405",
         "SkillGroupID": "10430104",
         "AirShotLocal": "0",
@@ -46947,7 +47061,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1312": {
+      "1315": {
         "SkillID": "1043010501",
         "SkillGroupID": "10430105",
         "AirShotLocal": "0",
@@ -46982,7 +47096,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1313": {
+      "1316": {
         "SkillID": "1043020501",
         "SkillGroupID": "10430205",
         "AirShotLocal": "0",
@@ -47017,7 +47131,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1314": {
+      "1317": {
         "SkillID": "1043010502",
         "SkillGroupID": "10430105",
         "AirShotLocal": "0",
@@ -47052,7 +47166,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1315": {
+      "1318": {
         "SkillID": "1043020502",
         "SkillGroupID": "10430205",
         "AirShotLocal": "0",
@@ -47087,7 +47201,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1316": {
+      "1319": {
         "SkillID": "1043010503",
         "SkillGroupID": "10430105",
         "AirShotLocal": "0",
@@ -47122,7 +47236,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1317": {
+      "1320": {
         "SkillID": "1043020503",
         "SkillGroupID": "10430205",
         "AirShotLocal": "0",
@@ -47157,7 +47271,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1318": {
+      "1321": {
         "SkillID": "1043010601",
         "SkillGroupID": "10430106",
         "AirShotLocal": "0",
@@ -47192,7 +47306,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1319": {
+      "1322": {
         "SkillID": "1043010701",
         "SkillGroupID": "10430107",
         "AirShotLocal": "0",
@@ -47227,7 +47341,7 @@
         "ActionFinishSoundLocal": "Hero_TravelMode_Start_02",
         "CrosshairBP": null
       },
-      "1320": {
+      "1323": {
         "SkillID": "1043010801",
         "SkillGroupID": "10430108",
         "AirShotLocal": "0",
@@ -47262,7 +47376,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1321": {
+      "1324": {
         "SkillID": "1043010901",
         "SkillGroupID": "10430109",
         "AirShotLocal": "0",
@@ -47297,7 +47411,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1322": {
+      "1325": {
         "SkillID": "1043010902",
         "SkillGroupID": "10430109",
         "AirShotLocal": "0",
@@ -47332,7 +47446,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1323": {
+      "1326": {
         "SkillID": "1043010903",
         "SkillGroupID": "10430109",
         "AirShotLocal": "0",
@@ -47367,7 +47481,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1324": {
+      "1327": {
         "SkillID": "1043010904",
         "SkillGroupID": "10430109",
         "AirShotLocal": "0",
@@ -47402,7 +47516,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1325": {
+      "1328": {
         "SkillID": "104301102",
         "SkillGroupID": "104301102",
         "AirShotLocal": "0",
@@ -47437,7 +47551,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1326": {
+      "1329": {
         "SkillID": "10000000",
         "SkillGroupID": "100000",
         "AirShotLocal": "0",
@@ -47472,7 +47586,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1327": {
+      "1330": {
         "SkillID": "10000001",
         "SkillGroupID": "100001",
         "AirShotLocal": "0",
@@ -47507,7 +47621,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1328": {
+      "1331": {
         "SkillID": "2010010101",
         "SkillGroupID": "20100101",
         "AirShotLocal": "NPC_2010001_Skill_20100100_TakeHit",
@@ -47545,7 +47659,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1329": {
+      "1332": {
         "SkillID": "2010010102",
         "SkillGroupID": "20100101",
         "AirShotLocal": "NPC_2010001_Skill_20100100_TakeHit",
@@ -47583,7 +47697,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1330": {
+      "1333": {
         "SkillID": "2010010103",
         "SkillGroupID": "20100101",
         "AirShotLocal": "NPC_2010001_Skill_20100100_TakeHit",
@@ -47621,7 +47735,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1331": {
+      "1334": {
         "SkillID": "2010010104",
         "SkillGroupID": "20100101",
         "AirShotLocal": "NPC_2010001_Skill_20100100_TakeHit",
@@ -47659,7 +47773,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1332": {
+      "1335": {
         "SkillID": "2011010101",
         "SkillGroupID": "20110101",
         "AirShotLocal": "NPC_2011001_Skill_20110100_TakeHit",
@@ -47697,7 +47811,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1333": {
+      "1336": {
         "SkillID": "2011010102",
         "SkillGroupID": "20110101",
         "AirShotLocal": "NPC_2011001_Skill_20110100_TakeHit",
@@ -47735,7 +47849,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1334": {
+      "1337": {
         "SkillID": "2011010103",
         "SkillGroupID": "20110101",
         "AirShotLocal": "NPC_2011001_Skill_20110100_TakeHit",
@@ -47773,7 +47887,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1335": {
+      "1338": {
         "SkillID": "2011010104",
         "SkillGroupID": "20110101",
         "AirShotLocal": "NPC_2011001_Skill_20110100_TakeHit",
@@ -47811,7 +47925,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1336": {
+      "1339": {
         "SkillID": "2012010101",
         "SkillGroupID": "20120101",
         "AirShotLocal": "NPC_2011001_Skill_20110100_TakeHit",
@@ -47849,7 +47963,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1337": {
+      "1340": {
         "SkillID": "2012010102",
         "SkillGroupID": "20120101",
         "AirShotLocal": "NPC_2011001_Skill_20110100_TakeHit",
@@ -47887,7 +48001,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1338": {
+      "1341": {
         "SkillID": "2012010103",
         "SkillGroupID": "20120101",
         "AirShotLocal": "NPC_2011001_Skill_20110100_TakeHit",
@@ -47925,7 +48039,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1339": {
+      "1342": {
         "SkillID": "2013010101",
         "SkillGroupID": "20130101",
         "AirShotLocal": "NPC_2010001_Skill_20100100_TakeHit",
@@ -47963,7 +48077,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1340": {
+      "1343": {
         "SkillID": "2013010102",
         "SkillGroupID": "20130101",
         "AirShotLocal": "NPC_2010001_Skill_20100100_TakeHit",
@@ -48001,7 +48115,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1341": {
+      "1344": {
         "SkillID": "2013010103",
         "SkillGroupID": "20130101",
         "AirShotLocal": "NPC_2010001_Skill_20100100_TakeHit",
@@ -48039,7 +48153,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1342": {
+      "1345": {
         "SkillID": "2013010104",
         "SkillGroupID": "20130101",
         "AirShotLocal": "NPC_2010001_Skill_20100100_TakeHit",
@@ -48077,7 +48191,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1343": {
+      "1346": {
         "SkillID": "2013010105",
         "SkillGroupID": "20130101",
         "AirShotLocal": "NPC_2010001_Skill_20100100_TakeHit",
@@ -48115,7 +48229,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1344": {
+      "1347": {
         "SkillID": "2013010106",
         "SkillGroupID": "20130101",
         "AirShotLocal": "NPC_2010001_Skill_20100100_TakeHit",
@@ -48153,7 +48267,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1345": {
+      "1348": {
         "SkillID": "2050010101",
         "SkillGroupID": "20500101",
         "AirShotLocal": "0",
@@ -48191,7 +48305,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1346": {
+      "1349": {
         "SkillID": "2050010102",
         "SkillGroupID": "20500101",
         "AirShotLocal": "0",
@@ -48229,7 +48343,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1347": {
+      "1350": {
         "SkillID": "2050010103",
         "SkillGroupID": "20500101",
         "AirShotLocal": "0",
@@ -48267,7 +48381,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1348": {
+      "1351": {
         "SkillID": "2050010104",
         "SkillGroupID": "20500101",
         "AirShotLocal": "0",
@@ -48305,7 +48419,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1349": {
+      "1352": {
         "SkillID": "2050010105",
         "SkillGroupID": "20500101",
         "AirShotLocal": "0",
@@ -48343,7 +48457,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1350": {
+      "1353": {
         "SkillID": "2050010106",
         "SkillGroupID": "20500101",
         "AirShotLocal": "0",
@@ -48381,7 +48495,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1351": {
+      "1354": {
         "SkillID": "2051010001",
         "SkillGroupID": "20511101",
         "AirShotLocal": "0",
@@ -48416,7 +48530,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1352": {
+      "1355": {
         "SkillID": "2052010101",
         "SkillGroupID": "20520101",
         "AirShotLocal": "0",
@@ -48454,7 +48568,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1353": {
+      "1356": {
         "SkillID": "2052010102",
         "SkillGroupID": "20520101",
         "AirShotLocal": "0",
@@ -48492,7 +48606,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1354": {
+      "1357": {
         "SkillID": "2052010103",
         "SkillGroupID": "20520101",
         "AirShotLocal": "0",
@@ -48530,7 +48644,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1355": {
+      "1358": {
         "SkillID": "2053010101",
         "SkillGroupID": "20530101",
         "AirShotLocal": "0",
@@ -48568,7 +48682,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1356": {
+      "1359": {
         "SkillID": "2053010102",
         "SkillGroupID": "20530101",
         "AirShotLocal": "0",
@@ -48606,7 +48720,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1357": {
+      "1360": {
         "SkillID": "2053010103",
         "SkillGroupID": "20530101",
         "AirShotLocal": "0",
@@ -48644,7 +48758,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1358": {
+      "1361": {
         "SkillID": "2054010101",
         "SkillGroupID": "20540101",
         "AirShotLocal": "0",
@@ -48682,7 +48796,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1359": {
+      "1362": {
         "SkillID": "2054010102",
         "SkillGroupID": "20540101",
         "AirShotLocal": "0",
@@ -48720,7 +48834,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1360": {
+      "1363": {
         "SkillID": "2054010103",
         "SkillGroupID": "20540101",
         "AirShotLocal": "0",
@@ -48758,7 +48872,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1361": {
+      "1364": {
         "SkillID": "2055010101",
         "SkillGroupID": "20550101",
         "AirShotLocal": "0",
@@ -48793,7 +48907,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1362": {
+      "1365": {
         "SkillID": "2055010201",
         "SkillGroupID": "20550102",
         "AirShotLocal": "0",
@@ -48828,7 +48942,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1363": {
+      "1366": {
         "SkillID": "2055010301",
         "SkillGroupID": "20550103",
         "AirShotLocal": "0",
@@ -48863,7 +48977,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1364": {
+      "1367": {
         "SkillID": "2055010401",
         "SkillGroupID": "20550104",
         "AirShotLocal": "0",
@@ -48898,7 +49012,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1365": {
+      "1368": {
         "SkillID": "2056010101",
         "SkillGroupID": "20560101",
         "AirShotLocal": "0",
@@ -48933,7 +49047,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1366": {
+      "1369": {
         "SkillID": "2056010201",
         "SkillGroupID": "20560102",
         "AirShotLocal": "0",
@@ -48968,7 +49082,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1367": {
+      "1370": {
         "SkillID": "2056010301",
         "SkillGroupID": "20560103",
         "AirShotLocal": "0",
@@ -49003,7 +49117,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1368": {
+      "1371": {
         "SkillID": "2057010101",
         "SkillGroupID": "20570101",
         "AirShotLocal": "0",
@@ -49041,7 +49155,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1369": {
+      "1372": {
         "SkillID": "2057010102",
         "SkillGroupID": "20570101",
         "AirShotLocal": "0",
@@ -49079,7 +49193,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1370": {
+      "1373": {
         "SkillID": "2057010201",
         "SkillGroupID": "20570102",
         "AirShotLocal": "0",
@@ -49114,7 +49228,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1371": {
+      "1374": {
         "SkillID": "2058010101",
         "SkillGroupID": "20580101",
         "AirShotLocal": "0",
@@ -49152,7 +49266,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1372": {
+      "1375": {
         "SkillID": "2058010102",
         "SkillGroupID": "20580101",
         "AirShotLocal": "0",
@@ -49190,7 +49304,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1373": {
+      "1376": {
         "SkillID": "2058010103",
         "SkillGroupID": "20580101",
         "AirShotLocal": "0",
@@ -49228,7 +49342,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1374": {
+      "1377": {
         "SkillID": "2059010101",
         "SkillGroupID": "20590101",
         "AirShotLocal": "0",
@@ -49266,7 +49380,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1375": {
+      "1378": {
         "SkillID": "2059010102",
         "SkillGroupID": "20590101",
         "AirShotLocal": "0",
@@ -49304,7 +49418,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1376": {
+      "1379": {
         "SkillID": "2059010103",
         "SkillGroupID": "20590101",
         "AirShotLocal": "0",
@@ -49342,7 +49456,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1377": {
+      "1380": {
         "SkillID": "2060010101",
         "SkillGroupID": "20600101",
         "AirShotLocal": "0",
@@ -49377,7 +49491,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1378": {
+      "1381": {
         "SkillID": "2060010102",
         "SkillGroupID": "20600101",
         "AirShotLocal": "0",
@@ -49412,7 +49526,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1379": {
+      "1382": {
         "SkillID": "2060010201",
         "SkillGroupID": "20600102",
         "AirShotLocal": "0",
@@ -49447,7 +49561,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1380": {
+      "1383": {
         "SkillID": "2061010101",
         "SkillGroupID": "20610101",
         "AirShotLocal": "0",
@@ -49485,7 +49599,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1381": {
+      "1384": {
         "SkillID": "2061010102",
         "SkillGroupID": "20610101",
         "AirShotLocal": "0",
@@ -49523,7 +49637,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1382": {
+      "1385": {
         "SkillID": "2061010201",
         "SkillGroupID": "20610102",
         "AirShotLocal": "0",
@@ -49558,7 +49672,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1383": {
+      "1386": {
         "SkillID": "2070010101",
         "SkillGroupID": "20700101",
         "AirShotLocal": "0",
@@ -49593,7 +49707,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1384": {
+      "1387": {
         "SkillID": "2070010201",
         "SkillGroupID": "20700102",
         "AirShotLocal": "0",
@@ -49628,7 +49742,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1385": {
+      "1388": {
         "SkillID": "2070010301",
         "SkillGroupID": "20700103",
         "AirShotLocal": "0",
@@ -49663,7 +49777,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1386": {
+      "1389": {
         "SkillID": "2070010401",
         "SkillGroupID": "20700104",
         "AirShotLocal": "0",
@@ -49698,7 +49812,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1387": {
+      "1390": {
         "SkillID": "2071010101",
         "SkillGroupID": "20710101",
         "AirShotLocal": "0",
@@ -49733,7 +49847,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1388": {
+      "1391": {
         "SkillID": "2071010201",
         "SkillGroupID": "20710102",
         "AirShotLocal": "0",
@@ -49768,7 +49882,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1389": {
+      "1392": {
         "SkillID": "2071010301",
         "SkillGroupID": "20710103",
         "AirShotLocal": "0",
@@ -49803,7 +49917,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1390": {
+      "1393": {
         "SkillID": "2071010401",
         "SkillGroupID": "20710104",
         "AirShotLocal": "0",
@@ -49838,7 +49952,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1391": {
+      "1394": {
         "SkillID": "2072010101",
         "SkillGroupID": "20720101",
         "AirShotLocal": "0",
@@ -49873,7 +49987,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1392": {
+      "1395": {
         "SkillID": "2072010201",
         "SkillGroupID": "20720102",
         "AirShotLocal": "0",
@@ -49908,7 +50022,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1393": {
+      "1396": {
         "SkillID": "2072010301",
         "SkillGroupID": "20720103",
         "AirShotLocal": "0",
@@ -49943,7 +50057,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1394": {
+      "1397": {
         "SkillID": "2072010401",
         "SkillGroupID": "20720104",
         "AirShotLocal": "0",
@@ -49978,7 +50092,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1395": {
+      "1398": {
         "SkillID": "2073010101",
         "SkillGroupID": "20730101",
         "AirShotLocal": "0",
@@ -50013,7 +50127,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1396": {
+      "1399": {
         "SkillID": "2073010201",
         "SkillGroupID": "20730102",
         "AirShotLocal": "0",
@@ -50048,7 +50162,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1397": {
+      "1400": {
         "SkillID": "2073010301",
         "SkillGroupID": "20730103",
         "AirShotLocal": "0",
@@ -50083,7 +50197,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1398": {
+      "1401": {
         "SkillID": "2073010401",
         "SkillGroupID": "20730104",
         "AirShotLocal": "0",
@@ -50118,7 +50232,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1399": {
+      "1402": {
         "SkillID": "2500010101",
         "SkillGroupID": "25000101",
         "AirShotLocal": "0",
@@ -50153,7 +50267,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1400": {
+      "1403": {
         "SkillID": "2500010102",
         "SkillGroupID": "25000101",
         "AirShotLocal": "0",
@@ -50188,7 +50302,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1401": {
+      "1404": {
         "SkillID": "2500010103",
         "SkillGroupID": "25000101",
         "AirShotLocal": "0",
@@ -50223,7 +50337,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1402": {
+      "1405": {
         "SkillID": "2500020101",
         "SkillGroupID": "25000201",
         "AirShotLocal": "0",
@@ -50258,7 +50372,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1403": {
+      "1406": {
         "SkillID": "2500020201",
         "SkillGroupID": "25000202",
         "AirShotLocal": "0",
@@ -50293,7 +50407,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1404": {
+      "1407": {
         "SkillID": "2500020301",
         "SkillGroupID": "25000203",
         "AirShotLocal": "0",
@@ -50328,7 +50442,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1405": {
+      "1408": {
         "SkillID": "2500030101",
         "SkillGroupID": "25000301",
         "AirShotLocal": "0",
@@ -50363,7 +50477,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1406": {
+      "1409": {
         "SkillID": "2500030201",
         "SkillGroupID": "25000302",
         "AirShotLocal": "0",
@@ -50398,7 +50512,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1407": {
+      "1410": {
         "SkillID": "2501010101",
         "SkillGroupID": "25010101",
         "AirShotLocal": "0",
@@ -50433,7 +50547,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1408": {
+      "1411": {
         "SkillID": "2501010102",
         "SkillGroupID": "25010101",
         "AirShotLocal": "0",
@@ -50468,7 +50582,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1409": {
+      "1412": {
         "SkillID": "2501010103",
         "SkillGroupID": "25010101",
         "AirShotLocal": "0",
@@ -50503,7 +50617,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1410": {
+      "1413": {
         "SkillID": "2501010201",
         "SkillGroupID": "25010201",
         "AirShotLocal": "0",
@@ -50538,7 +50652,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1411": {
+      "1414": {
         "SkillID": "2501010202",
         "SkillGroupID": "25010202",
         "AirShotLocal": "0",
@@ -50573,7 +50687,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1412": {
+      "1415": {
         "SkillID": "2501110101",
         "SkillGroupID": "25011101",
         "AirShotLocal": "0",
@@ -50608,7 +50722,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1413": {
+      "1416": {
         "SkillID": "2501110102",
         "SkillGroupID": "25011101",
         "AirShotLocal": "0",
@@ -50643,7 +50757,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1414": {
+      "1417": {
         "SkillID": "2502010101",
         "SkillGroupID": "25020101",
         "AirShotLocal": "0",
@@ -50678,7 +50792,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1415": {
+      "1418": {
         "SkillID": "2502030101",
         "SkillGroupID": "25020301",
         "AirShotLocal": "0",
@@ -50713,7 +50827,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1416": {
+      "1419": {
         "SkillID": "2502030201",
         "SkillGroupID": "25020302",
         "AirShotLocal": "0",
@@ -50748,7 +50862,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1417": {
+      "1420": {
         "SkillID": "2502110101",
         "SkillGroupID": "25021101",
         "AirShotLocal": "0",
@@ -50783,7 +50897,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1418": {
+      "1421": {
         "SkillID": "2502110102",
         "SkillGroupID": "25021101",
         "AirShotLocal": "0",
@@ -50818,7 +50932,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1419": {
+      "1422": {
         "SkillID": "2502110103",
         "SkillGroupID": "25021101",
         "AirShotLocal": "0",
@@ -50853,7 +50967,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1420": {
+      "1423": {
         "SkillID": "2503010101",
         "SkillGroupID": "25030101",
         "AirShotLocal": "0",
@@ -50888,7 +51002,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1421": {
+      "1424": {
         "SkillID": "2503010102",
         "SkillGroupID": "25030101",
         "AirShotLocal": "0",
@@ -50923,7 +51037,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1422": {
+      "1425": {
         "SkillID": "2503010103",
         "SkillGroupID": "25030101",
         "AirShotLocal": "0",
@@ -50958,7 +51072,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1423": {
+      "1426": {
         "SkillID": "2503020101",
         "SkillGroupID": "25030201",
         "AirShotLocal": "0",
@@ -50993,7 +51107,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1424": {
+      "1427": {
         "SkillID": "2503020201",
         "SkillGroupID": "25030202",
         "AirShotLocal": "0",
@@ -51028,7 +51142,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1425": {
+      "1428": {
         "SkillID": "2503020301",
         "SkillGroupID": "25030203",
         "AirShotLocal": "0",
@@ -51063,7 +51177,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1426": {
+      "1429": {
         "SkillID": "2503110101",
         "SkillGroupID": "25031101",
         "AirShotLocal": "0",
@@ -51098,7 +51212,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1427": {
+      "1430": {
         "SkillID": "2504010101",
         "SkillGroupID": "25040101",
         "AirShotLocal": "0",
@@ -51133,7 +51247,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1428": {
+      "1431": {
         "SkillID": "2504020101",
         "SkillGroupID": "25040201",
         "AirShotLocal": "0",
@@ -51168,7 +51282,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1429": {
+      "1432": {
         "SkillID": "2504020201",
         "SkillGroupID": "25040202",
         "AirShotLocal": "0",
@@ -51203,7 +51317,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1430": {
+      "1433": {
         "SkillID": "2504020301",
         "SkillGroupID": "25040203",
         "AirShotLocal": "0",
@@ -51238,7 +51352,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1431": {
+      "1434": {
         "SkillID": "2504030101",
         "SkillGroupID": "25040301",
         "AirShotLocal": "0",
@@ -51273,7 +51387,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1432": {
+      "1435": {
         "SkillID": "2504030201",
         "SkillGroupID": "25040302",
         "AirShotLocal": "0",
@@ -51308,7 +51422,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1433": {
+      "1436": {
         "SkillID": "2505010101",
         "SkillGroupID": "25050101",
         "AirShotLocal": "0",
@@ -51343,7 +51457,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1434": {
+      "1437": {
         "SkillID": "2505010102",
         "SkillGroupID": "25050101",
         "AirShotLocal": "0",
@@ -51378,7 +51492,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1435": {
+      "1438": {
         "SkillID": "2505010103",
         "SkillGroupID": "25050101",
         "AirShotLocal": "0",
@@ -51413,7 +51527,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1436": {
+      "1439": {
         "SkillID": "2505020101",
         "SkillGroupID": "25050201",
         "AirShotLocal": "0",
@@ -51448,7 +51562,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1437": {
+      "1440": {
         "SkillID": "2505020201",
         "SkillGroupID": "25050202",
         "AirShotLocal": "0",
@@ -51483,7 +51597,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1438": {
+      "1441": {
         "SkillID": "2505020301",
         "SkillGroupID": "25050203",
         "AirShotLocal": "0",
@@ -51518,7 +51632,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1439": {
+      "1442": {
         "SkillID": "2505030101",
         "SkillGroupID": "25050301",
         "AirShotLocal": "0",
@@ -51553,7 +51667,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1440": {
+      "1443": {
         "SkillID": "2505030201",
         "SkillGroupID": "25050302",
         "AirShotLocal": "0",
@@ -51588,7 +51702,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1441": {
+      "1444": {
         "SkillID": "2505110101",
         "SkillGroupID": "25051101",
         "AirShotLocal": "0",
@@ -51623,7 +51737,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1442": {
+      "1445": {
         "SkillID": "2505110102",
         "SkillGroupID": "25051101",
         "AirShotLocal": "0",
@@ -51658,7 +51772,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1443": {
+      "1446": {
         "SkillID": "2506010101",
         "SkillGroupID": "25060101",
         "AirShotLocal": "0",
@@ -51693,7 +51807,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1444": {
+      "1447": {
         "SkillID": "2506010102",
         "SkillGroupID": "25060101",
         "AirShotLocal": "0",
@@ -51728,7 +51842,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1445": {
+      "1448": {
         "SkillID": "2506010103",
         "SkillGroupID": "25060101",
         "AirShotLocal": "0",
@@ -51763,7 +51877,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1446": {
+      "1449": {
         "SkillID": "2506020101",
         "SkillGroupID": "25060201",
         "AirShotLocal": "0",
@@ -51798,7 +51912,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1447": {
+      "1450": {
         "SkillID": "2506020201",
         "SkillGroupID": "25060202",
         "AirShotLocal": "0",
@@ -51833,7 +51947,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1448": {
+      "1451": {
         "SkillID": "2506020301",
         "SkillGroupID": "25060203",
         "AirShotLocal": "0",
@@ -51868,7 +51982,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1449": {
+      "1452": {
         "SkillID": "2506030101",
         "SkillGroupID": "25060301",
         "AirShotLocal": "0",
@@ -51903,7 +52017,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1450": {
+      "1453": {
         "SkillID": "2506030201",
         "SkillGroupID": "25060302",
         "AirShotLocal": "0",
@@ -51938,7 +52052,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1451": {
+      "1454": {
         "SkillID": "2506030301",
         "SkillGroupID": "25060303",
         "AirShotLocal": "0",
@@ -51973,7 +52087,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1452": {
+      "1455": {
         "SkillID": "2506110101",
         "SkillGroupID": "25061101",
         "AirShotLocal": "0",
@@ -52008,7 +52122,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1453": {
+      "1456": {
         "SkillID": "2507010101",
         "SkillGroupID": "25070101",
         "AirShotLocal": "0",
@@ -52043,7 +52157,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1454": {
+      "1457": {
         "SkillID": "2507020101",
         "SkillGroupID": "25070201",
         "AirShotLocal": "0",
@@ -52081,7 +52195,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1455": {
+      "1458": {
         "SkillID": "2507020201",
         "SkillGroupID": "25070202",
         "AirShotLocal": "0",
@@ -52119,7 +52233,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1456": {
+      "1459": {
         "SkillID": "2507020301",
         "SkillGroupID": "25070203",
         "AirShotLocal": "0",
@@ -52157,7 +52271,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1457": {
+      "1460": {
         "SkillID": "2507030101",
         "SkillGroupID": "25070301",
         "AirShotLocal": "0",
@@ -52195,7 +52309,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1458": {
+      "1461": {
         "SkillID": "2507030201",
         "SkillGroupID": "25070302",
         "AirShotLocal": "0",
@@ -52233,7 +52347,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1459": {
+      "1462": {
         "SkillID": "2507030301",
         "SkillGroupID": "25070303",
         "AirShotLocal": "0",
@@ -52271,7 +52385,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1460": {
+      "1463": {
         "SkillID": "2507110101",
         "SkillGroupID": "25071101",
         "AirShotLocal": "0",
@@ -52306,7 +52420,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1461": {
+      "1464": {
         "SkillID": "2507110102",
         "SkillGroupID": "25071101",
         "AirShotLocal": "0",
@@ -52341,7 +52455,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1462": {
+      "1465": {
         "SkillID": "2507110103",
         "SkillGroupID": "25071101",
         "AirShotLocal": "0",
@@ -52376,7 +52490,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1463": {
+      "1466": {
         "SkillID": "2060020101",
         "SkillGroupID": "20600201",
         "AirShotLocal": "0",
@@ -52411,7 +52525,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1464": {
+      "1467": {
         "SkillID": "2060020102",
         "SkillGroupID": "20600201",
         "AirShotLocal": "0",
@@ -52446,7 +52560,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1465": {
+      "1468": {
         "SkillID": "2060020201",
         "SkillGroupID": "20600202",
         "AirShotLocal": "0",
@@ -52481,7 +52595,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1466": {
+      "1469": {
         "SkillID": "2060020301",
         "SkillGroupID": "20600203",
         "AirShotLocal": "0",
@@ -52519,7 +52633,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1467": {
+      "1470": {
         "SkillID": "2061020101",
         "SkillGroupID": "20610201",
         "AirShotLocal": "0",
@@ -52554,7 +52668,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1468": {
+      "1471": {
         "SkillID": "2061020102",
         "SkillGroupID": "20610201",
         "AirShotLocal": "0",
@@ -52589,7 +52703,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1469": {
+      "1472": {
         "SkillID": "2061020103",
         "SkillGroupID": "20610201",
         "AirShotLocal": "0",
@@ -52624,7 +52738,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1470": {
+      "1473": {
         "SkillID": "2061020201",
         "SkillGroupID": "20610202",
         "AirShotLocal": "0",
@@ -52662,7 +52776,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1471": {
+      "1474": {
         "SkillID": "2061020301",
         "SkillGroupID": "20610203",
         "AirShotLocal": "0",
@@ -52697,7 +52811,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1472": {
+      "1475": {
         "SkillID": "2101010101",
         "SkillGroupID": "21010101",
         "AirShotLocal": "0",
@@ -52735,7 +52849,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1473": {
+      "1476": {
         "SkillID": "2102010101",
         "SkillGroupID": "21020101",
         "AirShotLocal": "0",
@@ -52773,7 +52887,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1474": {
+      "1477": {
         "SkillID": "2105010101",
         "SkillGroupID": "21050101",
         "AirShotLocal": "0",
@@ -52811,7 +52925,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1475": {
+      "1478": {
         "SkillID": "2111010101",
         "SkillGroupID": "21110101",
         "AirShotLocal": "0",
@@ -52846,7 +52960,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1476": {
+      "1479": {
         "SkillID": "2112010101",
         "SkillGroupID": "21120101",
         "AirShotLocal": "0",
@@ -52884,7 +52998,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1477": {
+      "1480": {
         "SkillID": "2113010101",
         "SkillGroupID": "21130101",
         "AirShotLocal": "0",
@@ -52919,7 +53033,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1478": {
+      "1481": {
         "SkillID": "2150010101",
         "SkillGroupID": "21500101",
         "AirShotLocal": "0",
@@ -52954,7 +53068,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1479": {
+      "1482": {
         "SkillID": "2150010102",
         "SkillGroupID": "21500101",
         "AirShotLocal": "0",
@@ -52989,7 +53103,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1480": {
+      "1483": {
         "SkillID": "2150010103",
         "SkillGroupID": "21500101",
         "AirShotLocal": "0",
@@ -53024,7 +53138,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1481": {
+      "1484": {
         "SkillID": "2150010104",
         "SkillGroupID": "21500101",
         "AirShotLocal": "0",
@@ -53059,7 +53173,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1482": {
+      "1485": {
         "SkillID": "2150010105",
         "SkillGroupID": "21500101",
         "AirShotLocal": "0",
@@ -53094,7 +53208,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1483": {
+      "1486": {
         "SkillID": "2154010101",
         "SkillGroupID": "21540101",
         "AirShotLocal": "Hero_1036001_Skill_1036010101_Miss",
@@ -53129,7 +53243,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1484": {
+      "1487": {
         "SkillID": "2154010102",
         "SkillGroupID": "21540101",
         "AirShotLocal": "Hero_1036001_Skill_1036010101_Miss",
@@ -53164,7 +53278,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1485": {
+      "1488": {
         "SkillID": "2154010103",
         "SkillGroupID": "21540101",
         "AirShotLocal": "Hero_1036001_Skill_1036010101_Miss",
@@ -53199,7 +53313,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1486": {
+      "1489": {
         "SkillID": "2154010104",
         "SkillGroupID": "21540101",
         "AirShotLocal": "Hero_1036001_Skill_1036010101_Miss",
@@ -53234,7 +53348,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1487": {
+      "1490": {
         "SkillID": "2155010101",
         "SkillGroupID": "21550101",
         "AirShotLocal": "0",
@@ -53269,7 +53383,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1488": {
+      "1491": {
         "SkillID": "2155020101",
         "SkillGroupID": "21550201",
         "AirShotLocal": "0",
@@ -53304,7 +53418,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1489": {
+      "1492": {
         "SkillID": "2155010601",
         "SkillGroupID": "21550106",
         "AirShotLocal": "0",
@@ -53339,7 +53453,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1490": {
+      "1493": {
         "SkillID": "30101000",
         "SkillGroupID": "30101000",
         "AirShotLocal": "None",
@@ -53377,7 +53491,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1491": {
+      "1494": {
         "SkillID": "30101001",
         "SkillGroupID": "30101001",
         "AirShotLocal": "None",
@@ -53412,7 +53526,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1492": {
+      "1495": {
         "SkillID": "30102000",
         "SkillGroupID": "30102000",
         "AirShotLocal": "None",
@@ -53447,7 +53561,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1493": {
+      "1496": {
         "SkillID": "30102004",
         "SkillGroupID": "30102004",
         "AirShotLocal": "None",
@@ -53482,7 +53596,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1494": {
+      "1497": {
         "SkillID": "30103000",
         "SkillGroupID": "30103000",
         "AirShotLocal": "None",
@@ -53517,7 +53631,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1495": {
+      "1498": {
         "SkillID": "30104000",
         "SkillGroupID": "30104000_01",
         "AirShotLocal": "None",
@@ -53552,7 +53666,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1496": {
+      "1499": {
         "SkillID": "30201007",
         "SkillGroupID": "30201007",
         "AirShotLocal": "None",
@@ -53587,7 +53701,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1497": {
+      "1500": {
         "SkillID": "30201008",
         "SkillGroupID": "30201008",
         "AirShotLocal": "None",
@@ -53625,7 +53739,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1498": {
+      "1501": {
         "SkillID": "30201010",
         "SkillGroupID": "30201010",
         "AirShotLocal": "None",
@@ -53660,7 +53774,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1499": {
+      "1502": {
         "SkillID": "30202006",
         "SkillGroupID": "30202006",
         "AirShotLocal": "None",
@@ -53695,7 +53809,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1500": {
+      "1503": {
         "SkillID": "30203003",
         "SkillGroupID": "30203003",
         "AirShotLocal": "None",
@@ -53730,7 +53844,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1501": {
+      "1504": {
         "SkillID": "30203010",
         "SkillGroupID": "30203010",
         "AirShotLocal": "None",
@@ -53765,7 +53879,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1502": {
+      "1505": {
         "SkillID": "30204001",
         "SkillGroupID": "30204001",
         "AirShotLocal": "None",
@@ -53800,7 +53914,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1503": {
+      "1506": {
         "SkillID": "30304004",
         "SkillGroupID": "30304004",
         "AirShotLocal": "None",
@@ -53835,7 +53949,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1504": {
+      "1507": {
         "SkillID": "30204002",
         "SkillGroupID": "30204002",
         "AirShotLocal": "None",
@@ -53870,7 +53984,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1505": {
+      "1508": {
         "SkillID": "30204003",
         "SkillGroupID": "30204003",
         "AirShotLocal": "None",
@@ -53905,7 +54019,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1506": {
+      "1509": {
         "SkillID": "30204004",
         "SkillGroupID": "30104000_01",
         "AirShotLocal": "None",
@@ -53940,7 +54054,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1507": {
+      "1510": {
         "SkillID": "30301002",
         "SkillGroupID": "30301002",
         "AirShotLocal": "None",
@@ -53975,7 +54089,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1508": {
+      "1511": {
         "SkillID": "30301006",
         "SkillGroupID": "30301006",
         "AirShotLocal": "None",
@@ -54010,7 +54124,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1509": {
+      "1512": {
         "SkillID": "30301007",
         "SkillGroupID": "30301007",
         "AirShotLocal": "None",
@@ -54045,7 +54159,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1510": {
+      "1513": {
         "SkillID": "30301009",
         "SkillGroupID": "30301009",
         "AirShotLocal": "None",
@@ -54080,7 +54194,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1511": {
+      "1514": {
         "SkillID": "30301010",
         "SkillGroupID": "30301010",
         "AirShotLocal": "bpitem_30301010",
@@ -54115,7 +54229,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1512": {
+      "1515": {
         "SkillID": "30301011",
         "SkillGroupID": "30301011",
         "AirShotLocal": "None",
@@ -54150,7 +54264,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1513": {
+      "1516": {
         "SkillID": "30301012",
         "SkillGroupID": "30301012",
         "AirShotLocal": "None",
@@ -54185,7 +54299,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1514": {
+      "1517": {
         "SkillID": "30301013",
         "SkillGroupID": "30301013",
         "AirShotLocal": "None",
@@ -54220,7 +54334,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1515": {
+      "1518": {
         "SkillID": "30302001",
         "SkillGroupID": "30302001",
         "AirShotLocal": "None",
@@ -54255,7 +54369,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1516": {
+      "1519": {
         "SkillID": "30302004",
         "SkillGroupID": "30302004",
         "AirShotLocal": "None",
@@ -54290,7 +54404,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1517": {
+      "1520": {
         "SkillID": "30302008",
         "SkillGroupID": "30302008",
         "AirShotLocal": "None",
@@ -54325,7 +54439,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1518": {
+      "1521": {
         "SkillID": "30302009",
         "SkillGroupID": "30302009",
         "AirShotLocal": "None",
@@ -54360,7 +54474,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1519": {
+      "1522": {
         "SkillID": "30302010",
         "SkillGroupID": "30302010",
         "AirShotLocal": "None",
@@ -54395,7 +54509,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1520": {
+      "1523": {
         "SkillID": "30303008",
         "SkillGroupID": "30303008",
         "AirShotLocal": "None",
@@ -54430,7 +54544,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1521": {
+      "1524": {
         "SkillID": "30303009",
         "SkillGroupID": "30303009",
         "AirShotLocal": "None",
@@ -54465,7 +54579,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1522": {
+      "1525": {
         "SkillID": "30303010",
         "SkillGroupID": "30303010",
         "AirShotLocal": "None",
@@ -54500,7 +54614,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1523": {
+      "1526": {
         "SkillID": "30304000",
         "SkillGroupID": "30304000",
         "AirShotLocal": "None",
@@ -54535,7 +54649,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1524": {
+      "1527": {
         "SkillID": "30304001",
         "SkillGroupID": "30304001",
         "AirShotLocal": "None",
@@ -54570,7 +54684,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1525": {
+      "1528": {
         "SkillID": "30304002",
         "SkillGroupID": "30304002",
         "AirShotLocal": "None",
@@ -54608,7 +54722,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1526": {
+      "1529": {
         "SkillID": "30304003",
         "SkillGroupID": "30304003",
         "AirShotLocal": "None",
@@ -54646,7 +54760,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1527": {
+      "1530": {
         "SkillID": "30304005",
         "SkillGroupID": "30104000_01",
         "AirShotLocal": "None",
@@ -54681,7 +54795,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1528": {
+      "1531": {
         "SkillID": "30900000",
         "SkillGroupID": "30900000",
         "AirShotLocal": "None",
@@ -54716,7 +54830,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1529": {
+      "1532": {
         "SkillID": "30900001",
         "SkillGroupID": "30900001",
         "AirShotLocal": "None",
@@ -54751,7 +54865,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1530": {
+      "1533": {
         "SkillID": "30900002",
         "SkillGroupID": "30900002",
         "AirShotLocal": "None",
@@ -54786,7 +54900,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1531": {
+      "1534": {
         "SkillID": "30900003",
         "SkillGroupID": "30900003",
         "AirShotLocal": "None",
@@ -54821,7 +54935,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1532": {
+      "1535": {
         "SkillID": "30900004",
         "SkillGroupID": "30900004",
         "AirShotLocal": "None",
@@ -54856,7 +54970,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1533": {
+      "1536": {
         "SkillID": "30900005",
         "SkillGroupID": "30900005",
         "AirShotLocal": "None",
@@ -54891,7 +55005,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1534": {
+      "1537": {
         "SkillID": "30101006",
         "SkillGroupID": "30101006",
         "AirShotLocal": "None",
@@ -54926,7 +55040,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1535": {
+      "1538": {
         "SkillID": "30201014",
         "SkillGroupID": "30201014",
         "AirShotLocal": "None",
@@ -54961,7 +55075,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1536": {
+      "1539": {
         "SkillID": "30301008",
         "SkillGroupID": "30301008",
         "AirShotLocal": "None",
@@ -54996,7 +55110,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1537": {
+      "1540": {
         "SkillID": "30201012",
         "SkillGroupID": "30201012",
         "AirShotLocal": "None",
@@ -55031,7 +55145,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1538": {
+      "1541": {
         "SkillID": "30301017",
         "SkillGroupID": "30301017",
         "AirShotLocal": "None",
@@ -55066,7 +55180,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1539": {
+      "1542": {
         "SkillID": "30301026",
         "SkillGroupID": "30301026",
         "AirShotLocal": "None",
@@ -55104,7 +55218,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1540": {
+      "1543": {
         "SkillID": "30303021",
         "SkillGroupID": "30303021",
         "AirShotLocal": "None",
@@ -55139,7 +55253,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1541": {
+      "1544": {
         "SkillID": "30302013",
         "SkillGroupID": "30302013",
         "AirShotLocal": "None",
@@ -55174,7 +55288,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1542": {
+      "1545": {
         "SkillID": "30302015",
         "SkillGroupID": "30302015",
         "AirShotLocal": "None",
@@ -55209,7 +55323,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1543": {
+      "1546": {
         "SkillID": "30202009",
         "SkillGroupID": "30202009",
         "AirShotLocal": "None",
@@ -55244,7 +55358,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1544": {
+      "1547": {
         "SkillID": "30203013",
         "SkillGroupID": "30203013",
         "AirShotLocal": "None",
@@ -55279,7 +55393,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1545": {
+      "1548": {
         "SkillID": "30302017",
         "SkillGroupID": "30302017",
         "AirShotLocal": "None",
@@ -55314,7 +55428,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1546": {
+      "1549": {
         "SkillID": "30302019",
         "SkillGroupID": "30302019",
         "AirShotLocal": "None",
@@ -55349,7 +55463,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1547": {
+      "1550": {
         "SkillID": "30303011",
         "SkillGroupID": "30303011",
         "AirShotLocal": "None",
@@ -55384,7 +55498,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1548": {
+      "1551": {
         "SkillID": "30302020",
         "SkillGroupID": "30302020",
         "AirShotLocal": "None",
@@ -55422,7 +55536,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1549": {
+      "1552": {
         "SkillID": "40101000",
         "SkillGroupID": "40101000",
         "AirShotLocal": "None",
@@ -55460,7 +55574,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1550": {
+      "1553": {
         "SkillID": "40101001",
         "SkillGroupID": "40101001",
         "AirShotLocal": "None",
@@ -55495,7 +55609,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1551": {
+      "1554": {
         "SkillID": "40101002",
         "SkillGroupID": "40101002",
         "AirShotLocal": "None",
@@ -55530,7 +55644,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1552": {
+      "1555": {
         "SkillID": "40101003",
         "SkillGroupID": "40101003",
         "AirShotLocal": "None",
@@ -55565,7 +55679,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1553": {
+      "1556": {
         "SkillID": "40101004",
         "SkillGroupID": "40101004",
         "AirShotLocal": "None",
@@ -55603,7 +55717,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1554": {
+      "1557": {
         "SkillID": "40101005",
         "SkillGroupID": "40101005",
         "AirShotLocal": "None",
@@ -55638,7 +55752,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1555": {
+      "1558": {
         "SkillID": "40101006",
         "SkillGroupID": "40101006",
         "AirShotLocal": "None",
@@ -55673,7 +55787,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1556": {
+      "1559": {
         "SkillID": "40101007",
         "SkillGroupID": "40101007",
         "AirShotLocal": "None",
@@ -55708,7 +55822,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1557": {
+      "1560": {
         "SkillID": "40101008",
         "SkillGroupID": "40101008",
         "AirShotLocal": "None",
@@ -55743,7 +55857,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1558": {
+      "1561": {
         "SkillID": "40101009",
         "SkillGroupID": "40101009",
         "AirShotLocal": "None",
@@ -55778,7 +55892,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1559": {
+      "1562": {
         "SkillID": "40101010",
         "SkillGroupID": "40101010",
         "AirShotLocal": "None",
@@ -55816,7 +55930,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1560": {
+      "1563": {
         "SkillID": "40101011",
         "SkillGroupID": "40101011",
         "AirShotLocal": "None",
@@ -55851,7 +55965,7 @@
         "ActionFinishSoundLocal": "None",
         "CrosshairBP": null
       },
-      "1561": {
+      "1564": {
         "SkillID": "40101012",
         "SkillGroupID": "40101012",
         "AirShotLocal": "None",
@@ -55889,7 +56003,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1562": {
+      "1565": {
         "SkillID": "40101013",
         "SkillGroupID": "40101013",
         "AirShotLocal": "None",
@@ -55927,7 +56041,7 @@
           "ObjectPath": "Overprime/Content/UI/Battle/BattleUIElements/Crosshairs/Mode/Crosshair_Mode_Target.19"
         }
       },
-      "1563": {
+      "1566": {
         "SkillID": "40101014",
         "SkillGroupID": "40101014",
         "AirShotLocal": "None",

@@ -11779,7 +11779,7 @@
         "Argument7": "None"
       },
       "569": {
-        "SkillTableID": "101101102",
+        "SkillTableID": "#",
         "SkinID": "None",
         "StartAt": 0.033333335,
         "NotifyStateDuration": -1.0,
@@ -20417,7 +20417,7 @@
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [],
-        "Value": "Summon",
+        "Value": "Summon_NotFollowingDimension",
         "Argument1": "2150",
         "Argument2": "None",
         "Argument3": "None",
@@ -20433,7 +20433,7 @@
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [],
-        "Value": "Summon",
+        "Value": "Summon_NotFollowingDimension",
         "Argument1": "2150",
         "Argument2": "None",
         "Argument3": "None",
@@ -20449,7 +20449,7 @@
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [],
-        "Value": "Summon",
+        "Value": "Summon_NotFollowingDimension",
         "Argument1": "2150",
         "Argument2": "None",
         "Argument3": "None",
@@ -20465,7 +20465,7 @@
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [],
-        "Value": "Summon",
+        "Value": "Summon_NotFollowingDimension",
         "Argument1": "2150",
         "Argument2": "None",
         "Argument3": "None",
@@ -20481,7 +20481,7 @@
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [],
-        "Value": "Summon",
+        "Value": "Summon_NotFollowingDimension",
         "Argument1": "2150",
         "Argument2": "None",
         "Argument3": "None",
@@ -32411,107 +32411,59 @@
         "Argument7": "None"
       },
       "1488": {
-        "SkillTableID": "1034010201",
+        "SkillTableID": "1034020102",
         "SkinID": "None",
-        "StartAt": 0.27347943,
+        "StartAt": 0.3157832,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [
-          {
-            "Muzzle_01": {
-              "Rotation": {
-                "X": -0.2160626,
-                "Y": 0.27192768,
-                "Z": -0.57332134,
-                "W": 0.7420747,
-                "IsNormalized": true,
-                "Size": 1.0,
-                "SizeSquared": 1.0
-              },
-              "Translation": {
-                "X": -15.324013,
-                "Y": 201.63379,
-                "Z": 157.80673
-              },
-              "Scale3D": {
-                "X": 1.0,
-                "Y": 1.0,
-                "Z": 1.0
-              }
-            }
-          }
-        ],
+        "SocketTransforms": [],
         "Value": "SpawnCollider",
-        "Argument1": "1034010201_01",
-        "Argument2": "1034010202_01",
-        "Argument3": "1034010203_01",
-        "Argument4": "1034010204_01",
-        "Argument5": "1034010205_01",
+        "Argument1": "1034010302_01",
+        "Argument2": "None",
+        "Argument3": "None",
+        "Argument4": "None",
+        "Argument5": "None",
         "Argument6": "None",
         "Argument7": "None"
       },
       "1489": {
-        "SkillTableID": "1034010202",
+        "SkillTableID": "1034020103",
         "SkinID": "None",
-        "StartAt": 0.27347943,
+        "StartAt": 0.38189444,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [
-          {
-            "Muzzle_01": {
-              "Rotation": {
-                "X": -0.2160626,
-                "Y": 0.27192768,
-                "Z": -0.57332134,
-                "W": 0.7420747,
-                "IsNormalized": true,
-                "Size": 1.0,
-                "SizeSquared": 1.0
-              },
-              "Translation": {
-                "X": -15.324013,
-                "Y": 201.63379,
-                "Z": 157.80673
-              },
-              "Scale3D": {
-                "X": 1.0,
-                "Y": 1.0,
-                "Z": 1.0
-              }
-            }
-          }
-        ],
+        "SocketTransforms": [],
         "Value": "SpawnCollider",
-        "Argument1": "1034010201_01",
-        "Argument2": "1034010202_01",
-        "Argument3": "1034010203_01",
-        "Argument4": "1034010204_01",
-        "Argument5": "1034010205_01",
+        "Argument1": "1034010303_01",
+        "Argument2": "None",
+        "Argument3": "None",
+        "Argument4": "None",
+        "Argument5": "None",
         "Argument6": "None",
         "Argument7": "None"
       },
       "1490": {
-        "SkillTableID": "1034010203",
+        "SkillTableID": "1034010201",
         "SkinID": "None",
-        "StartAt": 0.27347943,
+        "StartAt": 0.20611389,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [
           {
-            "Muzzle_01": {
+            "shoulder_track_r": {
               "Rotation": {
-                "X": -0.2160626,
-                "Y": 0.27192768,
-                "Z": -0.57332134,
-                "W": 0.7420747,
+                "X": -0.32106876,
+                "Y": 0.57857895,
+                "Z": -0.73251367,
+                "W": -0.15995286,
                 "IsNormalized": true,
                 "Size": 1.0,
                 "SizeSquared": 1.0
               },
               "Translation": {
-                "X": -15.324013,
-                "Y": 201.63379,
-                "Z": 157.80673
+                "X": -11.903953,
+                "Y": 77.694695,
+                "Z": 170.95415
               },
               "Scale3D": {
                 "X": 1.0,
@@ -32531,27 +32483,27 @@
         "Argument7": "None"
       },
       "1491": {
-        "SkillTableID": "1034010204",
+        "SkillTableID": "1034010202",
         "SkinID": "None",
-        "StartAt": 0.27347943,
+        "StartAt": 0.20611389,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [
           {
-            "Muzzle_01": {
+            "shoulder_track_r": {
               "Rotation": {
-                "X": -0.2160626,
-                "Y": 0.27192768,
-                "Z": -0.57332134,
-                "W": 0.7420747,
+                "X": -0.32106876,
+                "Y": 0.57857895,
+                "Z": -0.73251367,
+                "W": -0.15995286,
                 "IsNormalized": true,
                 "Size": 1.0,
                 "SizeSquared": 1.0
               },
               "Translation": {
-                "X": -15.324013,
-                "Y": 201.63379,
-                "Z": 157.80673
+                "X": -11.903953,
+                "Y": 77.694695,
+                "Z": 170.95415
               },
               "Scale3D": {
                 "X": 1.0,
@@ -32571,27 +32523,27 @@
         "Argument7": "None"
       },
       "1492": {
-        "SkillTableID": "1034010205",
+        "SkillTableID": "1034010203",
         "SkinID": "None",
-        "StartAt": 0.27347943,
+        "StartAt": 0.20611389,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [
           {
-            "Muzzle_01": {
+            "shoulder_track_r": {
               "Rotation": {
-                "X": -0.2160626,
-                "Y": 0.27192768,
-                "Z": -0.57332134,
-                "W": 0.7420747,
+                "X": -0.32106876,
+                "Y": 0.57857895,
+                "Z": -0.73251367,
+                "W": -0.15995286,
                 "IsNormalized": true,
                 "Size": 1.0,
                 "SizeSquared": 1.0
               },
               "Translation": {
-                "X": -15.324013,
-                "Y": 201.63379,
-                "Z": 157.80673
+                "X": -11.903953,
+                "Y": 77.694695,
+                "Z": 170.95415
               },
               "Scale3D": {
                 "X": 1.0,
@@ -32611,6 +32563,86 @@
         "Argument7": "None"
       },
       "1493": {
+        "SkillTableID": "1034010204",
+        "SkinID": "None",
+        "StartAt": 0.20611389,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [
+          {
+            "shoulder_track_r": {
+              "Rotation": {
+                "X": -0.32106876,
+                "Y": 0.57857895,
+                "Z": -0.73251367,
+                "W": -0.15995286,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": -11.903953,
+                "Y": 77.694695,
+                "Z": 170.95415
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          }
+        ],
+        "Value": "SpawnCollider",
+        "Argument1": "1034010201_01",
+        "Argument2": "1034010202_01",
+        "Argument3": "1034010203_01",
+        "Argument4": "1034010204_01",
+        "Argument5": "1034010205_01",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1494": {
+        "SkillTableID": "1034010205",
+        "SkinID": "None",
+        "StartAt": 0.20611389,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [
+          {
+            "shoulder_track_r": {
+              "Rotation": {
+                "X": -0.32106876,
+                "Y": 0.57857895,
+                "Z": -0.73251367,
+                "W": -0.15995286,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": -11.903953,
+                "Y": 77.694695,
+                "Z": 170.95415
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          }
+        ],
+        "Value": "SpawnCollider",
+        "Argument1": "1034010201_01",
+        "Argument2": "1034010202_01",
+        "Argument3": "1034010203_01",
+        "Argument4": "1034010204_01",
+        "Argument5": "1034010205_01",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1495": {
         "SkillTableID": "1034010401",
         "SkinID": "None",
         "StartAt": 0.593642,
@@ -32626,7 +32658,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1494": {
+      "1496": {
         "SkillTableID": "1034010402",
         "SkinID": "None",
         "StartAt": 0.593642,
@@ -32642,7 +32674,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1495": {
+      "1497": {
         "SkillTableID": "1034010403",
         "SkinID": "None",
         "StartAt": 0.593642,
@@ -32658,7 +32690,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1496": {
+      "1498": {
         "SkillTableID": "1034010404",
         "SkinID": "None",
         "StartAt": 0.593642,
@@ -32674,7 +32706,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1497": {
+      "1499": {
         "SkillTableID": "1034010405",
         "SkinID": "None",
         "StartAt": 0.593642,
@@ -32690,42 +32722,10 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1498": {
-        "SkillTableID": "1034010501",
-        "SkinID": "None",
-        "StartAt": 0.40000004,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [],
-        "Value": "SpawnCollider",
-        "Argument1": "1034010501_01",
-        "Argument2": "1034010502_01",
-        "Argument3": "1034010503_01",
-        "Argument4": "None",
-        "Argument5": "None",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1499": {
-        "SkillTableID": "1034010501",
-        "SkinID": "None",
-        "StartAt": 0.41,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [],
-        "Value": "SpawnCollider",
-        "Argument1": "1034010501_02",
-        "Argument2": "1034010502_02",
-        "Argument3": "1034010503_02",
-        "Argument4": "None",
-        "Argument5": "None",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
       "1500": {
-        "SkillTableID": "1034010502",
+        "SkillTableID": "1034010501",
         "SkinID": "None",
-        "StartAt": 0.40000004,
+        "StartAt": 0.16666667,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [],
@@ -32739,9 +32739,9 @@
         "Argument7": "None"
       },
       "1501": {
-        "SkillTableID": "1034010502",
+        "SkillTableID": "1034010501",
         "SkinID": "None",
-        "StartAt": 0.41,
+        "StartAt": 0.16666667,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [],
@@ -32755,9 +32755,9 @@
         "Argument7": "None"
       },
       "1502": {
-        "SkillTableID": "1034010503",
+        "SkillTableID": "1034010502",
         "SkinID": "None",
-        "StartAt": 0.40000004,
+        "StartAt": 0.16666667,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [],
@@ -32771,9 +32771,9 @@
         "Argument7": "None"
       },
       "1503": {
-        "SkillTableID": "1034010503",
+        "SkillTableID": "1034010502",
         "SkinID": "None",
-        "StartAt": 0.41,
+        "StartAt": 0.16666667,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [],
@@ -32787,6 +32787,38 @@
         "Argument7": "None"
       },
       "1504": {
+        "SkillTableID": "1034010503",
+        "SkinID": "None",
+        "StartAt": 0.16666667,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [],
+        "Value": "SpawnCollider",
+        "Argument1": "1034010501_01",
+        "Argument2": "1034010502_01",
+        "Argument3": "1034010503_01",
+        "Argument4": "None",
+        "Argument5": "None",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1505": {
+        "SkillTableID": "1034010503",
+        "SkinID": "None",
+        "StartAt": 0.16666667,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [],
+        "Value": "SpawnCollider",
+        "Argument1": "1034010501_02",
+        "Argument2": "1034010502_02",
+        "Argument3": "1034010503_02",
+        "Argument4": "None",
+        "Argument5": "None",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1506": {
         "SkillTableID": "1034010801",
         "SkinID": "None",
         "StartAt": 7.5,
@@ -32802,7 +32834,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1505": {
+      "1507": {
         "SkillTableID": "1034010801",
         "SkinID": "None",
         "StartAt": 7.533334,
@@ -32818,7 +32850,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1506": {
+      "1508": {
         "SkillTableID": "103401102",
         "SkinID": "None",
         "StartAt": 0.034333,
@@ -32834,7 +32866,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1507": {
+      "1509": {
         "SkillTableID": "1035010101",
         "SkinID": "None",
         "StartAt": 0.145,
@@ -32850,7 +32882,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1508": {
+      "1510": {
         "SkillTableID": "1035010102",
         "SkinID": "None",
         "StartAt": 0.2,
@@ -32866,7 +32898,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1509": {
+      "1511": {
         "SkillTableID": "1035010103",
         "SkinID": "None",
         "StartAt": 0.2,
@@ -32882,7 +32914,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1510": {
+      "1512": {
         "SkillTableID": "1035010301",
         "SkinID": "None",
         "StartAt": 0.23333335,
@@ -32898,7 +32930,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1511": {
+      "1513": {
         "SkillTableID": "1035010302",
         "SkinID": "None",
         "StartAt": 0.23333335,
@@ -32914,7 +32946,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1512": {
+      "1514": {
         "SkillTableID": "1035010303",
         "SkinID": "None",
         "StartAt": 0.23333335,
@@ -32930,7 +32962,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1513": {
+      "1515": {
         "SkillTableID": "1035010304",
         "SkinID": "None",
         "StartAt": 0.23333335,
@@ -32946,7 +32978,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1514": {
+      "1516": {
         "SkillTableID": "1035010305",
         "SkinID": "None",
         "StartAt": 0.23333335,
@@ -32962,7 +32994,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1515": {
+      "1517": {
         "SkillTableID": "1035010401",
         "SkinID": "None",
         "StartAt": 0.0,
@@ -33002,7 +33034,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1516": {
+      "1518": {
         "SkillTableID": "1035010402",
         "SkinID": "None",
         "StartAt": 0.0,
@@ -33042,7 +33074,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1517": {
+      "1519": {
         "SkillTableID": "1035010403",
         "SkinID": "None",
         "StartAt": 0.0,
@@ -33082,7 +33114,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1518": {
+      "1520": {
         "SkillTableID": "1035010404",
         "SkinID": "None",
         "StartAt": 0.0,
@@ -33122,7 +33154,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1519": {
+      "1521": {
         "SkillTableID": "1035010405",
         "SkinID": "None",
         "StartAt": 0.0,
@@ -33162,7 +33194,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1520": {
+      "1522": {
         "SkillTableID": "1035010801",
         "SkinID": "None",
         "StartAt": 7.8,
@@ -33178,7 +33210,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1521": {
+      "1523": {
         "SkillTableID": "103501102",
         "SkinID": "None",
         "StartAt": 0.033333335,
@@ -33194,7 +33226,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1522": {
+      "1524": {
         "SkillTableID": "1036010101",
         "SkinID": "None",
         "StartAt": 0.15403649,
@@ -33210,7 +33242,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1523": {
+      "1525": {
         "SkillTableID": "1036010102",
         "SkinID": "None",
         "StartAt": 0.13333333,
@@ -33226,7 +33258,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1524": {
+      "1526": {
         "SkillTableID": "1036010103",
         "SkinID": "None",
         "StartAt": 0.31232867,
@@ -33242,7 +33274,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1525": {
+      "1527": {
         "SkillTableID": "1036010104",
         "SkinID": "None",
         "StartAt": 0.2692348,
@@ -33258,7 +33290,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1526": {
+      "1528": {
         "SkillTableID": "1036010201",
         "SkinID": "None",
         "StartAt": 0.099999994,
@@ -33298,7 +33330,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1527": {
+      "1529": {
         "SkillTableID": "1036010202",
         "SkinID": "None",
         "StartAt": 0.099999994,
@@ -33338,7 +33370,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1528": {
+      "1530": {
         "SkillTableID": "1036010203",
         "SkinID": "None",
         "StartAt": 0.099999994,
@@ -33378,7 +33410,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1529": {
+      "1531": {
         "SkillTableID": "1036010204",
         "SkinID": "None",
         "StartAt": 0.099999994,
@@ -33418,7 +33450,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1530": {
+      "1532": {
         "SkillTableID": "1036010205",
         "SkinID": "None",
         "StartAt": 0.099999994,
@@ -33458,7 +33490,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1531": {
+      "1533": {
         "SkillTableID": "103602020101",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33474,7 +33506,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1532": {
+      "1534": {
         "SkillTableID": "103602020102",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33490,7 +33522,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1533": {
+      "1535": {
         "SkillTableID": "103602020103",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33506,7 +33538,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1534": {
+      "1536": {
         "SkillTableID": "103602020104",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33522,7 +33554,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1535": {
+      "1537": {
         "SkillTableID": "103602020105",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33538,7 +33570,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1536": {
+      "1538": {
         "SkillTableID": "103602020106",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33554,7 +33586,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1537": {
+      "1539": {
         "SkillTableID": "103602020107",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33570,7 +33602,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1538": {
+      "1540": {
         "SkillTableID": "103602020108",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33586,7 +33618,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1539": {
+      "1541": {
         "SkillTableID": "103602020201",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33602,7 +33634,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1540": {
+      "1542": {
         "SkillTableID": "103602020202",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33618,7 +33650,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1541": {
+      "1543": {
         "SkillTableID": "103602020203",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33634,7 +33666,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1542": {
+      "1544": {
         "SkillTableID": "103602020204",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33650,7 +33682,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1543": {
+      "1545": {
         "SkillTableID": "103602020205",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33666,7 +33698,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1544": {
+      "1546": {
         "SkillTableID": "103602020206",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33682,7 +33714,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1545": {
+      "1547": {
         "SkillTableID": "103602020207",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33698,7 +33730,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1546": {
+      "1548": {
         "SkillTableID": "103602020208",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33714,7 +33746,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1547": {
+      "1549": {
         "SkillTableID": "103602020301",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33730,7 +33762,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1548": {
+      "1550": {
         "SkillTableID": "103602020302",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33746,7 +33778,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1549": {
+      "1551": {
         "SkillTableID": "103602020303",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33762,7 +33794,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1550": {
+      "1552": {
         "SkillTableID": "103602020304",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33778,7 +33810,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1551": {
+      "1553": {
         "SkillTableID": "103602020305",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33794,7 +33826,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1552": {
+      "1554": {
         "SkillTableID": "103602020306",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33810,7 +33842,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1553": {
+      "1555": {
         "SkillTableID": "103602020307",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33826,7 +33858,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1554": {
+      "1556": {
         "SkillTableID": "103602020308",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33842,7 +33874,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1555": {
+      "1557": {
         "SkillTableID": "103602020401",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33858,7 +33890,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1556": {
+      "1558": {
         "SkillTableID": "103602020402",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33874,7 +33906,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1557": {
+      "1559": {
         "SkillTableID": "103602020403",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33890,7 +33922,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1558": {
+      "1560": {
         "SkillTableID": "103602020404",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33906,7 +33938,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1559": {
+      "1561": {
         "SkillTableID": "103602020405",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33922,7 +33954,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1560": {
+      "1562": {
         "SkillTableID": "103602020406",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33938,7 +33970,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1561": {
+      "1563": {
         "SkillTableID": "103602020407",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33954,7 +33986,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1562": {
+      "1564": {
         "SkillTableID": "103602020408",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33970,7 +34002,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1563": {
+      "1565": {
         "SkillTableID": "103602020501",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -33986,7 +34018,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1564": {
+      "1566": {
         "SkillTableID": "103602020502",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -34002,7 +34034,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1565": {
+      "1567": {
         "SkillTableID": "103602020503",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -34018,7 +34050,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1566": {
+      "1568": {
         "SkillTableID": "103602020504",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -34034,7 +34066,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1567": {
+      "1569": {
         "SkillTableID": "103602020505",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -34050,7 +34082,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1568": {
+      "1570": {
         "SkillTableID": "103602020506",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -34066,7 +34098,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1569": {
+      "1571": {
         "SkillTableID": "103602020507",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -34082,7 +34114,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1570": {
+      "1572": {
         "SkillTableID": "103602020508",
         "SkinID": "None",
         "StartAt": 0.074112,
@@ -34098,7 +34130,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1571": {
+      "1573": {
         "SkillTableID": "1036030301",
         "SkinID": "None",
         "StartAt": 0.099999994,
@@ -34114,7 +34146,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1572": {
+      "1574": {
         "SkillTableID": "1036030302",
         "SkinID": "None",
         "StartAt": 0.099999994,
@@ -34130,7 +34162,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1573": {
+      "1575": {
         "SkillTableID": "1036030303",
         "SkinID": "None",
         "StartAt": 0.099999994,
@@ -34146,7 +34178,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1574": {
+      "1576": {
         "SkillTableID": "1036030304",
         "SkinID": "None",
         "StartAt": 0.099999994,
@@ -34162,7 +34194,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1575": {
+      "1577": {
         "SkillTableID": "1036030305",
         "SkinID": "None",
         "StartAt": 0.099999994,
@@ -34178,7 +34210,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1576": {
+      "1578": {
         "SkillTableID": "1036040301",
         "SkinID": "None",
         "StartAt": 0.099999994,
@@ -34194,7 +34226,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1577": {
+      "1579": {
         "SkillTableID": "1036040302",
         "SkinID": "None",
         "StartAt": 0.099999994,
@@ -34210,7 +34242,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1578": {
+      "1580": {
         "SkillTableID": "1036040303",
         "SkinID": "None",
         "StartAt": 0.099999994,
@@ -34226,7 +34258,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1579": {
+      "1581": {
         "SkillTableID": "1036040304",
         "SkinID": "None",
         "StartAt": 0.099999994,
@@ -34242,7 +34274,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1580": {
+      "1582": {
         "SkillTableID": "1036040305",
         "SkinID": "None",
         "StartAt": 0.099999994,
@@ -34258,7 +34290,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1581": {
+      "1583": {
         "SkillTableID": "1036050301",
         "SkinID": "None",
         "StartAt": 0.099999994,
@@ -34274,7 +34306,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1582": {
+      "1584": {
         "SkillTableID": "1036050301",
         "SkinID": "None",
         "StartAt": 0.6333333,
@@ -34284,38 +34316,6 @@
         "Value": "Descent_Fix_Time",
         "Argument1": "0.13",
         "Argument2": "1200",
-        "Argument3": "None",
-        "Argument4": "None",
-        "Argument5": "None",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1583": {
-        "SkillTableID": "1036050301",
-        "SkinID": "None",
-        "StartAt": 0.6999999,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [],
-        "Value": "SpawnCollider",
-        "Argument1": "1036030301_01",
-        "Argument2": "1036030302_01",
-        "Argument3": "1036030303_01",
-        "Argument4": "1036030304_01",
-        "Argument5": "1036030305_01",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1584": {
-        "SkillTableID": "1036050302",
-        "SkinID": "None",
-        "StartAt": 0.099999994,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [],
-        "Value": "Jump",
-        "Argument1": "800",
-        "Argument2": "0.47",
         "Argument3": "None",
         "Argument4": "None",
         "Argument5": "None",
@@ -34323,23 +34323,7 @@
         "Argument7": "None"
       },
       "1585": {
-        "SkillTableID": "1036050302",
-        "SkinID": "None",
-        "StartAt": 0.6333333,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [],
-        "Value": "Descent_Fix_Time",
-        "Argument1": "0.13",
-        "Argument2": "1200",
-        "Argument3": "None",
-        "Argument4": "None",
-        "Argument5": "None",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1586": {
-        "SkillTableID": "1036050302",
+        "SkillTableID": "1036050301",
         "SkinID": "None",
         "StartAt": 0.6999999,
         "NotifyStateDuration": -1.0,
@@ -34354,8 +34338,8 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1587": {
-        "SkillTableID": "1036050303",
+      "1586": {
+        "SkillTableID": "1036050302",
         "SkinID": "None",
         "StartAt": 0.099999994,
         "NotifyStateDuration": -1.0,
@@ -34364,6 +34348,22 @@
         "Value": "Jump",
         "Argument1": "800",
         "Argument2": "0.47",
+        "Argument3": "None",
+        "Argument4": "None",
+        "Argument5": "None",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1587": {
+        "SkillTableID": "1036050302",
+        "SkinID": "None",
+        "StartAt": 0.6333333,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [],
+        "Value": "Descent_Fix_Time",
+        "Argument1": "0.13",
+        "Argument2": "1200",
         "Argument3": "None",
         "Argument4": "None",
         "Argument5": "None",
@@ -34371,23 +34371,7 @@
         "Argument7": "None"
       },
       "1588": {
-        "SkillTableID": "1036050303",
-        "SkinID": "None",
-        "StartAt": 0.6333333,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [],
-        "Value": "Descent_Fix_Time",
-        "Argument1": "0.13",
-        "Argument2": "1200",
-        "Argument3": "None",
-        "Argument4": "None",
-        "Argument5": "None",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1589": {
-        "SkillTableID": "1036050303",
+        "SkillTableID": "1036050302",
         "SkinID": "None",
         "StartAt": 0.6999999,
         "NotifyStateDuration": -1.0,
@@ -34402,8 +34386,8 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1590": {
-        "SkillTableID": "1036050304",
+      "1589": {
+        "SkillTableID": "1036050303",
         "SkinID": "None",
         "StartAt": 0.099999994,
         "NotifyStateDuration": -1.0,
@@ -34412,6 +34396,22 @@
         "Value": "Jump",
         "Argument1": "800",
         "Argument2": "0.47",
+        "Argument3": "None",
+        "Argument4": "None",
+        "Argument5": "None",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1590": {
+        "SkillTableID": "1036050303",
+        "SkinID": "None",
+        "StartAt": 0.6333333,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [],
+        "Value": "Descent_Fix_Time",
+        "Argument1": "0.13",
+        "Argument2": "1200",
         "Argument3": "None",
         "Argument4": "None",
         "Argument5": "None",
@@ -34419,23 +34419,7 @@
         "Argument7": "None"
       },
       "1591": {
-        "SkillTableID": "1036050304",
-        "SkinID": "None",
-        "StartAt": 0.6333333,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [],
-        "Value": "Descent_Fix_Time",
-        "Argument1": "0.13",
-        "Argument2": "1200",
-        "Argument3": "None",
-        "Argument4": "None",
-        "Argument5": "None",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1592": {
-        "SkillTableID": "1036050304",
+        "SkillTableID": "1036050303",
         "SkinID": "None",
         "StartAt": 0.6999999,
         "NotifyStateDuration": -1.0,
@@ -34450,8 +34434,8 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1593": {
-        "SkillTableID": "1036050305",
+      "1592": {
+        "SkillTableID": "1036050304",
         "SkinID": "None",
         "StartAt": 0.099999994,
         "NotifyStateDuration": -1.0,
@@ -34460,6 +34444,22 @@
         "Value": "Jump",
         "Argument1": "800",
         "Argument2": "0.47",
+        "Argument3": "None",
+        "Argument4": "None",
+        "Argument5": "None",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1593": {
+        "SkillTableID": "1036050304",
+        "SkinID": "None",
+        "StartAt": 0.6333333,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [],
+        "Value": "Descent_Fix_Time",
+        "Argument1": "0.13",
+        "Argument2": "1200",
         "Argument3": "None",
         "Argument4": "None",
         "Argument5": "None",
@@ -34467,6 +34467,38 @@
         "Argument7": "None"
       },
       "1594": {
+        "SkillTableID": "1036050304",
+        "SkinID": "None",
+        "StartAt": 0.6999999,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [],
+        "Value": "SpawnCollider",
+        "Argument1": "1036030301_01",
+        "Argument2": "1036030302_01",
+        "Argument3": "1036030303_01",
+        "Argument4": "1036030304_01",
+        "Argument5": "1036030305_01",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1595": {
+        "SkillTableID": "1036050305",
+        "SkinID": "None",
+        "StartAt": 0.099999994,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [],
+        "Value": "Jump",
+        "Argument1": "800",
+        "Argument2": "0.47",
+        "Argument3": "None",
+        "Argument4": "None",
+        "Argument5": "None",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1596": {
         "SkillTableID": "1036050305",
         "SkinID": "None",
         "StartAt": 0.6333333,
@@ -34482,7 +34514,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1595": {
+      "1597": {
         "SkillTableID": "1036050305",
         "SkinID": "None",
         "StartAt": 0.6999999,
@@ -34498,7 +34530,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1596": {
+      "1598": {
         "SkillTableID": "1036060301",
         "SkinID": "None",
         "StartAt": 0.099999994,
@@ -34514,7 +34546,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1597": {
+      "1599": {
         "SkillTableID": "1036060301",
         "SkinID": "None",
         "StartAt": 0.633333,
@@ -34524,38 +34556,6 @@
         "Value": "Descent_Fix_Time",
         "Argument1": "0.13",
         "Argument2": "1200",
-        "Argument3": "None",
-        "Argument4": "None",
-        "Argument5": "None",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1598": {
-        "SkillTableID": "1036060301",
-        "SkinID": "None",
-        "StartAt": 0.7,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [],
-        "Value": "SpawnCollider",
-        "Argument1": "1036040301_01",
-        "Argument2": "1036040302_01",
-        "Argument3": "1036040303_01",
-        "Argument4": "1036040304_01",
-        "Argument5": "1036040305_01",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1599": {
-        "SkillTableID": "1036060302",
-        "SkinID": "None",
-        "StartAt": 0.099999994,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [],
-        "Value": "Jump",
-        "Argument1": "800",
-        "Argument2": "0.47",
         "Argument3": "None",
         "Argument4": "None",
         "Argument5": "None",
@@ -34563,23 +34563,7 @@
         "Argument7": "None"
       },
       "1600": {
-        "SkillTableID": "1036060302",
-        "SkinID": "None",
-        "StartAt": 0.633333,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [],
-        "Value": "Descent_Fix_Time",
-        "Argument1": "0.13",
-        "Argument2": "1200",
-        "Argument3": "None",
-        "Argument4": "None",
-        "Argument5": "None",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1601": {
-        "SkillTableID": "1036060302",
+        "SkillTableID": "1036060301",
         "SkinID": "None",
         "StartAt": 0.7,
         "NotifyStateDuration": -1.0,
@@ -34594,8 +34578,8 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1602": {
-        "SkillTableID": "1036060303",
+      "1601": {
+        "SkillTableID": "1036060302",
         "SkinID": "None",
         "StartAt": 0.099999994,
         "NotifyStateDuration": -1.0,
@@ -34604,6 +34588,22 @@
         "Value": "Jump",
         "Argument1": "800",
         "Argument2": "0.47",
+        "Argument3": "None",
+        "Argument4": "None",
+        "Argument5": "None",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1602": {
+        "SkillTableID": "1036060302",
+        "SkinID": "None",
+        "StartAt": 0.633333,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [],
+        "Value": "Descent_Fix_Time",
+        "Argument1": "0.13",
+        "Argument2": "1200",
         "Argument3": "None",
         "Argument4": "None",
         "Argument5": "None",
@@ -34611,23 +34611,7 @@
         "Argument7": "None"
       },
       "1603": {
-        "SkillTableID": "1036060303",
-        "SkinID": "None",
-        "StartAt": 0.633333,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [],
-        "Value": "Descent_Fix_Time",
-        "Argument1": "0.13",
-        "Argument2": "1200",
-        "Argument3": "None",
-        "Argument4": "None",
-        "Argument5": "None",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1604": {
-        "SkillTableID": "1036060303",
+        "SkillTableID": "1036060302",
         "SkinID": "None",
         "StartAt": 0.7,
         "NotifyStateDuration": -1.0,
@@ -34642,8 +34626,8 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1605": {
-        "SkillTableID": "1036060304",
+      "1604": {
+        "SkillTableID": "1036060303",
         "SkinID": "None",
         "StartAt": 0.099999994,
         "NotifyStateDuration": -1.0,
@@ -34652,6 +34636,22 @@
         "Value": "Jump",
         "Argument1": "800",
         "Argument2": "0.47",
+        "Argument3": "None",
+        "Argument4": "None",
+        "Argument5": "None",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1605": {
+        "SkillTableID": "1036060303",
+        "SkinID": "None",
+        "StartAt": 0.633333,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [],
+        "Value": "Descent_Fix_Time",
+        "Argument1": "0.13",
+        "Argument2": "1200",
         "Argument3": "None",
         "Argument4": "None",
         "Argument5": "None",
@@ -34659,6 +34659,38 @@
         "Argument7": "None"
       },
       "1606": {
+        "SkillTableID": "1036060303",
+        "SkinID": "None",
+        "StartAt": 0.7,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [],
+        "Value": "SpawnCollider",
+        "Argument1": "1036040301_01",
+        "Argument2": "1036040302_01",
+        "Argument3": "1036040303_01",
+        "Argument4": "1036040304_01",
+        "Argument5": "1036040305_01",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1607": {
+        "SkillTableID": "1036060304",
+        "SkinID": "None",
+        "StartAt": 0.099999994,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [],
+        "Value": "Jump",
+        "Argument1": "800",
+        "Argument2": "0.47",
+        "Argument3": "None",
+        "Argument4": "None",
+        "Argument5": "None",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1608": {
         "SkillTableID": "1036060304",
         "SkinID": "None",
         "StartAt": 0.633333,
@@ -34674,7 +34706,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1607": {
+      "1609": {
         "SkillTableID": "1036060304",
         "SkinID": "None",
         "StartAt": 0.7,
@@ -34690,7 +34722,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1608": {
+      "1610": {
         "SkillTableID": "1036060305",
         "SkinID": "None",
         "StartAt": 0.099999994,
@@ -34706,7 +34738,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1609": {
+      "1611": {
         "SkillTableID": "1036060305",
         "SkinID": "None",
         "StartAt": 0.633333,
@@ -34722,7 +34754,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1610": {
+      "1612": {
         "SkillTableID": "1036060305",
         "SkinID": "None",
         "StartAt": 0.7,
@@ -34738,7 +34770,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1611": {
+      "1613": {
         "SkillTableID": "1036070301",
         "SkinID": "None",
         "StartAt": 0.099999994,
@@ -34754,7 +34786,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1612": {
+      "1614": {
         "SkillTableID": "1036070302",
         "SkinID": "None",
         "StartAt": 0.099999994,
@@ -34770,7 +34802,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1613": {
+      "1615": {
         "SkillTableID": "1036070303",
         "SkinID": "None",
         "StartAt": 0.099999994,
@@ -34786,7 +34818,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1614": {
+      "1616": {
         "SkillTableID": "1036070304",
         "SkinID": "None",
         "StartAt": 0.099999994,
@@ -34802,7 +34834,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1615": {
+      "1617": {
         "SkillTableID": "1036070305",
         "SkinID": "None",
         "StartAt": 0.099999994,
@@ -34818,7 +34850,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1616": {
+      "1618": {
         "SkillTableID": "1036080301",
         "SkinID": "None",
         "StartAt": 0.099999994,
@@ -34834,7 +34866,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1617": {
+      "1619": {
         "SkillTableID": "1036080302",
         "SkinID": "None",
         "StartAt": 0.099999994,
@@ -34850,7 +34882,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1618": {
+      "1620": {
         "SkillTableID": "1036080303",
         "SkinID": "None",
         "StartAt": 0.099999994,
@@ -34866,7 +34898,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1619": {
+      "1621": {
         "SkillTableID": "1036080304",
         "SkinID": "None",
         "StartAt": 0.099999994,
@@ -34882,7 +34914,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1620": {
+      "1622": {
         "SkillTableID": "1036080305",
         "SkinID": "None",
         "StartAt": 0.099999994,
@@ -34898,7 +34930,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1621": {
+      "1623": {
         "SkillTableID": "1036010801",
         "SkinID": "None",
         "StartAt": 7.8,
@@ -34914,7 +34946,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1622": {
+      "1624": {
         "SkillTableID": "103601102",
         "SkinID": "None",
         "StartAt": 1.0,
@@ -34930,7 +34962,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1623": {
+      "1625": {
         "SkillTableID": "1037010101",
         "SkinID": "None",
         "StartAt": 0.06666666,
@@ -34946,7 +34978,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1624": {
+      "1626": {
         "SkillTableID": "1037010201",
         "SkinID": "None",
         "StartAt": 0.13333334,
@@ -34962,7 +34994,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1625": {
+      "1627": {
         "SkillTableID": "1037010202",
         "SkinID": "None",
         "StartAt": 0.13333334,
@@ -34978,7 +35010,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1626": {
+      "1628": {
         "SkillTableID": "1037010203",
         "SkinID": "None",
         "StartAt": 0.13333334,
@@ -34994,7 +35026,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1627": {
+      "1629": {
         "SkillTableID": "1037010204",
         "SkinID": "None",
         "StartAt": 0.13333334,
@@ -35010,7 +35042,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1628": {
+      "1630": {
         "SkillTableID": "1037010205",
         "SkinID": "None",
         "StartAt": 0.13333334,
@@ -35026,7 +35058,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1629": {
+      "1631": {
         "SkillTableID": "1037010301",
         "SkinID": "None",
         "StartAt": 0.268,
@@ -35042,7 +35074,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1630": {
+      "1632": {
         "SkillTableID": "1037010302",
         "SkinID": "None",
         "StartAt": 0.268,
@@ -35058,7 +35090,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1631": {
+      "1633": {
         "SkillTableID": "1037010303",
         "SkinID": "None",
         "StartAt": 0.268,
@@ -35074,7 +35106,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1632": {
+      "1634": {
         "SkillTableID": "1037010304",
         "SkinID": "None",
         "StartAt": 0.268,
@@ -35090,7 +35122,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1633": {
+      "1635": {
         "SkillTableID": "1037010305",
         "SkinID": "None",
         "StartAt": 0.268,
@@ -35106,7 +35138,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1634": {
+      "1636": {
         "SkillTableID": "1037010801",
         "SkinID": "None",
         "StartAt": 7.8,
@@ -35122,7 +35154,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1635": {
+      "1637": {
         "SkillTableID": "103701102",
         "SkinID": "None",
         "StartAt": 0.033333335,
@@ -35138,7 +35170,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1636": {
+      "1638": {
         "SkillTableID": "1040010101",
         "SkinID": "None",
         "StartAt": 0.20115839,
@@ -35154,7 +35186,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1637": {
+      "1639": {
         "SkillTableID": "1040010102",
         "SkinID": "None",
         "StartAt": 0.16136171,
@@ -35170,7 +35202,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1638": {
+      "1640": {
         "SkillTableID": "1040010103",
         "SkinID": "None",
         "StartAt": 0.1677372,
@@ -35186,7 +35218,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1639": {
+      "1641": {
         "SkillTableID": "1040010104",
         "SkinID": "None",
         "StartAt": 0.16799192,
@@ -35202,7 +35234,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1640": {
+      "1642": {
         "SkillTableID": "1040010201",
         "SkinID": "None",
         "StartAt": 0.415,
@@ -35218,7 +35250,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1641": {
+      "1643": {
         "SkillTableID": "1040010201",
         "SkinID": "None",
         "StartAt": 0.4,
@@ -35234,7 +35266,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1642": {
+      "1644": {
         "SkillTableID": "1040010201",
         "SkinID": "None",
         "StartAt": 0.416,
@@ -35247,44 +35279,44 @@
         "Argument3": "1040010203_06",
         "Argument4": "1040010204_06",
         "Argument5": "1040010205_06",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1643": {
-        "SkillTableID": "1040020201",
-        "SkinID": "None",
-        "StartAt": 0.415,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [],
-        "Value": "SpawnCollider",
-        "Argument1": "1040010201_01",
-        "Argument2": "1040010202_01",
-        "Argument3": "1040010203_01",
-        "Argument4": "1040010204_01",
-        "Argument5": "1040010205_01",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1644": {
-        "SkillTableID": "1040020201",
-        "SkinID": "None",
-        "StartAt": 0.4,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [],
-        "Value": "Dash_NonGravity",
-        "Argument1": "3500",
-        "Argument2": "0.4",
-        "Argument3": "None",
-        "Argument4": "None",
-        "Argument5": "None",
         "Argument6": "None",
         "Argument7": "None"
       },
       "1645": {
         "SkillTableID": "1040020201",
         "SkinID": "None",
+        "StartAt": 0.415,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [],
+        "Value": "SpawnCollider",
+        "Argument1": "1040010201_01",
+        "Argument2": "1040010202_01",
+        "Argument3": "1040010203_01",
+        "Argument4": "1040010204_01",
+        "Argument5": "1040010205_01",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1646": {
+        "SkillTableID": "1040020201",
+        "SkinID": "None",
+        "StartAt": 0.4,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [],
+        "Value": "Dash_NonGravity",
+        "Argument1": "3500",
+        "Argument2": "0.4",
+        "Argument3": "None",
+        "Argument4": "None",
+        "Argument5": "None",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1647": {
+        "SkillTableID": "1040020201",
+        "SkinID": "None",
         "StartAt": 0.416,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
@@ -35298,7 +35330,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1646": {
+      "1648": {
         "SkillTableID": "1040030201",
         "SkinID": "None",
         "StartAt": 0.41,
@@ -35314,7 +35346,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1647": {
+      "1649": {
         "SkillTableID": "1040030201",
         "SkinID": "None",
         "StartAt": 0.4,
@@ -35330,7 +35362,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1648": {
+      "1650": {
         "SkillTableID": "1040030201",
         "SkinID": "None",
         "StartAt": 0.4,
@@ -35340,38 +35372,6 @@
         "Value": "Dash_NonGravity",
         "Argument1": "4000",
         "Argument2": "0.42",
-        "Argument3": "None",
-        "Argument4": "None",
-        "Argument5": "None",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1649": {
-        "SkillTableID": "1040010202",
-        "SkinID": "None",
-        "StartAt": 0.415,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [],
-        "Value": "SpawnCollider",
-        "Argument1": "1040010201_01",
-        "Argument2": "1040010202_01",
-        "Argument3": "1040010203_01",
-        "Argument4": "1040010204_01",
-        "Argument5": "1040010205_01",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1650": {
-        "SkillTableID": "1040010202",
-        "SkinID": "None",
-        "StartAt": 0.4,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [],
-        "Value": "Dash_NonGravity",
-        "Argument1": "3500",
-        "Argument2": "0.4",
         "Argument3": "None",
         "Argument4": "None",
         "Argument5": "None",
@@ -35381,6 +35381,38 @@
       "1651": {
         "SkillTableID": "1040010202",
         "SkinID": "None",
+        "StartAt": 0.415,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [],
+        "Value": "SpawnCollider",
+        "Argument1": "1040010201_01",
+        "Argument2": "1040010202_01",
+        "Argument3": "1040010203_01",
+        "Argument4": "1040010204_01",
+        "Argument5": "1040010205_01",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1652": {
+        "SkillTableID": "1040010202",
+        "SkinID": "None",
+        "StartAt": 0.4,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [],
+        "Value": "Dash_NonGravity",
+        "Argument1": "3500",
+        "Argument2": "0.4",
+        "Argument3": "None",
+        "Argument4": "None",
+        "Argument5": "None",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1653": {
+        "SkillTableID": "1040010202",
+        "SkinID": "None",
         "StartAt": 0.416,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
@@ -35394,7 +35426,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1652": {
+      "1654": {
         "SkillTableID": "1040020202",
         "SkinID": "None",
         "StartAt": 0.415,
@@ -35410,7 +35442,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1653": {
+      "1655": {
         "SkillTableID": "1040020202",
         "SkinID": "None",
         "StartAt": 0.4,
@@ -35426,7 +35458,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1654": {
+      "1656": {
         "SkillTableID": "1040020202",
         "SkinID": "None",
         "StartAt": 0.416,
@@ -35442,7 +35474,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1655": {
+      "1657": {
         "SkillTableID": "1040030202",
         "SkinID": "None",
         "StartAt": 0.41,
@@ -35458,7 +35490,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1656": {
+      "1658": {
         "SkillTableID": "1040030202",
         "SkinID": "None",
         "StartAt": 0.4,
@@ -35474,7 +35506,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1657": {
+      "1659": {
         "SkillTableID": "1040030202",
         "SkinID": "None",
         "StartAt": 0.4,
@@ -35484,38 +35516,6 @@
         "Value": "Dash_NonGravity",
         "Argument1": "4000",
         "Argument2": "0.42",
-        "Argument3": "None",
-        "Argument4": "None",
-        "Argument5": "None",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1658": {
-        "SkillTableID": "1040010203",
-        "SkinID": "None",
-        "StartAt": 0.415,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [],
-        "Value": "SpawnCollider",
-        "Argument1": "1040010201_01",
-        "Argument2": "1040010202_01",
-        "Argument3": "1040010203_01",
-        "Argument4": "1040010204_01",
-        "Argument5": "1040010205_01",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1659": {
-        "SkillTableID": "1040010203",
-        "SkinID": "None",
-        "StartAt": 0.4,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [],
-        "Value": "Dash_NonGravity",
-        "Argument1": "3500",
-        "Argument2": "0.4",
         "Argument3": "None",
         "Argument4": "None",
         "Argument5": "None",
@@ -35525,6 +35525,38 @@
       "1660": {
         "SkillTableID": "1040010203",
         "SkinID": "None",
+        "StartAt": 0.415,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [],
+        "Value": "SpawnCollider",
+        "Argument1": "1040010201_01",
+        "Argument2": "1040010202_01",
+        "Argument3": "1040010203_01",
+        "Argument4": "1040010204_01",
+        "Argument5": "1040010205_01",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1661": {
+        "SkillTableID": "1040010203",
+        "SkinID": "None",
+        "StartAt": 0.4,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [],
+        "Value": "Dash_NonGravity",
+        "Argument1": "3500",
+        "Argument2": "0.4",
+        "Argument3": "None",
+        "Argument4": "None",
+        "Argument5": "None",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1662": {
+        "SkillTableID": "1040010203",
+        "SkinID": "None",
         "StartAt": 0.416,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
@@ -35538,7 +35570,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1661": {
+      "1663": {
         "SkillTableID": "1040020203",
         "SkinID": "None",
         "StartAt": 0.415,
@@ -35554,7 +35586,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1662": {
+      "1664": {
         "SkillTableID": "1040020203",
         "SkinID": "None",
         "StartAt": 0.4,
@@ -35570,7 +35602,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1663": {
+      "1665": {
         "SkillTableID": "1040020203",
         "SkinID": "None",
         "StartAt": 0.416,
@@ -35586,7 +35618,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1664": {
+      "1666": {
         "SkillTableID": "1040030203",
         "SkinID": "None",
         "StartAt": 0.41,
@@ -35602,7 +35634,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1665": {
+      "1667": {
         "SkillTableID": "1040030203",
         "SkinID": "None",
         "StartAt": 0.4,
@@ -35618,7 +35650,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1666": {
+      "1668": {
         "SkillTableID": "1040030203",
         "SkinID": "None",
         "StartAt": 0.4,
@@ -35628,38 +35660,6 @@
         "Value": "Dash_NonGravity",
         "Argument1": "4000",
         "Argument2": "0.42",
-        "Argument3": "None",
-        "Argument4": "None",
-        "Argument5": "None",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1667": {
-        "SkillTableID": "1040010204",
-        "SkinID": "None",
-        "StartAt": 0.415,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [],
-        "Value": "SpawnCollider",
-        "Argument1": "1040010201_01",
-        "Argument2": "1040010202_01",
-        "Argument3": "1040010203_01",
-        "Argument4": "1040010204_01",
-        "Argument5": "1040010205_01",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1668": {
-        "SkillTableID": "1040010204",
-        "SkinID": "None",
-        "StartAt": 0.4,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [],
-        "Value": "Dash_NonGravity",
-        "Argument1": "3500",
-        "Argument2": "0.4",
         "Argument3": "None",
         "Argument4": "None",
         "Argument5": "None",
@@ -35669,6 +35669,38 @@
       "1669": {
         "SkillTableID": "1040010204",
         "SkinID": "None",
+        "StartAt": 0.415,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [],
+        "Value": "SpawnCollider",
+        "Argument1": "1040010201_01",
+        "Argument2": "1040010202_01",
+        "Argument3": "1040010203_01",
+        "Argument4": "1040010204_01",
+        "Argument5": "1040010205_01",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1670": {
+        "SkillTableID": "1040010204",
+        "SkinID": "None",
+        "StartAt": 0.4,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [],
+        "Value": "Dash_NonGravity",
+        "Argument1": "3500",
+        "Argument2": "0.4",
+        "Argument3": "None",
+        "Argument4": "None",
+        "Argument5": "None",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1671": {
+        "SkillTableID": "1040010204",
+        "SkinID": "None",
         "StartAt": 0.416,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
@@ -35682,7 +35714,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1670": {
+      "1672": {
         "SkillTableID": "1040020204",
         "SkinID": "None",
         "StartAt": 0.415,
@@ -35698,7 +35730,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1671": {
+      "1673": {
         "SkillTableID": "1040020204",
         "SkinID": "None",
         "StartAt": 0.4,
@@ -35714,7 +35746,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1672": {
+      "1674": {
         "SkillTableID": "1040020204",
         "SkinID": "None",
         "StartAt": 0.416,
@@ -35730,7 +35762,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1673": {
+      "1675": {
         "SkillTableID": "1040030204",
         "SkinID": "None",
         "StartAt": 0.41,
@@ -35746,7 +35778,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1674": {
+      "1676": {
         "SkillTableID": "1040030204",
         "SkinID": "None",
         "StartAt": 0.4,
@@ -35762,7 +35794,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1675": {
+      "1677": {
         "SkillTableID": "1040030204",
         "SkinID": "None",
         "StartAt": 0.4,
@@ -35772,38 +35804,6 @@
         "Value": "Dash_NonGravity",
         "Argument1": "4000",
         "Argument2": "0.42",
-        "Argument3": "None",
-        "Argument4": "None",
-        "Argument5": "None",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1676": {
-        "SkillTableID": "1040010205",
-        "SkinID": "None",
-        "StartAt": 0.415,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [],
-        "Value": "SpawnCollider",
-        "Argument1": "1040010201_01",
-        "Argument2": "1040010202_01",
-        "Argument3": "1040010203_01",
-        "Argument4": "1040010204_01",
-        "Argument5": "1040010205_01",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1677": {
-        "SkillTableID": "1040010205",
-        "SkinID": "None",
-        "StartAt": 0.4,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [],
-        "Value": "Dash_NonGravity",
-        "Argument1": "3500",
-        "Argument2": "0.4",
         "Argument3": "None",
         "Argument4": "None",
         "Argument5": "None",
@@ -35813,6 +35813,38 @@
       "1678": {
         "SkillTableID": "1040010205",
         "SkinID": "None",
+        "StartAt": 0.415,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [],
+        "Value": "SpawnCollider",
+        "Argument1": "1040010201_01",
+        "Argument2": "1040010202_01",
+        "Argument3": "1040010203_01",
+        "Argument4": "1040010204_01",
+        "Argument5": "1040010205_01",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1679": {
+        "SkillTableID": "1040010205",
+        "SkinID": "None",
+        "StartAt": 0.4,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [],
+        "Value": "Dash_NonGravity",
+        "Argument1": "3500",
+        "Argument2": "0.4",
+        "Argument3": "None",
+        "Argument4": "None",
+        "Argument5": "None",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1680": {
+        "SkillTableID": "1040010205",
+        "SkinID": "None",
         "StartAt": 0.416,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
@@ -35826,7 +35858,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1679": {
+      "1681": {
         "SkillTableID": "1040020205",
         "SkinID": "None",
         "StartAt": 0.415,
@@ -35842,7 +35874,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1680": {
+      "1682": {
         "SkillTableID": "1040020205",
         "SkinID": "None",
         "StartAt": 0.4,
@@ -35858,7 +35890,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1681": {
+      "1683": {
         "SkillTableID": "1040020205",
         "SkinID": "None",
         "StartAt": 0.416,
@@ -35874,7 +35906,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1682": {
+      "1684": {
         "SkillTableID": "1040030205",
         "SkinID": "None",
         "StartAt": 0.41,
@@ -35890,7 +35922,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1683": {
+      "1685": {
         "SkillTableID": "1040030205",
         "SkinID": "None",
         "StartAt": 0.4,
@@ -35906,7 +35938,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1684": {
+      "1686": {
         "SkillTableID": "1040030205",
         "SkinID": "None",
         "StartAt": 0.4,
@@ -35922,7 +35954,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1685": {
+      "1687": {
         "SkillTableID": "1040010301",
         "SkinID": "None",
         "StartAt": 0.43,
@@ -35938,7 +35970,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1686": {
+      "1688": {
         "SkillTableID": "1040020301",
         "SkinID": "None",
         "StartAt": 0.43,
@@ -35954,7 +35986,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1687": {
+      "1689": {
         "SkillTableID": "1040030301",
         "SkinID": "None",
         "StartAt": 0.43,
@@ -35970,7 +36002,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1688": {
+      "1690": {
         "SkillTableID": "1040010302",
         "SkinID": "None",
         "StartAt": 0.43,
@@ -35986,7 +36018,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1689": {
+      "1691": {
         "SkillTableID": "1040020302",
         "SkinID": "None",
         "StartAt": 0.43,
@@ -36002,7 +36034,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1690": {
+      "1692": {
         "SkillTableID": "1040030302",
         "SkinID": "None",
         "StartAt": 0.43,
@@ -36018,7 +36050,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1691": {
+      "1693": {
         "SkillTableID": "1040010303",
         "SkinID": "None",
         "StartAt": 0.43,
@@ -36034,7 +36066,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1692": {
+      "1694": {
         "SkillTableID": "1040020303",
         "SkinID": "None",
         "StartAt": 0.43,
@@ -36050,7 +36082,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1693": {
+      "1695": {
         "SkillTableID": "1040030303",
         "SkinID": "None",
         "StartAt": 0.43,
@@ -36066,7 +36098,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1694": {
+      "1696": {
         "SkillTableID": "1040010304",
         "SkinID": "None",
         "StartAt": 0.43,
@@ -36082,7 +36114,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1695": {
+      "1697": {
         "SkillTableID": "1040020304",
         "SkinID": "None",
         "StartAt": 0.43,
@@ -36098,7 +36130,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1696": {
+      "1698": {
         "SkillTableID": "1040030304",
         "SkinID": "None",
         "StartAt": 0.43,
@@ -36114,7 +36146,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1697": {
+      "1699": {
         "SkillTableID": "1040010305",
         "SkinID": "None",
         "StartAt": 0.43,
@@ -36130,7 +36162,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1698": {
+      "1700": {
         "SkillTableID": "1040020305",
         "SkinID": "None",
         "StartAt": 0.43,
@@ -36146,7 +36178,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1699": {
+      "1701": {
         "SkillTableID": "1040030305",
         "SkinID": "None",
         "StartAt": 0.43,
@@ -36162,7 +36194,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1700": {
+      "1702": {
         "SkillTableID": "1040010401",
         "SkinID": "None",
         "StartAt": 0.35,
@@ -36178,7 +36210,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1701": {
+      "1703": {
         "SkillTableID": "1040020401",
         "SkinID": "None",
         "StartAt": 0.35,
@@ -36194,7 +36226,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1702": {
+      "1704": {
         "SkillTableID": "1040030401",
         "SkinID": "None",
         "StartAt": 0.22,
@@ -36210,7 +36242,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1703": {
+      "1705": {
         "SkillTableID": "1040010402",
         "SkinID": "None",
         "StartAt": 0.35,
@@ -36226,7 +36258,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1704": {
+      "1706": {
         "SkillTableID": "1040020402",
         "SkinID": "None",
         "StartAt": 0.35,
@@ -36242,7 +36274,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1705": {
+      "1707": {
         "SkillTableID": "1040030402",
         "SkinID": "None",
         "StartAt": 0.22,
@@ -36258,7 +36290,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1706": {
+      "1708": {
         "SkillTableID": "1040010403",
         "SkinID": "None",
         "StartAt": 0.35,
@@ -36274,7 +36306,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1707": {
+      "1709": {
         "SkillTableID": "1040020403",
         "SkinID": "None",
         "StartAt": 0.35,
@@ -36290,7 +36322,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1708": {
+      "1710": {
         "SkillTableID": "1040030403",
         "SkinID": "None",
         "StartAt": 0.22,
@@ -36306,7 +36338,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1709": {
+      "1711": {
         "SkillTableID": "1040010404",
         "SkinID": "None",
         "StartAt": 0.35,
@@ -36322,7 +36354,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1710": {
+      "1712": {
         "SkillTableID": "1040020404",
         "SkinID": "None",
         "StartAt": 0.35,
@@ -36338,7 +36370,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1711": {
+      "1713": {
         "SkillTableID": "1040030404",
         "SkinID": "None",
         "StartAt": 0.22,
@@ -36354,7 +36386,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1712": {
+      "1714": {
         "SkillTableID": "1040010405",
         "SkinID": "None",
         "StartAt": 0.35,
@@ -36370,7 +36402,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1713": {
+      "1715": {
         "SkillTableID": "1040020405",
         "SkinID": "None",
         "StartAt": 0.35,
@@ -36386,7 +36418,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1714": {
+      "1716": {
         "SkillTableID": "1040030405",
         "SkinID": "None",
         "StartAt": 0.22,
@@ -36402,7 +36434,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1715": {
+      "1717": {
         "SkillTableID": "1040010501",
         "SkinID": "None",
         "StartAt": 0.35,
@@ -36418,7 +36450,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1716": {
+      "1718": {
         "SkillTableID": "1040020501",
         "SkinID": "None",
         "StartAt": 0.35,
@@ -36434,7 +36466,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1717": {
+      "1719": {
         "SkillTableID": "1040030501",
         "SkinID": "None",
         "StartAt": 0.35,
@@ -36450,7 +36482,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1718": {
+      "1720": {
         "SkillTableID": "1040010502",
         "SkinID": "None",
         "StartAt": 0.35,
@@ -36466,7 +36498,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1719": {
+      "1721": {
         "SkillTableID": "1040020502",
         "SkinID": "None",
         "StartAt": 0.35,
@@ -36482,7 +36514,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1720": {
+      "1722": {
         "SkillTableID": "1040030502",
         "SkinID": "None",
         "StartAt": 0.35,
@@ -36498,7 +36530,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1721": {
+      "1723": {
         "SkillTableID": "1040010503",
         "SkinID": "None",
         "StartAt": 0.35,
@@ -36514,7 +36546,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1722": {
+      "1724": {
         "SkillTableID": "1040020503",
         "SkinID": "None",
         "StartAt": 0.35,
@@ -36530,7 +36562,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1723": {
+      "1725": {
         "SkillTableID": "1040030503",
         "SkinID": "None",
         "StartAt": 0.35,
@@ -36546,7 +36578,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1724": {
+      "1726": {
         "SkillTableID": "1040010801",
         "SkinID": "None",
         "StartAt": 7.83,
@@ -36562,7 +36594,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1725": {
+      "1727": {
         "SkillTableID": "1040010801",
         "SkinID": "None",
         "StartAt": 7.8,
@@ -36578,7 +36610,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1726": {
+      "1728": {
         "SkillTableID": "104001102",
         "SkinID": "None",
         "StartAt": 0.034333,
@@ -36594,7 +36626,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1727": {
+      "1729": {
         "SkillTableID": "1042010101",
         "SkinID": "None",
         "StartAt": 0.15464962,
@@ -36610,7 +36642,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1728": {
+      "1730": {
         "SkillTableID": "1042010102",
         "SkinID": "None",
         "StartAt": 0.15465,
@@ -36626,7 +36658,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1729": {
+      "1731": {
         "SkillTableID": "1042020101",
         "SkinID": "None",
         "StartAt": 0.15465,
@@ -36642,7 +36674,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1730": {
+      "1732": {
         "SkillTableID": "1042020102",
         "SkinID": "None",
         "StartAt": 0.15465,
@@ -36658,7 +36690,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1731": {
+      "1733": {
         "SkillTableID": "1042010201",
         "SkinID": "None",
         "StartAt": 0.185,
@@ -36674,7 +36706,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1732": {
+      "1734": {
         "SkillTableID": "1042010202",
         "SkinID": "None",
         "StartAt": 0.185,
@@ -36690,7 +36722,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1733": {
+      "1735": {
         "SkillTableID": "1042010203",
         "SkinID": "None",
         "StartAt": 0.185,
@@ -36706,7 +36738,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1734": {
+      "1736": {
         "SkillTableID": "1042010204",
         "SkinID": "None",
         "StartAt": 0.185,
@@ -36722,7 +36754,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1735": {
+      "1737": {
         "SkillTableID": "1042010205",
         "SkinID": "None",
         "StartAt": 0.185,
@@ -36738,7 +36770,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1736": {
+      "1738": {
         "SkillTableID": "1042010301",
         "SkinID": "None",
         "StartAt": 0.1553398,
@@ -36754,7 +36786,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1737": {
+      "1739": {
         "SkillTableID": "1042010302",
         "SkinID": "None",
         "StartAt": 0.1553398,
@@ -36770,7 +36802,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1738": {
+      "1740": {
         "SkillTableID": "1042010303",
         "SkinID": "None",
         "StartAt": 0.1553398,
@@ -36786,7 +36818,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1739": {
+      "1741": {
         "SkillTableID": "1042010304",
         "SkinID": "None",
         "StartAt": 0.1553398,
@@ -36802,7 +36834,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1740": {
+      "1742": {
         "SkillTableID": "1042010305",
         "SkinID": "None",
         "StartAt": 0.1553398,
@@ -36818,7 +36850,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1741": {
+      "1743": {
         "SkillTableID": "1042010401",
         "SkinID": "None",
         "StartAt": 0.046557,
@@ -36834,7 +36866,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1742": {
+      "1744": {
         "SkillTableID": "1042010401",
         "SkinID": "None",
         "StartAt": 0.15838876,
@@ -36850,7 +36882,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1743": {
+      "1745": {
         "SkillTableID": "1042010401",
         "SkinID": "None",
         "StartAt": 0.5625112,
@@ -36866,7 +36898,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1744": {
+      "1746": {
         "SkillTableID": "104201040101",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -36882,7 +36914,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1745": {
+      "1747": {
         "SkillTableID": "104201040102",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -36898,7 +36930,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1746": {
+      "1748": {
         "SkillTableID": "104201040103",
         "SkinID": "None",
         "StartAt": 0.06075,
@@ -36914,7 +36946,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1747": {
+      "1749": {
         "SkillTableID": "104201040104",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -36930,7 +36962,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1748": {
+      "1750": {
         "SkillTableID": "104201040105",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -36946,7 +36978,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1749": {
+      "1751": {
         "SkillTableID": "104201040106",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -36962,7 +36994,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1750": {
+      "1752": {
         "SkillTableID": "104201040107",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -36978,7 +37010,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1751": {
+      "1753": {
         "SkillTableID": "104201040108",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -36994,7 +37026,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1752": {
+      "1754": {
         "SkillTableID": "1042010402",
         "SkinID": "None",
         "StartAt": 0.046557,
@@ -37010,7 +37042,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1753": {
+      "1755": {
         "SkillTableID": "1042010402",
         "SkinID": "None",
         "StartAt": 0.15838876,
@@ -37026,7 +37058,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1754": {
+      "1756": {
         "SkillTableID": "1042010402",
         "SkinID": "None",
         "StartAt": 0.5625112,
@@ -37042,7 +37074,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1755": {
+      "1757": {
         "SkillTableID": "104201040201",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -37058,7 +37090,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1756": {
+      "1758": {
         "SkillTableID": "104201040202",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -37074,7 +37106,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1757": {
+      "1759": {
         "SkillTableID": "104201040203",
         "SkinID": "None",
         "StartAt": 0.06075,
@@ -37090,7 +37122,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1758": {
+      "1760": {
         "SkillTableID": "104201040204",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -37106,7 +37138,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1759": {
+      "1761": {
         "SkillTableID": "104201040205",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -37122,7 +37154,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1760": {
+      "1762": {
         "SkillTableID": "104201040206",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -37138,7 +37170,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1761": {
+      "1763": {
         "SkillTableID": "104201040207",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -37154,7 +37186,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1762": {
+      "1764": {
         "SkillTableID": "104201040208",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -37170,7 +37202,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1763": {
+      "1765": {
         "SkillTableID": "1042010403",
         "SkinID": "None",
         "StartAt": 0.046557,
@@ -37186,7 +37218,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1764": {
+      "1766": {
         "SkillTableID": "1042010403",
         "SkinID": "None",
         "StartAt": 0.15838876,
@@ -37202,7 +37234,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1765": {
+      "1767": {
         "SkillTableID": "1042010403",
         "SkinID": "None",
         "StartAt": 0.5625112,
@@ -37218,7 +37250,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1766": {
+      "1768": {
         "SkillTableID": "104201040301",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -37234,7 +37266,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1767": {
+      "1769": {
         "SkillTableID": "104201040302",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -37250,7 +37282,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1768": {
+      "1770": {
         "SkillTableID": "104201040303",
         "SkinID": "None",
         "StartAt": 0.06075,
@@ -37266,7 +37298,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1769": {
+      "1771": {
         "SkillTableID": "104201040304",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -37282,7 +37314,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1770": {
+      "1772": {
         "SkillTableID": "104201040305",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -37298,7 +37330,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1771": {
+      "1773": {
         "SkillTableID": "104201040306",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -37314,7 +37346,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1772": {
+      "1774": {
         "SkillTableID": "104201040307",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -37330,7 +37362,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1773": {
+      "1775": {
         "SkillTableID": "104201040308",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -37346,7 +37378,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1774": {
+      "1776": {
         "SkillTableID": "1042010404",
         "SkinID": "None",
         "StartAt": 0.046557,
@@ -37362,7 +37394,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1775": {
+      "1777": {
         "SkillTableID": "1042010404",
         "SkinID": "None",
         "StartAt": 0.15838876,
@@ -37378,7 +37410,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1776": {
+      "1778": {
         "SkillTableID": "1042010404",
         "SkinID": "None",
         "StartAt": 0.5625112,
@@ -37394,7 +37426,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1777": {
+      "1779": {
         "SkillTableID": "104201040401",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -37410,7 +37442,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1778": {
+      "1780": {
         "SkillTableID": "104201040402",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -37426,7 +37458,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1779": {
+      "1781": {
         "SkillTableID": "104201040403",
         "SkinID": "None",
         "StartAt": 0.06075,
@@ -37442,7 +37474,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1780": {
+      "1782": {
         "SkillTableID": "104201040404",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -37458,7 +37490,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1781": {
+      "1783": {
         "SkillTableID": "104201040405",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -37474,7 +37506,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1782": {
+      "1784": {
         "SkillTableID": "104201040406",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -37490,7 +37522,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1783": {
+      "1785": {
         "SkillTableID": "104201040407",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -37506,7 +37538,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1784": {
+      "1786": {
         "SkillTableID": "104201040408",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -37522,7 +37554,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1785": {
+      "1787": {
         "SkillTableID": "1042010405",
         "SkinID": "None",
         "StartAt": 0.046557,
@@ -37538,7 +37570,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1786": {
+      "1788": {
         "SkillTableID": "1042010405",
         "SkinID": "None",
         "StartAt": 0.15838876,
@@ -37554,7 +37586,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1787": {
+      "1789": {
         "SkillTableID": "1042010405",
         "SkinID": "None",
         "StartAt": 0.5625112,
@@ -37570,7 +37602,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1788": {
+      "1790": {
         "SkillTableID": "104201040501",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -37586,7 +37618,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1789": {
+      "1791": {
         "SkillTableID": "104201040502",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -37602,7 +37634,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1790": {
+      "1792": {
         "SkillTableID": "104201040503",
         "SkinID": "None",
         "StartAt": 0.06075,
@@ -37618,7 +37650,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1791": {
+      "1793": {
         "SkillTableID": "104201040504",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -37634,7 +37666,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1792": {
+      "1794": {
         "SkillTableID": "104201040505",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -37650,7 +37682,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1793": {
+      "1795": {
         "SkillTableID": "104201040506",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -37666,7 +37698,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1794": {
+      "1796": {
         "SkillTableID": "104201040507",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -37682,7 +37714,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1795": {
+      "1797": {
         "SkillTableID": "104201040508",
         "SkinID": "None",
         "StartAt": 0.060750145,
@@ -37698,7 +37730,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1796": {
+      "1798": {
         "SkillTableID": "1042010501",
         "SkinID": "None",
         "StartAt": 0.0,
@@ -37714,7 +37746,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1797": {
+      "1799": {
         "SkillTableID": "1042010501",
         "SkinID": "None",
         "StartAt": 0.0,
@@ -37730,7 +37762,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1798": {
+      "1800": {
         "SkillTableID": "1042010501",
         "SkinID": "None",
         "StartAt": 0.47005084,
@@ -37741,38 +37773,6 @@
         "Argument1": "0.23",
         "Argument2": "None",
         "Argument3": "None",
-        "Argument4": "None",
-        "Argument5": "None",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1799": {
-        "SkillTableID": "1042010502",
-        "SkinID": "None",
-        "StartAt": 0.0,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_PreparationAnimation",
-        "SocketTransforms": [],
-        "Value": "RiseAndFly_While_Skill_To_NextSkillEnd",
-        "Argument1": "3300",
-        "Argument2": "0.05",
-        "Argument3": "None",
-        "Argument4": "None",
-        "Argument5": "None",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1800": {
-        "SkillTableID": "1042010502",
-        "SkinID": "None",
-        "StartAt": 0.0,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [],
-        "Value": "SpawnCollider",
-        "Argument1": "1042010501_02",
-        "Argument2": "1042010502_02",
-        "Argument3": "1042010503_02",
         "Argument4": "None",
         "Argument5": "None",
         "Argument6": "None",
@@ -37781,6 +37781,38 @@
       "1801": {
         "SkillTableID": "1042010502",
         "SkinID": "None",
+        "StartAt": 0.0,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_PreparationAnimation",
+        "SocketTransforms": [],
+        "Value": "RiseAndFly_While_Skill_To_NextSkillEnd",
+        "Argument1": "3300",
+        "Argument2": "0.05",
+        "Argument3": "None",
+        "Argument4": "None",
+        "Argument5": "None",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1802": {
+        "SkillTableID": "1042010502",
+        "SkinID": "None",
+        "StartAt": 0.0,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [],
+        "Value": "SpawnCollider",
+        "Argument1": "1042010501_02",
+        "Argument2": "1042010502_02",
+        "Argument3": "1042010503_02",
+        "Argument4": "None",
+        "Argument5": "None",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1803": {
+        "SkillTableID": "1042010502",
+        "SkinID": "None",
         "StartAt": 0.47005084,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
@@ -37794,7 +37826,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1802": {
+      "1804": {
         "SkillTableID": "1042010503",
         "SkinID": "None",
         "StartAt": 0.0,
@@ -37810,7 +37842,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1803": {
+      "1805": {
         "SkillTableID": "1042010503",
         "SkinID": "None",
         "StartAt": 0.0,
@@ -37826,7 +37858,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1804": {
+      "1806": {
         "SkillTableID": "1042010503",
         "SkinID": "None",
         "StartAt": 0.47005084,
@@ -37842,7 +37874,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1805": {
+      "1807": {
         "SkillTableID": "1042010801",
         "SkinID": "None",
         "StartAt": 7.8,
@@ -37858,7 +37890,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1806": {
+      "1808": {
         "SkillTableID": "1042010801",
         "SkinID": "None",
         "StartAt": 7.833334,
@@ -37874,7 +37906,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1807": {
+      "1809": {
         "SkillTableID": "104201102",
         "SkinID": "None",
         "StartAt": 0.033333335,
@@ -37890,15 +37922,15 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1808": {
+      "1810": {
         "SkillTableID": "1043010101",
         "SkinID": "None",
-        "StartAt": 0.06666666,
+        "StartAt": 0.09454429,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [],
         "Value": "BaseAttack_Range",
-        "Argument1": "1037010101_01",
+        "Argument1": "1043010101_01",
         "Argument2": "None",
         "Argument3": "None",
         "Argument4": "None",
@@ -37906,58 +37938,26 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1809": {
-        "SkillTableID": "1043010301",
-        "SkinID": "None",
-        "StartAt": 0.16666667,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [],
-        "Value": "spawncollider",
-        "Argument1": "1043010301_01",
-        "Argument2": "1043010302_01",
-        "Argument3": "1043010303_01",
-        "Argument4": "1043010304_01",
-        "Argument5": "1043010305_01",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1810": {
-        "SkillTableID": "1043010302",
-        "SkinID": "None",
-        "StartAt": 0.16666667,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [],
-        "Value": "spawncollider",
-        "Argument1": "1043010301_01",
-        "Argument2": "1043010302_01",
-        "Argument3": "1043010303_01",
-        "Argument4": "1043010304_01",
-        "Argument5": "1043010305_01",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
       "1811": {
-        "SkillTableID": "1043010303",
+        "SkillTableID": "1043010102",
         "SkinID": "None",
-        "StartAt": 0.16666667,
+        "StartAt": 0.094544,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [],
-        "Value": "spawncollider",
-        "Argument1": "1043010301_01",
-        "Argument2": "1043010302_01",
-        "Argument3": "1043010303_01",
-        "Argument4": "1043010304_01",
-        "Argument5": "1043010305_01",
+        "Value": "BaseAttack_Range",
+        "Argument1": "1043010102_01",
+        "Argument2": "None",
+        "Argument3": "None",
+        "Argument4": "None",
+        "Argument5": "None",
         "Argument6": "None",
         "Argument7": "None"
       },
       "1812": {
-        "SkillTableID": "1043010304",
+        "SkillTableID": "1043010301",
         "SkinID": "None",
-        "StartAt": 0.16666667,
+        "StartAt": 0.166667,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [],
@@ -37971,9 +37971,9 @@
         "Argument7": "None"
       },
       "1813": {
-        "SkillTableID": "1043010305",
+        "SkillTableID": "1043010302",
         "SkinID": "None",
-        "StartAt": 0.16666667,
+        "StartAt": 0.166667,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [],
@@ -37987,41 +37987,73 @@
         "Argument7": "None"
       },
       "1814": {
-        "SkillTableID": "1043010501",
+        "SkillTableID": "1043010303",
         "SkinID": "None",
-        "StartAt": 0.4685269,
+        "StartAt": 0.166667,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [],
-        "Value": "SpawnCollider",
-        "Argument1": "1043010501_01",
-        "Argument2": "1043010502_01",
-        "Argument3": "1043010503_01",
-        "Argument4": "None",
-        "Argument5": "None",
+        "Value": "spawncollider",
+        "Argument1": "1043010301_01",
+        "Argument2": "1043010302_01",
+        "Argument3": "1043010303_01",
+        "Argument4": "1043010304_01",
+        "Argument5": "1043010305_01",
         "Argument6": "None",
         "Argument7": "None"
       },
       "1815": {
-        "SkillTableID": "1043010502",
+        "SkillTableID": "1043010304",
         "SkinID": "None",
-        "StartAt": 0.4685269,
+        "StartAt": 0.166667,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [],
-        "Value": "SpawnCollider",
-        "Argument1": "1043010501_01",
-        "Argument2": "1043010502_01",
-        "Argument3": "1043010503_01",
-        "Argument4": "None",
-        "Argument5": "None",
+        "Value": "spawncollider",
+        "Argument1": "1043010301_01",
+        "Argument2": "1043010302_01",
+        "Argument3": "1043010303_01",
+        "Argument4": "1043010304_01",
+        "Argument5": "1043010305_01",
         "Argument6": "None",
         "Argument7": "None"
       },
       "1816": {
-        "SkillTableID": "1043010503",
+        "SkillTableID": "1043010305",
         "SkinID": "None",
-        "StartAt": 0.4685269,
+        "StartAt": 0.166667,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [],
+        "Value": "spawncollider",
+        "Argument1": "1043010301_01",
+        "Argument2": "1043010302_01",
+        "Argument3": "1043010303_01",
+        "Argument4": "1043010304_01",
+        "Argument5": "1043010305_01",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1817": {
+        "SkillTableID": "1043010501",
+        "SkinID": "None",
+        "StartAt": 0.6135143,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [],
+        "Value": "SpawnCollider",
+        "Argument1": "1043010501_02",
+        "Argument2": "1043010502_02",
+        "Argument3": "1043010503_02",
+        "Argument4": "None",
+        "Argument5": "None",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1818": {
+        "SkillTableID": "1043010501",
+        "SkinID": "None",
+        "StartAt": 0.609085,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [],
@@ -38034,7 +38066,71 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1817": {
+      "1819": {
+        "SkillTableID": "1043010502",
+        "SkinID": "None",
+        "StartAt": 0.6135143,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [],
+        "Value": "SpawnCollider",
+        "Argument1": "1043010501_02",
+        "Argument2": "1043010502_02",
+        "Argument3": "1043010503_02",
+        "Argument4": "None",
+        "Argument5": "None",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1820": {
+        "SkillTableID": "1043010502",
+        "SkinID": "None",
+        "StartAt": 0.609085,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [],
+        "Value": "SpawnCollider",
+        "Argument1": "1043010501_01",
+        "Argument2": "1043010502_01",
+        "Argument3": "1043010503_01",
+        "Argument4": "None",
+        "Argument5": "None",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1821": {
+        "SkillTableID": "1043010503",
+        "SkinID": "None",
+        "StartAt": 0.6135143,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [],
+        "Value": "SpawnCollider",
+        "Argument1": "1043010501_02",
+        "Argument2": "1043010502_02",
+        "Argument3": "1043010503_02",
+        "Argument4": "None",
+        "Argument5": "None",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1822": {
+        "SkillTableID": "1043010503",
+        "SkinID": "None",
+        "StartAt": 0.609085,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [],
+        "Value": "SpawnCollider",
+        "Argument1": "1043010501_01",
+        "Argument2": "1043010502_01",
+        "Argument3": "1043010503_01",
+        "Argument4": "None",
+        "Argument5": "None",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1823": {
         "SkillTableID": "1043010801",
         "SkinID": "None",
         "StartAt": 7.8,
@@ -38050,7 +38146,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1818": {
+      "1824": {
         "SkillTableID": "1043010801",
         "SkinID": "None",
         "StartAt": 7.833334,
@@ -38066,7 +38162,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1819": {
+      "1825": {
         "SkillTableID": "104301102",
         "SkinID": "None",
         "StartAt": 0.033333335,
@@ -38082,7 +38178,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1820": {
+      "1826": {
         "SkillTableID": "2154010101",
         "SkinID": "None",
         "StartAt": 0.15403649,
@@ -38098,7 +38194,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1821": {
+      "1827": {
         "SkillTableID": "2154010102",
         "SkinID": "None",
         "StartAt": 0.13333333,
@@ -38114,7 +38210,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1822": {
+      "1828": {
         "SkillTableID": "2154010103",
         "SkinID": "None",
         "StartAt": 0.31232867,
@@ -38130,7 +38226,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1823": {
+      "1829": {
         "SkillTableID": "2154010104",
         "SkinID": "None",
         "StartAt": 0.2692348,
@@ -38146,7 +38242,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1824": {
+      "1830": {
         "SkillTableID": "2155010101",
         "SkinID": "None",
         "StartAt": 0.06666667,
@@ -38186,7 +38282,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1825": {
+      "1831": {
         "SkillTableID": "2155020101",
         "SkinID": "None",
         "StartAt": 0.06666667,
@@ -38226,7 +38322,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1826": {
+      "1832": {
         "SkillTableID": "2155030101",
         "SkinID": "None",
         "StartAt": 0.06666667,
@@ -38266,7 +38362,7 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1827": {
+      "1833": {
         "SkillTableID": "2155040101",
         "SkinID": "None",
         "StartAt": 0.06666667,
@@ -38306,306 +38402,138 @@
         "Argument6": "None",
         "Argument7": "None"
       },
-      "1828": {
+      "1834": {
         "SkillTableID": "2157010101",
         "SkinID": "None",
-        "StartAt": 0.15403649,
+        "StartAt": 0.33333334,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [],
         "Value": "SpawnCollider",
-        "Argument1": "2154010101_01",
+        "Argument1": "2157010101_01",
         "Argument2": "None",
         "Argument3": "None",
         "Argument4": "None",
         "Argument5": "None",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1829": {
-        "SkillTableID": "2157010102",
-        "SkinID": "None",
-        "StartAt": 0.13333333,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [],
-        "Value": "SpawnCollider",
-        "Argument1": "2154010102_01",
-        "Argument2": "None",
-        "Argument3": "None",
-        "Argument4": "None",
-        "Argument5": "None",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1830": {
-        "SkillTableID": "2157010201",
-        "SkinID": "None",
-        "StartAt": 0.06666667,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [
-          {
-            "IggyScorch_FirePoint": {
-              "Rotation": {
-                "X": -0.04723324,
-                "Y": -1.0882856E-06,
-                "Z": -1.8022103E-05,
-                "W": 0.99888384,
-                "IsNormalized": true,
-                "Size": 0.99999994,
-                "SizeSquared": 0.99999994
-              },
-              "Translation": {
-                "X": -0.00042819945,
-                "Y": -1.2048665,
-                "Z": 62.29872
-              },
-              "Scale3D": {
-                "X": 1.0,
-                "Y": 1.0,
-                "Z": 1.0
-              }
-            }
-          }
-        ],
-        "Value": "SpawnCollider",
-        "Argument1": "2155010101_01",
-        "Argument2": "None",
-        "Argument3": "None",
-        "Argument4": "None",
-        "Argument5": "None",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1831": {
-        "SkillTableID": "2157010301",
-        "SkinID": "None",
-        "StartAt": 0.51102,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [
-          {
-            "root": {
-              "Rotation": {
-                "X": -6.1232336E-17,
-                "Y": 1.6543612E-24,
-                "Z": -2.1855696E-08,
-                "W": 1.0,
-                "IsNormalized": true,
-                "Size": 1.0,
-                "SizeSquared": 1.0
-              },
-              "Translation": {
-                "X": -2.9802322E-08,
-                "Y": 2.9802322E-08,
-                "Z": 0.0
-              },
-              "Scale3D": {
-                "X": 1.0,
-                "Y": 1.0,
-                "Z": 1.0
-              }
-            }
-          }
-        ],
-        "Value": "SpawnCollider",
-        "Argument1": "1023010201_02",
-        "Argument2": "1023010202_02",
-        "Argument3": "1023010203_02",
-        "Argument4": "1023010204_02",
-        "Argument5": "1023010205_02",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1832": {
-        "SkillTableID": "2157010301",
-        "SkinID": "None",
-        "StartAt": 0.05885187,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [],
-        "Value": "Jump_Chase_RealTime",
-        "Argument1": "0.451962",
-        "Argument2": "700",
-        "Argument3": "0.351009",
-        "Argument4": "0.104863",
-        "Argument5": "None",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1833": {
-        "SkillTableID": "2157010301",
-        "SkinID": "None",
-        "StartAt": 0.0,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [],
-        "Value": "Fly_While_Skill",
-        "Argument1": "None",
-        "Argument2": "None",
-        "Argument3": "None",
-        "Argument4": "None",
-        "Argument5": "None",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1834": {
-        "SkillTableID": "2157010301",
-        "SkinID": "None",
-        "StartAt": 0.51102,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [],
-        "Value": "SpawnCollider",
-        "Argument1": "1023010201_01",
-        "Argument2": "1023010202_01",
-        "Argument3": "1023010203_01",
-        "Argument4": "1023010204_01",
-        "Argument5": "1023010205_01",
         "Argument6": "None",
         "Argument7": "None"
       },
       "1835": {
-        "SkillTableID": "2157010302",
+        "SkillTableID": "2157010102",
         "SkinID": "None",
-        "StartAt": 0.51102,
+        "StartAt": 0.33333334,
+        "NotifyStateDuration": -1.0,
+        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
+        "SocketTransforms": [],
+        "Value": "SpawnCollider",
+        "Argument1": "2157010102_01",
+        "Argument2": "None",
+        "Argument3": "None",
+        "Argument4": "None",
+        "Argument5": "None",
+        "Argument6": "None",
+        "Argument7": "None"
+      },
+      "1836": {
+        "SkillTableID": "2157010201",
+        "SkinID": "None",
+        "StartAt": 0.4317877,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [
           {
-            "root": {
+            "Muzzle_01": {
               "Rotation": {
-                "X": -6.1232336E-17,
-                "Y": 1.6543612E-24,
-                "Z": -2.1855696E-08,
-                "W": 1.0,
+                "X": 0.4901967,
+                "Y": 0.51835227,
+                "Z": 0.4822268,
+                "W": 0.50840485,
                 "IsNormalized": true,
                 "Size": 1.0,
                 "SizeSquared": 1.0
               },
               "Translation": {
-                "X": -2.9802322E-08,
-                "Y": 2.9802322E-08,
-                "Z": 0.0
+                "X": 3.7948627,
+                "Y": 49.041405,
+                "Z": 301.28375
               },
               "Scale3D": {
-                "X": 1.0,
-                "Y": 1.0,
+                "X": 1.0000001,
+                "Y": 1.0000001,
                 "Z": 1.0
               }
             }
           }
         ],
-        "Value": "SpawnCollider",
-        "Argument1": "1023010201_02",
-        "Argument2": "1023010202_02",
-        "Argument3": "1023010203_02",
-        "Argument4": "1023010204_02",
-        "Argument5": "1023010205_02",
-        "Argument6": "None",
-        "Argument7": "None"
-      },
-      "1836": {
-        "SkillTableID": "2157010302",
-        "SkinID": "None",
-        "StartAt": 0.05885187,
-        "NotifyStateDuration": -1.0,
-        "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [],
-        "Value": "Jump_Chase_RealTime",
-        "Argument1": "0.451962",
-        "Argument2": "700",
-        "Argument3": "0.351009",
-        "Argument4": "0.104863",
+        "Value": "spawncollider",
+        "Argument1": "2157010201_01",
+        "Argument2": "None",
+        "Argument3": "None",
+        "Argument4": "None",
         "Argument5": "None",
         "Argument6": "None",
         "Argument7": "None"
       },
       "1837": {
-        "SkillTableID": "2157010302",
+        "SkillTableID": "2157010301",
         "SkinID": "None",
-        "StartAt": 0.0,
+        "StartAt": 0.08647876,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [],
-        "Value": "Fly_While_Skill",
-        "Argument1": "None",
-        "Argument2": "None",
-        "Argument3": "None",
-        "Argument4": "None",
+        "Value": "Jump_Chase_RealTime_Obj",
+        "Argument1": "0.56",
+        "Argument2": "700",
+        "Argument3": "1",
+        "Argument4": "1",
         "Argument5": "None",
         "Argument6": "None",
         "Argument7": "None"
       },
       "1838": {
-        "SkillTableID": "2157010302",
+        "SkillTableID": "2157010301",
         "SkinID": "None",
-        "StartAt": 0.51102,
+        "StartAt": 0.646479,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [],
         "Value": "SpawnCollider",
-        "Argument1": "1023010201_01",
-        "Argument2": "1023010202_01",
-        "Argument3": "1023010203_01",
-        "Argument4": "1023010204_01",
-        "Argument5": "1023010205_01",
+        "Argument1": "2157010301_01",
+        "Argument2": "2157010302_01",
+        "Argument3": "2157010303_01",
+        "Argument4": "None",
+        "Argument5": "None",
         "Argument6": "None",
         "Argument7": "None"
       },
       "1839": {
-        "SkillTableID": "2157010303",
+        "SkillTableID": "2157010302",
         "SkinID": "None",
-        "StartAt": 0.51102,
+        "StartAt": 0.08647876,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
-        "SocketTransforms": [
-          {
-            "root": {
-              "Rotation": {
-                "X": -6.1232336E-17,
-                "Y": 1.6543612E-24,
-                "Z": -2.1855696E-08,
-                "W": 1.0,
-                "IsNormalized": true,
-                "Size": 1.0,
-                "SizeSquared": 1.0
-              },
-              "Translation": {
-                "X": -2.9802322E-08,
-                "Y": 2.9802322E-08,
-                "Z": 0.0
-              },
-              "Scale3D": {
-                "X": 1.0,
-                "Y": 1.0,
-                "Z": 1.0
-              }
-            }
-          }
-        ],
-        "Value": "SpawnCollider",
-        "Argument1": "1023010201_02",
-        "Argument2": "1023010202_02",
-        "Argument3": "1023010203_02",
-        "Argument4": "1023010204_02",
-        "Argument5": "1023010205_02",
+        "SocketTransforms": [],
+        "Value": "Jump_Chase_RealTime_Obj",
+        "Argument1": "0.56",
+        "Argument2": "700",
+        "Argument3": "1",
+        "Argument4": "1",
+        "Argument5": "None",
         "Argument6": "None",
         "Argument7": "None"
       },
       "1840": {
-        "SkillTableID": "2157010303",
+        "SkillTableID": "2157010302",
         "SkinID": "None",
-        "StartAt": 0.05885187,
+        "StartAt": 0.646479,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [],
-        "Value": "Jump_Chase_RealTime",
-        "Argument1": "0.451962",
-        "Argument2": "700",
-        "Argument3": "0.351009",
-        "Argument4": "0.104863",
+        "Value": "SpawnCollider",
+        "Argument1": "2157010301_01",
+        "Argument2": "2157010302_01",
+        "Argument3": "2157010303_01",
+        "Argument4": "None",
         "Argument5": "None",
         "Argument6": "None",
         "Argument7": "None"
@@ -38613,15 +38541,15 @@
       "1841": {
         "SkillTableID": "2157010303",
         "SkinID": "None",
-        "StartAt": 0.0,
+        "StartAt": 0.08647876,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [],
-        "Value": "Fly_While_Skill",
-        "Argument1": "None",
-        "Argument2": "None",
-        "Argument3": "None",
-        "Argument4": "None",
+        "Value": "Jump_Chase_RealTime_Obj",
+        "Argument1": "0.56",
+        "Argument2": "700",
+        "Argument3": "1",
+        "Argument4": "1",
         "Argument5": "None",
         "Argument6": "None",
         "Argument7": "None"
@@ -38629,31 +38557,31 @@
       "1842": {
         "SkillTableID": "2157010303",
         "SkinID": "None",
-        "StartAt": 0.51102,
+        "StartAt": 0.646479,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [],
         "Value": "SpawnCollider",
-        "Argument1": "1023010201_01",
-        "Argument2": "1023010202_01",
-        "Argument3": "1023010203_01",
-        "Argument4": "1023010204_01",
-        "Argument5": "1023010205_01",
+        "Argument1": "2157010301_01",
+        "Argument2": "2157010302_01",
+        "Argument3": "2157010303_01",
+        "Argument4": "None",
+        "Argument5": "None",
         "Argument6": "None",
         "Argument7": "None"
       },
       "1843": {
         "SkillTableID": "2157010401",
         "SkinID": "None",
-        "StartAt": 0.034297705,
+        "StartAt": 0.75,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [],
-        "Value": "LeapJump",
-        "Argument1": "0.751",
-        "Argument2": "800",
-        "Argument3": "1",
-        "Argument4": "0.4",
+        "Value": "spawncollider",
+        "Argument1": "2157010401_01",
+        "Argument2": "2157010402_01",
+        "Argument3": "2157010403_01",
+        "Argument4": "None",
         "Argument5": "None",
         "Argument6": "None",
         "Argument7": "None"
@@ -38661,31 +38589,31 @@
       "1844": {
         "SkillTableID": "2157010401",
         "SkinID": "None",
-        "StartAt": 0.8227947,
+        "StartAt": 0.0,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [],
-        "Value": "SpawnCollider",
-        "Argument1": "1004010201_01",
-        "Argument2": "1004010202_01",
-        "Argument3": "1004010203_01",
-        "Argument4": "1004010204_01",
-        "Argument5": "1004010205_01",
+        "Value": "LeapJump",
+        "Argument1": "0.751",
+        "Argument2": "600",
+        "Argument3": "1",
+        "Argument4": "1",
+        "Argument5": "None",
         "Argument6": "None",
         "Argument7": "None"
       },
       "1845": {
         "SkillTableID": "2157010402",
         "SkinID": "None",
-        "StartAt": 0.034297705,
+        "StartAt": 0.75,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [],
-        "Value": "LeapJump",
-        "Argument1": "0.751",
-        "Argument2": "800",
-        "Argument3": "1",
-        "Argument4": "0.4",
+        "Value": "spawncollider",
+        "Argument1": "2157010401_01",
+        "Argument2": "2157010402_01",
+        "Argument3": "2157010403_01",
+        "Argument4": "None",
         "Argument5": "None",
         "Argument6": "None",
         "Argument7": "None"
@@ -38693,31 +38621,31 @@
       "1846": {
         "SkillTableID": "2157010402",
         "SkinID": "None",
-        "StartAt": 0.8227947,
+        "StartAt": 0.0,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [],
-        "Value": "SpawnCollider",
-        "Argument1": "1004010201_01",
-        "Argument2": "1004010202_01",
-        "Argument3": "1004010203_01",
-        "Argument4": "1004010204_01",
-        "Argument5": "1004010205_01",
+        "Value": "LeapJump",
+        "Argument1": "0.751",
+        "Argument2": "600",
+        "Argument3": "1",
+        "Argument4": "1",
+        "Argument5": "None",
         "Argument6": "None",
         "Argument7": "None"
       },
       "1847": {
         "SkillTableID": "2157010403",
         "SkinID": "None",
-        "StartAt": 0.034297705,
+        "StartAt": 0.75,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [],
-        "Value": "LeapJump",
-        "Argument1": "0.751",
-        "Argument2": "800",
-        "Argument3": "1",
-        "Argument4": "0.4",
+        "Value": "spawncollider",
+        "Argument1": "2157010401_01",
+        "Argument2": "2157010402_01",
+        "Argument3": "2157010403_01",
+        "Argument4": "None",
         "Argument5": "None",
         "Argument6": "None",
         "Argument7": "None"
@@ -38725,16 +38653,16 @@
       "1848": {
         "SkillTableID": "2157010403",
         "SkinID": "None",
-        "StartAt": 0.8227947,
+        "StartAt": 0.0,
         "NotifyStateDuration": -1.0,
         "SkillMontageType": "ESkillAnimationType::ESAT_SkillAnimation",
         "SocketTransforms": [],
-        "Value": "SpawnCollider",
-        "Argument1": "1004010201_01",
-        "Argument2": "1004010202_01",
-        "Argument3": "1004010203_01",
-        "Argument4": "1004010204_01",
-        "Argument5": "1004010205_01",
+        "Value": "LeapJump",
+        "Argument1": "0.751",
+        "Argument2": "600",
+        "Argument3": "1",
+        "Argument4": "1",
+        "Argument5": "None",
         "Argument6": "None",
         "Argument7": "None"
       },

@@ -1,0 +1,1635 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_Mastery",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPMasteryDataTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "HeroID": "1001",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "2": {
+        "HeroID": "1001",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "3": {
+        "HeroID": "1001",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "4": {
+        "HeroID": "1001",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "5": {
+        "HeroID": "1001",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31001901,
+        "RewardCount": 1
+      },
+      "6": {
+        "HeroID": "1002",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "7": {
+        "HeroID": "1002",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "8": {
+        "HeroID": "1002",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "9": {
+        "HeroID": "1002",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "10": {
+        "HeroID": "1002",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31002901,
+        "RewardCount": 1
+      },
+      "11": {
+        "HeroID": "1003",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "12": {
+        "HeroID": "1003",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "13": {
+        "HeroID": "1003",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "14": {
+        "HeroID": "1003",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "15": {
+        "HeroID": "1003",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31003901,
+        "RewardCount": 1
+      },
+      "16": {
+        "HeroID": "1004",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "17": {
+        "HeroID": "1004",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "18": {
+        "HeroID": "1004",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "19": {
+        "HeroID": "1004",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "20": {
+        "HeroID": "1004",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31004901,
+        "RewardCount": 1
+      },
+      "21": {
+        "HeroID": "1005",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "22": {
+        "HeroID": "1005",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "23": {
+        "HeroID": "1005",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "24": {
+        "HeroID": "1005",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "25": {
+        "HeroID": "1005",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31005901,
+        "RewardCount": 1
+      },
+      "26": {
+        "HeroID": "1006",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "27": {
+        "HeroID": "1006",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "28": {
+        "HeroID": "1006",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "29": {
+        "HeroID": "1006",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "30": {
+        "HeroID": "1006",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31006901,
+        "RewardCount": 1
+      },
+      "31": {
+        "HeroID": "1007",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "32": {
+        "HeroID": "1007",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "33": {
+        "HeroID": "1007",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "34": {
+        "HeroID": "1007",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "35": {
+        "HeroID": "1007",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31007901,
+        "RewardCount": 1
+      },
+      "36": {
+        "HeroID": "1009",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "37": {
+        "HeroID": "1009",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "38": {
+        "HeroID": "1009",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "39": {
+        "HeroID": "1009",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "40": {
+        "HeroID": "1009",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31009901,
+        "RewardCount": 1
+      },
+      "41": {
+        "HeroID": "1010",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "42": {
+        "HeroID": "1010",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "43": {
+        "HeroID": "1010",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "44": {
+        "HeroID": "1010",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "45": {
+        "HeroID": "1010",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31010901,
+        "RewardCount": 1
+      },
+      "46": {
+        "HeroID": "1011",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "47": {
+        "HeroID": "1011",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "48": {
+        "HeroID": "1011",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "49": {
+        "HeroID": "1011",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "50": {
+        "HeroID": "1011",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31011901,
+        "RewardCount": 1
+      },
+      "51": {
+        "HeroID": "1012",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "52": {
+        "HeroID": "1012",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "53": {
+        "HeroID": "1012",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "54": {
+        "HeroID": "1012",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "55": {
+        "HeroID": "1012",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31012901,
+        "RewardCount": 1
+      },
+      "56": {
+        "HeroID": "1013",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "57": {
+        "HeroID": "1013",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "58": {
+        "HeroID": "1013",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "59": {
+        "HeroID": "1013",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "60": {
+        "HeroID": "1013",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31013901,
+        "RewardCount": 1
+      },
+      "61": {
+        "HeroID": "1014",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "62": {
+        "HeroID": "1014",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "63": {
+        "HeroID": "1014",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "64": {
+        "HeroID": "1014",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "65": {
+        "HeroID": "1014",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31014901,
+        "RewardCount": 1
+      },
+      "66": {
+        "HeroID": "1015",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "67": {
+        "HeroID": "1015",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "68": {
+        "HeroID": "1015",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "69": {
+        "HeroID": "1015",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "70": {
+        "HeroID": "1015",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31015901,
+        "RewardCount": 1
+      },
+      "71": {
+        "HeroID": "1016",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "72": {
+        "HeroID": "1016",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "73": {
+        "HeroID": "1016",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "74": {
+        "HeroID": "1016",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "75": {
+        "HeroID": "1016",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31016901,
+        "RewardCount": 1
+      },
+      "76": {
+        "HeroID": "1017",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "77": {
+        "HeroID": "1017",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "78": {
+        "HeroID": "1017",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "79": {
+        "HeroID": "1017",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "80": {
+        "HeroID": "1017",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31017901,
+        "RewardCount": 1
+      },
+      "81": {
+        "HeroID": "1018",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "82": {
+        "HeroID": "1018",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "83": {
+        "HeroID": "1018",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "84": {
+        "HeroID": "1018",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "85": {
+        "HeroID": "1018",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31018901,
+        "RewardCount": 1
+      },
+      "86": {
+        "HeroID": "1019",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "87": {
+        "HeroID": "1019",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "88": {
+        "HeroID": "1019",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "89": {
+        "HeroID": "1019",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "90": {
+        "HeroID": "1019",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31019901,
+        "RewardCount": 1
+      },
+      "91": {
+        "HeroID": "1020",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "92": {
+        "HeroID": "1020",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "93": {
+        "HeroID": "1020",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "94": {
+        "HeroID": "1020",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "95": {
+        "HeroID": "1020",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31020901,
+        "RewardCount": 1
+      },
+      "96": {
+        "HeroID": "1021",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "97": {
+        "HeroID": "1021",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "98": {
+        "HeroID": "1021",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "99": {
+        "HeroID": "1021",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "100": {
+        "HeroID": "1021",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31021901,
+        "RewardCount": 1
+      },
+      "101": {
+        "HeroID": "1022",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "102": {
+        "HeroID": "1022",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "103": {
+        "HeroID": "1022",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "104": {
+        "HeroID": "1022",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "105": {
+        "HeroID": "1022",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31022901,
+        "RewardCount": 1
+      },
+      "106": {
+        "HeroID": "1023",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "107": {
+        "HeroID": "1023",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "108": {
+        "HeroID": "1023",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "109": {
+        "HeroID": "1023",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "110": {
+        "HeroID": "1023",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31023901,
+        "RewardCount": 1
+      },
+      "111": {
+        "HeroID": "1025",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "112": {
+        "HeroID": "1025",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "113": {
+        "HeroID": "1025",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "114": {
+        "HeroID": "1025",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "115": {
+        "HeroID": "1025",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31025901,
+        "RewardCount": 1
+      },
+      "116": {
+        "HeroID": "1026",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "117": {
+        "HeroID": "1026",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "118": {
+        "HeroID": "1026",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "119": {
+        "HeroID": "1026",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "120": {
+        "HeroID": "1026",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31026901,
+        "RewardCount": 1
+      },
+      "121": {
+        "HeroID": "1027",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "122": {
+        "HeroID": "1027",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "123": {
+        "HeroID": "1027",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "124": {
+        "HeroID": "1027",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "125": {
+        "HeroID": "1027",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31027901,
+        "RewardCount": 1
+      },
+      "126": {
+        "HeroID": "1028",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "127": {
+        "HeroID": "1028",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "128": {
+        "HeroID": "1028",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "129": {
+        "HeroID": "1028",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "130": {
+        "HeroID": "1028",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31028901,
+        "RewardCount": 1
+      },
+      "131": {
+        "HeroID": "1029",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "132": {
+        "HeroID": "1029",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "133": {
+        "HeroID": "1029",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "134": {
+        "HeroID": "1029",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "135": {
+        "HeroID": "1029",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31029901,
+        "RewardCount": 1
+      },
+      "136": {
+        "HeroID": "1030",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "137": {
+        "HeroID": "1030",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "138": {
+        "HeroID": "1030",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "139": {
+        "HeroID": "1030",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "140": {
+        "HeroID": "1030",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31030901,
+        "RewardCount": 1
+      },
+      "141": {
+        "HeroID": "1031",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "142": {
+        "HeroID": "1031",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "143": {
+        "HeroID": "1031",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "144": {
+        "HeroID": "1031",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "145": {
+        "HeroID": "1031",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31031901,
+        "RewardCount": 1
+      },
+      "146": {
+        "HeroID": "1032",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "147": {
+        "HeroID": "1032",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "148": {
+        "HeroID": "1032",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "149": {
+        "HeroID": "1032",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "150": {
+        "HeroID": "1032",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31032901,
+        "RewardCount": 1
+      },
+      "151": {
+        "HeroID": "1033",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "152": {
+        "HeroID": "1033",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "153": {
+        "HeroID": "1033",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "154": {
+        "HeroID": "1033",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "155": {
+        "HeroID": "1033",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31033901,
+        "RewardCount": 1
+      },
+      "156": {
+        "HeroID": "1034",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "157": {
+        "HeroID": "1034",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "158": {
+        "HeroID": "1034",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "159": {
+        "HeroID": "1034",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "160": {
+        "HeroID": "1034",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31034901,
+        "RewardCount": 1
+      },
+      "161": {
+        "HeroID": "1036",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "162": {
+        "HeroID": "1036",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "163": {
+        "HeroID": "1036",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "164": {
+        "HeroID": "1036",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "165": {
+        "HeroID": "1036",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31036901,
+        "RewardCount": 1
+      },
+      "166": {
+        "HeroID": "1037",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "167": {
+        "HeroID": "1037",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "168": {
+        "HeroID": "1037",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "169": {
+        "HeroID": "1037",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "170": {
+        "HeroID": "1037",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31037901,
+        "RewardCount": 1
+      },
+      "171": {
+        "HeroID": "1040",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "172": {
+        "HeroID": "1040",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "173": {
+        "HeroID": "1040",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "174": {
+        "HeroID": "1040",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "175": {
+        "HeroID": "1040",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31040901,
+        "RewardCount": 1
+      },
+      "176": {
+        "HeroID": "1042",
+        "MasteryLevel": 1,
+        "NeedPP": 100,
+        "AccumulatePP": 100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze01.T_Bronze01'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "177": {
+        "HeroID": "1042",
+        "MasteryLevel": 2,
+        "NeedPP": 1000,
+        "AccumulatePP": 1100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Bronze02.T_Bronze02'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "178": {
+        "HeroID": "1042",
+        "MasteryLevel": 3,
+        "NeedPP": 5000,
+        "AccumulatePP": 6100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Silver.T_Silver'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "179": {
+        "HeroID": "1042",
+        "MasteryLevel": 4,
+        "NeedPP": 10000,
+        "AccumulatePP": 16100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Gold.T_Gold'",
+        "RewardID": 0,
+        "RewardCount": 0
+      },
+      "180": {
+        "HeroID": "1042",
+        "MasteryLevel": 5,
+        "NeedPP": 20000,
+        "AccumulatePP": 36100,
+        "MasteryIconImgPath": "Texture2D'/Game/UI/Resource/Texture/Common/Proficiency/T_Master.T_Master'",
+        "RewardID": 31042901,
+        "RewardCount": 1
+      }
+    }
+  }
+]
