@@ -27,7 +27,7 @@
         "UseRate": false
       },
       "3": {
-        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_AutoAim_CircleRadius",
+        "DetailType": "EGameSettingDetailType::EGSD_Gamepad_AutoAim_CircleRadius",
         "DefaultValue": 130,
         "MinValue": 100,
         "MaxValue": 900,
@@ -35,7 +35,7 @@
         "UseRate": false
       },
       "4": {
-        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_AutoAim_TargetDistance",
+        "DetailType": "EGameSettingDetailType::EGSD_Gamepad_AutoAim_TargetDistance",
         "DefaultValue": 140,
         "MinValue": 100,
         "MaxValue": 900,
@@ -43,7 +43,7 @@
         "UseRate": false
       },
       "5": {
-        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_AutoAim_RetargetDelay",
+        "DetailType": "EGameSettingDetailType::EGSD_Gamepad_AutoAim_RetargetDelay",
         "DefaultValue": 0,
         "MinValue": 0,
         "MaxValue": 10,

@@ -11859,7 +11859,10 @@
         "SkinID": "1035001",
         "SoundID": "Hero_1035001_Skill_1035010401_Hit",
         "SoundVolume": 1.0,
-        "SoundPath": null,
+        "SoundPath": {
+          "ObjectName": "SoundCue'morigesh_e_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/morigesh/morigesh_e_ability_local_hit_cue.0"
+        },
         "SoundTableManagerObject": null
       },
       "1278": {

@@ -2118,21 +2118,45 @@
         "UnitState": "Default",
         "HeroID": "1043",
         "HeroSkinID": "1043001",
-        "Stun": null,
-        "Airbone": null,
-        "Knockback": null,
+        "Stun": {
+          "ObjectName": "AnimMontage'AM_Marty_Stun_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Marty/Animation/Montage/AM_Marty_Stun_Montage.0"
+        },
+        "Airbone": {
+          "ObjectName": "AnimMontage'AM_Marty_Knock_Up_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Marty/Animation/Montage/AM_Marty_Knock_Up_Montage.0"
+        },
+        "Knockback": {
+          "ObjectName": "AnimMontage'AM_Marty_Knock_Back_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Marty/Animation/Montage/AM_Marty_Knock_Back_Montage.0"
+        },
         "Sleep": null,
-        "HitReactLeft": null,
-        "HitReactRight": null,
-        "HitReactForward": null,
-        "HitReactBackward": null,
+        "HitReactLeft": {
+          "ObjectName": "AnimMontage'AM_Marty_HitReact_Left_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Marty/Animation/Montage/AM_Marty_HitReact_Left_Montage.0"
+        },
+        "HitReactRight": {
+          "ObjectName": "AnimMontage'AM_Marty_HitReact_Right_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Marty/Animation/Montage/AM_Marty_HitReact_Right_Montage.0"
+        },
+        "HitReactForward": {
+          "ObjectName": "AnimMontage'AM_Marty_HitReact_Front_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Marty/Animation/Montage/AM_Marty_HitReact_Front_Montage.0"
+        },
+        "HitReactBackward": {
+          "ObjectName": "AnimMontage'AM_Marty_HitReact_Back_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Marty/Animation/Montage/AM_Marty_HitReact_Back_Montage.0"
+        },
         "JumpPadActivation": {
-          "ObjectName": "AnimMontage'AM_JumpPad_Montage'",
-          "ObjectPath": "Overprime/Content/Character/Hero/Marty/Dummy_Animation/Montage/AM_JumpPad_Montage.0"
+          "ObjectName": "AnimMontage'AM_Marty_JumpPad_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Marty/Animation/Montage/AM_Marty_JumpPad_Montage.0"
         },
         "DeathSequence": null,
         "Respawn": null,
-        "DeathMontage": null
+        "DeathMontage": {
+          "ObjectName": "AnimMontage'AM_Marty_Death_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Marty/Animation/Montage/AM_Marty_Death_Montage.0"
+        }
       },
       "46": {
         "UnitState": "Default",

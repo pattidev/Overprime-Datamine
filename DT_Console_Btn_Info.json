@@ -1,0 +1,165 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_Console_Btn_Info",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'GamepadKeyInfoTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "GroupID": 10,
+        "Controller_Btn_Type": "EGamepadButtonType::FaceButton_Bottom",
+        "Controller_Btn_Type_Sub": "EGamepadButtonType::None",
+        "Controller_Btn_StringKey": "PS.Default_Btn_Select"
+      },
+      "2": {
+        "GroupID": 10,
+        "Controller_Btn_Type": "EGamepadButtonType::FaceButton_Right",
+        "Controller_Btn_Type_Sub": "EGamepadButtonType::None",
+        "Controller_Btn_StringKey": "PS.Default_Btn_Back"
+      },
+      "3": {
+        "GroupID": 20,
+        "Controller_Btn_Type": "EGamepadButtonType::FaceButton_Bottom",
+        "Controller_Btn_Type_Sub": "EGamepadButtonType::None",
+        "Controller_Btn_StringKey": "PS.Default_Btn_Select"
+      },
+      "4": {
+        "GroupID": 20,
+        "Controller_Btn_Type": "EGamepadButtonType::FaceButton_Right",
+        "Controller_Btn_Type_Sub": "EGamepadButtonType::None",
+        "Controller_Btn_StringKey": "PS.Default_Btn_BackAndCancel"
+      },
+      "5": {
+        "GroupID": 20,
+        "Controller_Btn_Type": "EGamepadButtonType::FaceButton_Top",
+        "Controller_Btn_Type_Sub": "EGamepadButtonType::None",
+        "Controller_Btn_StringKey": "UI.GameMode_Btn_Create"
+      },
+      "6": {
+        "GroupID": 30,
+        "Controller_Btn_Type": "EGamepadButtonType::FaceButton_Left",
+        "Controller_Btn_Type_Sub": "EGamepadButtonType::None",
+        "Controller_Btn_StringKey": "UI.Draft_PopUp_Btn_Exit"
+      },
+      "7": {
+        "GroupID": 30,
+        "Controller_Btn_Type": "EGamepadButtonType::FaceButton_Right",
+        "Controller_Btn_Type_Sub": "EGamepadButtonType::None",
+        "Controller_Btn_StringKey": "UI.Draft_PopUp_Btn_Stay"
+      },
+      "8": {
+        "GroupID": 40,
+        "Controller_Btn_Type": "EGamepadButtonType::FaceButton_Top",
+        "Controller_Btn_Type_Sub": "EGamepadButtonType::None",
+        "Controller_Btn_StringKey": "UI.Setting_Btn_Save"
+      },
+      "9": {
+        "GroupID": 40,
+        "Controller_Btn_Type": "EGamepadButtonType::FaceButton_Left",
+        "Controller_Btn_Type_Sub": "EGamepadButtonType::None",
+        "Controller_Btn_StringKey": "UI.Setting_Btn_Reset"
+      },
+      "10": {
+        "GroupID": 40,
+        "Controller_Btn_Type": "EGamepadButtonType::FaceButton_Right",
+        "Controller_Btn_Type_Sub": "EGamepadButtonType::None",
+        "Controller_Btn_StringKey": "PS.Default_Btn_BackAndCancel"
+      },
+      "11": {
+        "GroupID": 50,
+        "Controller_Btn_Type": "EGamepadButtonType::FaceButton_Left",
+        "Controller_Btn_Type_Sub": "EGamepadButtonType::None",
+        "Controller_Btn_StringKey": "UI.AccountInfo_BTN_AccountDel"
+      },
+      "12": {
+        "GroupID": 50,
+        "Controller_Btn_Type": "EGamepadButtonType::FaceButton_Right",
+        "Controller_Btn_Type_Sub": "EGamepadButtonType::None",
+        "Controller_Btn_StringKey": "PS.Default_Btn_Cancel"
+      },
+      "13": {
+        "GroupID": 60,
+        "Controller_Btn_Type": "EGamepadButtonType::FaceButton_Left",
+        "Controller_Btn_Type_Sub": "EGamepadButtonType::None",
+        "Controller_Btn_StringKey": "UI.Common_Btn_Purchase"
+      },
+      "14": {
+        "GroupID": 60,
+        "Controller_Btn_Type": "EGamepadButtonType::FaceButton_Right",
+        "Controller_Btn_Type_Sub": "EGamepadButtonType::None",
+        "Controller_Btn_StringKey": "PS.Default_Btn_Cancel"
+      },
+      "15": {
+        "GroupID": 70,
+        "Controller_Btn_Type": "EGamepadButtonType::FaceButton_Left",
+        "Controller_Btn_Type_Sub": "EGamepadButtonType::None",
+        "Controller_Btn_StringKey": "UI.Common_GetReward"
+      },
+      "16": {
+        "GroupID": 70,
+        "Controller_Btn_Type": "EGamepadButtonType::FaceButton_Right",
+        "Controller_Btn_Type_Sub": "EGamepadButtonType::None",
+        "Controller_Btn_StringKey": "UI.Common_Btn_Close"
+      },
+      "17": {
+        "GroupID": 80,
+        "Controller_Btn_Type": "EGamepadButtonType::FaceButton_Left",
+        "Controller_Btn_Type_Sub": "EGamepadButtonType::None",
+        "Controller_Btn_StringKey": "UI.UI_GameResult_PopUp_Btn_Report"
+      },
+      "18": {
+        "GroupID": 80,
+        "Controller_Btn_Type": "EGamepadButtonType::FaceButton_Right",
+        "Controller_Btn_Type_Sub": "EGamepadButtonType::None",
+        "Controller_Btn_StringKey": "PS.Default_Btn_Cancel"
+      },
+      "19": {
+        "GroupID": 100,
+        "Controller_Btn_Type": "EGamepadButtonType::FaceButton_Bottom",
+        "Controller_Btn_Type_Sub": "EGamepadButtonType::None",
+        "Controller_Btn_StringKey": "PS.Default_Btn_Select"
+      },
+      "20": {
+        "GroupID": 100,
+        "Controller_Btn_Type": "EGamepadButtonType::FaceButton_Right",
+        "Controller_Btn_Type_Sub": "EGamepadButtonType::None",
+        "Controller_Btn_StringKey": "PS.Default_Btn_BackAndCancel"
+      },
+      "21": {
+        "GroupID": 200,
+        "Controller_Btn_Type": "EGamepadButtonType::FaceButton_Left",
+        "Controller_Btn_Type_Sub": "EGamepadButtonType::None",
+        "Controller_Btn_StringKey": "UI.Common_Btn_Close"
+      },
+      "22": {
+        "GroupID": 300,
+        "Controller_Btn_Type": "EGamepadButtonType::FaceButton_Left",
+        "Controller_Btn_Type_Sub": "EGamepadButtonType::None",
+        "Controller_Btn_StringKey": "PS.Default_Btn_Confirm"
+      },
+      "23": {
+        "GroupID": 300,
+        "Controller_Btn_Type": "EGamepadButtonType::FaceButton_Right",
+        "Controller_Btn_Type_Sub": "EGamepadButtonType::None",
+        "Controller_Btn_StringKey": "PS.Default_Btn_Cancel"
+      },
+      "24": {
+        "GroupID": 400,
+        "Controller_Btn_Type": "EGamepadButtonType::FaceButton_Left",
+        "Controller_Btn_Type_Sub": "EGamepadButtonType::None",
+        "Controller_Btn_StringKey": "PS.Default_Btn_Confirm"
+      },
+      "25": {
+        "GroupID": 500,
+        "Controller_Btn_Type": "EGamepadButtonType::FaceButton_Left",
+        "Controller_Btn_Type_Sub": "EGamepadButtonType::None",
+        "Controller_Btn_StringKey": "UI.Draft_PopUp_Btn_Exit"
+      }
+    }
+  }
+]

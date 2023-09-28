@@ -33,25 +33,25 @@
         "TutorialPlatformType": "ETutorialPlatformType::ETPT_PC",
         "TutorialNum": 2,
         "TutorialNumEnableTrigger": 1,
-        "Reward_Item": 10000201,
-        "RewardValue": 100,
+        "Reward_Item": 0,
+        "RewardValue": 0,
         "TutorialEnable": true,
-        "TutorialLock": false,
+        "TutorialLock": true,
         "TutorialNumKey": "UI.TutorialPage_Step_002",
-        "TutorialNameKey": "UI.TutorialPage_Step_002_Name",
+        "TutorialNameKey": "UI.TutorialPage_Step_999_Name",
         "Tutorial_TitleImage": {
-          "ObjectName": "Texture2D'T_UI_Tutorial_Step_002'",
-          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Tutorial/T_UI_Tutorial_Step_002.0"
+          "ObjectName": "Texture2D'T_UI_Tutorial_Step_999'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Tutorial/T_UI_Tutorial_Step_999.0"
         },
         "Tutorial_DirectingImage": {
-          "ObjectName": "MaterialInstanceConstant'MAT_UI_Tutorial_Step_Add_002_Inst'",
-          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Tutorial/StepAddInstances/MAT_UI_Tutorial_Step_Add_002_Inst.0"
+          "ObjectName": "MaterialInstanceConstant'MAT_UI_Tutorial_Step_Add_999_Inst'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Tutorial/StepAddInstances/MAT_UI_Tutorial_Step_Add_999_Inst.0"
         }
       },
       "103": {
         "TutorialPlatformType": "ETutorialPlatformType::ETPT_PC",
         "TutorialNum": 3,
-        "TutorialNumEnableTrigger": 2,
+        "TutorialNumEnableTrigger": 1,
         "Reward_Item": 10000201,
         "RewardValue": 100,
         "TutorialEnable": true,
@@ -109,38 +109,38 @@
         "TutorialPlatformType": "ETutorialPlatformType::ETPT_PlayStation",
         "TutorialNum": 2,
         "TutorialNumEnableTrigger": 1,
-        "Reward_Item": 0,
-        "RewardValue": 0,
+        "Reward_Item": 10000201,
+        "RewardValue": 100,
         "TutorialEnable": true,
-        "TutorialLock": true,
+        "TutorialLock": false,
         "TutorialNumKey": "UI.TutorialPage_Step_002",
-        "TutorialNameKey": "UI.TutorialPage_Step_999_Name",
+        "TutorialNameKey": "UI.TutorialPage_Step_002_Name",
         "Tutorial_TitleImage": {
-          "ObjectName": "Texture2D'T_UI_Tutorial_Step_999'",
-          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Tutorial/T_UI_Tutorial_Step_999.0"
+          "ObjectName": "Texture2D'T_UI_Tutorial_Step_002'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Tutorial/T_UI_Tutorial_Step_002.0"
         },
         "Tutorial_DirectingImage": {
-          "ObjectName": "MaterialInstanceConstant'MAT_UI_Tutorial_Step_Add_999_Inst'",
-          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Tutorial/StepAddInstances/MAT_UI_Tutorial_Step_Add_999_Inst.0"
+          "ObjectName": "MaterialInstanceConstant'MAT_UI_Tutorial_Step_Add_002_Inst'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Tutorial/StepAddInstances/MAT_UI_Tutorial_Step_Add_002_Inst.0"
         }
       },
       "203": {
         "TutorialPlatformType": "ETutorialPlatformType::ETPT_PlayStation",
         "TutorialNum": 3,
         "TutorialNumEnableTrigger": 2,
-        "Reward_Item": 0,
-        "RewardValue": 0,
+        "Reward_Item": 10000201,
+        "RewardValue": 100,
         "TutorialEnable": true,
-        "TutorialLock": true,
+        "TutorialLock": false,
         "TutorialNumKey": "UI.TutorialPage_Step_003",
-        "TutorialNameKey": "UI.TutorialPage_Step_999_Name",
+        "TutorialNameKey": "UI.TutorialPage_Step_003_Name",
         "Tutorial_TitleImage": {
-          "ObjectName": "Texture2D'T_UI_Tutorial_Step_999'",
-          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Tutorial/T_UI_Tutorial_Step_999.0"
+          "ObjectName": "Texture2D'T_UI_Tutorial_Step_003'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Tutorial/T_UI_Tutorial_Step_003.0"
         },
         "Tutorial_DirectingImage": {
-          "ObjectName": "MaterialInstanceConstant'MAT_UI_Tutorial_Step_Add_999_Inst'",
-          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Tutorial/StepAddInstances/MAT_UI_Tutorial_Step_Add_999_Inst.0"
+          "ObjectName": "MaterialInstanceConstant'MAT_UI_Tutorial_Step_Add_003_Inst'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Tutorial/StepAddInstances/MAT_UI_Tutorial_Step_Add_003_Inst.0"
         }
       },
       "204": {

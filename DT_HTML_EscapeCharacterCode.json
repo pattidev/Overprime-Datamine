@@ -1,0 +1,705 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_HTML_EscapeCharacterCode",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPHtmlEscapeCharacterCodeDataTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "EscapeCharacter": "space",
+        "DigitCode": "&#09;",
+        "CharacterCode": ""
+      },
+      "2": {
+        "EscapeCharacter": "space",
+        "DigitCode": "&#10;",
+        "CharacterCode": ""
+      },
+      "3": {
+        "EscapeCharacter": "space",
+        "DigitCode": "&#32;",
+        "CharacterCode": ""
+      },
+      "4": {
+        "EscapeCharacter": "!",
+        "DigitCode": "&#33;",
+        "CharacterCode": ""
+      },
+      "5": {
+        "EscapeCharacter": "'",
+        "DigitCode": "&#34;",
+        "CharacterCode": "&quot;"
+      },
+      "6": {
+        "EscapeCharacter": "#",
+        "DigitCode": "&#35;",
+        "CharacterCode": ""
+      },
+      "7": {
+        "EscapeCharacter": "$",
+        "DigitCode": "&#36;",
+        "CharacterCode": ""
+      },
+      "8": {
+        "EscapeCharacter": "%",
+        "DigitCode": "&#37;",
+        "CharacterCode": ""
+      },
+      "9": {
+        "EscapeCharacter": "&",
+        "DigitCode": "&#38;",
+        "CharacterCode": "&amp;"
+      },
+      "10": {
+        "EscapeCharacter": "'",
+        "DigitCode": "&#39;",
+        "CharacterCode": ""
+      },
+      "11": {
+        "EscapeCharacter": "(",
+        "DigitCode": "&#40;",
+        "CharacterCode": ""
+      },
+      "12": {
+        "EscapeCharacter": ")",
+        "DigitCode": "&#41;",
+        "CharacterCode": ""
+      },
+      "13": {
+        "EscapeCharacter": "*",
+        "DigitCode": "&#42;",
+        "CharacterCode": ""
+      },
+      "14": {
+        "EscapeCharacter": "+",
+        "DigitCode": "&#43;",
+        "CharacterCode": ""
+      },
+      "15": {
+        "EscapeCharacter": ",",
+        "DigitCode": "&#44;",
+        "CharacterCode": ""
+      },
+      "16": {
+        "EscapeCharacter": "-",
+        "DigitCode": "&#45;",
+        "CharacterCode": ""
+      },
+      "17": {
+        "EscapeCharacter": ".",
+        "DigitCode": "&#46;",
+        "CharacterCode": ""
+      },
+      "18": {
+        "EscapeCharacter": "/",
+        "DigitCode": "&#47;",
+        "CharacterCode": ""
+      },
+      "19": {
+        "EscapeCharacter": "0 - 9",
+        "DigitCode": "&#48;-&#57;",
+        "CharacterCode": ""
+      },
+      "20": {
+        "EscapeCharacter": ":",
+        "DigitCode": "&#58;",
+        "CharacterCode": ""
+      },
+      "21": {
+        "EscapeCharacter": ";",
+        "DigitCode": "&#59;",
+        "CharacterCode": ""
+      },
+      "22": {
+        "EscapeCharacter": "<",
+        "DigitCode": "&#60;",
+        "CharacterCode": "&lt;"
+      },
+      "23": {
+        "EscapeCharacter": "=",
+        "DigitCode": "&#61;",
+        "CharacterCode": ""
+      },
+      "24": {
+        "EscapeCharacter": ">",
+        "DigitCode": "&#62;",
+        "CharacterCode": "&gt;"
+      },
+      "25": {
+        "EscapeCharacter": "?",
+        "DigitCode": "&#63;",
+        "CharacterCode": ""
+      },
+      "26": {
+        "EscapeCharacter": "@",
+        "DigitCode": "&#64;",
+        "CharacterCode": ""
+      },
+      "27": {
+        "EscapeCharacter": "A - Z",
+        "DigitCode": "&#65;-&#90;",
+        "CharacterCode": ""
+      },
+      "28": {
+        "EscapeCharacter": "[",
+        "DigitCode": "&#91;",
+        "CharacterCode": ""
+      },
+      "29": {
+        "EscapeCharacter": "\\",
+        "DigitCode": "&#92;",
+        "CharacterCode": ""
+      },
+      "30": {
+        "EscapeCharacter": "]",
+        "DigitCode": "&#93;",
+        "CharacterCode": ""
+      },
+      "31": {
+        "EscapeCharacter": "^",
+        "DigitCode": "&#94;",
+        "CharacterCode": ""
+      },
+      "32": {
+        "EscapeCharacter": "_",
+        "DigitCode": "&#95;",
+        "CharacterCode": ""
+      },
+      "33": {
+        "EscapeCharacter": "`",
+        "DigitCode": "&#96;",
+        "CharacterCode": ""
+      },
+      "34": {
+        "EscapeCharacter": "a - z",
+        "DigitCode": "&#97;-&#122;",
+        "CharacterCode": ""
+      },
+      "35": {
+        "EscapeCharacter": "{",
+        "DigitCode": "&#123;",
+        "CharacterCode": ""
+      },
+      "36": {
+        "EscapeCharacter": "|",
+        "DigitCode": "&#124;",
+        "CharacterCode": ""
+      },
+      "37": {
+        "EscapeCharacter": "}",
+        "DigitCode": "&#125;",
+        "CharacterCode": ""
+      },
+      "38": {
+        "EscapeCharacter": "~",
+        "DigitCode": "&#126;",
+        "CharacterCode": ""
+      },
+      "39": {
+        "EscapeCharacter": "",
+        "DigitCode": "&#160;",
+        "CharacterCode": "&nbsp;"
+      },
+      "40": {
+        "EscapeCharacter": "¡",
+        "DigitCode": "&#161;",
+        "CharacterCode": "&iexcl;"
+      },
+      "41": {
+        "EscapeCharacter": "￠",
+        "DigitCode": "&#162;",
+        "CharacterCode": "&cent;"
+      },
+      "42": {
+        "EscapeCharacter": "￡",
+        "DigitCode": "&#163;",
+        "CharacterCode": "&pound;"
+      },
+      "43": {
+        "EscapeCharacter": "¤",
+        "DigitCode": "&#164;",
+        "CharacterCode": "&curren;"
+      },
+      "44": {
+        "EscapeCharacter": "￥",
+        "DigitCode": "&#165;",
+        "CharacterCode": "&yen;"
+      },
+      "45": {
+        "EscapeCharacter": "|",
+        "DigitCode": "&#166;",
+        "CharacterCode": "&brvbar;"
+      },
+      "46": {
+        "EscapeCharacter": "§",
+        "DigitCode": "&#167;",
+        "CharacterCode": "&sect;"
+      },
+      "47": {
+        "EscapeCharacter": "¨",
+        "DigitCode": "&#168;",
+        "CharacterCode": "&uml;"
+      },
+      "48": {
+        "EscapeCharacter": "ⓒ",
+        "DigitCode": "&#169;",
+        "CharacterCode": "&copy;"
+      },
+      "49": {
+        "EscapeCharacter": "ª",
+        "DigitCode": "&#170;",
+        "CharacterCode": "&ordf;"
+      },
+      "50": {
+        "EscapeCharacter": "≪",
+        "DigitCode": "&#171;",
+        "CharacterCode": "&laquo;"
+      },
+      "51": {
+        "EscapeCharacter": "￢",
+        "DigitCode": "&#172;",
+        "CharacterCode": "&not;"
+      },
+      "52": {
+        "EscapeCharacter": "­",
+        "DigitCode": "&#173;",
+        "CharacterCode": "&shy;"
+      },
+      "53": {
+        "EscapeCharacter": "?",
+        "DigitCode": "&#174;",
+        "CharacterCode": "&reg;"
+      },
+      "54": {
+        "EscapeCharacter": "&hibar;",
+        "DigitCode": "&#175;",
+        "CharacterCode": "&macr;"
+      },
+      "55": {
+        "EscapeCharacter": "°",
+        "DigitCode": "&#176;",
+        "CharacterCode": "&deg;"
+      },
+      "56": {
+        "EscapeCharacter": "±",
+        "DigitCode": "&#177;",
+        "CharacterCode": "&plusmn;"
+      },
+      "57": {
+        "EscapeCharacter": "²",
+        "DigitCode": "&#178;",
+        "CharacterCode": "&sup2;"
+      },
+      "58": {
+        "EscapeCharacter": "³",
+        "DigitCode": "&#179;",
+        "CharacterCode": "&sup3;"
+      },
+      "59": {
+        "EscapeCharacter": "´",
+        "DigitCode": "&#180;",
+        "CharacterCode": "&acute;"
+      },
+      "60": {
+        "EscapeCharacter": "μ",
+        "DigitCode": "&#181;",
+        "CharacterCode": "&micro;"
+      },
+      "61": {
+        "EscapeCharacter": "¶",
+        "DigitCode": "&#182;",
+        "CharacterCode": "&para;"
+      },
+      "62": {
+        "EscapeCharacter": "·",
+        "DigitCode": "&#183;",
+        "CharacterCode": "&middot;"
+      },
+      "63": {
+        "EscapeCharacter": "¸",
+        "DigitCode": "&#184;",
+        "CharacterCode": "&cedil;"
+      },
+      "64": {
+        "EscapeCharacter": "¹",
+        "DigitCode": "&#185;",
+        "CharacterCode": "&sup1;"
+      },
+      "65": {
+        "EscapeCharacter": "º",
+        "DigitCode": "&#186;",
+        "CharacterCode": "&ordm;"
+      },
+      "66": {
+        "EscapeCharacter": "≫",
+        "DigitCode": "&#187;",
+        "CharacterCode": "&raquo;"
+      },
+      "67": {
+        "EscapeCharacter": "¼",
+        "DigitCode": "&#188;",
+        "CharacterCode": "&frac14;"
+      },
+      "68": {
+        "EscapeCharacter": "½",
+        "DigitCode": "&#189;",
+        "CharacterCode": "&frac12;"
+      },
+      "69": {
+        "EscapeCharacter": "¾",
+        "DigitCode": "&#190;",
+        "CharacterCode": "&frac34;"
+      },
+      "70": {
+        "EscapeCharacter": "¿",
+        "DigitCode": "&#191;",
+        "CharacterCode": "&iquest;"
+      },
+      "71": {
+        "EscapeCharacter": "A",
+        "DigitCode": "&#192;",
+        "CharacterCode": "&Agrave;"
+      },
+      "72": {
+        "EscapeCharacter": "A",
+        "DigitCode": "&#193;",
+        "CharacterCode": "&Aacute;"
+      },
+      "73": {
+        "EscapeCharacter": "A",
+        "DigitCode": "&#194;",
+        "CharacterCode": "&Acirc;"
+      },
+      "74": {
+        "EscapeCharacter": "A",
+        "DigitCode": "&#195;",
+        "CharacterCode": "&Atilde;"
+      },
+      "75": {
+        "EscapeCharacter": "A",
+        "DigitCode": "&#196;",
+        "CharacterCode": "&Auml;"
+      },
+      "76": {
+        "EscapeCharacter": "A",
+        "DigitCode": "&#197;",
+        "CharacterCode": "&Aring;"
+      },
+      "77": {
+        "EscapeCharacter": "Æ",
+        "DigitCode": "&#198;",
+        "CharacterCode": "&AElig;"
+      },
+      "78": {
+        "EscapeCharacter": "C",
+        "DigitCode": "&#199;",
+        "CharacterCode": "&Ccedil;"
+      },
+      "79": {
+        "EscapeCharacter": "E",
+        "DigitCode": "&#200;",
+        "CharacterCode": "&Egrave;"
+      },
+      "80": {
+        "EscapeCharacter": "E",
+        "DigitCode": "&#201;",
+        "CharacterCode": "&Eacute;"
+      },
+      "81": {
+        "EscapeCharacter": "E",
+        "DigitCode": "&#202;",
+        "CharacterCode": "&Ecirc;"
+      },
+      "82": {
+        "EscapeCharacter": "E",
+        "DigitCode": "&#203;",
+        "CharacterCode": "&Euml;"
+      },
+      "83": {
+        "EscapeCharacter": "I",
+        "DigitCode": "&#204;",
+        "CharacterCode": "&Igrave;"
+      },
+      "84": {
+        "EscapeCharacter": "I",
+        "DigitCode": "&#205;",
+        "CharacterCode": "&Iacute;"
+      },
+      "85": {
+        "EscapeCharacter": "I",
+        "DigitCode": "&#206;",
+        "CharacterCode": "&Icirc;"
+      },
+      "86": {
+        "EscapeCharacter": "I",
+        "DigitCode": "&#207;",
+        "CharacterCode": "&Iuml;"
+      },
+      "87": {
+        "EscapeCharacter": "Ð",
+        "DigitCode": "&#208;",
+        "CharacterCode": "&ETH;"
+      },
+      "88": {
+        "EscapeCharacter": "N",
+        "DigitCode": "&#209;",
+        "CharacterCode": "&Ntilde;"
+      },
+      "89": {
+        "EscapeCharacter": "O",
+        "DigitCode": "&#210;",
+        "CharacterCode": "&Ograve;"
+      },
+      "90": {
+        "EscapeCharacter": "O",
+        "DigitCode": "&#211;",
+        "CharacterCode": "&Oacute;"
+      },
+      "91": {
+        "EscapeCharacter": "O",
+        "DigitCode": "&#212;",
+        "CharacterCode": "&Ocirc;"
+      },
+      "92": {
+        "EscapeCharacter": "O",
+        "DigitCode": "&#213;",
+        "CharacterCode": "&Otilde;"
+      },
+      "93": {
+        "EscapeCharacter": "O",
+        "DigitCode": "&#214;",
+        "CharacterCode": "&Ouml;"
+      },
+      "94": {
+        "EscapeCharacter": "×",
+        "DigitCode": "&#215;",
+        "CharacterCode": "&times;"
+      },
+      "95": {
+        "EscapeCharacter": "Ø",
+        "DigitCode": "&#216;",
+        "CharacterCode": "&Oslash;"
+      },
+      "96": {
+        "EscapeCharacter": "U",
+        "DigitCode": "&#217;",
+        "CharacterCode": "&Ugrave;"
+      },
+      "97": {
+        "EscapeCharacter": "U",
+        "DigitCode": "&#218;",
+        "CharacterCode": "&Uacute;"
+      },
+      "98": {
+        "EscapeCharacter": "U",
+        "DigitCode": "&#219;",
+        "CharacterCode": "&Ucirc;"
+      },
+      "99": {
+        "EscapeCharacter": "U",
+        "DigitCode": "&#220;",
+        "CharacterCode": "&Uuml;"
+      },
+      "100": {
+        "EscapeCharacter": "Y",
+        "DigitCode": "&#221;",
+        "CharacterCode": "&Yacute;"
+      },
+      "101": {
+        "EscapeCharacter": "Þ",
+        "DigitCode": "&#222;",
+        "CharacterCode": "&THORN;"
+      },
+      "102": {
+        "EscapeCharacter": "ß",
+        "DigitCode": "&#223;",
+        "CharacterCode": "&szlig;"
+      },
+      "103": {
+        "EscapeCharacter": "a",
+        "DigitCode": "&#224;",
+        "CharacterCode": "&agrave;"
+      },
+      "104": {
+        "EscapeCharacter": "a",
+        "DigitCode": "&#225;",
+        "CharacterCode": "&aacute;"
+      },
+      "105": {
+        "EscapeCharacter": "a",
+        "DigitCode": "&#226;",
+        "CharacterCode": "&acirc;"
+      },
+      "106": {
+        "EscapeCharacter": "a",
+        "DigitCode": "&#227;",
+        "CharacterCode": "&atilde;"
+      },
+      "107": {
+        "EscapeCharacter": "a",
+        "DigitCode": "&#228;",
+        "CharacterCode": "&auml;"
+      },
+      "108": {
+        "EscapeCharacter": "a",
+        "DigitCode": "&#229;",
+        "CharacterCode": "&aring;"
+      },
+      "109": {
+        "EscapeCharacter": "æ",
+        "DigitCode": "&#230;",
+        "CharacterCode": "&aelig;"
+      },
+      "110": {
+        "EscapeCharacter": "c",
+        "DigitCode": "&#231;",
+        "CharacterCode": "&ccedil;"
+      },
+      "111": {
+        "EscapeCharacter": "e",
+        "DigitCode": "&#232;",
+        "CharacterCode": "&egrave;"
+      },
+      "112": {
+        "EscapeCharacter": "e",
+        "DigitCode": "&#233;",
+        "CharacterCode": "&eacute;"
+      },
+      "113": {
+        "EscapeCharacter": "e",
+        "DigitCode": "&#234;",
+        "CharacterCode": "&ecirc;"
+      },
+      "114": {
+        "EscapeCharacter": "e",
+        "DigitCode": "&#235;",
+        "CharacterCode": "&euml;"
+      },
+      "115": {
+        "EscapeCharacter": "i",
+        "DigitCode": "&#236;",
+        "CharacterCode": "&igrave;"
+      },
+      "116": {
+        "EscapeCharacter": "i",
+        "DigitCode": "&#237;",
+        "CharacterCode": "&iacute;"
+      },
+      "117": {
+        "EscapeCharacter": "i",
+        "DigitCode": "&#238;",
+        "CharacterCode": "&icirc;"
+      },
+      "118": {
+        "EscapeCharacter": "i",
+        "DigitCode": "&#239;",
+        "CharacterCode": "&iuml;"
+      },
+      "119": {
+        "EscapeCharacter": "ð",
+        "DigitCode": "&#240;",
+        "CharacterCode": "&eth;"
+      },
+      "120": {
+        "EscapeCharacter": "n",
+        "DigitCode": "&#241;",
+        "CharacterCode": "&ntilde;"
+      },
+      "121": {
+        "EscapeCharacter": "o",
+        "DigitCode": "&#242;",
+        "CharacterCode": "&ograve;"
+      },
+      "122": {
+        "EscapeCharacter": "o",
+        "DigitCode": "&#243;",
+        "CharacterCode": "&oacute;"
+      },
+      "123": {
+        "EscapeCharacter": "o",
+        "DigitCode": "&#244;",
+        "CharacterCode": "&ocirc;"
+      },
+      "124": {
+        "EscapeCharacter": "o",
+        "DigitCode": "&#245;",
+        "CharacterCode": "&otilde;"
+      },
+      "125": {
+        "EscapeCharacter": "o",
+        "DigitCode": "&#246;",
+        "CharacterCode": "&ouml;"
+      },
+      "126": {
+        "EscapeCharacter": "÷",
+        "DigitCode": "&#247;",
+        "CharacterCode": "&divide;"
+      },
+      "127": {
+        "EscapeCharacter": "ø",
+        "DigitCode": "&#248;",
+        "CharacterCode": "&oslash;"
+      },
+      "128": {
+        "EscapeCharacter": "u",
+        "DigitCode": "&#249;",
+        "CharacterCode": "&ugrave;"
+      },
+      "129": {
+        "EscapeCharacter": "u",
+        "DigitCode": "&#250;",
+        "CharacterCode": "&uacute;"
+      },
+      "130": {
+        "EscapeCharacter": "u",
+        "DigitCode": "&#251;",
+        "CharacterCode": "&ucirc;"
+      },
+      "131": {
+        "EscapeCharacter": "u",
+        "DigitCode": "&#252;",
+        "CharacterCode": "&uuml;"
+      },
+      "132": {
+        "EscapeCharacter": "y",
+        "DigitCode": "&#253;",
+        "CharacterCode": "&yacute;"
+      },
+      "133": {
+        "EscapeCharacter": "þ",
+        "DigitCode": "&#254;",
+        "CharacterCode": "&thorn;"
+      },
+      "134": {
+        "EscapeCharacter": "y",
+        "DigitCode": "&#255;",
+        "CharacterCode": "&yuml;"
+      },
+      "135": {
+        "EscapeCharacter": "“",
+        "DigitCode": "&#147;",
+        "CharacterCode": "&ldquo;"
+      },
+      "136": {
+        "EscapeCharacter": "”",
+        "DigitCode": "&#148;",
+        "CharacterCode": "&rdquo;"
+      },
+      "137": {
+        "EscapeCharacter": "‘",
+        "DigitCode": "&#145;",
+        "CharacterCode": "&lsquo;"
+      },
+      "138": {
+        "EscapeCharacter": "’",
+        "DigitCode": "&#146;",
+        "CharacterCode": "&rsquo;"
+      }
+    }
+  }
+]

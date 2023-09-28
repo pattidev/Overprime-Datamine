@@ -6690,6 +6690,14 @@
         "CheckValue2": "None",
         "NotCondition": true
       },
+      "10350102_10_01": {
+        "CheckGroupID": "10350102_10",
+        "CheckTarget": 4,
+        "CheckKeyword": "Has_SkillEffectGroup",
+        "CheckValue1": "10350102_02",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
       "10350103_01_01": {
         "CheckGroupID": "10350103_01",
         "CheckTarget": 1,
@@ -6705,6 +6713,22 @@
         "CheckValue1": "None",
         "CheckValue2": "None",
         "NotCondition": false
+      },
+      "10350103_03_01": {
+        "CheckGroupID": "10350103_03",
+        "CheckTarget": 1,
+        "CheckKeyword": "Is_Owner_Collider",
+        "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10350103_03_02": {
+        "CheckGroupID": "10350103_03",
+        "CheckTarget": 1,
+        "CheckKeyword": "Is_Hero",
+        "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": true
       },
       "10350103_10_01": {
         "CheckGroupID": "10350103_10",
@@ -6738,6 +6762,22 @@
         "CheckValue2": "None",
         "NotCondition": false
       },
+      "10350103_14_01": {
+        "CheckGroupID": "10350103_14",
+        "CheckTarget": 1,
+        "CheckKeyword": "Is_Owner_Collider",
+        "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10350103_14_02": {
+        "CheckGroupID": "10350103_14",
+        "CheckTarget": 1,
+        "CheckKeyword": "Is_Hero",
+        "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": true
+      },
       "10350105_00_01": {
         "CheckGroupID": "10350105_00",
         "CheckTarget": 8,
@@ -6754,12 +6794,124 @@
         "CheckValue2": "None",
         "NotCondition": false
       },
+      "10350103_05_01": {
+        "CheckGroupID": "10350103_05",
+        "CheckTarget": 4,
+        "CheckKeyword": "Has_SkillEffectGroup",
+        "CheckValue1": "10350102_02",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
       "10350105_10_01": {
         "CheckGroupID": "10350105_10",
         "CheckTarget": 1,
         "CheckKeyword": "Has_SkillEffectGroup",
         "CheckValue1": "10350102_02",
         "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10350105_20_01": {
+        "CheckGroupID": "10350105_20",
+        "CheckTarget": 0,
+        "CheckKeyword": "Has_SkillEffect_Stack",
+        "CheckValue1": "10200105_20",
+        "CheckValue2": "5",
+        "NotCondition": true
+      },
+      "10350105_20_02": {
+        "CheckGroupID": "10350105_20",
+        "CheckTarget": 13,
+        "CheckKeyword": "Has_SkillEffectGroup",
+        "CheckValue1": "10350105_04",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10350105_20_03": {
+        "CheckGroupID": "10350105_20",
+        "CheckTarget": 13,
+        "CheckKeyword": "HP_Under",
+        "CheckValue1": "0",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10350105_30_01": {
+        "CheckGroupID": "10350105_30",
+        "CheckTarget": 0,
+        "CheckKeyword": "IsSkill",
+        "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10350105_30_02": {
+        "CheckGroupID": "10350105_30",
+        "CheckTarget": 0,
+        "CheckKeyword": "Has_SkillEffect_Stack",
+        "CheckValue1": "10200105_20",
+        "CheckValue2": "1",
+        "NotCondition": false
+      },
+      "10350105_31_01": {
+        "CheckGroupID": "10350105_31",
+        "CheckTarget": 0,
+        "CheckKeyword": "IsSkill",
+        "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10350105_31_02": {
+        "CheckGroupID": "10350105_31",
+        "CheckTarget": 0,
+        "CheckKeyword": "Has_SkillEffect_Stack",
+        "CheckValue1": "10200105_20",
+        "CheckValue2": "2",
+        "NotCondition": false
+      },
+      "10350105_32_01": {
+        "CheckGroupID": "10350105_32",
+        "CheckTarget": 0,
+        "CheckKeyword": "IsSkill",
+        "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10350105_32_02": {
+        "CheckGroupID": "10350105_32",
+        "CheckTarget": 0,
+        "CheckKeyword": "Has_SkillEffect_Stack",
+        "CheckValue1": "10200105_20",
+        "CheckValue2": "3",
+        "NotCondition": false
+      },
+      "10350105_33_01": {
+        "CheckGroupID": "10350105_33",
+        "CheckTarget": 0,
+        "CheckKeyword": "IsSkill",
+        "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10350105_33_02": {
+        "CheckGroupID": "10350105_33",
+        "CheckTarget": 0,
+        "CheckKeyword": "Has_SkillEffect_Stack",
+        "CheckValue1": "10200105_20",
+        "CheckValue2": "4",
+        "NotCondition": false
+      },
+      "10350105_34_01": {
+        "CheckGroupID": "10350105_34",
+        "CheckTarget": 0,
+        "CheckKeyword": "IsSkill",
+        "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10350105_34_02": {
+        "CheckGroupID": "10350105_34",
+        "CheckTarget": 0,
+        "CheckKeyword": "Has_SkillEffect_Stack",
+        "CheckValue1": "10200105_20",
+        "CheckValue2": "5",
         "NotCondition": false
       },
       "10360102_01_01": {
@@ -8202,6 +8354,14 @@
         "CheckValue2": "None",
         "NotCondition": true
       },
+      "10400102_10_01": {
+        "CheckGroupID": "10400102_10",
+        "CheckTarget": 0,
+        "CheckKeyword": "What_SkillGroup_Cause_EffectStartTime",
+        "CheckValue1": "10400202",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
       "10400105_01_01": {
         "CheckGroupID": "10400105_01",
         "CheckTarget": 0,
@@ -8866,6 +9026,14 @@
         "CheckValue2": "None",
         "NotCondition": false
       },
+      "10420105_50_01": {
+        "CheckGroupID": "10420105_50",
+        "CheckTarget": 1,
+        "CheckKeyword": "Has_SkillEffectGroup",
+        "CheckValue1": "10420105_49",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
       "10420106_01_01": {
         "CheckGroupID": "10420106_100",
         "CheckTarget": 0,
@@ -9063,6 +9231,86 @@
         "CheckTarget": 5,
         "CheckKeyword": "IsMelee",
         "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": true
+      },
+      "10_02_04": {
+        "CheckGroupID": "10_02",
+        "CheckTarget": 5,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10_03_01": {
+        "CheckGroupID": "10_03",
+        "CheckTarget": 5,
+        "CheckKeyword": "IsMelee",
+        "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10_03_02": {
+        "CheckGroupID": "10_03",
+        "CheckTarget": 5,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10_03_03": {
+        "CheckGroupID": "10_03",
+        "CheckTarget": 5,
+        "CheckKeyword": "Has_SkillEffectGroup",
+        "CheckValue1": "10_03",
+        "CheckValue2": "None",
+        "NotCondition": true
+      },
+      "10_04_01": {
+        "CheckGroupID": "10_04",
+        "CheckTarget": 5,
+        "CheckKeyword": "IsMelee",
+        "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10_04_02": {
+        "CheckGroupID": "10_04",
+        "CheckTarget": 5,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10_04_03": {
+        "CheckGroupID": "10_04",
+        "CheckTarget": 5,
+        "CheckKeyword": "Has_SkillEffectGroup",
+        "CheckValue1": "10_04",
+        "CheckValue2": "None",
+        "NotCondition": true
+      },
+      "10_05_01": {
+        "CheckGroupID": "10_05",
+        "CheckTarget": 5,
+        "CheckKeyword": "IsMelee",
+        "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": true
+      },
+      "10_05_02": {
+        "CheckGroupID": "10_05",
+        "CheckTarget": 5,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10_05_03": {
+        "CheckGroupID": "10_05",
+        "CheckTarget": 5,
+        "CheckKeyword": "Has_SkillEffectGroup",
+        "CheckValue1": "10_05",
         "CheckValue2": "None",
         "NotCondition": true
       },
@@ -9463,6 +9711,14 @@
         "CheckTarget": 1,
         "CheckKeyword": "Has_SkillEffectGroup",
         "CheckValue1": "23_07",
+        "CheckValue2": "None",
+        "NotCondition": true
+      },
+      "107_00_01": {
+        "CheckGroupID": "107_00",
+        "CheckTarget": 0,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
         "CheckValue2": "None",
         "NotCondition": true
       },
@@ -11158,9 +11414,9 @@
         "CheckGroupID": "100_01",
         "CheckTarget": 0,
         "CheckKeyword": "WhatIsThisMap",
-        "CheckValue1": "EOMT_Training",
+        "CheckValue1": "EOMT_LegacyAgora",
         "CheckValue2": "None",
-        "NotCondition": true
+        "NotCondition": false
       },
       "100_02_01": {
         "CheckGroupID": "100_02",
@@ -12634,6 +12890,38 @@
         "CheckValue2": "None",
         "NotCondition": true
       },
+      "20100103_01": {
+        "CheckGroupID": "20100103_01",
+        "CheckTarget": 0,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "20100103_02": {
+        "CheckGroupID": "20100103_02",
+        "CheckTarget": 0,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "20100103_10": {
+        "CheckGroupID": "20100103_10",
+        "CheckTarget": 0,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "20100103_11": {
+        "CheckGroupID": "20100103_11",
+        "CheckTarget": 0,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
       "2011_01_01": {
         "CheckGroupID": "2011_01",
         "CheckTarget": 4,
@@ -12657,6 +12945,38 @@
         "CheckValue1": "57",
         "CheckValue2": "None",
         "NotCondition": true
+      },
+      "20110103_01": {
+        "CheckGroupID": "20110103_01",
+        "CheckTarget": 0,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "20110103_02": {
+        "CheckGroupID": "20110103_02",
+        "CheckTarget": 0,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "20110103_10": {
+        "CheckGroupID": "20110103_10",
+        "CheckTarget": 0,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "20110103_11": {
+        "CheckGroupID": "20110103_11",
+        "CheckTarget": 0,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
+        "CheckValue2": "None",
+        "NotCondition": false
       },
       "2012_01_01": {
         "CheckGroupID": "2012_01",
@@ -12682,6 +13002,38 @@
         "CheckValue2": "None",
         "NotCondition": true
       },
+      "20120103_01": {
+        "CheckGroupID": "20120103_01",
+        "CheckTarget": 0,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "20120103_02": {
+        "CheckGroupID": "20120103_02",
+        "CheckTarget": 0,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "20120103_10": {
+        "CheckGroupID": "20120103_10",
+        "CheckTarget": 0,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "20120103_11": {
+        "CheckGroupID": "20120103_11",
+        "CheckTarget": 0,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
       "2013_01_01": {
         "CheckGroupID": "2013_01",
         "CheckTarget": 4,
@@ -12697,6 +13049,38 @@
         "CheckValue1": "57",
         "CheckValue2": "None",
         "NotCondition": true
+      },
+      "20130103_01": {
+        "CheckGroupID": "20130103_01",
+        "CheckTarget": 0,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "20130103_02": {
+        "CheckGroupID": "20130103_02",
+        "CheckTarget": 0,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "20130103_10": {
+        "CheckGroupID": "20130103_10",
+        "CheckTarget": 0,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "20130103_11": {
+        "CheckGroupID": "20130103_11",
+        "CheckTarget": 0,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
+        "CheckValue2": "None",
+        "NotCondition": false
       },
       "2014_01_01": {
         "CheckGroupID": "#",
@@ -13058,6 +13442,30 @@
         "CheckValue2": "None",
         "NotCondition": false
       },
+      "21010103_01_01": {
+        "CheckGroupID": "21010103_01",
+        "CheckTarget": 0,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "21010103_02_01": {
+        "CheckGroupID": "21010103_02",
+        "CheckTarget": 0,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "21010103_02_02": {
+        "CheckGroupID": "21010103_02",
+        "CheckTarget": 5,
+        "CheckKeyword": "Distance_Over_TraceHit",
+        "CheckValue1": "1601",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
       "21020101_01_01": {
         "CheckGroupID": "21020101_01",
         "CheckTarget": 5,
@@ -13218,6 +13626,30 @@
         "CheckValue2": "None",
         "NotCondition": false
       },
+      "21020103_01_01": {
+        "CheckGroupID": "21020103_01",
+        "CheckTarget": 0,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "21020103_02_01": {
+        "CheckGroupID": "21020103_02",
+        "CheckTarget": 0,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "21020103_02_02": {
+        "CheckGroupID": "21020103_02",
+        "CheckTarget": 5,
+        "CheckKeyword": "Distance_Over_TraceHit",
+        "CheckValue1": "1601",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
       "21050101_01_01": {
         "CheckGroupID": "21050101_01",
         "CheckTarget": 5,
@@ -13368,6 +13800,30 @@
         "CheckKeyword": "HowManyActor",
         "CheckValue1": "101",
         "CheckValue2": "3",
+        "NotCondition": false
+      },
+      "21050103_01_01": {
+        "CheckGroupID": "21050103_01",
+        "CheckTarget": 0,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "21050103_02_01": {
+        "CheckGroupID": "21050103_02",
+        "CheckTarget": 0,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "21050103_02_02": {
+        "CheckGroupID": "21050103_02",
+        "CheckTarget": 5,
+        "CheckKeyword": "Distance_Over_TraceHit",
+        "CheckValue1": "1601",
+        "CheckValue2": "None",
         "NotCondition": false
       },
       "21120101_01_01": {
@@ -13527,6 +13983,30 @@
         "CheckTarget": 5,
         "CheckKeyword": "Has_SkillEffectGroup",
         "CheckValue1": "101_11_01",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "21120103_01_01": {
+        "CheckGroupID": "21120103_01",
+        "CheckTarget": 0,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "21120103_02_01": {
+        "CheckGroupID": "21120103_02",
+        "CheckTarget": 0,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "21120103_02_02": {
+        "CheckGroupID": "21120103_02",
+        "CheckTarget": 5,
+        "CheckKeyword": "Distance_Over_TraceHit",
+        "CheckValue1": "1601",
         "CheckValue2": "None",
         "NotCondition": false
       },
@@ -17006,6 +17486,14 @@
         "CheckGroupID": "3020300402",
         "CheckTarget": 1,
         "CheckKeyword": "IsSkillType_BaseAttack",
+        "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "3020300402_02": {
+        "CheckGroupID": "3020300402",
+        "CheckTarget": 1,
+        "CheckKeyword": "Is_Hero",
         "CheckValue1": "None",
         "CheckValue2": "None",
         "NotCondition": false

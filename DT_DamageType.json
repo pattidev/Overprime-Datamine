@@ -717,6 +717,24 @@
         "PenetrateDimension": false,
         "DamageIndicatorUI": "None",
         "Icon": null
+      },
+      "35": {
+        "DamageID": "OnHitNoneDamage_Magical",
+        "DamageType": "EDamageCategory::EDC_SKILL_MAGICAL",
+        "CanLifeSteal": false,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": false,
+        "GenerateHitEvent": true,
+        "CanHitStruct": false,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": false,
+        "ExecutionType": false,
+        "IsDotType": false,
+        "AttackDirectionUI": true,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "None",
+        "Icon": null
       }
     }
   }

@@ -608,10 +608,25 @@
         "ConstantValue": "0.1"
       },
       "outgame_Hero_MasteryHeroDamage": {
-        "ConstantValue": "1000"
+        "ConstantValue": "500"
       },
       "outgame_Hero_MasteryTotalgold": {
-        "ConstantValue": "1000"
+        "ConstantValue": "100"
+      },
+      "mvp_Payment_Time": {
+        "ConstantValue": "600"
+      },
+      "shop_tag_icon_4": {
+        "ConstantValue": "Texture2D'/Game/UI/Resource/Texture/Common/T_UI_Shop_Symbol_New.T_UI_Shop_Symbol_New'"
+      },
+      "shop_tag_icon_3": {
+        "ConstantValue": "Texture2D'/Game/UI/Resource/Texture/Common/T_UI_Shop_Symbol_Sale.T_UI_Shop_Symbol_Sale'"
+      },
+      "shop_tag_icon_2": {
+        "ConstantValue": "Texture2D'/Game/UI/Resource/Texture/Common/T_UI_Shop_Symbol_Hot.T_UI_Shop_Symbol_Hot'"
+      },
+      "shop_tag_icon_1": {
+        "ConstantValue": "Texture2D'/Game/UI/Resource/Texture/Common/T_UI_Shop_Symbol_Best.T_UI_Shop_Symbol_Best'"
       }
     }
   }

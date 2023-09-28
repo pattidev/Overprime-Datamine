@@ -651,125 +651,9 @@
         "InjuryTime": 0.0,
         "PauseTime": 0.0
       },
-      "29": {
-        "StepNum": 1,
-        "Group": 18,
-        "Index": 29,
-        "Title": "PS.Tutorial_WardUse_Title",
-        "TitleArg": [],
-        "Desc": "None",
-        "DescArg": [],
-        "ToastDesc": "PS.Tutorial_WardUse_Toast_101",
-        "ToastDescArg": [],
-        "BShowToastOpenAnimation": true,
-        "BGroupTypingToast": false,
-        "Condition": "ETRAINING_CONDITION::ESCT_NONE",
-        "ConditionOptionInt": 0,
-        "Behavior": [],
-        "BehaviorOptionInt": [],
-        "Targets": [],
-        "InjuryTime": 0.1,
-        "PauseTime": 0.0
-      },
-      "30": {
-        "StepNum": 1,
-        "Group": 18,
-        "Index": 30,
-        "Title": "PS.Tutorial_WardUse_Title",
-        "TitleArg": [],
-        "Desc": "None",
-        "DescArg": [],
-        "ToastDesc": "PS.Tutorial_WardUse_Toast_102",
-        "ToastDescArg": [],
-        "BShowToastOpenAnimation": false,
-        "BGroupTypingToast": true,
-        "Condition": "ETRAINING_CONDITION::ESCT_LMB_CLICK_PASS",
-        "ConditionOptionInt": 0,
-        "Behavior": [
-          "ETRAINING_BEHAVIOR::BHInterfaceGuideLine"
-        ],
-        "BehaviorOptionInt": [
-          9
-        ],
-        "Targets": [],
-        "InjuryTime": 0.1,
-        "PauseTime": 0.0
-      },
-      "31": {
-        "StepNum": 1,
-        "Group": 18,
-        "Index": 31,
-        "Title": "PS.Tutorial_WardUse_Title",
-        "TitleArg": [],
-        "Desc": "PS.Tutorial_WardUse_Todo_101",
-        "DescArg": [
-          "EGameSettingDetailType::EGSD_Control_WardSkill"
-        ],
-        "ToastDesc": "PS.Tutorial_WardUse_Toast_103",
-        "ToastDescArg": [
-          "EGameSettingDetailType::EGSD_Control_WardSkill"
-        ],
-        "BShowToastOpenAnimation": false,
-        "BGroupTypingToast": false,
-        "Condition": "ETRAINING_CONDITION::ESCT_USE_WARD",
-        "ConditionOptionInt": 0,
-        "Behavior": [
-          "ETRAINING_BEHAVIOR::BHSpawnUseSkillPosition",
-          "ETRAINING_BEHAVIOR::BHInterfaceGuideLine"
-        ],
-        "BehaviorOptionInt": [
-          0,
-          0
-        ],
-        "Targets": [],
-        "InjuryTime": 0.1,
-        "PauseTime": 0.0
-      },
-      "32": {
-        "StepNum": 1,
-        "Group": 18,
-        "Index": 32,
-        "Title": "PS.Tutorial_WardUse_Title",
-        "TitleArg": [],
-        "Desc": "PS.Tutorial_WardUse_Todo_102",
-        "DescArg": [],
-        "ToastDesc": "PS.Tutorial_WardUse_Toast_104",
-        "ToastDescArg": [],
-        "BShowToastOpenAnimation": false,
-        "BGroupTypingToast": false,
-        "Condition": "ETRAINING_CONDITION::ESCT_KILL_ENEMY_HERO",
-        "ConditionOptionInt": 0,
-        "Behavior": [
-          "ETRAINING_BEHAVIOR::BHRePossessToBot"
-        ],
-        "BehaviorOptionInt": [],
-        "Targets": [],
-        "InjuryTime": 0.0,
-        "PauseTime": 0.0
-      },
-      "33": {
-        "StepNum": 1,
-        "Group": 18,
-        "Index": 33,
-        "Title": "PS.Tutorial_WardUse_Title",
-        "TitleArg": [],
-        "Desc": "None",
-        "DescArg": [],
-        "ToastDesc": "PS.Tutorial_WardUse_Toast_105",
-        "ToastDescArg": [],
-        "BShowToastOpenAnimation": false,
-        "BGroupTypingToast": false,
-        "Condition": "ETRAINING_CONDITION::ESCT_LMB_CLICK_PASS",
-        "ConditionOptionInt": 0,
-        "Behavior": [],
-        "BehaviorOptionInt": [],
-        "Targets": [],
-        "InjuryTime": 0.1,
-        "PauseTime": 0.0
-      },
       "34": {
         "StepNum": 1,
-        "Group": 19,
+        "Group": 18,
         "Index": 34,
         "Title": "PS.Tutorial_TowerAttack_Title",
         "TitleArg": [],
@@ -789,7 +673,7 @@
       },
       "35": {
         "StepNum": 1,
-        "Group": 19,
+        "Group": 18,
         "Index": 35,
         "Title": "PS.Tutorial_TowerAttack_Title",
         "TitleArg": [],
@@ -809,7 +693,7 @@
       },
       "36": {
         "StepNum": 1,
-        "Group": 19,
+        "Group": 18,
         "Index": 36,
         "Title": "PS.Tutorial_TowerAttack_Title",
         "TitleArg": [],
@@ -831,7 +715,7 @@
       },
       "37": {
         "StepNum": 1,
-        "Group": 19,
+        "Group": 18,
         "Index": 37,
         "Title": "PS.Tutorial_TowerAttack_Title",
         "TitleArg": [],
@@ -851,7 +735,7 @@
       },
       "38": {
         "StepNum": 1,
-        "Group": 19,
+        "Group": 18,
         "Index": 38,
         "Title": "PS.Tutorial_TowerAttack_Title",
         "TitleArg": [],
@@ -871,7 +755,7 @@
       },
       "39": {
         "StepNum": 1,
-        "Group": 19,
+        "Group": 18,
         "Index": 39,
         "Title": "PS.Tutorial_TowerAttack_Title",
         "TitleArg": [],
@@ -895,7 +779,7 @@
       },
       "40": {
         "StepNum": 1,
-        "Group": 20,
+        "Group": 19,
         "Index": 40,
         "Title": "PS.Tutorial_Recall_Title",
         "TitleArg": [],
@@ -915,7 +799,7 @@
       },
       "41": {
         "StepNum": 1,
-        "Group": 20,
+        "Group": 19,
         "Index": 41,
         "Title": "PS.Tutorial_Recall_Title",
         "TitleArg": [],
@@ -939,7 +823,7 @@
       },
       "42": {
         "StepNum": 1,
-        "Group": 20,
+        "Group": 19,
         "Index": 42,
         "Title": "PS.Tutorial_Recall_Title",
         "TitleArg": [],
@@ -967,7 +851,7 @@
       },
       "43": {
         "StepNum": 1,
-        "Group": 21,
+        "Group": 20,
         "Index": 43,
         "Title": "None",
         "TitleArg": [],
@@ -987,7 +871,7 @@
       },
       "44": {
         "StepNum": 1,
-        "Group": 22,
+        "Group": 21,
         "Index": 44,
         "Title": "None",
         "TitleArg": [],

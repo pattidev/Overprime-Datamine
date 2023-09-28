@@ -412,6 +412,12 @@
         "MaxAmount": 1,
         "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Muriel/1003007/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
       },
+      "31003008": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1003008,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Muriel/1003008/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
       "31003901": {
         "ItemType": "EItemOutgameType::Hero_Skin",
         "ItemTypeID": 1003901,
@@ -447,6 +453,12 @@
         "ItemTypeID": 1004008,
         "MaxAmount": 1,
         "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Rampage/1004008/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31004011": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1004011,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Rampage/1004011/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
       },
       "31004901": {
         "ItemType": "EItemOutgameType::Hero_Skin",
@@ -1304,7 +1316,7 @@
         "ItemType": "EItemOutgameType::Hero_Skin",
         "ItemTypeID": 1035901,
         "MaxAmount": 1,
-        "ItemIcon_Path_128x128": "None"
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Morigesh/1035901/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
       },
       "31036001": {
         "ItemType": "EItemOutgameType::Hero_Skin",
@@ -2235,6 +2247,12 @@
         "ItemTypeID": 1100140,
         "MaxAmount": 1,
         "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDMorigesh_0101.Emb_SDMorigesh_0101'"
+      },
+      "41100141": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100141,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_RangersCupWinner_0101.Emb_RangersCupWinner_0101'"
       }
     }
   }

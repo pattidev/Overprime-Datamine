@@ -13074,6 +13074,636 @@
       },
       "623": {
         "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350101",
+        "Tag": "PhyDamage_AD",
+        "StyleID": "Orange",
+        "IconID": "",
+        "Table": "ESkillLocaleTableType::Skill",
+        "BaseColumn": "None",
+        "Column1": "StatFactorValue_1[0]",
+        "CalcType1": "ESkillLocaleCalcType::AD",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Int",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010101",
+        "TargetID_SkillLv2": "None",
+        "TargetID_SkillLv3": "None",
+        "TargetID_SkillLv4": "None",
+        "TargetID_SkillLv5": "None",
+        "TargetID_SkillLv6": "None"
+      },
+      "624": {
+        "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350102",
+        "Tag": "TotalDamage_AP",
+        "StyleID": "Purple",
+        "IconID": "",
+        "Table": "ESkillLocaleTableType::SkillEffect",
+        "BaseColumn": "EffectValue1",
+        "Column1": "EffectValue2",
+        "CalcType1": "ESkillLocaleCalcType::AP_Add",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Int",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010201_20",
+        "TargetID_SkillLv2": "1035010202_20",
+        "TargetID_SkillLv3": "1035010203_20",
+        "TargetID_SkillLv4": "1035010204_20",
+        "TargetID_SkillLv5": "1035010205_20",
+        "TargetID_SkillLv6": "None"
+      },
+      "625": {
+        "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350102",
+        "Tag": "BaseDamage",
+        "StyleID": "White",
+        "IconID": "",
+        "Table": "ESkillLocaleTableType::SkillEffect",
+        "BaseColumn": "None",
+        "Column1": "EffectValue1",
+        "CalcType1": "ESkillLocaleCalcType::None",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Int",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010201_20",
+        "TargetID_SkillLv2": "1035010202_20",
+        "TargetID_SkillLv3": "1035010203_20",
+        "TargetID_SkillLv4": "1035010204_20",
+        "TargetID_SkillLv5": "1035010205_20",
+        "TargetID_SkillLv6": "None"
+      },
+      "626": {
+        "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350102",
+        "Tag": "MagDamage_AP",
+        "StyleID": "Purple",
+        "IconID": "AP_icon",
+        "Table": "ESkillLocaleTableType::SkillEffect",
+        "BaseColumn": "None",
+        "Column1": "EffectValue2",
+        "CalcType1": "ESkillLocaleCalcType::None",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Percent",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010201_20",
+        "TargetID_SkillLv2": "1035010202_20",
+        "TargetID_SkillLv3": "1035010203_20",
+        "TargetID_SkillLv4": "1035010204_20",
+        "TargetID_SkillLv5": "1035010205_20",
+        "TargetID_SkillLv6": "None"
+      },
+      "627": {
+        "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350103",
+        "Tag": "TotalDamage_AP",
+        "StyleID": "Purple",
+        "IconID": "",
+        "Table": "ESkillLocaleTableType::SkillEffect",
+        "BaseColumn": "EffectValue1",
+        "Column1": "EffectValue2",
+        "CalcType1": "ESkillLocaleCalcType::AP_Add",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Int",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010301_02",
+        "TargetID_SkillLv2": "1035010302_02",
+        "TargetID_SkillLv3": "1035010303_02",
+        "TargetID_SkillLv4": "1035010304_02",
+        "TargetID_SkillLv5": "1035010305_02",
+        "TargetID_SkillLv6": "None"
+      },
+      "628": {
+        "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350103",
+        "Tag": "BaseDamage",
+        "StyleID": "White",
+        "IconID": "",
+        "Table": "ESkillLocaleTableType::SkillEffect",
+        "BaseColumn": "None",
+        "Column1": "EffectValue1",
+        "CalcType1": "ESkillLocaleCalcType::None",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Int",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010301_02",
+        "TargetID_SkillLv2": "1035010302_02",
+        "TargetID_SkillLv3": "1035010303_02",
+        "TargetID_SkillLv4": "1035010304_02",
+        "TargetID_SkillLv5": "1035010305_02",
+        "TargetID_SkillLv6": "None"
+      },
+      "629": {
+        "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350103",
+        "Tag": "MagDamage_AP",
+        "StyleID": "Purple",
+        "IconID": "AP_icon",
+        "Table": "ESkillLocaleTableType::SkillEffect",
+        "BaseColumn": "None",
+        "Column1": "EffectValue2",
+        "CalcType1": "ESkillLocaleCalcType::None",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Percent",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010301_02",
+        "TargetID_SkillLv2": "1035010302_02",
+        "TargetID_SkillLv3": "1035010303_02",
+        "TargetID_SkillLv4": "1035010304_02",
+        "TargetID_SkillLv5": "1035010305_02",
+        "TargetID_SkillLv6": "None"
+      },
+      "630": {
+        "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350103",
+        "Tag": "Sec_1",
+        "StyleID": "",
+        "IconID": "",
+        "Table": "ESkillLocaleTableType::SkillEffect",
+        "BaseColumn": "None",
+        "Column1": "HoldingValue",
+        "CalcType1": "ESkillLocaleCalcType::None",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Float",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010301_01",
+        "TargetID_SkillLv2": "1035010302_01",
+        "TargetID_SkillLv3": "1035010303_01",
+        "TargetID_SkillLv4": "1035010304_01",
+        "TargetID_SkillLv5": "1035010305_01",
+        "TargetID_SkillLv6": "None"
+      },
+      "631": {
+        "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350103",
+        "Tag": "Sec_2",
+        "StyleID": "",
+        "IconID": "",
+        "Table": "ESkillLocaleTableType::Collider",
+        "BaseColumn": "None",
+        "Column1": "CrashCheckValue",
+        "CalcType1": "ESkillLocaleCalcType::None",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Float",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010301_03",
+        "TargetID_SkillLv2": "1035010302_03",
+        "TargetID_SkillLv3": "1035010303_03",
+        "TargetID_SkillLv4": "1035010304_03",
+        "TargetID_SkillLv5": "1035010305_03",
+        "TargetID_SkillLv6": "None"
+      },
+      "632": {
+        "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350103",
+        "Tag": "Sec_3",
+        "StyleID": "",
+        "IconID": "",
+        "Table": "ESkillLocaleTableType::SkillEffect",
+        "BaseColumn": "None",
+        "Column1": "HoldingValue",
+        "CalcType1": "ESkillLocaleCalcType::None",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Float",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010301_11",
+        "TargetID_SkillLv2": "1035010302_11",
+        "TargetID_SkillLv3": "1035010303_11",
+        "TargetID_SkillLv4": "1035010304_11",
+        "TargetID_SkillLv5": "1035010305_11",
+        "TargetID_SkillLv6": "None"
+      },
+      "633": {
+        "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350103",
+        "Tag": "Sec_4",
+        "StyleID": "",
+        "IconID": "",
+        "Table": "ESkillLocaleTableType::SkillEffect",
+        "BaseColumn": "None",
+        "Column1": "HoldingValue",
+        "CalcType1": "ESkillLocaleCalcType::None",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Float",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010301_12",
+        "TargetID_SkillLv2": "1035010302_12",
+        "TargetID_SkillLv3": "1035010303_12",
+        "TargetID_SkillLv4": "1035010304_12",
+        "TargetID_SkillLv5": "1035010305_12",
+        "TargetID_SkillLv6": "None"
+      },
+      "634": {
+        "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350103",
+        "Tag": "%",
+        "StyleID": "Red",
+        "IconID": "",
+        "Table": "ESkillLocaleTableType::SkillEffect",
+        "BaseColumn": "None",
+        "Column1": "EffectValue1",
+        "CalcType1": "ESkillLocaleCalcType::None",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Percent",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010301_11",
+        "TargetID_SkillLv2": "1035010302_11",
+        "TargetID_SkillLv3": "1035010303_11",
+        "TargetID_SkillLv4": "1035010304_11",
+        "TargetID_SkillLv5": "1035010305_11",
+        "TargetID_SkillLv6": "None"
+      },
+      "635": {
+        "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350104",
+        "Tag": "Sec",
+        "StyleID": "",
+        "IconID": "",
+        "Table": "ESkillLocaleTableType::SkillEffect",
+        "BaseColumn": "None",
+        "Column1": "HoldingValue",
+        "CalcType1": "ESkillLocaleCalcType::None",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Float",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010401_01",
+        "TargetID_SkillLv2": "1035010402_01",
+        "TargetID_SkillLv3": "1035010403_01",
+        "TargetID_SkillLv4": "1035010404_01",
+        "TargetID_SkillLv5": "1035010405_01",
+        "TargetID_SkillLv6": "None"
+      },
+      "636": {
+        "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350104",
+        "Tag": "%",
+        "StyleID": "",
+        "IconID": "",
+        "Table": "ESkillLocaleTableType::SkillEffect",
+        "BaseColumn": "None",
+        "Column1": "EffectValue1",
+        "CalcType1": "ESkillLocaleCalcType::None",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Percent",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010401_02",
+        "TargetID_SkillLv2": "1035010402_02",
+        "TargetID_SkillLv3": "1035010403_02",
+        "TargetID_SkillLv4": "1035010404_02",
+        "TargetID_SkillLv5": "1035010405_02",
+        "TargetID_SkillLv6": "None"
+      },
+      "637": {
+        "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350104",
+        "Tag": "%_2",
+        "StyleID": "",
+        "IconID": "",
+        "Table": "ESkillLocaleTableType::SkillEffect",
+        "BaseColumn": "None",
+        "Column1": "EffectValue1",
+        "CalcType1": "ESkillLocaleCalcType::None",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Percent",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010401_04",
+        "TargetID_SkillLv2": "1035010402_04",
+        "TargetID_SkillLv3": "1035010403_04",
+        "TargetID_SkillLv4": "1035010404_04",
+        "TargetID_SkillLv5": "1035010405_04",
+        "TargetID_SkillLv6": "None"
+      },
+      "638": {
+        "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350104",
+        "Tag": "%_3",
+        "StyleID": "Red",
+        "IconID": "",
+        "Table": "ESkillLocaleTableType::SkillEffect",
+        "BaseColumn": "None",
+        "Column1": "EffectValue1",
+        "CalcType1": "ESkillLocaleCalcType::None",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Percent",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010401_11",
+        "TargetID_SkillLv2": "1035010402_11",
+        "TargetID_SkillLv3": "1035010403_11",
+        "TargetID_SkillLv4": "1035010404_11",
+        "TargetID_SkillLv5": "1035010405_11",
+        "TargetID_SkillLv6": "None"
+      },
+      "639": {
+        "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350104",
+        "Tag": "TotalDamage_AP",
+        "StyleID": "Purple",
+        "IconID": "",
+        "Table": "ESkillLocaleTableType::Collider",
+        "BaseColumn": "BaseDamage",
+        "Column1": "StatFactorValue_1[0]",
+        "CalcType1": "ESkillLocaleCalcType::AP_Add",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Int",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010401_01",
+        "TargetID_SkillLv2": "1035010402_01",
+        "TargetID_SkillLv3": "1035010403_01",
+        "TargetID_SkillLv4": "1035010404_01",
+        "TargetID_SkillLv5": "1035010405_01",
+        "TargetID_SkillLv6": "None"
+      },
+      "640": {
+        "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350104",
+        "Tag": "BaseDamage",
+        "StyleID": "White",
+        "IconID": "",
+        "Table": "ESkillLocaleTableType::Collider",
+        "BaseColumn": "None",
+        "Column1": "BaseDamage",
+        "CalcType1": "ESkillLocaleCalcType::None",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Int",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010401_01",
+        "TargetID_SkillLv2": "1035010402_01",
+        "TargetID_SkillLv3": "1035010403_01",
+        "TargetID_SkillLv4": "1035010404_01",
+        "TargetID_SkillLv5": "1035010405_01",
+        "TargetID_SkillLv6": "None"
+      },
+      "641": {
+        "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350104",
+        "Tag": "MagDamage_AP",
+        "StyleID": "Purple",
+        "IconID": "AP_icon",
+        "Table": "ESkillLocaleTableType::Collider",
+        "BaseColumn": "None",
+        "Column1": "StatFactorValue_1[0]",
+        "CalcType1": "ESkillLocaleCalcType::None",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Percent",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010401_01",
+        "TargetID_SkillLv2": "1035010402_01",
+        "TargetID_SkillLv3": "1035010403_01",
+        "TargetID_SkillLv4": "1035010404_01",
+        "TargetID_SkillLv5": "1035010405_01",
+        "TargetID_SkillLv6": "None"
+      },
+      "642": {
+        "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350104",
+        "Tag": "Sec_2",
+        "StyleID": "",
+        "IconID": "",
+        "Table": "ESkillLocaleTableType::SkillEffect",
+        "BaseColumn": "None",
+        "Column1": "HoldingValue",
+        "CalcType1": "ESkillLocaleCalcType::None",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Float",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010401_11",
+        "TargetID_SkillLv2": "1035010402_11",
+        "TargetID_SkillLv3": "1035010403_11",
+        "TargetID_SkillLv4": "1035010404_11",
+        "TargetID_SkillLv5": "1035010405_11",
+        "TargetID_SkillLv6": "None"
+      },
+      "643": {
+        "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350104",
+        "Tag": "Sec_3",
+        "StyleID": "",
+        "IconID": "",
+        "Table": "ESkillLocaleTableType::SkillEffect",
+        "BaseColumn": "None",
+        "Column1": "HoldingValue",
+        "CalcType1": "ESkillLocaleCalcType::None",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Float",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010401_10",
+        "TargetID_SkillLv2": "1035010402_10",
+        "TargetID_SkillLv3": "1035010403_10",
+        "TargetID_SkillLv4": "1035010404_10",
+        "TargetID_SkillLv5": "1035010405_10",
+        "TargetID_SkillLv6": "None"
+      },
+      "644": {
+        "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350104",
+        "Tag": "Number_1",
+        "StyleID": "Green",
+        "IconID": "",
+        "Table": "ESkillLocaleTableType::SkillEffect",
+        "BaseColumn": "None",
+        "Column1": "EffectValue1",
+        "CalcType1": "ESkillLocaleCalcType::None",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Int",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010401_10",
+        "TargetID_SkillLv2": "1035010402_10",
+        "TargetID_SkillLv3": "1035010403_10",
+        "TargetID_SkillLv4": "1035010404_10",
+        "TargetID_SkillLv5": "1035010405_10",
+        "TargetID_SkillLv6": "None"
+      },
+      "645": {
+        "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350104",
+        "Tag": "Number_2",
+        "StyleID": "",
+        "IconID": "",
+        "Table": "ESkillLocaleTableType::SkillEffect",
+        "BaseColumn": "None",
+        "Column1": "SuperpositionCount",
+        "CalcType1": "ESkillLocaleCalcType::None",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Int",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010401_10",
+        "TargetID_SkillLv2": "1035010402_10",
+        "TargetID_SkillLv3": "1035010403_10",
+        "TargetID_SkillLv4": "1035010404_10",
+        "TargetID_SkillLv5": "1035010405_10",
+        "TargetID_SkillLv6": "None"
+      },
+      "646": {
+        "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350105",
+        "Tag": "TotalDamage_AP",
+        "StyleID": "Purple",
+        "IconID": "",
+        "Table": "ESkillLocaleTableType::SkillEffect",
+        "BaseColumn": "EffectValue1",
+        "Column1": "EffectValue2",
+        "CalcType1": "ESkillLocaleCalcType::AP_Add",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Int",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010501_05",
+        "TargetID_SkillLv2": "1035010502_05",
+        "TargetID_SkillLv3": "1035010503_05",
+        "TargetID_SkillLv4": "None",
+        "TargetID_SkillLv5": "None",
+        "TargetID_SkillLv6": "None"
+      },
+      "647": {
+        "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350105",
+        "Tag": "BaseDamage",
+        "StyleID": "White",
+        "IconID": "",
+        "Table": "ESkillLocaleTableType::SkillEffect",
+        "BaseColumn": "None",
+        "Column1": "EffectValue1",
+        "CalcType1": "ESkillLocaleCalcType::None",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Int",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010501_05",
+        "TargetID_SkillLv2": "1035010502_05",
+        "TargetID_SkillLv3": "1035010503_05",
+        "TargetID_SkillLv4": "None",
+        "TargetID_SkillLv5": "None",
+        "TargetID_SkillLv6": "None"
+      },
+      "648": {
+        "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350105",
+        "Tag": "MagDamage_AP",
+        "StyleID": "Purple",
+        "IconID": "AP_icon",
+        "Table": "ESkillLocaleTableType::SkillEffect",
+        "BaseColumn": "None",
+        "Column1": "EffectValue2",
+        "CalcType1": "ESkillLocaleCalcType::None",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Percent",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010501_05",
+        "TargetID_SkillLv2": "1035010502_05",
+        "TargetID_SkillLv3": "1035010503_05",
+        "TargetID_SkillLv4": "None",
+        "TargetID_SkillLv5": "None",
+        "TargetID_SkillLv6": "None"
+      },
+      "649": {
+        "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350105",
+        "Tag": "%_1",
+        "StyleID": "Yellow",
+        "IconID": "",
+        "Table": "ESkillLocaleTableType::SkillEffect",
+        "BaseColumn": "None",
+        "Column1": "EffectValue1",
+        "CalcType1": "ESkillLocaleCalcType::None",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Percent",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010501_21",
+        "TargetID_SkillLv2": "1035010502_21",
+        "TargetID_SkillLv3": "1035010503_21",
+        "TargetID_SkillLv4": "None",
+        "TargetID_SkillLv5": "None",
+        "TargetID_SkillLv6": "None"
+      },
+      "650": {
+        "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350105",
+        "Tag": "%_2",
+        "StyleID": "Yellow",
+        "IconID": "",
+        "Table": "ESkillLocaleTableType::SkillEffect",
+        "BaseColumn": "None",
+        "Column1": "EffectValue2",
+        "CalcType1": "ESkillLocaleCalcType::None",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Percent",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010501_30",
+        "TargetID_SkillLv2": "1035010502_30",
+        "TargetID_SkillLv3": "1035010503_30",
+        "TargetID_SkillLv4": "None",
+        "TargetID_SkillLv5": "None",
+        "TargetID_SkillLv6": "None"
+      },
+      "651": {
+        "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350105",
+        "Tag": "Number_1",
+        "StyleID": "Yellow",
+        "IconID": "",
+        "Table": "ESkillLocaleTableType::SkillEffect",
+        "BaseColumn": "None",
+        "Column1": "EffectValue1",
+        "CalcType1": "ESkillLocaleCalcType::None",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Int",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010501_22",
+        "TargetID_SkillLv2": "1035010502_22",
+        "TargetID_SkillLv3": "1035010503_22",
+        "TargetID_SkillLv4": "None",
+        "TargetID_SkillLv5": "None",
+        "TargetID_SkillLv6": "None"
+      },
+      "652": {
+        "LocaleType": "ESkillLocaleType::Skill",
+        "SkillGroupID": "10350105",
+        "Tag": "Number_2",
+        "StyleID": "",
+        "IconID": "",
+        "Table": "ESkillLocaleTableType::SkillEffect",
+        "BaseColumn": "None",
+        "Column1": "SuperpositionCount",
+        "CalcType1": "ESkillLocaleCalcType::None",
+        "Column2": "None",
+        "CalcType2": "ESkillLocaleCalcType::None",
+        "UnitType": "ESkillLocaleUnitType::Int",
+        "TargetID_Item": "None",
+        "TargetID_SkillLv1": "1035010501_20",
+        "TargetID_SkillLv2": "1035010502_20",
+        "TargetID_SkillLv3": "1035010503_20",
+        "TargetID_SkillLv4": "None",
+        "TargetID_SkillLv5": "None",
+        "TargetID_SkillLv6": "None"
+      },
+      "653": {
+        "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10360101",
         "Tag": "PhyDamage_AD",
         "StyleID": "Orange",
@@ -13093,7 +13723,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "624": {
+      "654": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10360102",
         "Tag": "Sec",
@@ -13114,7 +13744,7 @@
         "TargetID_SkillLv5": "1036010205_02",
         "TargetID_SkillLv6": "None"
       },
-      "625": {
+      "655": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10360102",
         "Tag": "TotalDamage_AD",
@@ -13135,7 +13765,7 @@
         "TargetID_SkillLv5": "1036010205",
         "TargetID_SkillLv6": "None"
       },
-      "626": {
+      "656": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10360102",
         "Tag": "BaseDamage",
@@ -13156,7 +13786,7 @@
         "TargetID_SkillLv5": "1036010205",
         "TargetID_SkillLv6": "None"
       },
-      "627": {
+      "657": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10360102",
         "Tag": "PhyDamage_AD",
@@ -13177,7 +13807,7 @@
         "TargetID_SkillLv5": "1036010205",
         "TargetID_SkillLv6": "None"
       },
-      "628": {
+      "658": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10360103",
         "Tag": "Sec_1",
@@ -13198,7 +13828,7 @@
         "TargetID_SkillLv5": "1036010305_30",
         "TargetID_SkillLv6": "None"
       },
-      "629": {
+      "659": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10360103",
         "Tag": "Sec_2",
@@ -13219,7 +13849,7 @@
         "TargetID_SkillLv5": "1036010305_50",
         "TargetID_SkillLv6": "None"
       },
-      "630": {
+      "660": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10360103",
         "Tag": "%_1",
@@ -13240,7 +13870,7 @@
         "TargetID_SkillLv5": "1036010305_50",
         "TargetID_SkillLv6": "None"
       },
-      "631": {
+      "661": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10360103",
         "Tag": "TotalDamage_AD",
@@ -13261,7 +13891,7 @@
         "TargetID_SkillLv5": "1036030305_01",
         "TargetID_SkillLv6": "None"
       },
-      "632": {
+      "662": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10360103",
         "Tag": "BaseDamage",
@@ -13282,7 +13912,7 @@
         "TargetID_SkillLv5": "1036030305_01",
         "TargetID_SkillLv6": "None"
       },
-      "633": {
+      "663": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10360103",
         "Tag": "PhyDamage_AD",
@@ -13303,7 +13933,7 @@
         "TargetID_SkillLv5": "1036030305_01",
         "TargetID_SkillLv6": "None"
       },
-      "634": {
+      "664": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10360103",
         "Tag": "Sec_3",
@@ -13324,7 +13954,7 @@
         "TargetID_SkillLv5": "1036020305_40",
         "TargetID_SkillLv6": "None"
       },
-      "635": {
+      "665": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10360103",
         "Tag": "%_2",
@@ -13345,7 +13975,7 @@
         "TargetID_SkillLv5": "1036020305_40",
         "TargetID_SkillLv6": "None"
       },
-      "636": {
+      "666": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10360104",
         "Tag": "%",
@@ -13366,7 +13996,7 @@
         "TargetID_SkillLv5": "1036_01_01",
         "TargetID_SkillLv6": "None"
       },
-      "637": {
+      "667": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10360104",
         "Tag": "Number_1",
@@ -13387,7 +14017,7 @@
         "TargetID_SkillLv5": "1036010405_10",
         "TargetID_SkillLv6": "None"
       },
-      "638": {
+      "668": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10360104",
         "Tag": "Number_2",
@@ -13408,7 +14038,7 @@
         "TargetID_SkillLv5": "1036020405_10",
         "TargetID_SkillLv6": "None"
       },
-      "639": {
+      "669": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10360105",
         "Tag": "%",
@@ -13429,7 +14059,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "640": {
+      "670": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10360105",
         "Tag": "Sec",
@@ -13450,7 +14080,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "641": {
+      "671": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10370101",
         "Tag": "PhyDamage_AD",
@@ -13471,7 +14101,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "642": {
+      "672": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10370102",
         "Tag": "Sec_1",
@@ -13492,7 +14122,7 @@
         "TargetID_SkillLv5": "1037010205_02",
         "TargetID_SkillLv6": "None"
       },
-      "643": {
+      "673": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10370102",
         "Tag": "TotalDamage_AP",
@@ -13513,7 +14143,7 @@
         "TargetID_SkillLv5": "1037010205_10",
         "TargetID_SkillLv6": "None"
       },
-      "644": {
+      "674": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10370102",
         "Tag": "BaseDamage",
@@ -13534,7 +14164,7 @@
         "TargetID_SkillLv5": "1037010205_10",
         "TargetID_SkillLv6": "None"
       },
-      "645": {
+      "675": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10370102",
         "Tag": "MagDamage_AP",
@@ -13555,7 +14185,7 @@
         "TargetID_SkillLv5": "1037010205_10",
         "TargetID_SkillLv6": "None"
       },
-      "646": {
+      "676": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10370102",
         "Tag": "Sec_2",
@@ -13576,7 +14206,7 @@
         "TargetID_SkillLv5": "1037010205_01",
         "TargetID_SkillLv6": "None"
       },
-      "647": {
+      "677": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10370102",
         "Tag": "%",
@@ -13597,7 +14227,7 @@
         "TargetID_SkillLv5": "1037010205_01",
         "TargetID_SkillLv6": "None"
       },
-      "648": {
+      "678": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10370102",
         "Tag": "Sec_3",
@@ -13618,7 +14248,7 @@
         "TargetID_SkillLv5": "1037010205_02",
         "TargetID_SkillLv6": "None"
       },
-      "649": {
+      "679": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10370103",
         "Tag": "Sec",
@@ -13639,7 +14269,7 @@
         "TargetID_SkillLv5": "2155010601_05",
         "TargetID_SkillLv6": "None"
       },
-      "650": {
+      "680": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10370103",
         "Tag": "TotalDamage_AP",
@@ -13660,7 +14290,7 @@
         "TargetID_SkillLv5": "2155010101_05",
         "TargetID_SkillLv6": "None"
       },
-      "651": {
+      "681": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10370103",
         "Tag": "BaseDamage",
@@ -13681,7 +14311,7 @@
         "TargetID_SkillLv5": "2155010101_05",
         "TargetID_SkillLv6": "None"
       },
-      "652": {
+      "682": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10370103",
         "Tag": "MagDamage_AP",
@@ -13702,7 +14332,7 @@
         "TargetID_SkillLv5": "2155010101_05",
         "TargetID_SkillLv6": "None"
       },
-      "653": {
+      "683": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10370103",
         "Tag": "Number",
@@ -13723,7 +14353,7 @@
         "TargetID_SkillLv5": "2155010101",
         "TargetID_SkillLv6": "None"
       },
-      "654": {
+      "684": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10370104",
         "Tag": "Sec",
@@ -13744,7 +14374,7 @@
         "TargetID_SkillLv5": "1037010405_01",
         "TargetID_SkillLv6": "None"
       },
-      "655": {
+      "685": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10370104",
         "Tag": "TotalDamage_AP",
@@ -13765,7 +14395,7 @@
         "TargetID_SkillLv5": "1037010405_01",
         "TargetID_SkillLv6": "None"
       },
-      "656": {
+      "686": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10370104",
         "Tag": "BaseDamage",
@@ -13786,7 +14416,7 @@
         "TargetID_SkillLv5": "1037010405_01",
         "TargetID_SkillLv6": "None"
       },
-      "657": {
+      "687": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10370104",
         "Tag": "MagDamage_AP",
@@ -13807,7 +14437,7 @@
         "TargetID_SkillLv5": "1037010405_01",
         "TargetID_SkillLv6": "None"
       },
-      "658": {
+      "688": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10370105",
         "Tag": "Sec_1",
@@ -13828,7 +14458,7 @@
         "TargetID_SkillLv5": "1037010505_02",
         "TargetID_SkillLv6": "None"
       },
-      "659": {
+      "689": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10370105",
         "Tag": "%_1",
@@ -13849,7 +14479,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "660": {
+      "690": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10370105",
         "Tag": "Sec_2",
@@ -13870,7 +14500,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "661": {
+      "691": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10370105",
         "Tag": "%_2",
@@ -13891,7 +14521,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "662": {
+      "692": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10370105",
         "Tag": "%_3",
@@ -13912,7 +14542,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "663": {
+      "693": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10400101",
         "Tag": "PhyDamage_AD",
@@ -13933,7 +14563,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "664": {
+      "694": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10400102",
         "Tag": "Sec",
@@ -13954,7 +14584,7 @@
         "TargetID_SkillLv5": "1040010205_05",
         "TargetID_SkillLv6": "None"
       },
-      "665": {
+      "695": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10400102",
         "Tag": "%",
@@ -13975,7 +14605,7 @@
         "TargetID_SkillLv5": "1040010205_05",
         "TargetID_SkillLv6": "None"
       },
-      "666": {
+      "696": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10400102",
         "Tag": "TotalDamage_AD",
@@ -13996,7 +14626,7 @@
         "TargetID_SkillLv5": "1040010205_06",
         "TargetID_SkillLv6": "None"
       },
-      "667": {
+      "697": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10400102",
         "Tag": "BaseDamage",
@@ -14017,7 +14647,7 @@
         "TargetID_SkillLv5": "1040010205_06",
         "TargetID_SkillLv6": "None"
       },
-      "668": {
+      "698": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10400102",
         "Tag": "PhyDamage_AD",
@@ -14038,7 +14668,7 @@
         "TargetID_SkillLv5": "1040010205_06",
         "TargetID_SkillLv6": "None"
       },
-      "669": {
+      "699": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10400103",
         "Tag": "Sec",
@@ -14059,7 +14689,7 @@
         "TargetID_SkillLv5": "1040010305_05",
         "TargetID_SkillLv6": "None"
       },
-      "670": {
+      "700": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10400103",
         "Tag": "%",
@@ -14080,7 +14710,7 @@
         "TargetID_SkillLv5": "1040010305_05",
         "TargetID_SkillLv6": "None"
       },
-      "671": {
+      "701": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10400103",
         "Tag": "TotalDamage_AD",
@@ -14101,7 +14731,7 @@
         "TargetID_SkillLv5": "1040010305_01",
         "TargetID_SkillLv6": "None"
       },
-      "672": {
+      "702": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10400103",
         "Tag": "BaseDamage",
@@ -14122,7 +14752,7 @@
         "TargetID_SkillLv5": "1040010305_01",
         "TargetID_SkillLv6": "None"
       },
-      "673": {
+      "703": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10400103",
         "Tag": "PhyDamage_AD",
@@ -14143,7 +14773,7 @@
         "TargetID_SkillLv5": "1040010305_01",
         "TargetID_SkillLv6": "None"
       },
-      "674": {
+      "704": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10400104",
         "Tag": "Sec_1",
@@ -14164,7 +14794,7 @@
         "TargetID_SkillLv5": "1040010405_05",
         "TargetID_SkillLv6": "None"
       },
-      "675": {
+      "705": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10400104",
         "Tag": "Sec_2",
@@ -14185,7 +14815,7 @@
         "TargetID_SkillLv5": "1040010405_06",
         "TargetID_SkillLv6": "None"
       },
-      "676": {
+      "706": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10400104",
         "Tag": "TotalDamage_AD",
@@ -14206,7 +14836,7 @@
         "TargetID_SkillLv5": "1040010405_01",
         "TargetID_SkillLv6": "None"
       },
-      "677": {
+      "707": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10400104",
         "Tag": "BaseDamage",
@@ -14227,7 +14857,7 @@
         "TargetID_SkillLv5": "1040010405_01",
         "TargetID_SkillLv6": "None"
       },
-      "678": {
+      "708": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10400104",
         "Tag": "PhyDamage_AD",
@@ -14248,7 +14878,7 @@
         "TargetID_SkillLv5": "1040010405_01",
         "TargetID_SkillLv6": "None"
       },
-      "679": {
+      "709": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10400105",
         "Tag": "Sec_1",
@@ -14269,7 +14899,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "680": {
+      "710": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10400105",
         "Tag": "Sec_2",
@@ -14290,7 +14920,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "681": {
+      "711": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420101",
         "Tag": "PhyDamage_AD",
@@ -14311,7 +14941,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "682": {
+      "712": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420101",
         "Tag": "%_1",
@@ -14332,7 +14962,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "683": {
+      "713": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420101",
         "Tag": "Number",
@@ -14353,7 +14983,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "684": {
+      "714": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420101",
         "Tag": "TotalDamage_AP",
@@ -14374,7 +15004,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "685": {
+      "715": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420101",
         "Tag": "BaseDamage",
@@ -14395,7 +15025,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "686": {
+      "716": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420101",
         "Tag": "MagDamage_AP_2",
@@ -14416,7 +15046,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "687": {
+      "717": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420102",
         "Tag": "Sec",
@@ -14437,7 +15067,7 @@
         "TargetID_SkillLv5": "1042010205_02",
         "TargetID_SkillLv6": "None"
       },
-      "688": {
+      "718": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420102",
         "Tag": "TotalDamage_AP",
@@ -14458,7 +15088,7 @@
         "TargetID_SkillLv5": "1042010205_03",
         "TargetID_SkillLv6": "None"
       },
-      "689": {
+      "719": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420102",
         "Tag": "BaseDamage",
@@ -14479,7 +15109,7 @@
         "TargetID_SkillLv5": "1042010205_03",
         "TargetID_SkillLv6": "None"
       },
-      "690": {
+      "720": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420102",
         "Tag": "MagDamage_AP",
@@ -14500,7 +15130,7 @@
         "TargetID_SkillLv5": "1042010205_03",
         "TargetID_SkillLv6": "None"
       },
-      "691": {
+      "721": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420103",
         "Tag": "%_4",
@@ -14521,7 +15151,7 @@
         "TargetID_SkillLv5": "1042010305_01",
         "TargetID_SkillLv6": "None"
       },
-      "692": {
+      "722": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420103",
         "Tag": "Number_1",
@@ -14542,7 +15172,7 @@
         "TargetID_SkillLv5": "1042010305_01",
         "TargetID_SkillLv6": "None"
       },
-      "693": {
+      "723": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420103",
         "Tag": "Sec_1",
@@ -14563,7 +15193,7 @@
         "TargetID_SkillLv5": "1042010305_03",
         "TargetID_SkillLv6": "None"
       },
-      "694": {
+      "724": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420103",
         "Tag": "%_1",
@@ -14584,7 +15214,7 @@
         "TargetID_SkillLv5": "1042010305_03",
         "TargetID_SkillLv6": "None"
       },
-      "695": {
+      "725": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420103",
         "Tag": "TotalDamage_AP",
@@ -14605,7 +15235,7 @@
         "TargetID_SkillLv5": "1042010305_03",
         "TargetID_SkillLv6": "None"
       },
-      "696": {
+      "726": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420103",
         "Tag": "BaseDamage",
@@ -14626,7 +15256,7 @@
         "TargetID_SkillLv5": "1042010305_03",
         "TargetID_SkillLv6": "None"
       },
-      "697": {
+      "727": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420103",
         "Tag": "MagDamage_AP",
@@ -14647,7 +15277,7 @@
         "TargetID_SkillLv5": "1042010305_03",
         "TargetID_SkillLv6": "None"
       },
-      "698": {
+      "728": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420103",
         "Tag": "Sec_2",
@@ -14668,7 +15298,7 @@
         "TargetID_SkillLv5": "1042010305_05",
         "TargetID_SkillLv6": "None"
       },
-      "699": {
+      "729": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420103",
         "Tag": "%_2",
@@ -14689,7 +15319,7 @@
         "TargetID_SkillLv5": "1042010305_05",
         "TargetID_SkillLv6": "None"
       },
-      "700": {
+      "730": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420103",
         "Tag": "%_3",
@@ -14710,7 +15340,7 @@
         "TargetID_SkillLv5": "1042010305_06",
         "TargetID_SkillLv6": "None"
       },
-      "701": {
+      "731": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420103",
         "Tag": "Number_2",
@@ -14731,7 +15361,7 @@
         "TargetID_SkillLv5": "1042010305_04",
         "TargetID_SkillLv6": "None"
       },
-      "702": {
+      "732": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420103",
         "Tag": "%_5",
@@ -14752,7 +15382,7 @@
         "TargetID_SkillLv5": "1042010305_04",
         "TargetID_SkillLv6": "None"
       },
-      "703": {
+      "733": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420104",
         "Tag": "TotalDamage_AP",
@@ -14773,7 +15403,7 @@
         "TargetID_SkillLv5": "1042010405_01",
         "TargetID_SkillLv6": "None"
       },
-      "704": {
+      "734": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420104",
         "Tag": "BaseDamage",
@@ -14794,7 +15424,7 @@
         "TargetID_SkillLv5": "1042010405_01",
         "TargetID_SkillLv6": "None"
       },
-      "705": {
+      "735": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420104",
         "Tag": "MagDamage_AP",
@@ -14815,7 +15445,7 @@
         "TargetID_SkillLv5": "1042010405_01",
         "TargetID_SkillLv6": "None"
       },
-      "706": {
+      "736": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420104",
         "Tag": "Sec_1",
@@ -14836,7 +15466,7 @@
         "TargetID_SkillLv5": "1042010405_01",
         "TargetID_SkillLv6": "None"
       },
-      "707": {
+      "737": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420104",
         "Tag": "%_1",
@@ -14857,7 +15487,7 @@
         "TargetID_SkillLv5": "1042010405_01",
         "TargetID_SkillLv6": "None"
       },
-      "708": {
+      "738": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420104",
         "Tag": "Number",
@@ -14878,7 +15508,7 @@
         "TargetID_SkillLv5": "1042010405_02",
         "TargetID_SkillLv6": "None"
       },
-      "709": {
+      "739": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420104",
         "Tag": "Sec_2",
@@ -14899,7 +15529,7 @@
         "TargetID_SkillLv5": "1042010405_02",
         "TargetID_SkillLv6": "None"
       },
-      "710": {
+      "740": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420105",
         "Tag": "TotalDamage_AP",
@@ -14920,7 +15550,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "711": {
+      "741": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420105",
         "Tag": "BaseDamage_1",
@@ -14941,7 +15571,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "712": {
+      "742": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420105",
         "Tag": "MagDamage_AP",
@@ -14962,7 +15592,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "713": {
+      "743": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420105",
         "Tag": "TotalDamage_AP_1",
@@ -14983,7 +15613,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "714": {
+      "744": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420105",
         "Tag": "BaseDamage_2",
@@ -15004,7 +15634,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "715": {
+      "745": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420105",
         "Tag": "MagDamage_AP_1",
@@ -15025,7 +15655,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "716": {
+      "746": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420105",
         "Tag": "Sec_1",
@@ -15046,7 +15676,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "717": {
+      "747": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420105",
         "Tag": "%_1",
@@ -15067,7 +15697,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "718": {
+      "748": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420105",
         "Tag": "%_2",
@@ -15088,7 +15718,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "719": {
+      "749": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420105",
         "Tag": "TotalDamage_AP_2",
@@ -15109,7 +15739,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "720": {
+      "750": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420105",
         "Tag": "BaseDamage_3",
@@ -15130,7 +15760,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "721": {
+      "751": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420105",
         "Tag": "MagDamage_AP_2",
@@ -15151,7 +15781,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "722": {
+      "752": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "10420105",
         "Tag": "Sec_2",
@@ -15172,7 +15802,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "723": {
+      "753": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30101000",
         "Tag": "Number_1",
@@ -15193,7 +15823,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "724": {
+      "754": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30101000",
         "Tag": "%_1",
@@ -15214,7 +15844,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "725": {
+      "755": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30101000",
         "Tag": "Number_2",
@@ -15235,7 +15865,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "726": {
+      "756": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30101000",
         "Tag": "%_22",
@@ -15256,7 +15886,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "727": {
+      "757": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30101000",
         "Tag": "MinDamage",
@@ -15277,7 +15907,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "728": {
+      "758": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30101000",
         "Tag": "MaxDamage",
@@ -15298,7 +15928,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "729": {
+      "759": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30101000",
         "Tag": "%_2",
@@ -15319,7 +15949,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "730": {
+      "760": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30101000",
         "Tag": "Number_3",
@@ -15340,7 +15970,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "731": {
+      "761": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30101000",
         "Tag": "Sec",
@@ -15361,7 +15991,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "732": {
+      "762": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30101001",
         "Tag": "Number",
@@ -15382,7 +16012,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "733": {
+      "763": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30101001",
         "Tag": "Sec",
@@ -15403,7 +16033,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "734": {
+      "764": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30101006",
         "Tag": "Number",
@@ -15424,7 +16054,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "735": {
+      "765": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30101006",
         "Tag": "Sec",
@@ -15445,7 +16075,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "736": {
+      "766": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30102000",
         "Tag": "Number",
@@ -15466,7 +16096,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "737": {
+      "767": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30102000",
         "Tag": "Sec",
@@ -15487,7 +16117,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "738": {
+      "768": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30102004",
         "Tag": "Number_1",
@@ -15508,7 +16138,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "739": {
+      "769": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30102004",
         "Tag": "Number_2",
@@ -15529,7 +16159,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "740": {
+      "770": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30102004",
         "Tag": "Sec",
@@ -15550,7 +16180,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "741": {
+      "771": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30103000",
         "Tag": "Number_1",
@@ -15571,7 +16201,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "742": {
+      "772": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30103000",
         "Tag": "Number_2",
@@ -15592,7 +16222,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "743": {
+      "773": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30103000",
         "Tag": "Sec",
@@ -15613,7 +16243,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "744": {
+      "774": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30103006",
         "Tag": "Sec",
@@ -15634,7 +16264,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "745": {
+      "775": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30103006",
         "Tag": "%_1",
@@ -15655,7 +16285,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "746": {
+      "776": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30103006",
         "Tag": "%_2",
@@ -15676,7 +16306,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "747": {
+      "777": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30104000",
         "Tag": "Sec_1",
@@ -15697,7 +16327,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "748": {
+      "778": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30104000",
         "Tag": "Number_1",
@@ -15718,7 +16348,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "749": {
+      "779": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30104000",
         "Tag": "Number_2",
@@ -15739,7 +16369,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "750": {
+      "780": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30104000",
         "Tag": "Number_3",
@@ -15760,7 +16390,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "751": {
+      "781": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30104000",
         "Tag": "Sec_2",
@@ -15781,7 +16411,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "752": {
+      "782": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30104000",
         "Tag": "Number_4",
@@ -15802,7 +16432,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "753": {
+      "783": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30201007",
         "Tag": "%",
@@ -15823,7 +16453,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "754": {
+      "784": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30201008",
         "Tag": "Number_1",
@@ -15844,7 +16474,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "755": {
+      "785": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30201008",
         "Tag": "%_1",
@@ -15865,7 +16495,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "756": {
+      "786": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30201008",
         "Tag": "Number_2",
@@ -15886,7 +16516,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "757": {
+      "787": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30201008",
         "Tag": "%_22",
@@ -15907,7 +16537,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "758": {
+      "788": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30201008",
         "Tag": "MinDamage",
@@ -15928,7 +16558,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "759": {
+      "789": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30201008",
         "Tag": "MaxDamage",
@@ -15949,7 +16579,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "760": {
+      "790": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30201008",
         "Tag": "%_2",
@@ -15970,7 +16600,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "761": {
+      "791": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30201008",
         "Tag": "Number_3",
@@ -15991,7 +16621,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "762": {
+      "792": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30201008",
         "Tag": "Sec_1",
@@ -16012,7 +16642,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "763": {
+      "793": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30201008",
         "Tag": "%_3",
@@ -16033,7 +16663,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "764": {
+      "794": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30201008",
         "Tag": "Sec_2",
@@ -16054,7 +16684,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "765": {
+      "795": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30201008",
         "Tag": "TrueDamage_TRUE",
@@ -16075,7 +16705,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "766": {
+      "796": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30201008",
         "Tag": "Sec_3",
@@ -16096,7 +16726,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "767": {
+      "797": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30201011",
         "Tag": "Sec",
@@ -16117,7 +16747,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "768": {
+      "798": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30201011",
         "Tag": "%",
@@ -16138,7 +16768,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "769": {
+      "799": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30201012",
         "Tag": "Sec_1",
@@ -16159,7 +16789,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "770": {
+      "800": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30201012",
         "Tag": "%_1",
@@ -16180,7 +16810,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "771": {
+      "801": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30201012",
         "Tag": "Sec_10",
@@ -16201,7 +16831,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "772": {
+      "802": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30202005",
         "Tag": "Sec",
@@ -16222,7 +16852,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "773": {
+      "803": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30202005",
         "Tag": "%",
@@ -16243,7 +16873,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "774": {
+      "804": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30202009",
         "Tag": "MinDamage",
@@ -16264,7 +16894,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "775": {
+      "805": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30202009",
         "Tag": "MaxDamage",
@@ -16285,7 +16915,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "776": {
+      "806": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30202009",
         "Tag": "Sec",
@@ -16306,7 +16936,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "777": {
+      "807": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30203001",
         "Tag": "%",
@@ -16327,7 +16957,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "778": {
+      "808": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30203003",
         "Tag": "%_1",
@@ -16348,7 +16978,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "779": {
+      "809": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30203003",
         "Tag": "Sec_10",
@@ -16369,7 +16999,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "780": {
+      "810": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30203004",
         "Tag": "Sec",
@@ -16390,7 +17020,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "781": {
+      "811": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30203004",
         "Tag": "%",
@@ -16411,7 +17041,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "782": {
+      "812": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30203005",
         "Tag": "Sec_1",
@@ -16432,7 +17062,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "783": {
+      "813": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30203005",
         "Tag": "Number",
@@ -16453,7 +17083,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "784": {
+      "814": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30203005",
         "Tag": "Sec_2",
@@ -16474,7 +17104,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "785": {
+      "815": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30203013",
         "Tag": "TotalDamage_AP",
@@ -16495,7 +17125,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "786": {
+      "816": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301000",
         "Tag": "Sec",
@@ -16516,7 +17146,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "787": {
+      "817": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301000",
         "Tag": "%",
@@ -16537,7 +17167,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "788": {
+      "818": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301000",
         "Tag": "Number",
@@ -16558,7 +17188,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "789": {
+      "819": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301003",
         "Tag": "Sec",
@@ -16579,7 +17209,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "790": {
+      "820": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301003",
         "Tag": "%",
@@ -16600,7 +17230,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "791": {
+      "821": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301004",
         "Tag": "%_1",
@@ -16621,7 +17251,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "792": {
+      "822": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301004",
         "Tag": "%_2",
@@ -16642,7 +17272,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "793": {
+      "823": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301005",
         "Tag": "Sec",
@@ -16663,7 +17293,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "794": {
+      "824": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301006",
         "Tag": "%_1",
@@ -16684,7 +17314,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "795": {
+      "825": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301006",
         "Tag": "Sec_1",
@@ -16705,7 +17335,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "796": {
+      "826": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301006",
         "Tag": "%_2",
@@ -16726,7 +17356,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "797": {
+      "827": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301006",
         "Tag": "Sec_10",
@@ -16747,7 +17377,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "798": {
+      "828": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301007",
         "Tag": "%_1",
@@ -16768,7 +17398,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "799": {
+      "829": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301007",
         "Tag": "Sec_1",
@@ -16789,7 +17419,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "800": {
+      "830": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301007",
         "Tag": "%_2",
@@ -16810,7 +17440,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "801": {
+      "831": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301007",
         "Tag": "Sec_2",
@@ -16831,7 +17461,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "802": {
+      "832": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301009",
         "Tag": "%",
@@ -16852,7 +17482,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "803": {
+      "833": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301010",
         "Tag": "Number_1",
@@ -16873,7 +17503,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "804": {
+      "834": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301010",
         "Tag": "%",
@@ -16894,7 +17524,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "805": {
+      "835": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301010",
         "Tag": "Number_2",
@@ -16915,7 +17545,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "806": {
+      "836": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301011",
         "Tag": "Sec",
@@ -16936,7 +17566,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "807": {
+      "837": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301011",
         "Tag": "%",
@@ -16957,7 +17587,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "808": {
+      "838": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301014",
         "Tag": "Sec",
@@ -16978,7 +17608,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "809": {
+      "839": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301014",
         "Tag": "%_1",
@@ -16999,7 +17629,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "810": {
+      "840": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301014",
         "Tag": "%_2",
@@ -17020,7 +17650,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "811": {
+      "841": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301015",
         "Tag": "Number_1",
@@ -17041,7 +17671,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "812": {
+      "842": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301015",
         "Tag": "Sec",
@@ -17062,7 +17692,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "813": {
+      "843": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301015",
         "Tag": "%",
@@ -17083,7 +17713,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "814": {
+      "844": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301015",
         "Tag": "Number_2",
@@ -17104,7 +17734,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "815": {
+      "845": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301016",
         "Tag": "Sec",
@@ -17125,7 +17755,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "816": {
+      "846": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301016",
         "Tag": "%",
@@ -17146,7 +17776,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "817": {
+      "847": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301016",
         "Tag": "Number_1",
@@ -17167,7 +17797,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "818": {
+      "848": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301016",
         "Tag": "Number_2",
@@ -17188,7 +17818,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "819": {
+      "849": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301017",
         "Tag": "Sec_1",
@@ -17209,7 +17839,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "820": {
+      "850": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301017",
         "Tag": "%_2",
@@ -17230,7 +17860,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "821": {
+      "851": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301017",
         "Tag": "%_1",
@@ -17251,7 +17881,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "822": {
+      "852": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301017",
         "Tag": "Sec_10",
@@ -17272,7 +17902,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "823": {
+      "853": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301018",
         "Tag": "Sec_1",
@@ -17293,7 +17923,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "824": {
+      "854": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301018",
         "Tag": "%",
@@ -17314,7 +17944,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "825": {
+      "855": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301018",
         "Tag": "Sec_2",
@@ -17335,7 +17965,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "826": {
+      "856": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301018",
         "Tag": "Number",
@@ -17356,7 +17986,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "827": {
+      "857": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301019",
         "Tag": "%",
@@ -17377,7 +18007,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "828": {
+      "858": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301019",
         "Tag": "Number",
@@ -17398,7 +18028,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "829": {
+      "859": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301020",
         "Tag": "%_1",
@@ -17419,7 +18049,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "830": {
+      "860": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301020",
         "Tag": "Number",
@@ -17440,7 +18070,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "831": {
+      "861": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301021",
         "Tag": "Sec",
@@ -17461,7 +18091,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "832": {
+      "862": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301023",
         "Tag": "Sec_1",
@@ -17482,7 +18112,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "833": {
+      "863": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301023",
         "Tag": "%_1",
@@ -17503,7 +18133,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "834": {
+      "864": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301023",
         "Tag": "Sec_2",
@@ -17524,7 +18154,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "835": {
+      "865": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301023",
         "Tag": "Number_1",
@@ -17545,7 +18175,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "836": {
+      "866": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301023",
         "Tag": "Sec_3",
@@ -17566,7 +18196,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "837": {
+      "867": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301023",
         "Tag": "%_2",
@@ -17587,7 +18217,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "838": {
+      "868": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301023",
         "Tag": "Sec_10",
@@ -17608,7 +18238,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "839": {
+      "869": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301026",
         "Tag": "Number_1",
@@ -17629,7 +18259,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "840": {
+      "870": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301026",
         "Tag": "%_1",
@@ -17650,7 +18280,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "841": {
+      "871": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301026",
         "Tag": "Number_2",
@@ -17671,7 +18301,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "842": {
+      "872": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301026",
         "Tag": "%_22",
@@ -17692,7 +18322,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "843": {
+      "873": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301026",
         "Tag": "MinDamage",
@@ -17713,7 +18343,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "844": {
+      "874": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301026",
         "Tag": "MaxDamage",
@@ -17734,7 +18364,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "845": {
+      "875": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301026",
         "Tag": "%_2",
@@ -17755,7 +18385,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "846": {
+      "876": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301026",
         "Tag": "Number_3",
@@ -17776,7 +18406,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "847": {
+      "877": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301026",
         "Tag": "Sec_1",
@@ -17797,7 +18427,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "848": {
+      "878": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301026",
         "Tag": "%_3",
@@ -17818,7 +18448,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "849": {
+      "879": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301026",
         "Tag": "Sec_2",
@@ -17839,7 +18469,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "850": {
+      "880": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301026",
         "Tag": "TrueDamage_TRUE",
@@ -17860,7 +18490,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "851": {
+      "881": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301026",
         "Tag": "Sec_3",
@@ -17881,7 +18511,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "852": {
+      "882": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301027",
         "Tag": "%",
@@ -17902,7 +18532,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "853": {
+      "883": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301027",
         "Tag": "Sec_1",
@@ -17923,7 +18553,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "854": {
+      "884": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301027",
         "Tag": "MinDamage",
@@ -17944,7 +18574,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "855": {
+      "885": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301027",
         "Tag": "MaxDamage",
@@ -17965,7 +18595,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "856": {
+      "886": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301027",
         "Tag": "Sec_2",
@@ -17986,7 +18616,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "857": {
+      "887": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302000",
         "Tag": "%",
@@ -18007,7 +18637,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "858": {
+      "888": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302000",
         "Tag": "Number",
@@ -18028,7 +18658,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "859": {
+      "889": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302001",
         "Tag": "Sec",
@@ -18049,7 +18679,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "860": {
+      "890": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302002",
         "Tag": "Sec_1",
@@ -18070,7 +18700,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "861": {
+      "891": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302002",
         "Tag": "%",
@@ -18091,7 +18721,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "862": {
+      "892": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302003",
         "Tag": "Sec",
@@ -18112,7 +18742,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "863": {
+      "893": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302003",
         "Tag": "%",
@@ -18133,7 +18763,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "864": {
+      "894": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302003",
         "Tag": "Number",
@@ -18154,7 +18784,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "865": {
+      "895": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302004",
         "Tag": "Number_1",
@@ -18175,7 +18805,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "866": {
+      "896": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302004",
         "Tag": "Number_2",
@@ -18196,7 +18826,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "867": {
+      "897": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302004",
         "Tag": "%_1",
@@ -18217,7 +18847,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "868": {
+      "898": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302005",
         "Tag": "%",
@@ -18238,7 +18868,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "869": {
+      "899": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302006",
         "Tag": "%",
@@ -18259,7 +18889,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "870": {
+      "900": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302007",
         "Tag": "Number_1",
@@ -18280,7 +18910,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "871": {
+      "901": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302007",
         "Tag": "Number_2",
@@ -18301,7 +18931,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "872": {
+      "902": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302008",
         "Tag": "%_1",
@@ -18322,7 +18952,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "873": {
+      "903": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302008",
         "Tag": "%_2",
@@ -18343,7 +18973,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "874": {
+      "904": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302008",
         "Tag": "Sec_1",
@@ -18364,7 +18994,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "875": {
+      "905": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302008",
         "Tag": "Sec_2",
@@ -18385,7 +19015,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "876": {
+      "906": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302009",
         "Tag": "Sec",
@@ -18406,7 +19036,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "877": {
+      "907": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302009",
         "Tag": "%_1",
@@ -18427,7 +19057,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "878": {
+      "908": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302009",
         "Tag": "%_2",
@@ -18448,7 +19078,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "879": {
+      "909": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302011",
         "Tag": "Sec",
@@ -18469,7 +19099,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "880": {
+      "910": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302011",
         "Tag": "Number_1",
@@ -18490,7 +19120,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "881": {
+      "911": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302011",
         "Tag": "%",
@@ -18511,7 +19141,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "882": {
+      "912": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302011",
         "Tag": "Number_2",
@@ -18532,7 +19162,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "883": {
+      "913": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302012",
         "Tag": "Sec",
@@ -18553,7 +19183,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "884": {
+      "914": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302012",
         "Tag": "%",
@@ -18574,7 +19204,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "885": {
+      "915": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302013",
         "Tag": "Sec_1",
@@ -18595,7 +19225,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "886": {
+      "916": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302013",
         "Tag": "%",
@@ -18616,7 +19246,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "887": {
+      "917": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302013",
         "Tag": "Sec_2",
@@ -18637,7 +19267,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "888": {
+      "918": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302015",
         "Tag": "Sec",
@@ -18658,7 +19288,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "889": {
+      "919": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302015",
         "Tag": "Number",
@@ -18679,7 +19309,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "890": {
+      "920": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302015",
         "Tag": "MagDamage_AP",
@@ -18700,7 +19330,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "891": {
+      "921": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302015",
         "Tag": "%",
@@ -18721,7 +19351,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "892": {
+      "922": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302017",
         "Tag": "%",
@@ -18742,7 +19372,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "893": {
+      "923": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302017",
         "Tag": "Number",
@@ -18763,7 +19393,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "894": {
+      "924": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302018",
         "Tag": "Sec_1",
@@ -18784,7 +19414,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "895": {
+      "925": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302018",
         "Tag": "Number",
@@ -18805,7 +19435,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "896": {
+      "926": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302018",
         "Tag": "Sec_2",
@@ -18826,7 +19456,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "897": {
+      "927": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302019",
         "Tag": "Sec",
@@ -18847,7 +19477,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "898": {
+      "928": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302019",
         "Tag": "Number",
@@ -18868,7 +19498,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "899": {
+      "929": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302019",
         "Tag": "%_1",
@@ -18889,7 +19519,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "900": {
+      "930": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302019",
         "Tag": "%_2",
@@ -18910,7 +19540,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "901": {
+      "931": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302020",
         "Tag": "Sec_1",
@@ -18931,7 +19561,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "902": {
+      "932": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302020",
         "Tag": "Number_1",
@@ -18952,7 +19582,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "903": {
+      "933": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302020",
         "Tag": "%_1",
@@ -18973,7 +19603,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "904": {
+      "934": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302020",
         "Tag": "Number_2",
@@ -18994,7 +19624,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "905": {
+      "935": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302020",
         "Tag": "Number_3",
@@ -19015,7 +19645,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "906": {
+      "936": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302021",
         "Tag": "%_1",
@@ -19036,7 +19666,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "907": {
+      "937": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302021",
         "Tag": "%_2",
@@ -19057,7 +19687,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "908": {
+      "938": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302022",
         "Tag": "%_1",
@@ -19078,7 +19708,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "909": {
+      "939": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302022",
         "Tag": "Number",
@@ -19099,7 +19729,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "910": {
+      "940": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302022",
         "Tag": "Sec_1",
@@ -19120,7 +19750,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "911": {
+      "941": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302022",
         "Tag": "%_2",
@@ -19141,7 +19771,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "912": {
+      "942": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302022",
         "Tag": "Sec_2",
@@ -19162,7 +19792,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "913": {
+      "943": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303000",
         "Tag": "%",
@@ -19183,7 +19813,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "914": {
+      "944": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303001",
         "Tag": "Sec",
@@ -19204,7 +19834,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "915": {
+      "945": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303001",
         "Tag": "%",
@@ -19225,7 +19855,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "916": {
+      "946": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303002",
         "Tag": "%_1",
@@ -19246,7 +19876,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "917": {
+      "947": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303002",
         "Tag": "Sec",
@@ -19267,7 +19897,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "918": {
+      "948": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303002",
         "Tag": "%_2",
@@ -19288,7 +19918,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "919": {
+      "949": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303003",
         "Tag": "Number_1",
@@ -19309,7 +19939,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "920": {
+      "950": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303003",
         "Tag": "%_1",
@@ -19330,7 +19960,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "921": {
+      "951": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303003",
         "Tag": "%_2",
@@ -19351,7 +19981,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "922": {
+      "952": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303003",
         "Tag": "Number_2",
@@ -19372,7 +20002,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "923": {
+      "953": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303003",
         "Tag": "Number_3",
@@ -19393,7 +20023,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "924": {
+      "954": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303003",
         "Tag": "%_3",
@@ -19414,7 +20044,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "925": {
+      "955": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303004",
         "Tag": "%",
@@ -19435,7 +20065,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "926": {
+      "956": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303005",
         "Tag": "%",
@@ -19456,7 +20086,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "927": {
+      "957": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303006",
         "Tag": "%",
@@ -19477,7 +20107,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "928": {
+      "958": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303007",
         "Tag": "%",
@@ -19498,7 +20128,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "929": {
+      "959": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303008",
         "Tag": "Number_1",
@@ -19519,7 +20149,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "930": {
+      "960": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303008",
         "Tag": "Number_2",
@@ -19540,7 +20170,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "931": {
+      "961": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303008",
         "Tag": "Number_3",
@@ -19561,7 +20191,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "932": {
+      "962": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303008",
         "Tag": "Sec_10",
@@ -19582,7 +20212,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "933": {
+      "963": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303008",
         "Tag": "Sec_1",
@@ -19603,7 +20233,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "934": {
+      "964": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303008",
         "Tag": "%_1",
@@ -19624,7 +20254,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "935": {
+      "965": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303008",
         "Tag": "%_2",
@@ -19645,7 +20275,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "936": {
+      "966": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303008",
         "Tag": "%_3",
@@ -19666,7 +20296,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "937": {
+      "967": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303008",
         "Tag": "%_4",
@@ -19687,7 +20317,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "938": {
+      "968": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303011",
         "Tag": "Number",
@@ -19708,7 +20338,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "939": {
+      "969": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303011",
         "Tag": "%_1",
@@ -19729,7 +20359,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "940": {
+      "970": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303011",
         "Tag": "%_2",
@@ -19750,7 +20380,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "941": {
+      "971": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303011",
         "Tag": "%_3",
@@ -19771,7 +20401,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "942": {
+      "972": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303012",
         "Tag": "Sec",
@@ -19792,7 +20422,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "943": {
+      "973": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303012",
         "Tag": "%_1",
@@ -19813,7 +20443,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "944": {
+      "974": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303012",
         "Tag": "%_2",
@@ -19834,7 +20464,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "945": {
+      "975": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303012",
         "Tag": "Number",
@@ -19855,7 +20485,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "946": {
+      "976": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303013",
         "Tag": "Number",
@@ -19876,7 +20506,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "947": {
+      "977": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303013",
         "Tag": "%",
@@ -19897,7 +20527,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "948": {
+      "978": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303014",
         "Tag": "Sec_1",
@@ -19918,7 +20548,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "949": {
+      "979": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303014",
         "Tag": "%",
@@ -19939,7 +20569,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "950": {
+      "980": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303014",
         "Tag": "Sec_2",
@@ -19960,7 +20590,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "951": {
+      "981": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303015",
         "Tag": "%_1",
@@ -19981,7 +20611,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "952": {
+      "982": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303015",
         "Tag": "%_2",
@@ -20002,7 +20632,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "953": {
+      "983": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303015",
         "Tag": "Sec_1",
@@ -20023,7 +20653,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "954": {
+      "984": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303015",
         "Tag": "%_3",
@@ -20044,7 +20674,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "955": {
+      "985": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303015",
         "Tag": "Sec_2",
@@ -20065,7 +20695,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "956": {
+      "986": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303016",
         "Tag": "%",
@@ -20086,7 +20716,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "957": {
+      "987": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303019",
         "Tag": "Sec_1",
@@ -20107,7 +20737,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "958": {
+      "988": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303019",
         "Tag": "%_1",
@@ -20128,7 +20758,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "959": {
+      "989": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303019",
         "Tag": "%_2",
@@ -20149,7 +20779,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "960": {
+      "990": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303019",
         "Tag": "Sec_2",
@@ -20170,7 +20800,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "961": {
+      "991": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303019",
         "Tag": "Sec_3",
@@ -20191,7 +20821,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "962": {
+      "992": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303021",
         "Tag": "Sec_1",
@@ -20212,7 +20842,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "963": {
+      "993": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303021",
         "Tag": "Sec_2",
@@ -20233,7 +20863,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "964": {
+      "994": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303021",
         "Tag": "%",
@@ -20254,7 +20884,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "965": {
+      "995": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303021",
         "Tag": "Number",
@@ -20275,7 +20905,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "966": {
+      "996": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303021",
         "Tag": "%_1",
@@ -20296,7 +20926,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "967": {
+      "997": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303021",
         "Tag": "Number_1",
@@ -20317,7 +20947,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "968": {
+      "998": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303021",
         "Tag": "Sec_3",
@@ -20338,7 +20968,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "969": {
+      "999": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303022",
         "Tag": "%_1",
@@ -20359,7 +20989,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "970": {
+      "1000": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303022",
         "Tag": "Sec_1",
@@ -20380,7 +21010,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "971": {
+      "1001": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303022",
         "Tag": "%_2",
@@ -20401,7 +21031,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "972": {
+      "1002": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303022",
         "Tag": "Sec_10",
@@ -20422,7 +21052,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "973": {
+      "1003": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303023",
         "Tag": "Number_1",
@@ -20443,7 +21073,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "974": {
+      "1004": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303023",
         "Tag": "Number_2",
@@ -20464,7 +21094,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "975": {
+      "1005": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303023",
         "Tag": "Number_3",
@@ -20485,7 +21115,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "976": {
+      "1006": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303023",
         "Tag": "Number_4",
@@ -20506,7 +21136,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "977": {
+      "1007": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303023",
         "Tag": "%",
@@ -20527,7 +21157,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "978": {
+      "1008": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304000",
         "Tag": "MinDamage_1",
@@ -20548,7 +21178,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "979": {
+      "1009": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304000",
         "Tag": "MaxDamage_1",
@@ -20569,7 +21199,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "980": {
+      "1010": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304000",
         "Tag": "MinDamage_2",
@@ -20590,7 +21220,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "981": {
+      "1011": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304000",
         "Tag": "MaxDamage_2",
@@ -20611,7 +21241,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "982": {
+      "1012": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304001",
         "Tag": "Sec_1",
@@ -20632,7 +21262,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "983": {
+      "1013": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304001",
         "Tag": "Number_1",
@@ -20653,7 +21283,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "984": {
+      "1014": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304001",
         "Tag": "%_1",
@@ -20674,7 +21304,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "985": {
+      "1015": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304001",
         "Tag": "Number_2",
@@ -20695,7 +21325,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "986": {
+      "1016": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304001",
         "Tag": "%_2",
@@ -20716,7 +21346,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "987": {
+      "1017": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304001",
         "Tag": "%_3",
@@ -20737,7 +21367,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "988": {
+      "1018": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304001",
         "Tag": "Sec_10",
@@ -20758,7 +21388,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "989": {
+      "1019": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304002",
         "Tag": "Number_1",
@@ -20779,7 +21409,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "990": {
+      "1020": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304002",
         "Tag": "%_1",
@@ -20800,7 +21430,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "991": {
+      "1021": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304002",
         "Tag": "Sec_10",
@@ -20821,7 +21451,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "992": {
+      "1022": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304003",
         "Tag": "%_1",
@@ -20842,7 +21472,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "993": {
+      "1023": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304003",
         "Tag": "%_2",
@@ -20863,7 +21493,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "994": {
+      "1024": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304004",
         "Tag": "Sec_1",
@@ -20884,7 +21514,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "995": {
+      "1025": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304004",
         "Tag": "Number_1",
@@ -20905,7 +21535,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "996": {
+      "1026": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304004",
         "Tag": "%_1",
@@ -20926,7 +21556,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "997": {
+      "1027": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304004",
         "Tag": "Sec_10",
@@ -20947,7 +21577,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "998": {
+      "1028": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900000",
         "Tag": "Sec",
@@ -20968,7 +21598,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "999": {
+      "1029": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900001",
         "Tag": "Sec",
@@ -20989,7 +21619,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1000": {
+      "1030": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900001",
         "Tag": "Number",
@@ -21010,7 +21640,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1001": {
+      "1031": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900002",
         "Tag": "Sec",
@@ -21031,7 +21661,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1002": {
+      "1032": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900002",
         "Tag": "Number",
@@ -21052,7 +21682,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1003": {
+      "1033": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900003",
         "Tag": "Sec",
@@ -21073,7 +21703,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1004": {
+      "1034": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900003",
         "Tag": "Number_1",
@@ -21094,7 +21724,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1005": {
+      "1035": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900003",
         "Tag": "Number_2",
@@ -21115,7 +21745,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1006": {
+      "1036": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900004",
         "Tag": "Sec",
@@ -21136,7 +21766,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1007": {
+      "1037": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900004",
         "Tag": "Number",
@@ -21157,7 +21787,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1008": {
+      "1038": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900005",
         "Tag": "Sec",
@@ -21178,7 +21808,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1009": {
+      "1039": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900005",
         "Tag": "Number",
@@ -21199,7 +21829,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1010": {
+      "1040": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900006",
         "Tag": "Min_1",
@@ -21220,7 +21850,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1011": {
+      "1041": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900006",
         "Tag": "Min_3",
@@ -21241,7 +21871,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1012": {
+      "1042": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900006",
         "Tag": "Max_1",
@@ -21262,7 +21892,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1013": {
+      "1043": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900006",
         "Tag": "Min_4",
@@ -21283,7 +21913,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1014": {
+      "1044": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900006",
         "Tag": "Max_2",
@@ -21304,7 +21934,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1015": {
+      "1045": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900006",
         "Tag": "Min_2",
@@ -21325,7 +21955,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1016": {
+      "1046": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900007",
         "Tag": "Min_1",
@@ -21346,7 +21976,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1017": {
+      "1047": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900007",
         "Tag": "Min",
@@ -21367,7 +21997,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1018": {
+      "1048": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900007",
         "Tag": "Max",
@@ -21388,7 +22018,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1019": {
+      "1049": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900007",
         "Tag": "%",
@@ -21409,7 +22039,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1020": {
+      "1050": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900007",
         "Tag": "Min_2",
@@ -21430,7 +22060,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1021": {
+      "1051": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900008",
         "Tag": "Min_1",
@@ -21451,7 +22081,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1022": {
+      "1052": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900008",
         "Tag": "Min",
@@ -21472,7 +22102,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1023": {
+      "1053": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900008",
         "Tag": "Max",
@@ -21493,7 +22123,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1024": {
+      "1054": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900008",
         "Tag": "%",
@@ -21514,7 +22144,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1025": {
+      "1055": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900008",
         "Tag": "Min_2",
@@ -21535,7 +22165,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1026": {
+      "1056": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900009",
         "Tag": "Min_1",
@@ -21556,7 +22186,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1027": {
+      "1057": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900009",
         "Tag": "%_1",
@@ -21577,7 +22207,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1028": {
+      "1058": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900009",
         "Tag": "%_2",
@@ -21598,7 +22228,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1029": {
+      "1059": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900009",
         "Tag": "Min_2",
@@ -21619,7 +22249,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1030": {
+      "1060": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900010",
         "Tag": "Min_1",
@@ -21640,7 +22270,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1031": {
+      "1061": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900010",
         "Tag": "%",
@@ -21661,7 +22291,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1032": {
+      "1062": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900010",
         "Tag": "Min_2",
@@ -21682,7 +22312,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1033": {
+      "1063": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900011",
         "Tag": "",
@@ -21703,7 +22333,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1034": {
+      "1064": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900012",
         "Tag": "Number_1",
@@ -21724,7 +22354,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1035": {
+      "1065": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30900012",
         "Tag": "Number_2",
@@ -21745,7 +22375,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1036": {
+      "1066": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30201010",
         "Tag": "Number",
@@ -21766,7 +22396,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1037": {
+      "1067": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30201010",
         "Tag": "Sec",
@@ -21787,7 +22417,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1038": {
+      "1068": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30202006",
         "Tag": "Number",
@@ -21808,7 +22438,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1039": {
+      "1069": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30202006",
         "Tag": "Sec",
@@ -21829,7 +22459,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1040": {
+      "1070": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30203010",
         "Tag": "Number_1",
@@ -21850,7 +22480,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1041": {
+      "1071": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30203010",
         "Tag": "Number_2",
@@ -21871,7 +22501,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1042": {
+      "1072": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30203010",
         "Tag": "Sec",
@@ -21892,7 +22522,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1043": {
+      "1073": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30204004",
         "Tag": "Sec_1",
@@ -21913,7 +22543,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1044": {
+      "1074": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30204004",
         "Tag": "Number_1",
@@ -21934,7 +22564,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1045": {
+      "1075": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30204004",
         "Tag": "Number_2",
@@ -21955,7 +22585,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1046": {
+      "1076": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30204004",
         "Tag": "Number_3",
@@ -21976,7 +22606,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1047": {
+      "1077": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30204004",
         "Tag": "Sec_2",
@@ -21997,7 +22627,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1048": {
+      "1078": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30204004",
         "Tag": "Number_4",
@@ -22018,7 +22648,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1049": {
+      "1079": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30201014",
         "Tag": "Number",
@@ -22039,7 +22669,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1050": {
+      "1080": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30201014",
         "Tag": "Sec",
@@ -22060,7 +22690,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1051": {
+      "1081": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301013",
         "Tag": "Number",
@@ -22081,7 +22711,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1052": {
+      "1082": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301013",
         "Tag": "Sec",
@@ -22102,7 +22732,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1053": {
+      "1083": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302010",
         "Tag": "Number",
@@ -22123,7 +22753,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1054": {
+      "1084": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30302010",
         "Tag": "Sec",
@@ -22144,7 +22774,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1055": {
+      "1085": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303010",
         "Tag": "Number_1",
@@ -22165,7 +22795,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1056": {
+      "1086": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303010",
         "Tag": "Number_2",
@@ -22186,7 +22816,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1057": {
+      "1087": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30303010",
         "Tag": "Sec",
@@ -22207,7 +22837,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1058": {
+      "1088": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304005",
         "Tag": "Sec_1",
@@ -22228,7 +22858,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1059": {
+      "1089": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304005",
         "Tag": "Number_1",
@@ -22249,7 +22879,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1060": {
+      "1090": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304005",
         "Tag": "Number_2",
@@ -22270,7 +22900,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1061": {
+      "1091": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304005",
         "Tag": "Number_3",
@@ -22291,7 +22921,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1062": {
+      "1092": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304005",
         "Tag": "Sec_2",
@@ -22312,7 +22942,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1063": {
+      "1093": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304005",
         "Tag": "Number_4",
@@ -22333,7 +22963,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1064": {
+      "1094": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301008",
         "Tag": "Number",
@@ -22354,7 +22984,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1065": {
+      "1095": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30301008",
         "Tag": "Sec",
@@ -22375,7 +23005,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1066": {
+      "1096": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30204005",
         "Tag": "Sec_1",
@@ -22396,7 +23026,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1067": {
+      "1097": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30204005",
         "Tag": "%",
@@ -22417,7 +23047,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1068": {
+      "1098": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30204005",
         "Tag": "Sec_2",
@@ -22438,7 +23068,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1069": {
+      "1099": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30204010",
         "Tag": "Sec",
@@ -22459,7 +23089,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1070": {
+      "1100": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304006",
         "Tag": "%",
@@ -22480,7 +23110,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1071": {
+      "1101": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304006",
         "Tag": "Sec",
@@ -22501,7 +23131,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1072": {
+      "1102": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304009",
         "Tag": "%_1",
@@ -22522,7 +23152,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1073": {
+      "1103": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304009",
         "Tag": "Sec_1",
@@ -22543,7 +23173,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1074": {
+      "1104": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304009",
         "Tag": "%_2",
@@ -22564,7 +23194,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1075": {
+      "1105": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304009",
         "Tag": "%_3",
@@ -22585,7 +23215,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1076": {
+      "1106": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304009",
         "Tag": "%_4",
@@ -22606,7 +23236,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1077": {
+      "1107": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304009",
         "Tag": "Sec_2",
@@ -22627,7 +23257,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1078": {
+      "1108": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304007",
         "Tag": "Sec_1",
@@ -22648,7 +23278,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1079": {
+      "1109": {
         "LocaleType": "ESkillLocaleType::Item",
         "SkillGroupID": "30304007",
         "Tag": "Sec_2",
@@ -22669,7 +23299,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1080": {
+      "1110": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101000",
         "Tag": "Number_1",
@@ -22690,7 +23320,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1081": {
+      "1111": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101000",
         "Tag": "%_1",
@@ -22711,7 +23341,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1082": {
+      "1112": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101000",
         "Tag": "Number_2",
@@ -22732,7 +23362,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1083": {
+      "1113": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101000",
         "Tag": "%_22",
@@ -22753,7 +23383,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1084": {
+      "1114": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101000",
         "Tag": "MinDamage",
@@ -22774,7 +23404,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1085": {
+      "1115": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101000",
         "Tag": "MaxDamage",
@@ -22795,7 +23425,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1086": {
+      "1116": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101000",
         "Tag": "%_2",
@@ -22816,7 +23446,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1087": {
+      "1117": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101000",
         "Tag": "Number_3",
@@ -22837,7 +23467,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1088": {
+      "1118": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101000",
         "Tag": "Sec_10",
@@ -22858,7 +23488,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1089": {
+      "1119": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101001",
         "Tag": "Min_1",
@@ -22879,7 +23509,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1090": {
+      "1120": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101001",
         "Tag": "Max_1",
@@ -22900,7 +23530,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1091": {
+      "1121": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101001",
         "Tag": "Min_2",
@@ -22921,7 +23551,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1092": {
+      "1122": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101001",
         "Tag": "Max_2",
@@ -22942,7 +23572,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1093": {
+      "1123": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101001",
         "Tag": "Sec",
@@ -22963,7 +23593,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1094": {
+      "1124": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101001",
         "Tag": "Number_1",
@@ -22984,7 +23614,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1095": {
+      "1125": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101001",
         "Tag": "Number_2",
@@ -23005,7 +23635,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1096": {
+      "1126": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101001",
         "Tag": "Sec_10",
@@ -23026,7 +23656,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1097": {
+      "1127": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101001",
         "Tag": "Sec_2",
@@ -23047,7 +23677,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1098": {
+      "1128": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101001",
         "Tag": "%",
@@ -23068,7 +23698,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1099": {
+      "1129": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101002",
         "Tag": "Sec",
@@ -23089,7 +23719,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1100": {
+      "1130": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101002",
         "Tag": "Sec_10",
@@ -23110,7 +23740,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1101": {
+      "1131": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101003",
         "Tag": "Sec",
@@ -23131,7 +23761,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1102": {
+      "1132": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101003",
         "Tag": "MinDamage",
@@ -23152,7 +23782,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1103": {
+      "1133": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101003",
         "Tag": "MaxDamage",
@@ -23173,7 +23803,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1104": {
+      "1134": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101003",
         "Tag": "%",
@@ -23194,7 +23824,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1105": {
+      "1135": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101003",
         "Tag": "Sec_10",
@@ -23215,7 +23845,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1106": {
+      "1136": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101004",
         "Tag": "Sec",
@@ -23236,7 +23866,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1107": {
+      "1137": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101004",
         "Tag": "MinDamage",
@@ -23257,7 +23887,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1108": {
+      "1138": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101004",
         "Tag": "MaxDamage",
@@ -23278,7 +23908,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1109": {
+      "1139": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101004",
         "Tag": "%",
@@ -23299,7 +23929,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1110": {
+      "1140": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101004",
         "Tag": "Sec_10",
@@ -23320,7 +23950,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1111": {
+      "1141": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101005",
         "Tag": "Sec_10",
@@ -23341,7 +23971,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1112": {
+      "1142": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101006",
         "Tag": "Sec_10",
@@ -23362,7 +23992,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1113": {
+      "1143": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101007",
         "Tag": "MinDamage",
@@ -23383,7 +24013,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1114": {
+      "1144": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101007",
         "Tag": "MaxDamage",
@@ -23404,7 +24034,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1115": {
+      "1145": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101007",
         "Tag": "Sec",
@@ -23425,7 +24055,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1116": {
+      "1146": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101007",
         "Tag": "Number",
@@ -23446,7 +24076,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1117": {
+      "1147": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101007",
         "Tag": "Sec_10",
@@ -23467,7 +24097,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1118": {
+      "1148": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101008",
         "Tag": "Sec",
@@ -23488,7 +24118,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1119": {
+      "1149": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101008",
         "Tag": "%_1",
@@ -23509,7 +24139,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1120": {
+      "1150": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101008",
         "Tag": "%_2",
@@ -23530,7 +24160,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1121": {
+      "1151": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101008",
         "Tag": "Sec_10",
@@ -23551,7 +24181,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1122": {
+      "1152": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101009",
         "Tag": "Sec",
@@ -23572,7 +24202,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1123": {
+      "1153": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101009",
         "Tag": "%_1",
@@ -23593,7 +24223,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1124": {
+      "1154": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101009",
         "Tag": "%_2",
@@ -23614,7 +24244,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1125": {
+      "1155": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101009",
         "Tag": "Sec_10",
@@ -23635,7 +24265,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1126": {
+      "1156": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101010",
         "Tag": "Sec",
@@ -23656,7 +24286,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1127": {
+      "1157": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101010",
         "Tag": "%_1",
@@ -23677,7 +24307,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1128": {
+      "1158": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101010",
         "Tag": "%_2",
@@ -23698,7 +24328,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1129": {
+      "1159": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101010",
         "Tag": "%_3",
@@ -23719,7 +24349,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1130": {
+      "1160": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101010",
         "Tag": "Sec_10",
@@ -23740,7 +24370,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1131": {
+      "1161": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101011",
         "Tag": "Sec_10",
@@ -23761,7 +24391,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1132": {
+      "1162": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101012",
         "Tag": "%_1",
@@ -23782,7 +24412,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1133": {
+      "1163": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101012",
         "Tag": "%_2",
@@ -23803,7 +24433,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1134": {
+      "1164": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101012",
         "Tag": "Sec_10",
@@ -23824,7 +24454,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1135": {
+      "1165": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101013",
         "Tag": "Sec_10",
@@ -23845,7 +24475,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1136": {
+      "1166": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101014",
         "Tag": "Sec_1",
@@ -23866,7 +24496,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1137": {
+      "1167": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101014",
         "Tag": "Number_1",
@@ -23887,7 +24517,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1138": {
+      "1168": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101014",
         "Tag": "Number_2",
@@ -23908,7 +24538,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1139": {
+      "1169": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101014",
         "Tag": "Number_3",
@@ -23929,7 +24559,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1140": {
+      "1170": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101014",
         "Tag": "Sec_2",
@@ -23950,7 +24580,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1141": {
+      "1171": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101014",
         "Tag": "Number_4",
@@ -23971,7 +24601,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1142": {
+      "1172": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101014",
         "Tag": "sec_3",
@@ -23992,7 +24622,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1143": {
+      "1173": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101014",
         "Tag": "Sec_10",
@@ -24013,7 +24643,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1144": {
+      "1174": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101015",
         "Tag": "Sec",
@@ -24034,7 +24664,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1145": {
+      "1175": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101015",
         "Tag": "%_1",
@@ -24055,7 +24685,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1146": {
+      "1176": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101015",
         "Tag": "%_2",
@@ -24076,7 +24706,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1147": {
+      "1177": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101015",
         "Tag": "%_3",
@@ -24097,7 +24727,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1148": {
+      "1178": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101015",
         "Tag": "Sec_10",
@@ -24118,7 +24748,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1149": {
+      "1179": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101016",
         "Tag": "Sec",
@@ -24139,7 +24769,7 @@
         "TargetID_SkillLv5": "None",
         "TargetID_SkillLv6": "None"
       },
-      "1150": {
+      "1180": {
         "LocaleType": "ESkillLocaleType::Skill",
         "SkillGroupID": "40101016",
         "Tag": "Sec_10",
