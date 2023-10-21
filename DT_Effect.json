@@ -12008,141 +12008,177 @@
         "PostProcessPath": null
       },
       "862": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
-        "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
+        "FXID": "1007LMB1",
+        "HeroID": "1007",
+        "SkinID": "1007007",
+        "HideOnStealth": "EHideDirectionInStealth::EHDIS_Expose",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "ParticleSystem'P_PunchTrails_1007007'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/P_PunchTrails_1007007.25"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "863": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
-        "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
+        "FXID": "1007LMB2",
+        "HeroID": "1007",
+        "SkinID": "1007007",
+        "HideOnStealth": "EHideDirectionInStealth::EHDIS_Expose",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "NiagaraSystem'NS_Steel_Smoke_01_1007006'",
+          "ObjectPath": "Overprime/Content/Effect/NiagaraSystem/NS_Steel_Smoke_01_1007006.31"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "864": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
-        "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
+        "FXID": "1007RMB1",
+        "HeroID": "1007",
+        "SkinID": "1007007",
+        "HideOnStealth": "EHideDirectionInStealth::EHDIS_Expose",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "ParticleSystem'P_Steel_Rmb_1007007'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/P_Steel_Rmb_1007007.30"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "865": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
-        "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
+        "FXID": "1007RMB2",
+        "HeroID": "1007",
+        "SkinID": "1007007",
+        "HideOnStealth": "EHideDirectionInStealth::EHDIS_Expose",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "ParticleSystem'P_Steel_RMBImpact_1007007'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/P_Steel_RMBImpact_1007007.204"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "866": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
-        "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
+        "FXID": "1007RMB3",
+        "HeroID": "1007",
+        "SkinID": "1007007",
+        "HideOnStealth": "EHideDirectionInStealth::EHDIS_Expose",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "ParticleSystem'P_Steel_RMBImpact_Shield_1007007'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/P_Steel_RMBImpact_Shield_1007007.28"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "867": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
-        "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
+        "FXID": "1007Q1",
+        "HeroID": "1007",
+        "SkinID": "1007007",
+        "HideOnStealth": "EHideDirectionInStealth::EHDIS_Expose",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "ParticleSystem'P_ShieldSolar_1007007'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/P_ShieldSolar_1007007.178"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "868": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
-        "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
+        "FXID": "1007R1",
+        "HeroID": "1007",
+        "SkinID": "1007007",
+        "HideOnStealth": "EHideDirectionInStealth::EHDIS_Expose",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "ParticleSystem'P_DirtBlast_1007007'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/P_DirtBlast_1007007.61"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "869": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
-        "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
+        "FXID": "1007R3",
+        "HeroID": "1007",
+        "SkinID": "1007007",
+        "HideOnStealth": "EHideDirectionInStealth::EHDIS_Expose",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "ParticleSystem'P_Steel_Ultimate_Impact_1007007'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/P_Steel_Ultimate_Impact_1007007.373"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "870": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
-        "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
+        "FXID": "1007R4",
+        "HeroID": "1007",
+        "SkinID": "1007007",
+        "HideOnStealth": "EHideDirectionInStealth::EHDIS_Expose",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "ParticleSystem'P_DustRing_1007007'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/P_DustRing_1007007.227"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "871": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
-        "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
+        "FXID": "1007R5",
+        "HeroID": "1007",
+        "SkinID": "1007007",
+        "HideOnStealth": "EHideDirectionInStealth::EHDIS_Expose",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "NiagaraSystem'NS_Steel_Cooperate_01_1007007'",
+          "ObjectPath": "Overprime/Content/Effect/NiagaraSystem/NS_Steel_Cooperate_01_1007007.81"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "872": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
-        "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
+        "FXID": "1007R6",
+        "HeroID": "1007",
+        "SkinID": "1007007",
+        "HideOnStealth": "EHideDirectionInStealth::EHDIS_Expose",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "ParticleSystem'P_Steel_R_Smoke_1007006'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/P_Steel_R_Smoke_1007006.40"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "873": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
-        "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
+        "FXID": "1007R7",
+        "HeroID": "1007",
+        "SkinID": "1007007",
+        "HideOnStealth": "EHideDirectionInStealth::EHDIS_Expose",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
         "ParticlePath": null,
-        "MaterialPath": null,
+        "MaterialPath": {
+          "ObjectName": "MaterialInstanceConstant'MI_Decal_Steel_01_1007007'",
+          "ObjectPath": "Overprime/Content/Effect/MaterialInstance/MI_Decal_Steel_01_1007007.0"
+        },
         "PostProcessPath": null
       },
       "874": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1007R8",
+        "HeroID": "1007",
+        "SkinID": "1007007",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
@@ -12151,9 +12187,9 @@
         "PostProcessPath": null
       },
       "875": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1007Q2",
+        "HeroID": "1007",
+        "SkinID": "1007007",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,

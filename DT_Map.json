@@ -314,7 +314,7 @@
         "LevelFile": "World'/Game/Maps/NewAgora/Legacy_NewAgora.Legacy_NewAgora'",
         "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_01.T_image_Map_01'",
         "GameModeToUse": "ESelectedGameModeType::ESGMT_Normal",
-        "UseSpell": false,
+        "UseSpell": true,
         "StartLevel": 1,
         "StartSkillPoint": 1,
         "MaxTeamLimit": 5,
@@ -382,7 +382,7 @@
         "LevelFile": "World'/Game/Maps/NewAgora/Legacy_NewAgora.Legacy_NewAgora'",
         "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_01.T_image_Map_01'",
         "GameModeToUse": "ESelectedGameModeType::ESGMT_Single",
-        "UseSpell": false,
+        "UseSpell": true,
         "StartLevel": 1,
         "StartSkillPoint": 1,
         "MaxTeamLimit": 5,
@@ -450,7 +450,7 @@
         "LevelFile": "World'/Game/Maps/NewAgora/Legacy_NewAgora.Legacy_NewAgora'",
         "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_01.T_image_Map_01'",
         "GameModeToUse": "ESelectedGameModeType::ESGMT_VS_AI",
-        "UseSpell": false,
+        "UseSpell": true,
         "StartLevel": 1,
         "StartSkillPoint": 1,
         "MaxTeamLimit": 5,
@@ -518,7 +518,7 @@
         "LevelFile": "World'/Game/Maps/NewAgora/Legacy_NewAgora.Legacy_NewAgora'",
         "MapThumbnailPath": "Texture2D'/Game/UI/Resource/Texture/T_image_Map_01.T_image_Map_01'",
         "GameModeToUse": "ESelectedGameModeType::ESGMT_Custom",
-        "UseSpell": false,
+        "UseSpell": true,
         "StartLevel": 1,
         "StartSkillPoint": 1,
         "MaxTeamLimit": 5,
@@ -746,12 +746,12 @@
           "ObjectPath": "Overprime/Content/UI/Battle/UMGHUD.12"
         },
         "StartSequence_Dawn": {
-          "ObjectName": "LevelSequence'UI_Team_A'",
-          "ObjectPath": "Overprime/Content/UI/UI_Camera/UI_Team_A.2"
+          "ObjectName": "LevelSequence'UI_Team_A_Halloween'",
+          "ObjectPath": "Overprime/Content/UI/UI_Camera/UI_Team_A_Halloween.2"
         },
         "StartSequence_Dusk": {
-          "ObjectName": "LevelSequence'UI_Team_B'",
-          "ObjectPath": "Overprime/Content/UI/UI_Camera/UI_Team_B.2"
+          "ObjectName": "LevelSequence'UI_Team_B_Halloween'",
+          "ObjectPath": "Overprime/Content/UI/UI_Camera/UI_Team_B_Halloween.2"
         },
         "MapNameEN": "AGNIS OF LIGHT",
         "HeroSpawnZoneSelectionRule": "EHeroSpawnZoneSelectionType::EHSZST_OnTeam",
@@ -820,12 +820,12 @@
           "ObjectPath": "Overprime/Content/UI/Battle/UMGHUD.12"
         },
         "StartSequence_Dawn": {
-          "ObjectName": "LevelSequence'UI_Team_A'",
-          "ObjectPath": "Overprime/Content/UI/UI_Camera/UI_Team_A.2"
+          "ObjectName": "LevelSequence'UI_Team_A_Halloween'",
+          "ObjectPath": "Overprime/Content/UI/UI_Camera/UI_Team_A_Halloween.2"
         },
         "StartSequence_Dusk": {
-          "ObjectName": "LevelSequence'UI_Team_B'",
-          "ObjectPath": "Overprime/Content/UI/UI_Camera/UI_Team_B.2"
+          "ObjectName": "LevelSequence'UI_Team_B_Halloween'",
+          "ObjectPath": "Overprime/Content/UI/UI_Camera/UI_Team_B_Halloween.2"
         },
         "MapNameEN": "AGNIS OF LIGHT",
         "HeroSpawnZoneSelectionRule": "EHeroSpawnZoneSelectionType::EHSZST_OnTeam",
@@ -894,12 +894,12 @@
           "ObjectPath": "Overprime/Content/UI/Battle/UMGHUD.12"
         },
         "StartSequence_Dawn": {
-          "ObjectName": "LevelSequence'UI_Team_A'",
-          "ObjectPath": "Overprime/Content/UI/UI_Camera/UI_Team_A.2"
+          "ObjectName": "LevelSequence'UI_Team_A_Halloween'",
+          "ObjectPath": "Overprime/Content/UI/UI_Camera/UI_Team_A_Halloween.2"
         },
         "StartSequence_Dusk": {
-          "ObjectName": "LevelSequence'UI_Team_B'",
-          "ObjectPath": "Overprime/Content/UI/UI_Camera/UI_Team_B.2"
+          "ObjectName": "LevelSequence'UI_Team_B_Halloween'",
+          "ObjectPath": "Overprime/Content/UI/UI_Camera/UI_Team_B_Halloween.2"
         },
         "MapNameEN": "AGNIS OF LIGHT",
         "HeroSpawnZoneSelectionRule": "EHeroSpawnZoneSelectionType::EHSZST_OnTeam",
