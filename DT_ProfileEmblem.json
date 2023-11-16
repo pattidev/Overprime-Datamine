@@ -1560,6 +1560,28 @@
           "SubPathString": ""
         },
         "Enable": true
+      },
+      "1100142": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 39,
+        "NameKey": "CHAR.Hero_Name_1038",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Yin_Portrait.Hero_Icon_Yin_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100143": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 40,
+        "NameKey": "UI.Emb_SDYin_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDYin_0101.Emb_SDYin_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
       }
     }
   }

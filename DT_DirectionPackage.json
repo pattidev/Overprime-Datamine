@@ -4699,6 +4699,132 @@
         "LocalCameraShake": null,
         "AnimationMontage": null
       },
+      "Hero_1038001_Voice_Clothes": {
+        "Sound": [
+          "Hero_1038001_Voice_Clothes"
+        ],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1038001_Voice_Kill": {
+        "Sound": [
+          "Hero_1038001_Voice_Kill"
+        ],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": true,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1038001_Voice_Death": {
+        "Sound": [
+          "Hero_1038001_Voice_Death"
+        ],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1038001_Voice_Jump": {
+        "Sound": [
+          "Hero_1038001_Voice_Jump"
+        ],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": true,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1038001_Voice_Hit": {
+        "Sound": [
+          "Hero_1038001_Voice_Hit"
+        ],
+        "LocalSound": [
+          "Hero_Common_Skill_Common_TakeHit"
+        ],
+        "StopSpawnSoundOnDestroy": true,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1038001_Voice_Cooltime": {
+        "Sound": [],
+        "LocalSound": [
+          "Hero_1038001_Voice_Cooltime"
+        ],
+        "StopSpawnSoundOnDestroy": true,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1038001_Voice_LvUp": {
+        "Sound": [],
+        "LocalSound": [
+          "Hero_1038001_Voice_LvUp"
+        ],
+        "StopSpawnSoundOnDestroy": true,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1038001_Voice_Land": {
+        "Sound": [],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": true,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1038001_Voice_HeroPick": {
+        "Sound": [],
+        "LocalSound": [
+          "Hero_1038001_Voice_HeroPick"
+        ],
+        "StopSpawnSoundOnDestroy": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
       "Hero_1040001_Voice_Clothes": {
         "Sound": [
           "Hero_1040001_Voice_Clothes"
@@ -6351,8 +6477,8 @@
         "Particle": null,
         "AttachedParticle": null,
         "ScreenParticle": {
-          "ObjectName": "ParticleSystem'P_CameraLens_Timer_Countdown_MudangDash'",
-          "ObjectPath": "Overprime/Content/Resources/FX/Particles/Abilities/Dash/FX/P_CameraLens_Timer_Countdown_MudangDash.41"
+          "ObjectName": "ParticleSystem'P_CameraLens_Timer_Countdown_CircleBar'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/P_CameraLens_Timer_Countdown_CircleBar.26"
         },
         "CameraShakeScale": 0.0,
         "CameraShake": null,
@@ -14895,6 +15021,230 @@
       "Hero_1037001_FootStep_Landing_Dirt": {
         "Sound": [
           "Hero_1037001_FootStep_Landing_Dirt"
+        ],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1038001_FootStep_Move_Grass": {
+        "Sound": [
+          "Hero_1038001_FootStep_Move_Grass"
+        ],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1038001_FootStep_Move_Wood": {
+        "Sound": [
+          "Hero_1038001_FootStep_Move_Wood"
+        ],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1038001_FootStep_Move_Water": {
+        "Sound": [
+          "Hero_1038001_FootStep_Move_Water"
+        ],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1038001_FootStep_Move_Snow": {
+        "Sound": [
+          "Hero_1038001_FootStep_Move_Snow"
+        ],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1038001_FootStep_Move_Ice": {
+        "Sound": [
+          "Hero_1038001_FootStep_Move_Ice"
+        ],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1038001_FootStep_Move_Metal": {
+        "Sound": [
+          "Hero_1038001_FootStep_Move_Metal"
+        ],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1038001_FootStep_Move_Stone": {
+        "Sound": [
+          "Hero_1038001_FootStep_Move_Stone"
+        ],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1038001_FootStep_Move_Dirt": {
+        "Sound": [
+          "Hero_1038001_FootStep_Move_Dirt"
+        ],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1038001_FootStep_Landing_Grass": {
+        "Sound": [
+          "Hero_1038001_FootStep_Landing_Grass"
+        ],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1038001_FootStep_Landing_Wood": {
+        "Sound": [
+          "Hero_1038001_FootStep_Landing_Wood"
+        ],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1038001_FootStep_Landing_Water": {
+        "Sound": [
+          "Hero_1038001_FootStep_Landing_Water"
+        ],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1038001_FootStep_Landing_Snow": {
+        "Sound": [
+          "Hero_1038001_FootStep_Landing_Snow"
+        ],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1038001_FootStep_Landing_Ice": {
+        "Sound": [
+          "Hero_1038001_FootStep_Landing_Ice"
+        ],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1038001_FootStep_Landing_Metal": {
+        "Sound": [
+          "Hero_1038001_FootStep_Landing_Metal"
+        ],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1038001_FootStep_Landing_Stone": {
+        "Sound": [
+          "Hero_1038001_FootStep_Landing_Stone"
+        ],
+        "LocalSound": [],
+        "StopSpawnSoundOnDestroy": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null,
+        "AnimationMontage": null
+      },
+      "Hero_1038001_FootStep_Landing_Dirt": {
+        "Sound": [
+          "Hero_1038001_FootStep_Landing_Dirt"
         ],
         "LocalSound": [],
         "StopSpawnSoundOnDestroy": false,

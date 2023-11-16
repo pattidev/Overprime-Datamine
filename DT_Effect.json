@@ -2630,7 +2630,7 @@
         "bDefault": false,
         "ParticlePath": {
           "ObjectName": "NiagaraSystem'NS_Aurora_Freeze_Whrilwind_1016006'",
-          "ObjectPath": "Overprime/Content/Effect/NiagaraSystem/NS_Aurora_Freeze_Whrilwind_1016006.199"
+          "ObjectPath": "Overprime/Content/Effect/NiagaraSystem/NS_Aurora_Freeze_Whrilwind_1016006.99"
         },
         "MaterialPath": null,
         "PostProcessPath": null
@@ -11980,7 +11980,10 @@
         "bDefault": false,
         "ParticlePath": null,
         "MaterialPath": null,
-        "PostProcessPath": null
+        "PostProcessPath": {
+          "ObjectName": "BlueprintGeneratedClass'PP_Morigesh_E_1035006_C'",
+          "ObjectPath": "Overprime/Content/Effect/CameraFX/PP_Morigesh_E_1035006.3"
+        }
       },
       "860": {
         "FXID": "1035R1",
@@ -11991,7 +11994,10 @@
         "bDefault": false,
         "ParticlePath": null,
         "MaterialPath": null,
-        "PostProcessPath": null
+        "PostProcessPath": {
+          "ObjectName": "BlueprintGeneratedClass'PP_Morigesh_R_1035006_C'",
+          "ObjectPath": "Overprime/Content/Effect/CameraFX/PP_Morigesh_R_1035006.3"
+        }
       },
       "861": {
         "FXID": "1035R2",
@@ -12198,442 +12204,562 @@
         "PostProcessPath": null
       },
       "876": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1019RMB1",
+        "HeroID": "1019",
+        "SkinID": "1019007",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "NiagaraSystem'NS_Belica_RMB_Destroyed_01_1019007'",
+          "ObjectPath": "Overprime/Content/Effect/NiagaraSystem/NS_Belica_RMB_Destroyed_01_1019007.77"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "877": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1019RMB2",
+        "HeroID": "1019",
+        "SkinID": "1019007",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "NiagaraSystem'NS_Belica_RMB_Loop_01_1019007'",
+          "ObjectPath": "Overprime/Content/Effect/NiagaraSystem/NS_Belica_RMB_Loop_01_1019007.44"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "878": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "10190",
+        "HeroID": "1019",
+        "SkinID": "1019007",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "NiagaraSystem'NS_Belica_E_Hand_Start_01_1019007'",
+          "ObjectPath": "Overprime/Content/Effect/NiagaraSystem/NS_Belica_E_Hand_Start_01_1019007.110"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "879": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1019E2",
+        "HeroID": "1019",
+        "SkinID": "1019007",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "NiagaraSystem'NS_Belica_E_Hand_01_1019007'",
+          "ObjectPath": "Overprime/Content/Effect/NiagaraSystem/NS_Belica_E_Hand_01_1019007.136"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "880": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1019R2",
+        "HeroID": "1019",
+        "SkinID": "1019007",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "ParticleSystem'P_Belica_R_1019007'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/P_Belica_R_1019007.43"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "881": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1019R1",
+        "HeroID": "1019",
+        "SkinID": "1019007",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "NiagaraSystem'NS_Belica_R_01_1019007'",
+          "ObjectPath": "Overprime/Content/Effect/NiagaraSystem/NS_Belica_R_01_1019007.421"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "882": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1019R4",
+        "HeroID": "1019",
+        "SkinID": "1019007",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "NiagaraSystem'NS_Belica_R_Casting_01_1019007'",
+          "ObjectPath": "Overprime/Content/Effect/NiagaraSystem/NS_Belica_R_Casting_01_1019007.128"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "883": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1019R5",
+        "HeroID": "1019",
+        "SkinID": "1019007",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "ParticleSystem'P_Belica_R_Holo_02_1019007'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/P_Belica_R_Holo_02_1019007.71"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "884": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1019R6",
+        "HeroID": "1019",
+        "SkinID": "1019007",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
         "ParticlePath": null,
         "MaterialPath": null,
-        "PostProcessPath": null
+        "PostProcessPath": {
+          "ObjectName": "BlueprintGeneratedClass'PP_Belica_R01_1019007_C'",
+          "ObjectPath": "Overprime/Content/Effect/CameraFX/PP_Belica_R01_1019007.3"
+        }
       },
       "885": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1019R7",
+        "HeroID": "1019",
+        "SkinID": "1019007",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
         "ParticlePath": null,
         "MaterialPath": null,
-        "PostProcessPath": null
+        "PostProcessPath": {
+          "ObjectName": "BlueprintGeneratedClass'PP_Belica_R_1019007_C'",
+          "ObjectPath": "Overprime/Content/Effect/CameraFX/PP_Belica_R_1019007.3"
+        }
       },
       "886": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1038LMB1",
+        "HeroID": "1038",
+        "SkinID": "1038001",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
-        "bDefault": false,
-        "ParticlePath": null,
+        "bDefault": true,
+        "ParticlePath": {
+          "ObjectName": "ParticleSystem'P_Yin_Base_Whip'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/P_Yin_Base_Whip.103"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "887": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1038RMB1",
+        "HeroID": "1038",
+        "SkinID": "1038001",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
-        "bDefault": false,
-        "ParticlePath": null,
+        "bDefault": true,
+        "ParticlePath": {
+          "ObjectName": "NiagaraSystem'NS_Yin_RMB_Muzzle'",
+          "ObjectPath": "Overprime/Content/Effect/NiagaraSystem/NS_Yin_RMB_Muzzle.64"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "888": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1038RMB2",
+        "HeroID": "1038",
+        "SkinID": "1038001",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
-        "bDefault": false,
-        "ParticlePath": null,
+        "bDefault": true,
+        "ParticlePath": {
+          "ObjectName": "NiagaraSystem'NS_Yin_RMB_OnE_Hit'",
+          "ObjectPath": "Overprime/Content/Effect/NiagaraSystem/NS_Yin_RMB_OnE_Hit.90"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "889": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1038RMB3",
+        "HeroID": "1038",
+        "SkinID": "1038001",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
-        "bDefault": false,
-        "ParticlePath": null,
+        "bDefault": true,
+        "ParticlePath": {
+          "ObjectName": "ParticleSystem'P_Yin_Base_Whip'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/P_Yin_Base_Whip.103"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "890": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1038RMB4",
+        "HeroID": "1038",
+        "SkinID": "1038001",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
-        "bDefault": false,
-        "ParticlePath": null,
+        "bDefault": true,
+        "ParticlePath": {
+          "ObjectName": "ParticleSystem'P_Yin_RMB_Whip'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/P_Yin_RMB_Whip.68"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "891": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1038R1",
+        "HeroID": "1038",
+        "SkinID": "1038001",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
-        "bDefault": false,
-        "ParticlePath": null,
+        "bDefault": true,
+        "ParticlePath": {
+          "ObjectName": "ParticleSystem'P_Yin_Base_Whip'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/P_Yin_Base_Whip.103"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "892": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1038R2",
+        "HeroID": "1038",
+        "SkinID": "1038001",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
-        "bDefault": false,
-        "ParticlePath": null,
+        "bDefault": true,
+        "ParticlePath": {
+          "ObjectName": "ParticleSystem'P_Yin_R_Whip'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/P_Yin_R_Whip.104"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "893": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1038R3",
+        "HeroID": "1038",
+        "SkinID": "1038001",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
-        "bDefault": false,
+        "bDefault": true,
         "ParticlePath": null,
         "MaterialPath": null,
-        "PostProcessPath": null
+        "PostProcessPath": {
+          "ObjectName": "BlueprintGeneratedClass'PP_YIN_R_C'",
+          "ObjectPath": "Overprime/Content/Effect/CameraFX/PP_YIN_R.3"
+        }
       },
       "894": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1038Q1",
+        "HeroID": "1038",
+        "SkinID": "1038001",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
-        "bDefault": false,
-        "ParticlePath": null,
+        "bDefault": true,
+        "ParticlePath": {
+          "ObjectName": "NiagaraSystem'NS_Yin_Q_Jump'",
+          "ObjectPath": "Overprime/Content/Effect/NiagaraSystem/NS_Yin_Q_Jump.131"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "895": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1038Q2",
+        "HeroID": "1038",
+        "SkinID": "1038001",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
-        "bDefault": false,
-        "ParticlePath": null,
+        "bDefault": true,
+        "ParticlePath": {
+          "ObjectName": "NiagaraSystem'NS_Yin_Q_Dash'",
+          "ObjectPath": "Overprime/Content/Effect/NiagaraSystem/NS_Yin_Q_Dash.64"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "896": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1038Q3",
+        "HeroID": "1038",
+        "SkinID": "1038001",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
-        "bDefault": false,
-        "ParticlePath": null,
+        "bDefault": true,
+        "ParticlePath": {
+          "ObjectName": "ParticleSystem'P_Yin_Q_Ribbon'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/P_Yin_Q_Ribbon.30"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "897": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1038Q4",
+        "HeroID": "1038",
+        "SkinID": "1038001",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
-        "bDefault": false,
-        "ParticlePath": null,
+        "bDefault": true,
+        "ParticlePath": {
+          "ObjectName": "ParticleSystem'P_Yin_Q_Ribbon'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/P_Yin_Q_Ribbon.30"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "898": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1038Q5",
+        "HeroID": "1038",
+        "SkinID": "1038001",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
-        "bDefault": false,
+        "bDefault": true,
         "ParticlePath": null,
         "MaterialPath": null,
-        "PostProcessPath": null
+        "PostProcessPath": {
+          "ObjectName": "BlueprintGeneratedClass'PP_Yin_Q_C'",
+          "ObjectPath": "Overprime/Content/Effect/CameraFX/PP_Yin_Q.3"
+        }
       },
       "899": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1038LMB1",
+        "HeroID": "1038",
+        "SkinID": "1038006",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "ParticleSystem'P_Yin_Base_Whip_1038006'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/P_Yin_Base_Whip_1038006.103"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "900": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1038RMB1",
+        "HeroID": "1038",
+        "SkinID": "1038006",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "NiagaraSystem'NS_Yin_RMB_Muzzle_1038006'",
+          "ObjectPath": "Overprime/Content/Effect/NiagaraSystem/NS_Yin_RMB_Muzzle_1038006.79"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "901": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1038RMB2",
+        "HeroID": "1038",
+        "SkinID": "1038006",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "NiagaraSystem'NS_Yin_RMB_OnE_Hit_1038006'",
+          "ObjectPath": "Overprime/Content/Effect/NiagaraSystem/NS_Yin_RMB_OnE_Hit_1038006.73"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "902": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1038RMB3",
+        "HeroID": "1038",
+        "SkinID": "1038006",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "ParticleSystem'P_Yin_Base_Whip_1038006'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/P_Yin_Base_Whip_1038006.103"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "903": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1038RMB4",
+        "HeroID": "1038",
+        "SkinID": "1038006",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "ParticleSystem'P_Yin_RMB_Whip_1038006'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/P_Yin_RMB_Whip_1038006.68"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "904": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1038R1",
+        "HeroID": "1038",
+        "SkinID": "1038006",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "ParticleSystem'P_Yin_Base_Whip_1038006'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/P_Yin_Base_Whip_1038006.103"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "905": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1038R2",
+        "HeroID": "1038",
+        "SkinID": "1038006",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "ParticleSystem'P_Yin_R_Whip_1038006'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/P_Yin_R_Whip_1038006.104"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "906": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1038R3",
+        "HeroID": "1038",
+        "SkinID": "1038006",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
         "ParticlePath": null,
         "MaterialPath": null,
-        "PostProcessPath": null
+        "PostProcessPath": {
+          "ObjectName": "BlueprintGeneratedClass'PP_YIN_R_1038006_C'",
+          "ObjectPath": "Overprime/Content/Effect/CameraFX/PP_YIN_R_1038006.3"
+        }
       },
       "907": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1038Q1",
+        "HeroID": "1038",
+        "SkinID": "1038006",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "NiagaraSystem'NS_Yin_Q_Jump_1038006'",
+          "ObjectPath": "Overprime/Content/Effect/NiagaraSystem/NS_Yin_Q_Jump_1038006.186"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "908": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1038Q2",
+        "HeroID": "1038",
+        "SkinID": "1038006",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "NiagaraSystem'NS_Yin_Q_Dash_1038006'",
+          "ObjectPath": "Overprime/Content/Effect/NiagaraSystem/NS_Yin_Q_Dash_1038006.64"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "909": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1038Q3",
+        "HeroID": "1038",
+        "SkinID": "1038006",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "ParticleSystem'P_Yin_Q_Ribbon_1038006'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/P_Yin_Q_Ribbon_1038006.13"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "910": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1038Q4",
+        "HeroID": "1038",
+        "SkinID": "1038006",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "ParticleSystem'P_Yin_Q_Ribbon_1038006'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/P_Yin_Q_Ribbon_1038006.13"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "911": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1038Q5",
+        "HeroID": "1038",
+        "SkinID": "1038006",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
         "ParticlePath": null,
         "MaterialPath": null,
-        "PostProcessPath": null
+        "PostProcessPath": {
+          "ObjectName": "BlueprintGeneratedClass'PP_Yin_Q_1038006_C'",
+          "ObjectPath": "Overprime/Content/Effect/CameraFX/PP_Yin_Q_1038006.3"
+        }
       },
       "912": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1005Recall1",
+        "HeroID": "1005",
+        "SkinID": "1005006",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "ParticleSystem'P_Kallari_Primary_Trail_Rogue_1005006'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/Kallari/P_Kallari_Primary_Trail_Rogue_1005006.30"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "913": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1005Recall2",
+        "HeroID": "1005",
+        "SkinID": "1005006",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "ParticleSystem'P_Kallari_Lobby_1005006'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/P_Kallari_Lobby_1005006.38"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "914": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1026Recall1",
+        "HeroID": "1026",
+        "SkinID": "1026006",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "ParticleSystem'P_Gadget_Trail_1026006'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/P_Gadget_Trail_1026006.27"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
       "915": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
+        "FXID": "1011Recall1",
+        "HeroID": "1011",
+        "SkinID": "1011007",
         "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
         "HideOnInvisibleMaterial": false,
         "bDefault": false,
-        "ParticlePath": null,
+        "ParticlePath": {
+          "ObjectName": "ParticleSystem'P_Kwang_Trail_1011007'",
+          "ObjectPath": "Overprime/Content/Effect/ParticleSystem/P_Kwang_Trail_1011007.27"
+        },
         "MaterialPath": null,
         "PostProcessPath": null
       },
@@ -14926,17 +15052,6 @@
         "PostProcessPath": null
       },
       "1124": {
-        "FXID": "None",
-        "HeroID": "None",
-        "SkinID": "None",
-        "HideOnStealth": "EHideDirectionInStealth::EHDIS_Hide",
-        "HideOnInvisibleMaterial": false,
-        "bDefault": false,
-        "ParticlePath": null,
-        "MaterialPath": null,
-        "PostProcessPath": null
-      },
-      "1125": {
         "FXID": "None",
         "HeroID": "None",
         "SkinID": "None",

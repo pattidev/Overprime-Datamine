@@ -145,18 +145,6 @@
       "12": {
         "MainType": "EGameSettingMainType::GamePlay",
         "SubType": "EGameSettingSubType::GamePlay_Chat",
-        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_PingMessage",
-        "DetailTypeText": "UI.Setting_GamePlay_Option_IngameChatMacro",
-        "TooltipDescription": "UI.Setting_GamePlay_Option_IngameChatMacro_Desc",
-        "TooltipWidgetClass": null,
-        "IgnoreTextTransformPolicy": false,
-        "IsEnabled": true,
-        "IsDevelopmentOption": false,
-        "ResetKey": false
-      },
-      "13": {
-        "MainType": "EGameSettingMainType::GamePlay",
-        "SubType": "EGameSettingSubType::GamePlay_Chat",
         "DetailType": "EGameSettingDetailType::EGSD_GamePlay_ActivateIngameTeamChat",
         "DetailTypeText": "UI.Setting_GamePlay_Option_IngameTeamChat",
         "TooltipDescription": "UI.Setting_GamePlay_Option_IngameTeamChat_Desc",
@@ -166,7 +154,55 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
+      "13": {
+        "MainType": "EGameSettingMainType::GamePlay",
+        "SubType": "EGameSettingSubType::GamePlay_Chat",
+        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_IngameChatMacro_All",
+        "DetailTypeText": "UI.Setting_GamePlay_Option_IngameChatMacro",
+        "TooltipDescription": "UI.Setting_GamePlay_Option_IngameChatMacro_Desc",
+        "TooltipWidgetClass": null,
+        "IgnoreTextTransformPolicy": false,
+        "IsEnabled": true,
+        "IsDevelopmentOption": false,
+        "ResetKey": false
+      },
       "14": {
+        "MainType": "EGameSettingMainType::GamePlay",
+        "SubType": "EGameSettingSubType::GamePlay_Chat",
+        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_IngameChatMacro_Ping",
+        "DetailTypeText": "UI.Setting_GamePlay_Option_IngamePingMacro",
+        "TooltipDescription": "UI.Setting_GamePlay_Option_IngamePingMacro_Desc",
+        "TooltipWidgetClass": null,
+        "IgnoreTextTransformPolicy": false,
+        "IsEnabled": true,
+        "IsDevelopmentOption": false,
+        "ResetKey": false
+      },
+      "15": {
+        "MainType": "EGameSettingMainType::GamePlay",
+        "SubType": "EGameSettingSubType::GamePlay_Chat",
+        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_IngameChatMacro_Emote",
+        "DetailTypeText": "UI.Setting_GamePlay_Option_IngameEmoteMacro",
+        "TooltipDescription": "UI.Setting_GamePlay_Option_IngameEmoteMacro_Desc",
+        "TooltipWidgetClass": null,
+        "IgnoreTextTransformPolicy": false,
+        "IsEnabled": true,
+        "IsDevelopmentOption": false,
+        "ResetKey": false
+      },
+      "16": {
+        "MainType": "EGameSettingMainType::GamePlay",
+        "SubType": "EGameSettingSubType::GamePlay_Chat",
+        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_IngameChatMacro_Return",
+        "DetailTypeText": "UI.Setting_GamePlay_Option_IngameReturnMacro",
+        "TooltipDescription": "UI.Setting_GamePlay_Option_IngameReturnMacro_Desc",
+        "TooltipWidgetClass": null,
+        "IgnoreTextTransformPolicy": false,
+        "IsEnabled": true,
+        "IsDevelopmentOption": false,
+        "ResetKey": false
+      },
+      "17": {
         "MainType": "EGameSettingMainType::GamePlay",
         "SubType": "EGameSettingSubType::GamePlay_Observer",
         "DetailType": "EGameSettingDetailType::EGSD_GamePlay_ObserverCameraInterpSpeed",
@@ -178,7 +214,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "15": {
+      "18": {
         "MainType": "EGameSettingMainType::GamePlay",
         "SubType": "EGameSettingSubType::GamePlay_Development",
         "DetailType": "EGameSettingDetailType::EGSD_GamePlay_UseMeterFollowAutoTargetting",
@@ -190,7 +226,7 @@
         "IsDevelopmentOption": true,
         "ResetKey": false
       },
-      "16": {
+      "19": {
         "MainType": "EGameSettingMainType::Display",
         "SubType": "EGameSettingSubType::Display",
         "DetailType": "EGameSettingDetailType::EGSD_Display_ScreenMode",
@@ -202,7 +238,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "17": {
+      "20": {
         "MainType": "EGameSettingMainType::Display",
         "SubType": "EGameSettingSubType::Display",
         "DetailType": "EGameSettingDetailType::EGSD_Display_Resolution",
@@ -214,7 +250,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "18": {
+      "21": {
         "MainType": "EGameSettingMainType::Display",
         "SubType": "EGameSettingSubType::Display",
         "DetailType": "EGameSettingDetailType::EGSD_Display_VSync",
@@ -226,7 +262,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "19": {
+      "22": {
         "MainType": "EGameSettingMainType::Display",
         "SubType": "EGameSettingSubType::Display",
         "DetailType": "EGameSettingDetailType::EGSD_Display_FrameRate",
@@ -238,7 +274,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "20": {
+      "23": {
         "MainType": "EGameSettingMainType::Graphic",
         "SubType": "EGameSettingSubType::Graphic_FSR",
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_FSR_1_0",
@@ -250,7 +286,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "21": {
+      "24": {
         "MainType": "EGameSettingMainType::Graphic",
         "SubType": "EGameSettingSubType::Graphic_FSR",
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_FSR_2_0",
@@ -262,7 +298,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "22": {
+      "25": {
         "MainType": "EGameSettingMainType::Graphic",
         "SubType": "EGameSettingSubType::Graphic_XeSS",
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_XeSS",
@@ -274,7 +310,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "23": {
+      "26": {
         "MainType": "EGameSettingMainType::Graphic",
         "SubType": "EGameSettingSubType::Graphic_DLSS",
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_DLSS",
@@ -286,7 +322,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "24": {
+      "27": {
         "MainType": "EGameSettingMainType::Graphic",
         "SubType": "EGameSettingSubType::Graphic_All",
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_Graphic_All",
@@ -298,7 +334,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "25": {
+      "28": {
         "MainType": "EGameSettingMainType::Graphic",
         "SubType": "EGameSettingSubType::Graphic_Detail",
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_ViewDistance",
@@ -310,7 +346,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "26": {
+      "29": {
         "MainType": "EGameSettingMainType::Graphic",
         "SubType": "EGameSettingSubType::Graphic_Detail",
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_AntiAliasing",
@@ -322,7 +358,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "27": {
+      "30": {
         "MainType": "EGameSettingMainType::Graphic",
         "SubType": "EGameSettingSubType::Graphic_Detail",
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_Shadow",
@@ -334,7 +370,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "28": {
+      "31": {
         "MainType": "EGameSettingMainType::Graphic",
         "SubType": "EGameSettingSubType::Graphic_Detail",
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_PostProcess",
@@ -346,7 +382,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "29": {
+      "32": {
         "MainType": "EGameSettingMainType::Graphic",
         "SubType": "EGameSettingSubType::Graphic_Detail",
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_Texture",
@@ -358,7 +394,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "30": {
+      "33": {
         "MainType": "EGameSettingMainType::Graphic",
         "SubType": "EGameSettingSubType::Graphic_Detail",
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_Effect",
@@ -370,7 +406,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "31": {
+      "34": {
         "MainType": "EGameSettingMainType::Graphic",
         "SubType": "EGameSettingSubType::Graphic_Detail",
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_Foliage",
@@ -382,7 +418,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "32": {
+      "35": {
         "MainType": "EGameSettingMainType::Graphic",
         "SubType": "EGameSettingSubType::Graphic_Detail",
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_Shader",
@@ -394,7 +430,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "33": {
+      "36": {
         "MainType": "EGameSettingMainType::Graphic",
         "SubType": "EGameSettingSubType::Graphic_Detail",
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_StaticMesh_LOD_Distance",
@@ -406,7 +442,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "34": {
+      "37": {
         "MainType": "EGameSettingMainType::Graphic",
         "SubType": "EGameSettingSubType::Graphic_Detail",
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_Landscape_LOD_Distribution",
@@ -418,7 +454,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "35": {
+      "38": {
         "MainType": "EGameSettingMainType::Graphic",
         "SubType": "EGameSettingSubType::Graphic_Detail",
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_Quality_Console",
@@ -430,7 +466,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "36": {
+      "39": {
         "MainType": "EGameSettingMainType::Graphic",
         "SubType": "EGameSettingSubType::Graphic_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_ScreenPercentage",
@@ -442,7 +478,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "37": {
+      "40": {
         "MainType": "EGameSettingMainType::Graphic",
         "SubType": "EGameSettingSubType::Graphic_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_RHI_Version",
@@ -454,7 +490,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "38": {
+      "41": {
         "MainType": "EGameSettingMainType::Graphic",
         "SubType": "EGameSettingSubType::Graphic_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_MotionBlur",
@@ -466,7 +502,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "39": {
+      "42": {
         "MainType": "EGameSettingMainType::Graphic",
         "SubType": "EGameSettingSubType::Graphic_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_Sharpen",
@@ -478,7 +514,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "40": {
+      "43": {
         "MainType": "EGameSettingMainType::Graphic",
         "SubType": "EGameSettingSubType::Graphic_Detail",
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_VolumetricFog",
@@ -490,7 +526,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "41": {
+      "44": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Sensitivity",
         "DetailType": "EGameSettingDetailType::EGSD_Control_MouseSensitivity",
@@ -502,7 +538,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "42": {
+      "45": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Sensitivity",
         "DetailType": "EGameSettingDetailType::EGSD_Control_Mouse_Y_Reverse",
@@ -514,7 +550,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "43": {
+      "46": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Movement",
         "DetailType": "EGameSettingDetailType::EGSD_Control_Front",
@@ -526,7 +562,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "44": {
+      "47": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Movement",
         "DetailType": "EGameSettingDetailType::EGSD_Control_Back",
@@ -538,7 +574,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "45": {
+      "48": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Movement",
         "DetailType": "EGameSettingDetailType::EGSD_Control_Left",
@@ -550,7 +586,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "46": {
+      "49": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Movement",
         "DetailType": "EGameSettingDetailType::EGSD_Control_Right",
@@ -562,7 +598,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "47": {
+      "50": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Movement",
         "DetailType": "EGameSettingDetailType::EGSD_Control_Jump",
@@ -574,7 +610,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "48": {
+      "51": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Movement",
         "DetailType": "EGameSettingDetailType::EGSD_Control_Sprint",
@@ -586,7 +622,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "49": {
+      "52": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Combat",
         "DetailType": "EGameSettingDetailType::EGSD_Control_BaseAttack",
@@ -598,7 +634,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "50": {
+      "53": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Combat",
         "DetailType": "EGameSettingDetailType::EGSD_Control_Skill_1",
@@ -610,7 +646,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "51": {
+      "54": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Combat",
         "DetailType": "EGameSettingDetailType::EGSD_Control_Skill_2",
@@ -622,7 +658,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "52": {
+      "55": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Combat",
         "DetailType": "EGameSettingDetailType::EGSD_Control_Skill_3",
@@ -634,7 +670,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "53": {
+      "56": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Combat",
         "DetailType": "EGameSettingDetailType::EGSD_Control_Skill_4",
@@ -646,7 +682,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "54": {
+      "57": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Combat",
         "DetailType": "EGameSettingDetailType::EGSD_Control_WardSkill",
@@ -658,7 +694,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "55": {
+      "58": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Combat",
         "DetailType": "EGameSettingDetailType::EGSD_Control_Skill_Self",
@@ -670,7 +706,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "56": {
+      "59": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Combat",
         "DetailType": "EGameSettingDetailType::EGSD_Control_ActiveCast",
@@ -682,7 +718,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "57": {
+      "60": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Combat",
         "DetailType": "EGameSettingDetailType::EGSD_Control_CancelCast",
@@ -694,7 +730,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "58": {
+      "61": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Spell",
         "DetailType": "EGameSettingDetailType::EGSD_Control_Spell_1",
@@ -706,7 +742,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "59": {
+      "62": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Spell",
         "DetailType": "EGameSettingDetailType::EGSD_Control_Spell_2",
@@ -718,7 +754,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "60": {
+      "63": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Item",
         "DetailType": "EGameSettingDetailType::EGSD_Control_ActiveItem_1",
@@ -730,7 +766,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "61": {
+      "64": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Item",
         "DetailType": "EGameSettingDetailType::EGSD_Control_ActiveItem_2",
@@ -742,7 +778,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "62": {
+      "65": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Ping",
         "DetailType": "EGameSettingDetailType::EGSD_Control_Ping_Positive",
@@ -754,7 +790,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "63": {
+      "66": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Ping",
         "DetailType": "EGameSettingDetailType::EGSD_Control_Ping_Negative",
@@ -766,7 +802,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "64": {
+      "67": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Ping",
         "DetailType": "EGameSettingDetailType::EGSD_Control_PingClose",
@@ -778,7 +814,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "65": {
+      "68": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_Control_QuickBuy_Offensive",
@@ -790,7 +826,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "66": {
+      "69": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_Control_QuickBuy_Defensive",
@@ -802,7 +838,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "67": {
+      "70": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_Control_QuickBuy_Assistant",
@@ -814,7 +850,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "68": {
+      "71": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_Control_Return",
@@ -826,7 +862,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "69": {
+      "72": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_Control_Shop",
@@ -838,7 +874,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "70": {
+      "73": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_Control_SkillInfo",
@@ -850,7 +886,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "71": {
+      "74": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_Control_Emote",
@@ -862,7 +898,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "72": {
+      "75": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_Control_ScoreBoard",
@@ -874,7 +910,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "73": {
+      "76": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_Control_ChatBox",
@@ -886,7 +922,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "74": {
+      "77": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_Control_ToggleUI",
@@ -898,7 +934,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "75": {
+      "78": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_Control_ToggleHud",
@@ -910,7 +946,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "76": {
+      "79": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_Control_OrbDrop",
@@ -922,7 +958,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "77": {
+      "80": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_Control_Surrender_Yes",
@@ -934,7 +970,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "78": {
+      "81": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_Control_Surrender_No",
@@ -946,7 +982,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "79": {
+      "82": {
         "MainType": "EGameSettingMainType::Controls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_Control_Training",
@@ -958,7 +994,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "80": {
+      "83": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Sensitivity",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_X_Sensitivity",
@@ -970,7 +1006,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "81": {
+      "84": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Sensitivity",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Y_Sensitivity",
@@ -982,7 +1018,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "82": {
+      "85": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Sensitivity",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_X_Reverse",
@@ -994,7 +1030,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "83": {
+      "86": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Sensitivity",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Y_Reverse",
@@ -1006,7 +1042,19 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "84": {
+      "87": {
+        "MainType": "EGameSettingMainType::GamepadControls",
+        "SubType": "EGameSettingSubType::Control_Sensitivity",
+        "DetailType": "EGameSettingDetailType::EGSD_GamePad_CursorSpeed",
+        "DetailTypeText": "PS.Setting_GamePad_CursorSpeed",
+        "TooltipDescription": "PS.Setting_GamePad_CursorSpeed_Desc",
+        "TooltipWidgetClass": null,
+        "IgnoreTextTransformPolicy": false,
+        "IsEnabled": true,
+        "IsDevelopmentOption": false,
+        "ResetKey": true
+      },
+      "88": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Gamepad_Control_Convenience",
         "DetailType": "EGameSettingDetailType::EGSD_Gamepad_UsingAutoAim",
@@ -1018,7 +1066,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "85": {
+      "89": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Gamepad_Control_Convenience",
         "DetailType": "EGameSettingDetailType::EGSD_Gamepad_AutoAim_CircleRadius",
@@ -1030,7 +1078,7 @@
         "IsDevelopmentOption": true,
         "ResetKey": true
       },
-      "86": {
+      "90": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Gamepad_Control_Convenience",
         "DetailType": "EGameSettingDetailType::EGSD_Gamepad_AutoAim_TargetDistance",
@@ -1042,7 +1090,7 @@
         "IsDevelopmentOption": true,
         "ResetKey": true
       },
-      "87": {
+      "91": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Gamepad_Control_Convenience",
         "DetailType": "EGameSettingDetailType::EGSD_Gamepad_AutoAim_RetargetDelay",
@@ -1054,19 +1102,19 @@
         "IsDevelopmentOption": true,
         "ResetKey": true
       },
-      "88": {
+      "92": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Gamepad_Control_Convenience",
-        "DetailType": "EGameSettingDetailType::EGSD_Gamepad_ReactiveCameraControl",
-        "DetailTypeText": "PS.Setting_GamePad_ControlConvenience_ReactiveCameraControl",
-        "TooltipDescription": "PS.Setting_GamePad_ControlConvenience_ReactiveCameraControl_Desc",
+        "DetailType": "EGameSettingDetailType::EGSD_GamePad_UsingPadVibration",
+        "DetailTypeText": "PS.Setting_GamePad_Vibration",
+        "TooltipDescription": "PS.Setting_GamePad_Vibration_Desc",
         "TooltipWidgetClass": null,
         "IgnoreTextTransformPolicy": false,
         "IsEnabled": true,
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "89": {
+      "93": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Gamepad_Layout",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Layout",
@@ -1078,7 +1126,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "90": {
+      "94": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Movement",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Jump",
@@ -1090,7 +1138,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "91": {
+      "95": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Movement",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Sprint",
@@ -1102,7 +1150,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "92": {
+      "96": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Movement",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_QuickTurn",
@@ -1114,7 +1162,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "93": {
+      "97": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Combat",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_BaseAttack",
@@ -1126,7 +1174,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "94": {
+      "98": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Combat",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Skill_1",
@@ -1138,7 +1186,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "95": {
+      "99": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Combat",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Skill_2",
@@ -1150,7 +1198,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "96": {
+      "100": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Combat",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Skill_3",
@@ -1162,7 +1210,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "97": {
+      "101": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Combat",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Skill_4",
@@ -1174,7 +1222,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "98": {
+      "102": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Combat",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_WardSkill",
@@ -1186,7 +1234,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "99": {
+      "103": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Combat",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Skill_Self",
@@ -1198,7 +1246,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "100": {
+      "104": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Combat",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_ActiveCast",
@@ -1210,7 +1258,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "101": {
+      "105": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Combat",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_CancelCast",
@@ -1222,7 +1270,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "102": {
+      "106": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Combat",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_AutoAim_ShortCut",
@@ -1234,7 +1282,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "103": {
+      "107": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Spell",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Spell_1",
@@ -1246,7 +1294,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "104": {
+      "108": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Spell",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Spell_2",
@@ -1258,7 +1306,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "105": {
+      "109": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Item",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_ActiveItem_1",
@@ -1270,7 +1318,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "106": {
+      "110": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Item",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_ActiveItem_2",
@@ -1282,7 +1330,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "107": {
+      "111": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Ping",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Ping_Positive",
@@ -1294,7 +1342,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "108": {
+      "112": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Ping",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Ping_Negative",
@@ -1306,7 +1354,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "109": {
+      "113": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Ping",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_PingClose",
@@ -1318,7 +1366,19 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "110": {
+      "114": {
+        "MainType": "EGameSettingMainType::GamepadControls",
+        "SubType": "EGameSettingSubType::Control_Ping",
+        "DetailType": "EGameSettingDetailType::EGSD_GamePad_PingSwitch",
+        "DetailTypeText": "UI.Setting_Controls_PingUse_CloseUi",
+        "TooltipDescription": "UI.Setting_Controls_PingUse_CloseUi_Desc",
+        "TooltipWidgetClass": null,
+        "IgnoreTextTransformPolicy": false,
+        "IsEnabled": true,
+        "IsDevelopmentOption": false,
+        "ResetKey": true
+      },
+      "115": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Function1",
@@ -1330,7 +1390,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "111": {
+      "116": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Function2",
@@ -1342,7 +1402,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "112": {
+      "117": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Function3",
@@ -1354,7 +1414,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "113": {
+      "118": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Function4",
@@ -1366,7 +1426,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "114": {
+      "119": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_QuickBuy_Offensive",
@@ -1378,7 +1438,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "115": {
+      "120": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_QuickBuy_Defensive",
@@ -1390,7 +1450,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "116": {
+      "121": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_QuickBuy_Assistant",
@@ -1402,7 +1462,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "117": {
+      "122": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Return",
@@ -1414,7 +1474,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "118": {
+      "123": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Shop",
@@ -1426,7 +1486,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "119": {
+      "124": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_SkillInfo",
@@ -1438,7 +1498,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "120": {
+      "125": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Emote",
@@ -1450,7 +1510,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "121": {
+      "126": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_ScoreBoard",
@@ -1462,7 +1522,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "122": {
+      "127": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_ChatBox",
@@ -1474,7 +1534,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "123": {
+      "128": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_ChatBox_Lobby",
@@ -1486,7 +1546,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "124": {
+      "129": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_OrbDrop",
@@ -1498,7 +1558,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "125": {
+      "130": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Surrender_Yes",
@@ -1510,7 +1570,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "126": {
+      "131": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Surrender_No",
@@ -1522,7 +1582,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "127": {
+      "132": {
         "MainType": "EGameSettingMainType::GamepadControls",
         "SubType": "EGameSettingSubType::Control_Etc",
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Training",
@@ -1534,7 +1594,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "128": {
+      "133": {
         "MainType": "EGameSettingMainType::Sound",
         "SubType": "EGameSettingSubType::Sound_Volume",
         "DetailType": "EGameSettingDetailType::EGSD_Sound_Main",
@@ -1546,7 +1606,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "129": {
+      "134": {
         "MainType": "EGameSettingMainType::Sound",
         "SubType": "EGameSettingSubType::Sound_Volume",
         "DetailType": "EGameSettingDetailType::EGSD_Sound_BGM",
@@ -1558,7 +1618,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "130": {
+      "135": {
         "MainType": "EGameSettingMainType::Sound",
         "SubType": "EGameSettingSubType::Sound_Volume",
         "DetailType": "EGameSettingDetailType::EGSD_Sound_SFX",
@@ -1570,7 +1630,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "131": {
+      "136": {
         "MainType": "EGameSettingMainType::Sound",
         "SubType": "EGameSettingSubType::Sound_Volume",
         "DetailType": "EGameSettingDetailType::EGSD_Sound_UI",
@@ -1582,7 +1642,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "132": {
+      "137": {
         "MainType": "EGameSettingMainType::Sound",
         "SubType": "EGameSettingSubType::Sound_Volume",
         "DetailType": "EGameSettingDetailType::EGSD_Sound_Announcer",
@@ -1594,7 +1654,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "133": {
+      "138": {
         "MainType": "EGameSettingMainType::Sound",
         "SubType": "EGameSettingSubType::Sound_Volume",
         "DetailType": "EGameSettingDetailType::EGSD_Sound_Voice",
@@ -1606,7 +1666,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "134": {
+      "139": {
         "MainType": "EGameSettingMainType::Sound",
         "SubType": "EGameSettingSubType::Sound_Volume",
         "DetailType": "EGameSettingDetailType::EGSD_Sound_Ambient",
@@ -1618,7 +1678,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "135": {
+      "140": {
         "MainType": "EGameSettingMainType::Sound",
         "SubType": "EGameSettingSubType::Sound_Volume",
         "DetailType": "EGameSettingDetailType::EGSD_Sound_App_Background_Volume",
@@ -1630,7 +1690,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": true
       },
-      "136": {
+      "141": {
         "MainType": "EGameSettingMainType::Accessibility",
         "SubType": "EGameSettingSubType::Accessibility_Interface",
         "DetailType": "EGameSettingDetailType::EGSD_Accessibility_MeInterface",
@@ -1645,7 +1705,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "137": {
+      "142": {
         "MainType": "EGameSettingMainType::Accessibility",
         "SubType": "EGameSettingSubType::Accessibility_Interface",
         "DetailType": "EGameSettingDetailType::EGSD_Accessibility_AllyInterface",
@@ -1660,7 +1720,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "138": {
+      "143": {
         "MainType": "EGameSettingMainType::Accessibility",
         "SubType": "EGameSettingSubType::Accessibility_Interface",
         "DetailType": "EGameSettingDetailType::EGSD_Accessibility_EnemyInterface",
@@ -1675,7 +1735,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "139": {
+      "144": {
         "MainType": "EGameSettingMainType::Accessibility",
         "SubType": "EGameSettingSubType::Accessibility_ColorVision",
         "DetailType": "EGameSettingDetailType::EGSD_Accessibility_ColorVisionType",
@@ -1690,7 +1750,7 @@
         "IsDevelopmentOption": false,
         "ResetKey": false
       },
-      "140": {
+      "145": {
         "MainType": "EGameSettingMainType::Accessibility",
         "SubType": "EGameSettingSubType::Accessibility_ColorVision",
         "DetailType": "EGameSettingDetailType::EGSD_Accessibility_ColorVisionSeverity",

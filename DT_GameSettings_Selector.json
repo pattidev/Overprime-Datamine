@@ -68,15 +68,16 @@
         ]
       },
       "8": {
-        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_PingMessage",
+        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_IngameChatMacro_All",
         "DefaultValue": 1,
         "DisplayTexts": [
           "UI.Setting_Dropdownlist_Common_Disable",
-          "UI.Setting_Dropdownlist_Common_Activation"
+          "UI.Setting_Dropdownlist_Common_Activation",
+          "UI.Setting_Dropdownlist_Common_Custom"
         ]
       },
       "9": {
-        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_QuickBuy",
+        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_IngameChatMacro_Ping",
         "DefaultValue": 1,
         "DisplayTexts": [
           "UI.Setting_Dropdownlist_Common_Disable",
@@ -84,7 +85,7 @@
         ]
       },
       "10": {
-        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_ActivateIngameTeamChat",
+        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_IngameChatMacro_Emote",
         "DefaultValue": 1,
         "DisplayTexts": [
           "UI.Setting_Dropdownlist_Common_Disable",
@@ -92,6 +93,30 @@
         ]
       },
       "11": {
+        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_IngameChatMacro_Return",
+        "DefaultValue": 1,
+        "DisplayTexts": [
+          "UI.Setting_Dropdownlist_Common_Disable",
+          "UI.Setting_Dropdownlist_Common_Activation"
+        ]
+      },
+      "12": {
+        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_QuickBuy",
+        "DefaultValue": 1,
+        "DisplayTexts": [
+          "UI.Setting_Dropdownlist_Common_Disable",
+          "UI.Setting_Dropdownlist_Common_Activation"
+        ]
+      },
+      "13": {
+        "DetailType": "EGameSettingDetailType::EGSD_GamePlay_ActivateIngameTeamChat",
+        "DefaultValue": 1,
+        "DisplayTexts": [
+          "UI.Setting_Dropdownlist_Common_Disable",
+          "UI.Setting_Dropdownlist_Common_Activation"
+        ]
+      },
+      "14": {
         "DetailType": "EGameSettingDetailType::EGSD_GamePlay_HeardBarNameType",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -100,7 +125,7 @@
           "UI.Common_None"
         ]
       },
-      "12": {
+      "15": {
         "DetailType": "EGameSettingDetailType::EGSD_GamePlay_CrossPlay",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -108,7 +133,7 @@
           "UI.Setting_Dropdownlist_Common_Activation"
         ]
       },
-      "13": {
+      "16": {
         "DetailType": "EGameSettingDetailType::EGSD_Accessibility_ColorVisionType",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -118,7 +143,7 @@
           "UI.Setting_Accessibility_ColorVision_Dropdownlist_Blue"
         ]
       },
-      "14": {
+      "17": {
         "DetailType": "EGameSettingDetailType::EGSD_Display_ScreenMode",
         "DefaultValue": 1,
         "DisplayTexts": [
@@ -127,12 +152,12 @@
           "UI.Setting_Display_Screen_Mode_WindowMode"
         ]
       },
-      "15": {
+      "18": {
         "DetailType": "EGameSettingDetailType::EGSD_Display_Resolution",
         "DefaultValue": 3,
         "DisplayTexts": []
       },
-      "16": {
+      "19": {
         "DetailType": "EGameSettingDetailType::EGSD_Display_VSync",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -140,7 +165,7 @@
           "UI.Setting_Dropdownlist_Common_Activation"
         ]
       },
-      "17": {
+      "20": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_FSR_1_0",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -151,7 +176,7 @@
           "UI.Setting_Graphic_FSR_Performance"
         ]
       },
-      "18": {
+      "21": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_FSR_2_0",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -162,7 +187,7 @@
           "UI.Setting_Graphic_FSR_UltraPerformance"
         ]
       },
-      "19": {
+      "22": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_XeSS",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -173,7 +198,7 @@
           "UltraQuality"
         ]
       },
-      "20": {
+      "23": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_DLSS",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -185,7 +210,7 @@
           "ULTRAPERFORMANCE"
         ]
       },
-      "21": {
+      "24": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_Graphic_All",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -196,7 +221,7 @@
           "UI.Setting_Graphic_Dropdownlist_Common_Custom"
         ]
       },
-      "22": {
+      "25": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_ViewDistance",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -206,7 +231,7 @@
           "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
         ]
       },
-      "23": {
+      "26": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_AntiAliasing",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -216,7 +241,7 @@
           "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
         ]
       },
-      "24": {
+      "27": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_Shadow",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -226,7 +251,7 @@
           "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
         ]
       },
-      "25": {
+      "28": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_PostProcess",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -236,7 +261,7 @@
           "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
         ]
       },
-      "26": {
+      "29": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_Texture",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -246,7 +271,7 @@
           "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
         ]
       },
-      "27": {
+      "30": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_Effect",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -256,7 +281,7 @@
           "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
         ]
       },
-      "28": {
+      "31": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_Foliage",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -266,7 +291,7 @@
           "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
         ]
       },
-      "29": {
+      "32": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_Shader",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -276,7 +301,7 @@
           "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
         ]
       },
-      "30": {
+      "33": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_StaticMesh_LOD_Distance",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -286,7 +311,7 @@
           "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
         ]
       },
-      "31": {
+      "34": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_Landscape_LOD_Distribution",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -296,7 +321,7 @@
           "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
         ]
       },
-      "32": {
+      "35": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_ScreenPercentage",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -306,7 +331,7 @@
           "UI.Setting_Graphic_Dropdownlist_Common_UltraHigh"
         ]
       },
-      "33": {
+      "36": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_RHI_Version",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -314,7 +339,7 @@
           "UI.Setting_Graphic_DX12"
         ]
       },
-      "34": {
+      "37": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_VolumetricFog",
         "DefaultValue": 1,
         "DisplayTexts": [
@@ -322,7 +347,7 @@
           "UI.Setting_Dropdownlist_Common_Activation"
         ]
       },
-      "35": {
+      "38": {
         "DetailType": "EGameSettingDetailType::EGSD_Sound_App_Background_Volume",
         "DefaultValue": 1,
         "DisplayTexts": [
@@ -330,7 +355,7 @@
           "UI.Setting_Dropdownlist_Common_Activation"
         ]
       },
-      "36": {
+      "39": {
         "DetailType": "EGameSettingDetailType::EGSD_Graphic_Quality_Console",
         "DefaultValue": 1,
         "DisplayTexts": [
@@ -338,7 +363,7 @@
           "PS.Setting_Graphic_Console_Quality"
         ]
       },
-      "37": {
+      "40": {
         "DetailType": "EGameSettingDetailType::EGSD_Control_Mouse_Y_Reverse",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -346,16 +371,17 @@
           "UI.Setting_Dropdownlist_Common_Activation"
         ]
       },
-      "38": {
+      "41": {
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Layout",
         "DefaultValue": 2,
         "DisplayTexts": [
           "PS.Setting_GamePad_Layout_Type_Default_A",
           "PS.Setting_GamePad_Layout_Type_Default_B",
-          "PS.Setting_GamePad_Layout_Type_Default_C"
+          "PS.Setting_GamePad_Layout_Type_Default_C",
+          "PS.Setting_GamePad_Layout_Type_Default_D"
         ]
       },
-      "39": {
+      "42": {
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_X_Reverse",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -363,7 +389,7 @@
           "UI.Setting_Dropdownlist_Common_Activation"
         ]
       },
-      "40": {
+      "43": {
         "DetailType": "EGameSettingDetailType::EGSD_GamePad_Y_Reverse",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -371,7 +397,7 @@
           "UI.Setting_Dropdownlist_Common_Activation"
         ]
       },
-      "41": {
+      "44": {
         "DetailType": "EGameSettingDetailType::EGSD_Gamepad_UsingAutoAim",
         "DefaultValue": 0,
         "DisplayTexts": [
@@ -379,9 +405,25 @@
           "UI.Setting_Dropdownlist_Common_Activation"
         ]
       },
-      "42": {
+      "45": {
         "DetailType": "EGameSettingDetailType::EGSD_Gamepad_ReactiveCameraControl",
         "DefaultValue": 0,
+        "DisplayTexts": [
+          "UI.Setting_Dropdownlist_Common_Disable",
+          "UI.Setting_Dropdownlist_Common_Activation"
+        ]
+      },
+      "46": {
+        "DetailType": "EGameSettingDetailType::EGSD_GamePad_UsingPadSpeaker",
+        "DefaultValue": 1,
+        "DisplayTexts": [
+          "UI.Setting_Dropdownlist_Common_Disable",
+          "UI.Setting_Dropdownlist_Common_Activation"
+        ]
+      },
+      "47": {
+        "DetailType": "EGameSettingDetailType::EGSD_GamePad_UsingPadVibration",
+        "DefaultValue": 1,
         "DisplayTexts": [
           "UI.Setting_Dropdownlist_Common_Disable",
           "UI.Setting_Dropdownlist_Common_Activation"

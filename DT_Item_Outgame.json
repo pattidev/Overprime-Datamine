@@ -256,6 +256,12 @@
         "MaxAmount": 1,
         "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Iggy_Portrait.Hero_Icon_Iggy_Portrait'"
       },
+      "20001038": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1038,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Yin_Portrait.Hero_Icon_Yin_Portrait'"
+      },
       "20001040": {
         "ItemType": "EItemOutgameType::Hero",
         "ItemTypeID": 1040,
@@ -1414,6 +1420,24 @@
         "MaxAmount": 1,
         "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Iggyscorch/1037901/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
       },
+      "31038001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1038001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Yin/1038001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31038006": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1038006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Yin/1038006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31038901": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1038901,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Yin/1038901/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
       "31040001": {
         "ItemType": "EItemOutgameType::Hero_Skin",
         "ItemTypeID": 1040001,
@@ -2307,6 +2331,18 @@
         "ItemTypeID": 1100141,
         "MaxAmount": 1,
         "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_RangersCupWinner_0101.Emb_RangersCupWinner_0101'"
+      },
+      "41100142": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100142,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Yin_Portrait.Hero_Icon_Yin_Portrait'"
+      },
+      "41100143": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100143,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDYin_0101.Emb_SDYin_0101'"
       }
     }
   }

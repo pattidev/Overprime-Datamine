@@ -680,6 +680,24 @@
         "FootStepMovement": "78",
         "FootStepLanding": "79",
         "FootStepFlyLanding": "None",
+        "HeroGroupID": "1038",
+        "HeroSkinID": "1038001",
+        "OnKillEnemyHero": "Hero_1038001_Voice_Kill",
+        "OnDeath": "Hero_1038001_Voice_Death",
+        "OnJump": "Hero_1038001_Voice_Jump",
+        "OnHitPain": "Hero_1038001_Voice_Hit",
+        "OnCoolDown": "Hero_1038001_Voice_Cooltime",
+        "OnLevelUp": "None",
+        "OnJumpCloth": "Hero_1038001_Voice_Clothes",
+        "OnLanding": "Hero_1038001_Voice_Land",
+        "OnSpawn": "Global_Common_Battle_Event_028",
+        "OnDeathEvent": "Global_Common_Battle_Event_029",
+        "OnHeroPick": "Hero_1038001_Voice_HeroPick"
+      },
+      "39": {
+        "FootStepMovement": "80",
+        "FootStepLanding": "81",
+        "FootStepFlyLanding": "None",
         "HeroGroupID": "1040",
         "HeroSkinID": "1040001",
         "OnKillEnemyHero": "Hero_1040001_Voice_Kill",
@@ -694,10 +712,10 @@
         "OnDeathEvent": "Global_Common_Battle_Event_029",
         "OnHeroPick": "Hero_1040001_Voice_HeroPick"
       },
-      "39": {
-        "FootStepMovement": "80",
-        "FootStepLanding": "81",
-        "FootStepFlyLanding": "82",
+      "40": {
+        "FootStepMovement": "83",
+        "FootStepLanding": "84",
+        "FootStepFlyLanding": "None",
         "HeroGroupID": "1042",
         "HeroSkinID": "1042001",
         "OnKillEnemyHero": "Hero_1042001_Voice_Kill",
@@ -712,10 +730,10 @@
         "OnDeathEvent": "Global_Common_Battle_Event_029",
         "OnHeroPick": "Hero_1042001_Voice_HeroPick"
       },
-      "40": {
-        "FootStepMovement": "83",
-        "FootStepLanding": "84",
-        "FootStepFlyLanding": "82",
+      "41": {
+        "FootStepMovement": "85",
+        "FootStepLanding": "86",
+        "FootStepFlyLanding": "None",
         "HeroGroupID": "1043",
         "HeroSkinID": "1043001",
         "OnKillEnemyHero": "Hero_1043001_Voice_Kill",
@@ -730,7 +748,7 @@
         "OnDeathEvent": "Global_Common_Battle_Event_029",
         "OnHeroPick": "Hero_1042001_Voice_HeroPick"
       },
-      "41": {
+      "42": {
         "FootStepMovement": "None",
         "FootStepLanding": "None",
         "FootStepFlyLanding": "None",
@@ -748,7 +766,7 @@
         "OnDeathEvent": "None",
         "OnHeroPick": "None"
       },
-      "42": {
+      "43": {
         "FootStepMovement": "None",
         "FootStepLanding": "None",
         "FootStepFlyLanding": "None",
@@ -766,7 +784,7 @@
         "OnDeathEvent": "None",
         "OnHeroPick": "None"
       },
-      "43": {
+      "44": {
         "FootStepMovement": "None",
         "FootStepLanding": "None",
         "FootStepFlyLanding": "None",
@@ -784,8 +802,8 @@
         "OnDeathEvent": "None",
         "OnHeroPick": "None"
       },
-      "44": {
-        "FootStepMovement": "90",
+      "45": {
+        "FootStepMovement": "92",
         "FootStepLanding": "None",
         "FootStepFlyLanding": "None",
         "HeroGroupID": "2053",
@@ -802,7 +820,7 @@
         "OnDeathEvent": "None",
         "OnHeroPick": "None"
       },
-      "45": {
+      "46": {
         "FootStepMovement": "None",
         "FootStepLanding": "None",
         "FootStepFlyLanding": "None",
@@ -820,7 +838,7 @@
         "OnDeathEvent": "None",
         "OnHeroPick": "None"
       },
-      "46": {
+      "47": {
         "FootStepMovement": "None",
         "FootStepLanding": "None",
         "FootStepFlyLanding": "None",
@@ -838,7 +856,7 @@
         "OnDeathEvent": "None",
         "OnHeroPick": "None"
       },
-      "47": {
+      "48": {
         "FootStepMovement": "None",
         "FootStepLanding": "None",
         "FootStepFlyLanding": "None",
@@ -856,7 +874,7 @@
         "OnDeathEvent": "None",
         "OnHeroPick": "None"
       },
-      "48": {
+      "49": {
         "FootStepMovement": "None",
         "FootStepLanding": "None",
         "FootStepFlyLanding": "None",
@@ -874,7 +892,7 @@
         "OnDeathEvent": "None",
         "OnHeroPick": "None"
       },
-      "49": {
+      "50": {
         "FootStepMovement": "None",
         "FootStepLanding": "None",
         "FootStepFlyLanding": "None",
@@ -892,7 +910,7 @@
         "OnDeathEvent": "None",
         "OnHeroPick": "None"
       },
-      "50": {
+      "51": {
         "FootStepMovement": "None",
         "FootStepLanding": "None",
         "FootStepFlyLanding": "None",
@@ -910,8 +928,8 @@
         "OnDeathEvent": "None",
         "OnHeroPick": "None"
       },
-      "51": {
-        "FootStepMovement": "89",
+      "52": {
+        "FootStepMovement": "91",
         "FootStepLanding": "None",
         "FootStepFlyLanding": "None",
         "HeroGroupID": "2054",
@@ -928,7 +946,7 @@
         "OnDeathEvent": "None",
         "OnHeroPick": "None"
       },
-      "52": {
+      "53": {
         "FootStepMovement": "None",
         "FootStepLanding": "None",
         "FootStepFlyLanding": "None",
@@ -946,7 +964,7 @@
         "OnDeathEvent": "Hero_1036001_Skill_1036010501_despawn",
         "OnHeroPick": "None"
       },
-      "53": {
+      "54": {
         "FootStepMovement": "None",
         "FootStepLanding": "None",
         "FootStepFlyLanding": "None",
@@ -964,7 +982,7 @@
         "OnDeathEvent": "Hero_1037001_Skill_1037010301_turret_explosion",
         "OnHeroPick": "None"
       },
-      "54": {
+      "55": {
         "FootStepMovement": "None",
         "FootStepLanding": "None",
         "FootStepFlyLanding": "None",
@@ -982,7 +1000,7 @@
         "OnDeathEvent": "Hero_1016001_Skill_1016010201_end",
         "OnHeroPick": "None"
       },
-      "55": {
+      "56": {
         "FootStepMovement": "None",
         "FootStepLanding": "None",
         "FootStepFlyLanding": "None",
@@ -1000,7 +1018,7 @@
         "OnDeathEvent": "Hero_1016001_Skill_1016010201_end",
         "OnHeroPick": "None"
       },
-      "56": {
+      "57": {
         "FootStepMovement": "None",
         "FootStepLanding": "None",
         "FootStepFlyLanding": "None",
@@ -1018,7 +1036,7 @@
         "OnDeathEvent": "Hero_1016001_Skill_1016010201_end",
         "OnHeroPick": "None"
       },
-      "57": {
+      "58": {
         "FootStepMovement": "None",
         "FootStepLanding": "None",
         "FootStepFlyLanding": "None",
@@ -1036,7 +1054,7 @@
         "OnDeathEvent": "Hero_1016001_Skill_1016010201_end",
         "OnHeroPick": "None"
       },
-      "58": {
+      "59": {
         "FootStepMovement": "None",
         "FootStepLanding": "None",
         "FootStepFlyLanding": "None",
@@ -1054,7 +1072,7 @@
         "OnDeathEvent": "Hero_1016001_Skill_1016010201_end",
         "OnHeroPick": "None"
       },
-      "59": {
+      "60": {
         "FootStepMovement": "None",
         "FootStepLanding": "None",
         "FootStepFlyLanding": "None",
@@ -1072,7 +1090,7 @@
         "OnDeathEvent": "Hero_1016001_Skill_1016010201_end",
         "OnHeroPick": "None"
       },
-      "60": {
+      "61": {
         "FootStepMovement": "None",
         "FootStepLanding": "None",
         "FootStepFlyLanding": "None",
@@ -1090,7 +1108,7 @@
         "OnDeathEvent": "Hero_1016001_Skill_1016010201_end",
         "OnHeroPick": "None"
       },
-      "61": {
+      "62": {
         "FootStepMovement": "None",
         "FootStepLanding": "None",
         "FootStepFlyLanding": "None",
@@ -1108,7 +1126,7 @@
         "OnDeathEvent": "Hero_1016001_Skill_1016010201_end",
         "OnHeroPick": "None"
       },
-      "62": {
+      "63": {
         "FootStepMovement": "None",
         "FootStepLanding": "None",
         "FootStepFlyLanding": "None",

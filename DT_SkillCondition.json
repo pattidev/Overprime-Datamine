@@ -7858,6 +7858,142 @@
         "CheckValue2": "None",
         "NotCondition": true
       },
+      "10380101_01_01": {
+        "CheckGroupID": "10380101_01",
+        "CheckTarget": 0,
+        "CheckKeyword": "Has_SkillEffectGroup",
+        "CheckValue1": "10380102_10",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380102_02_01": {
+        "CheckGroupID": "10380102_02",
+        "CheckTarget": 1,
+        "CheckKeyword": "Has_SkillEffectGroup",
+        "CheckValue1": "10380102_12",
+        "CheckValue2": "None",
+        "NotCondition": true
+      },
+      "10380102_11_01": {
+        "CheckGroupID": "10380102_11",
+        "CheckTarget": 0,
+        "CheckKeyword": "IsSkillSlot",
+        "CheckValue1": "RMB",
+        "CheckValue2": "None",
+        "NotCondition": true
+      },
+      "10380102_11_02": {
+        "CheckGroupID": "10380102_11",
+        "CheckTarget": 0,
+        "CheckKeyword": "Has_SkillEffectGroup",
+        "CheckValue1": "10380102_10",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380103_00_01": {
+        "CheckGroupID": "10380103_00",
+        "CheckTarget": 5,
+        "CheckKeyword": "Has_BaseKeyword",
+        "CheckValue1": "Buff_BasicAttackGuard",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380103_00_02": {
+        "CheckGroupID": "10380103_00",
+        "CheckTarget": 0,
+        "CheckKeyword": "Has_SkillEffectGroup",
+        "CheckValue1": "10380103_20",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380103_01": {
+        "CheckGroupID": "10380103",
+        "CheckTarget": 0,
+        "CheckKeyword": "HowManyCollider",
+        "CheckValue1": "10380103_02",
+        "CheckValue2": "1",
+        "NotCondition": false
+      },
+      "10380103_03_01": {
+        "CheckGroupID": "10380103_03",
+        "CheckTarget": 1,
+        "CheckKeyword": "Has_SkillEffectGroup",
+        "CheckValue1": "10380103_02",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380103_11_01": {
+        "CheckGroupID": "10380103_11",
+        "CheckTarget": 0,
+        "CheckKeyword": "Has_SkillEffectGroup",
+        "CheckValue1": "10380103_12",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380103_15_01": {
+        "CheckGroupID": "10380103_15",
+        "CheckTarget": 0,
+        "CheckKeyword": "Is_OnGround",
+        "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": true
+      },
+      "10380103_21_01": {
+        "CheckGroupID": "10380103_21",
+        "CheckTarget": 0,
+        "CheckKeyword": "Has_SkillEffectGroup",
+        "CheckValue1": "10380103_20",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380103_21_02": {
+        "CheckGroupID": "10380103_21",
+        "CheckTarget": 4,
+        "CheckKeyword": "Is_BaseAttackMainTarget",
+        "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380103_21_03": {
+        "CheckGroupID": "10380103_21",
+        "CheckTarget": 0,
+        "CheckKeyword": "BaseAttackHit",
+        "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380103_22_01": {
+        "CheckGroupID": "10380103_22",
+        "CheckTarget": 0,
+        "CheckKeyword": "Has_SkillEffectGroup",
+        "CheckValue1": "10380103_20",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380103_22_02": {
+        "CheckGroupID": "10380103_22",
+        "CheckTarget": 4,
+        "CheckKeyword": "Is_BaseAttackMainTarget",
+        "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380103_22_03": {
+        "CheckGroupID": "10380103_22",
+        "CheckTarget": 0,
+        "CheckKeyword": "BaseAttackHit",
+        "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380105_02_01": {
+        "CheckGroupID": "10380105_02",
+        "CheckTarget": 5,
+        "CheckKeyword": "Has_SkillEffectGroup",
+        "CheckValue1": "10380103_11",
+        "CheckValue2": "None",
+        "NotCondition": true
+      },
       "21550101_01_01": {
         "CheckGroupID": "21550101_01",
         "CheckTarget": 0,
@@ -19950,7 +20086,7 @@
         "CheckGroupID": "30302004_01",
         "CheckTarget": 0,
         "CheckKeyword": "MP_Under",
-        "CheckValue1": "44",
+        "CheckValue1": "39",
         "CheckValue2": "None",
         "NotCondition": true
       },

@@ -1,0 +1,274 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_SystemKeyBinding",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'SystemKeyBindingTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "ActionName": "Observer_CameraUpDown",
+        "Key": "E",
+        "bIsAxis": true,
+        "AxisValue": 1.0,
+        "bIsGamePad": false
+      },
+      "2": {
+        "ActionName": "Observer_CameraUpDown",
+        "Key": "Q",
+        "bIsAxis": true,
+        "AxisValue": -1.0,
+        "bIsGamePad": false
+      },
+      "3": {
+        "ActionName": "Observer_CameraZoomOut",
+        "Key": "MouseScrollUp",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": false
+      },
+      "4": {
+        "ActionName": "Observer_CameraZoomIn",
+        "Key": "MouseScrollDown",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": false
+      },
+      "5": {
+        "ActionName": "Observer_CameraZoomReset",
+        "Key": "MiddleMouseButton",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": false
+      },
+      "6": {
+        "ActionName": "Observer_LookAtPlayer_1",
+        "Key": "Two",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": false
+      },
+      "7": {
+        "ActionName": "Observer_LookAtPlayer_2",
+        "Key": "One",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": false
+      },
+      "8": {
+        "ActionName": "Observer_LookAtPlayer_3",
+        "Key": "Three",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": false
+      },
+      "9": {
+        "ActionName": "Observer_LookAtPlayer_4",
+        "Key": "Four",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": false
+      },
+      "10": {
+        "ActionName": "Observer_LookAtPlayer_5",
+        "Key": "Five",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": false
+      },
+      "11": {
+        "ActionName": "Observer_LookAtPlayer_6",
+        "Key": "Seven",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": false
+      },
+      "12": {
+        "ActionName": "Observer_LookAtPlayer_7",
+        "Key": "Six",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": false
+      },
+      "13": {
+        "ActionName": "Observer_LookAtPlayer_8",
+        "Key": "Eight",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": false
+      },
+      "14": {
+        "ActionName": "Observer_LookAtPlayer_9",
+        "Key": "Nine",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": false
+      },
+      "15": {
+        "ActionName": "Observer_LookAtPlayer_10",
+        "Key": "Zero",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": false
+      },
+      "16": {
+        "ActionName": "Observer_CameraMoveFast",
+        "Key": "LeftShift",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": false
+      },
+      "17": {
+        "ActionName": "Observer_CameraMoveSlow",
+        "Key": "LeftControl",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": false
+      },
+      "18": {
+        "ActionName": "Observer_POV_Personal",
+        "Key": "LeftMouseButton",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": false
+      },
+      "19": {
+        "ActionName": "Observer_POV_Free",
+        "Key": "RightMouseButton",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": false
+      },
+      "20": {
+        "ActionName": "Observer_ChangeViewMode",
+        "Key": "SpaceBar",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": false
+      },
+      "21": {
+        "ActionName": "Observer_ChangeCineCamera",
+        "Key": "Period",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": false
+      },
+      "22": {
+        "ActionName": "Observer_WorldMap_OnOff",
+        "Key": "M",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": false
+      },
+      "23": {
+        "ActionName": "Observer_ScreenShot",
+        "Key": "Slash",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": false
+      },
+      "24": {
+        "ActionName": "Observer_CameraUpDown",
+        "Key": "Gamepad_DPad_Up",
+        "bIsAxis": true,
+        "AxisValue": 1.0,
+        "bIsGamePad": true
+      },
+      "25": {
+        "ActionName": "Observer_CameraUpDown",
+        "Key": "Gamepad_DPad_Down",
+        "bIsAxis": true,
+        "AxisValue": -1.0,
+        "bIsGamePad": true
+      },
+      "26": {
+        "ActionName": "Observer_CameraZoomOut",
+        "Key": "Gamepad_LeftThumbstick",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": true
+      },
+      "27": {
+        "ActionName": "Observer_CameraZoomIn",
+        "Key": "Gamepad_RightThumbstick",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": true
+      },
+      "28": {
+        "ActionName": "Observer_CameraZoomReset",
+        "Key": "Gamepad_DPad_Right",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": true
+      },
+      "29": {
+        "ActionName": "Observer_LookAtPlayer_Prev",
+        "Key": "Gamepad_LeftShoulder",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": true
+      },
+      "30": {
+        "ActionName": "Observer_LookAtPlayer_Next",
+        "Key": "Gamepad_RightShoulder",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": true
+      },
+      "31": {
+        "ActionName": "Observer_CameraMoveFast",
+        "Key": "Gamepad_RightTrigger",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": true
+      },
+      "32": {
+        "ActionName": "Observer_CameraMoveSlow",
+        "Key": "Gamepad_LeftTrigger",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": true
+      },
+      "33": {
+        "ActionName": "Observer_POV_Personal",
+        "Key": "Gamepad_FaceButton_Bottom",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": true
+      },
+      "34": {
+        "ActionName": "Observer_POV_Free",
+        "Key": "Gamepad_FaceButton_Top",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": true
+      },
+      "35": {
+        "ActionName": "Observer_ChangeViewMode",
+        "Key": "Gamepad_FaceButton_Right",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": true
+      },
+      "36": {
+        "ActionName": "Observer_ChangeCineCamera",
+        "Key": "Gamepad_FaceButton_Left",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": true
+      },
+      "37": {
+        "ActionName": "Observer_WorldMap_OnOff",
+        "Key": "Gamepad_DPad_Left",
+        "bIsAxis": false,
+        "AxisValue": 0.0,
+        "bIsGamePad": true
+      }
+    }
+  }
+]
