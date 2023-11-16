@@ -10,37 +10,37 @@
       {
         "Type": "NameProperty",
         "Name": "lang_code_6_009CDAFA46C08A80C5CC2186D2826376",
-        "Flags": 2097153,
+        "Flags": "RF_Public | RF_LoadCompleted",
         "ElementSize": 12,
-        "PropertyFlags": 5
+        "PropertyFlags": "Edit | BlueprintVisible"
       },
       {
         "Type": "StrProperty",
         "Name": "youtube_url_11_1110144844FA4F617F5DEAB6F7C329BE",
-        "Flags": 2097153,
+        "Flags": "RF_Public | RF_LoadCompleted",
         "ElementSize": 16,
-        "PropertyFlags": 5
+        "PropertyFlags": "Edit | BlueprintVisible"
       },
       {
         "Type": "StrProperty",
         "Name": "survey_url_12_2516A3EB4C2DFF9DA6EE778CBA8CC397",
-        "Flags": 2097153,
+        "Flags": "RF_Public | RF_LoadCompleted",
         "ElementSize": 16,
-        "PropertyFlags": 5
+        "PropertyFlags": "Edit | BlueprintVisible"
       },
       {
         "Type": "StrProperty",
         "Name": "tutorial_url_13_78CF85D74D7E8B735B5E1F8D9DD0609E",
-        "Flags": 2097153,
+        "Flags": "RF_Public | RF_LoadCompleted",
         "ElementSize": 16,
-        "PropertyFlags": 5
+        "PropertyFlags": "Edit | BlueprintVisible"
       },
       {
         "Type": "ObjectProperty",
         "Name": "youbute_btn_image_22_1F058A9D48658D83074E54AD8C847FD0",
-        "Flags": 2097153,
+        "Flags": "RF_Public | RF_LoadCompleted",
         "ElementSize": 8,
-        "PropertyFlags": 5,
+        "PropertyFlags": "Edit | BlueprintVisible",
         "PropertyClass": {
           "ObjectName": "Class'Texture2D'",
           "ObjectPath": "/Script/Engine"
@@ -49,9 +49,9 @@
       {
         "Type": "ObjectProperty",
         "Name": "survey_btn_image_23_B8D64A804CA4F7B9393C67A68ACACB94",
-        "Flags": 2097153,
+        "Flags": "RF_Public | RF_LoadCompleted",
         "ElementSize": 8,
-        "PropertyFlags": 5,
+        "PropertyFlags": "Edit | BlueprintVisible",
         "PropertyClass": {
           "ObjectName": "Class'Texture2D'",
           "ObjectPath": "/Script/Engine"
@@ -60,14 +60,24 @@
       {
         "Type": "ObjectProperty",
         "Name": "tutorial_btn_image_24_C86DD53F41A5338B20116F980653E1B3",
-        "Flags": 2097153,
+        "Flags": "RF_Public | RF_LoadCompleted",
         "ElementSize": 8,
-        "PropertyFlags": 5,
+        "PropertyFlags": "Edit | BlueprintVisible",
         "PropertyClass": {
           "ObjectName": "Class'Texture2D'",
           "ObjectPath": "/Script/Engine"
         }
       }
-    ]
+    ],
+    "StructFlags": 32772,
+    "DefaultProperties": {
+      "lang_code_6_009CDAFA46C08A80C5CC2186D2826376": "None",
+      "youtube_url_11_1110144844FA4F617F5DEAB6F7C329BE": "",
+      "survey_url_12_2516A3EB4C2DFF9DA6EE778CBA8CC397": "",
+      "tutorial_url_13_78CF85D74D7E8B735B5E1F8D9DD0609E": "",
+      "youbute_btn_image_22_1F058A9D48658D83074E54AD8C847FD0": null,
+      "survey_btn_image_23_B8D64A804CA4F7B9393C67A68ACACB94": null,
+      "tutorial_btn_image_24_C86DD53F41A5338B20116F980653E1B3": null
+    }
   }
 ]

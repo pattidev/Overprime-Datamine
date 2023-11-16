@@ -630,6 +630,24 @@
       },
       "shop_tag_icon_1": {
         "ConstantValue": "Texture2D'/Game/UI/Resource/Texture/Common/T_UI_Shop_Symbol_Best.T_UI_Shop_Symbol_Best'"
+      },
+      "outgame_mail_refresh_cooltime": {
+        "ConstantValue": "5"
+      },
+      "bool_init_show_chat_box_lobby": {
+        "ConstantValue": "1"
+      },
+      "bool_init_show_chat_box_custom": {
+        "ConstantValue": "1"
+      },
+      "bool_init_show_chat_box_draft": {
+        "ConstantValue": "1"
+      },
+      "bool_init_show_chat_box_ingame": {
+        "ConstantValue": "1"
+      },
+      "bool_init_show_chat_box_result": {
+        "ConstantValue": "0"
       }
     }
   }
