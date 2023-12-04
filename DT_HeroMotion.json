@@ -3795,18 +3795,12 @@
         "HitReactForward": null,
         "HitReactBackward": null,
         "JumpPadActivation": null,
-        "DeathSequence": {
-          "ObjectName": "AnimSequence'Yaksha_Dummy_Death'",
-          "ObjectPath": "Overprime/Content/Character/Hero/Marty/Mesh/Summons/Yaksha_Dummy_Death.0"
-        },
+        "DeathSequence": null,
         "Respawn": {
-          "ObjectName": "AnimMontage'AM_Yaksha_Dummy_Spawn'",
-          "ObjectPath": "Overprime/Content/Character/Hero/Marty/Mesh/Summons/AM_Yaksha_Dummy_Spawn.0"
+          "ObjectName": "AnimMontage'Yaksha_Spawn_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Marty/Mesh/Summons/montage/Yaksha_Spawn_Montage.0"
         },
-        "DeathMontage": {
-          "ObjectName": "AnimMontage'AM_Yaksha_Dummy_Death'",
-          "ObjectPath": "Overprime/Content/Character/Hero/Marty/Mesh/Summons/AM_Yaksha_Dummy_Death.0"
-        }
+        "DeathMontage": null
       },
       "103": {
         "UnitState": "Default",

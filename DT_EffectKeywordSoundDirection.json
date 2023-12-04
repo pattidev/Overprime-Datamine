@@ -9872,6 +9872,44 @@
         "EffectEndSound": [],
         "EffectEndSoundLocal": [],
         "EffectSoundLocalRule": "EEffectKeywordLocalSoundRuleType::EEKLSRT_Caster"
+      },
+      "638": {
+        "TableID": "638",
+        "ExpansionEffectKeyword": "Debuff_DOT_1043_E_AP",
+        "SoundGroupID": "None",
+        "SuperpositionType": "EEffectKeywordSoundDirectionSuperpositionType::ESUPT_IgnoreLater",
+        "SuperpositionValue": 0.0,
+        "EffectStartSound": [
+          "Hero_1043001_Skill_1043010401_dot_start"
+        ],
+        "EffectStartSoundLocal": [],
+        "StopOngoingSoundOnEnd": true,
+        "EffectOngoingSound": [
+          "Hero_1043001_Skill_1043010401_dot_loop"
+        ],
+        "EffectOngoingSoundLocal": [],
+        "EffectEndSound": [
+          "Hero_1043001_Skill_1043010401_dot_end"
+        ],
+        "EffectEndSoundLocal": [],
+        "EffectSoundLocalRule": "EEffectKeywordLocalSoundRuleType::EEKLSRT_Both"
+      },
+      "639": {
+        "TableID": "639",
+        "ExpansionEffectKeyword": "Custom_30304012",
+        "SoundGroupID": "None",
+        "SuperpositionType": "EEffectKeywordSoundDirectionSuperpositionType::ESUPT_IgnoreLater",
+        "SuperpositionValue": 0.0,
+        "EffectStartSound": [
+          "bpitem_30304012"
+        ],
+        "EffectStartSoundLocal": [],
+        "StopOngoingSoundOnEnd": false,
+        "EffectOngoingSound": [],
+        "EffectOngoingSoundLocal": [],
+        "EffectEndSound": [],
+        "EffectEndSoundLocal": [],
+        "EffectSoundLocalRule": "EEffectKeywordLocalSoundRuleType::EEKLSRT_Caster"
       }
     }
   }

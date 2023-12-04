@@ -130,6 +130,30 @@
         "CheckValue2": "None",
         "NotCondition": false
       },
+      "10020106_01_01": {
+        "CheckGroupID": "10020106_01",
+        "CheckTarget": 0,
+        "CheckKeyword": "IS_SkillUse",
+        "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10020106_02_01": {
+        "CheckGroupID": "10020106_02",
+        "CheckTarget": 0,
+        "CheckKeyword": "Has_SkillEffectGroup",
+        "CheckValue1": "10020106_01",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10020106_02_02": {
+        "CheckGroupID": "10020106_02",
+        "CheckTarget": 0,
+        "CheckKeyword": "What_SkillSlot_Cause_EffectStartTime",
+        "CheckValue1": "LMB",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
       "10040201_05_01": {
         "CheckGroupID": "10040201_05",
         "CheckTarget": 0,
@@ -1343,6 +1367,14 @@
         "CheckTarget": 0,
         "CheckKeyword": "What_SkillGroup_Cause_EffectStartTime",
         "CheckValue1": "10150103",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10150105_03_01": {
+        "CheckGroupID": "10150105_03",
+        "CheckTarget": 8,
+        "CheckKeyword": "Has_SkillEffectGroup",
+        "CheckValue1": "10150105_02",
         "CheckValue2": "None",
         "NotCondition": false
       },
@@ -3239,6 +3271,46 @@
         "CheckTarget": 1,
         "CheckKeyword": "Has_SkillEffectGroup",
         "CheckValue1": "10230105_02",
+        "CheckValue2": "None",
+        "NotCondition": true
+      },
+      "10240106_01_01": {
+        "CheckGroupID": "10240106_01",
+        "CheckTarget": 1,
+        "CheckKeyword": "Has_SkillEffectGroup",
+        "CheckValue1": "10240106_01",
+        "CheckValue2": "None",
+        "NotCondition": true
+      },
+      "10240106_01_02": {
+        "CheckGroupID": "10240106_02",
+        "CheckTarget": 1,
+        "CheckKeyword": "Has_SkillEffectGroup",
+        "CheckValue1": "10240106_01",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10240106_01_03": {
+        "CheckGroupID": "10240106_03",
+        "CheckTarget": 5,
+        "CheckKeyword": "Has_SkillEffectGroup",
+        "CheckValue1": "10240106_01",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10240106_01_04": {
+        "CheckGroupID": "10240106_04",
+        "CheckTarget": 1,
+        "CheckKeyword": "Has_SkillEffectGroup",
+        "CheckValue1": "10240102_01",
+        "CheckValue2": "None",
+        "NotCondition": true
+      },
+      "10240106_01_05": {
+        "CheckGroupID": "10240106_04",
+        "CheckTarget": 0,
+        "CheckKeyword": "WhatIsThisMap",
+        "CheckValue1": "EOMT_Monolith",
         "CheckValue2": "None",
         "NotCondition": true
       },
@@ -7986,6 +8058,406 @@
         "CheckValue2": "None",
         "NotCondition": false
       },
+      "10380104_10_01": {
+        "CheckGroupID": "10380104_10",
+        "CheckTarget": 0,
+        "CheckKeyword": "How_SkillSlot_Lv",
+        "CheckValue1": "E",
+        "CheckValue2": "5",
+        "NotCondition": false
+      },
+      "10380104_10_02": {
+        "CheckGroupID": "10380104_10",
+        "CheckTarget": 0,
+        "CheckKeyword": "HowManyHit_InCollider",
+        "CheckValue1": "1",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380104_11_01": {
+        "CheckGroupID": "10380104_11",
+        "CheckTarget": 0,
+        "CheckKeyword": "How_SkillSlot_Lv",
+        "CheckValue1": "E",
+        "CheckValue2": "5",
+        "NotCondition": false
+      },
+      "10380104_11_02": {
+        "CheckGroupID": "10380104_11",
+        "CheckTarget": 0,
+        "CheckKeyword": "HowManyHit_InCollider",
+        "CheckValue1": "2",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380104_12_01": {
+        "CheckGroupID": "10380104_12",
+        "CheckTarget": 0,
+        "CheckKeyword": "How_SkillSlot_Lv",
+        "CheckValue1": "E",
+        "CheckValue2": "5",
+        "NotCondition": false
+      },
+      "10380104_12_02": {
+        "CheckGroupID": "10380104_12",
+        "CheckTarget": 0,
+        "CheckKeyword": "HowManyHit_InCollider",
+        "CheckValue1": "3",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380104_13_01": {
+        "CheckGroupID": "10380104_13",
+        "CheckTarget": 0,
+        "CheckKeyword": "How_SkillSlot_Lv",
+        "CheckValue1": "E",
+        "CheckValue2": "5",
+        "NotCondition": false
+      },
+      "10380104_13_02": {
+        "CheckGroupID": "10380104_13",
+        "CheckTarget": 0,
+        "CheckKeyword": "HowManyHit_InCollider",
+        "CheckValue1": "4",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380104_14_01": {
+        "CheckGroupID": "10380104_14",
+        "CheckTarget": 0,
+        "CheckKeyword": "How_SkillSlot_Lv",
+        "CheckValue1": "E",
+        "CheckValue2": "5",
+        "NotCondition": false
+      },
+      "10380104_14_02": {
+        "CheckGroupID": "10380104_14",
+        "CheckTarget": 0,
+        "CheckKeyword": "HowManyHit_InCollider_Over",
+        "CheckValue1": "5",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380104_15_01": {
+        "CheckGroupID": "10380104_15",
+        "CheckTarget": 0,
+        "CheckKeyword": "How_SkillSlot_Lv",
+        "CheckValue1": "E",
+        "CheckValue2": "4",
+        "NotCondition": false
+      },
+      "10380104_15_02": {
+        "CheckGroupID": "10380104_15",
+        "CheckTarget": 0,
+        "CheckKeyword": "HowManyHit_InCollider",
+        "CheckValue1": "1",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380104_16_01": {
+        "CheckGroupID": "10380104_16",
+        "CheckTarget": 0,
+        "CheckKeyword": "How_SkillSlot_Lv",
+        "CheckValue1": "E",
+        "CheckValue2": "4",
+        "NotCondition": false
+      },
+      "10380104_16_02": {
+        "CheckGroupID": "10380104_16",
+        "CheckTarget": 0,
+        "CheckKeyword": "HowManyHit_InCollider",
+        "CheckValue1": "2",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380104_17_01": {
+        "CheckGroupID": "10380104_17",
+        "CheckTarget": 0,
+        "CheckKeyword": "How_SkillSlot_Lv",
+        "CheckValue1": "E",
+        "CheckValue2": "4",
+        "NotCondition": false
+      },
+      "10380104_17_02": {
+        "CheckGroupID": "10380104_17",
+        "CheckTarget": 0,
+        "CheckKeyword": "HowManyHit_InCollider",
+        "CheckValue1": "3",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380104_18_01": {
+        "CheckGroupID": "10380104_18",
+        "CheckTarget": 0,
+        "CheckKeyword": "How_SkillSlot_Lv",
+        "CheckValue1": "E",
+        "CheckValue2": "4",
+        "NotCondition": false
+      },
+      "10380104_18_02": {
+        "CheckGroupID": "10380104_18",
+        "CheckTarget": 0,
+        "CheckKeyword": "HowManyHit_InCollider",
+        "CheckValue1": "4",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380104_19_01": {
+        "CheckGroupID": "10380104_19",
+        "CheckTarget": 0,
+        "CheckKeyword": "How_SkillSlot_Lv",
+        "CheckValue1": "E",
+        "CheckValue2": "4",
+        "NotCondition": false
+      },
+      "10380104_19_02": {
+        "CheckGroupID": "10380104_19",
+        "CheckTarget": 0,
+        "CheckKeyword": "HowManyHit_InCollider_Over",
+        "CheckValue1": "5",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380104_20_01": {
+        "CheckGroupID": "10380104_20",
+        "CheckTarget": 0,
+        "CheckKeyword": "How_SkillSlot_Lv",
+        "CheckValue1": "E",
+        "CheckValue2": "3",
+        "NotCondition": false
+      },
+      "10380104_20_02": {
+        "CheckGroupID": "10380104_20",
+        "CheckTarget": 0,
+        "CheckKeyword": "HowManyHit_InCollider",
+        "CheckValue1": "1",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380104_21_01": {
+        "CheckGroupID": "10380104_21",
+        "CheckTarget": 0,
+        "CheckKeyword": "How_SkillSlot_Lv",
+        "CheckValue1": "E",
+        "CheckValue2": "3",
+        "NotCondition": false
+      },
+      "10380104_21_02": {
+        "CheckGroupID": "10380104_21",
+        "CheckTarget": 0,
+        "CheckKeyword": "HowManyHit_InCollider",
+        "CheckValue1": "2",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380104_22_01": {
+        "CheckGroupID": "10380104_22",
+        "CheckTarget": 0,
+        "CheckKeyword": "How_SkillSlot_Lv",
+        "CheckValue1": "E",
+        "CheckValue2": "3",
+        "NotCondition": false
+      },
+      "10380104_22_02": {
+        "CheckGroupID": "10380104_22",
+        "CheckTarget": 0,
+        "CheckKeyword": "HowManyHit_InCollider",
+        "CheckValue1": "3",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380104_23_01": {
+        "CheckGroupID": "10380104_23",
+        "CheckTarget": 0,
+        "CheckKeyword": "How_SkillSlot_Lv",
+        "CheckValue1": "E",
+        "CheckValue2": "3",
+        "NotCondition": false
+      },
+      "10380104_23_02": {
+        "CheckGroupID": "10380104_23",
+        "CheckTarget": 0,
+        "CheckKeyword": "HowManyHit_InCollider",
+        "CheckValue1": "4",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380104_24_01": {
+        "CheckGroupID": "10380104_24",
+        "CheckTarget": 0,
+        "CheckKeyword": "How_SkillSlot_Lv",
+        "CheckValue1": "E",
+        "CheckValue2": "3",
+        "NotCondition": false
+      },
+      "10380104_24_02": {
+        "CheckGroupID": "10380104_24",
+        "CheckTarget": 0,
+        "CheckKeyword": "HowManyHit_InCollider_Over",
+        "CheckValue1": "5",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380104_25_01": {
+        "CheckGroupID": "10380104_25",
+        "CheckTarget": 0,
+        "CheckKeyword": "How_SkillSlot_Lv",
+        "CheckValue1": "E",
+        "CheckValue2": "2",
+        "NotCondition": false
+      },
+      "10380104_25_02": {
+        "CheckGroupID": "10380104_25",
+        "CheckTarget": 0,
+        "CheckKeyword": "HowManyHit_InCollider",
+        "CheckValue1": "1",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380104_26_01": {
+        "CheckGroupID": "10380104_26",
+        "CheckTarget": 0,
+        "CheckKeyword": "How_SkillSlot_Lv",
+        "CheckValue1": "E",
+        "CheckValue2": "2",
+        "NotCondition": false
+      },
+      "10380104_26_02": {
+        "CheckGroupID": "10380104_26",
+        "CheckTarget": 0,
+        "CheckKeyword": "HowManyHit_InCollider",
+        "CheckValue1": "2",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380104_27_01": {
+        "CheckGroupID": "10380104_27",
+        "CheckTarget": 0,
+        "CheckKeyword": "How_SkillSlot_Lv",
+        "CheckValue1": "E",
+        "CheckValue2": "2",
+        "NotCondition": false
+      },
+      "10380104_27_02": {
+        "CheckGroupID": "10380104_27",
+        "CheckTarget": 0,
+        "CheckKeyword": "HowManyHit_InCollider",
+        "CheckValue1": "3",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380104_28_01": {
+        "CheckGroupID": "10380104_28",
+        "CheckTarget": 0,
+        "CheckKeyword": "How_SkillSlot_Lv",
+        "CheckValue1": "E",
+        "CheckValue2": "2",
+        "NotCondition": false
+      },
+      "10380104_28_02": {
+        "CheckGroupID": "10380104_28",
+        "CheckTarget": 0,
+        "CheckKeyword": "HowManyHit_InCollider",
+        "CheckValue1": "4",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380104_29_01": {
+        "CheckGroupID": "10380104_29",
+        "CheckTarget": 0,
+        "CheckKeyword": "How_SkillSlot_Lv",
+        "CheckValue1": "E",
+        "CheckValue2": "2",
+        "NotCondition": false
+      },
+      "10380104_29_02": {
+        "CheckGroupID": "10380104_29",
+        "CheckTarget": 0,
+        "CheckKeyword": "HowManyHit_InCollider_Over",
+        "CheckValue1": "5",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380104_30_01": {
+        "CheckGroupID": "10380104_30",
+        "CheckTarget": 0,
+        "CheckKeyword": "How_SkillSlot_Lv",
+        "CheckValue1": "E",
+        "CheckValue2": "1",
+        "NotCondition": false
+      },
+      "10380104_30_02": {
+        "CheckGroupID": "10380104_30",
+        "CheckTarget": 0,
+        "CheckKeyword": "HowManyHit_InCollider",
+        "CheckValue1": "1",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380104_31_01": {
+        "CheckGroupID": "10380104_31",
+        "CheckTarget": 0,
+        "CheckKeyword": "How_SkillSlot_Lv",
+        "CheckValue1": "E",
+        "CheckValue2": "1",
+        "NotCondition": false
+      },
+      "10380104_31_02": {
+        "CheckGroupID": "10380104_31",
+        "CheckTarget": 0,
+        "CheckKeyword": "HowManyHit_InCollider",
+        "CheckValue1": "2",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380104_32_01": {
+        "CheckGroupID": "10380104_32",
+        "CheckTarget": 0,
+        "CheckKeyword": "How_SkillSlot_Lv",
+        "CheckValue1": "E",
+        "CheckValue2": "1",
+        "NotCondition": false
+      },
+      "10380104_32_02": {
+        "CheckGroupID": "10380104_32",
+        "CheckTarget": 0,
+        "CheckKeyword": "HowManyHit_InCollider",
+        "CheckValue1": "3",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380104_33_01": {
+        "CheckGroupID": "10380104_33",
+        "CheckTarget": 0,
+        "CheckKeyword": "How_SkillSlot_Lv",
+        "CheckValue1": "E",
+        "CheckValue2": "1",
+        "NotCondition": false
+      },
+      "10380104_33_02": {
+        "CheckGroupID": "10380104_33",
+        "CheckTarget": 0,
+        "CheckKeyword": "HowManyHit_InCollider",
+        "CheckValue1": "4",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "10380104_34_01": {
+        "CheckGroupID": "10380104_34",
+        "CheckTarget": 0,
+        "CheckKeyword": "How_SkillSlot_Lv",
+        "CheckValue1": "E",
+        "CheckValue2": "1",
+        "NotCondition": false
+      },
+      "10380104_34_02": {
+        "CheckGroupID": "10380104_34",
+        "CheckTarget": 0,
+        "CheckKeyword": "HowManyHit_InCollider_Over",
+        "CheckValue1": "5",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
       "10380105_02_01": {
         "CheckGroupID": "10380105_02",
         "CheckTarget": 5,
@@ -9266,21 +9738,21 @@
         "CheckValue2": "None",
         "NotCondition": false
       },
-      "10430105_01_01": {
-        "CheckGroupID": "10430105_01",
-        "CheckTarget": 1,
-        "CheckKeyword": "Has_SkillEffectGroup",
-        "CheckValue1": "10430105_02",
-        "CheckValue2": "None",
-        "NotCondition": true
-      },
       "10430105_10_10": {
         "CheckGroupID": "10430105_10",
         "CheckTarget": 0,
-        "CheckKeyword": "HowManySummons_Over",
-        "CheckValue1": "0",
-        "CheckValue2": "None",
+        "CheckKeyword": "HowManySummons",
+        "CheckValue1": "2157",
+        "CheckValue2": "1",
         "NotCondition": false
+      },
+      "21570101_00_01": {
+        "CheckGroupID": "21570101_00",
+        "CheckTarget": 4,
+        "CheckKeyword": "Is_BaseAttackMainTarget",
+        "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": true
       },
       "21570101_01_01": {
         "CheckGroupID": "21570101_01",
@@ -10305,6 +10777,46 @@
         "CheckValue1": "DOM_13_W_01_05",
         "CheckValue2": "None",
         "NotCondition": true
+      },
+      "DOM_13_W_01_06_01": {
+        "CheckGroupID": "DOM_13_W_01_06",
+        "CheckTarget": 1,
+        "CheckKeyword": "What_ActorType",
+        "CheckValue1": "1",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "DOM_13_W_01_06_02": {
+        "CheckGroupID": "DOM_13_W_01_06",
+        "CheckTarget": 1,
+        "CheckKeyword": "Has_SkillEffectGroup",
+        "CheckValue1": "DOM_13_W_01_06",
+        "CheckValue2": "None",
+        "NotCondition": true
+      },
+      "DOM_13_W_01_07_01": {
+        "CheckGroupID": "DOM_13_W_01_07",
+        "CheckTarget": 1,
+        "CheckKeyword": "Has_SkillEffectGroup",
+        "CheckValue1": "DOM_13_W_01_06",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "DOM_13_W_01_09_01": {
+        "CheckGroupID": "DOM_13_W_01_09",
+        "CheckTarget": 1,
+        "CheckKeyword": "None",
+        "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "DOM_13_W_01_09_02": {
+        "CheckGroupID": "DOM_13_W_01_09",
+        "CheckTarget": 1,
+        "CheckKeyword": "None",
+        "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": false
       },
       "DOM_13_T_01_10_01": {
         "CheckGroupID": "DOM_13_T_01_10",
@@ -16674,6 +17186,22 @@
         "CheckValue2": "None",
         "NotCondition": false
       },
+      "3030200204_02": {
+        "CheckGroupID": "3030200205",
+        "CheckTarget": 0,
+        "CheckKeyword": "IsSkillType_Skill",
+        "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "3030200204_03": {
+        "CheckGroupID": "3030200205",
+        "CheckTarget": 1,
+        "CheckKeyword": "Has_BaseKeyword",
+        "CheckValue1": "Debuff_MovementSpeed_SelectDown",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
       "3030200106_01": {
         "CheckGroupID": "3030200106",
         "CheckTarget": 1,
@@ -16686,7 +17214,7 @@
         "CheckGroupID": "3030200107",
         "CheckTarget": 1,
         "CheckKeyword": "Over_Time_Effect_Start",
-        "CheckValue1": "40",
+        "CheckValue1": "50",
         "CheckValue2": "None",
         "NotCondition": false
       },
@@ -16748,11 +17276,27 @@
       },
       "3030101104_02": {
         "CheckGroupID": "3030101104",
-        "CheckTarget": 1,
-        "CheckKeyword": "Is_MagicalDamage",
+        "CheckTarget": 4,
+        "CheckKeyword": "Is_Hero",
         "CheckValue1": "None",
         "CheckValue2": "None",
-        "NotCondition": true
+        "NotCondition": false
+      },
+      "3030101104_03": {
+        "CheckGroupID": "3030101105",
+        "CheckTarget": 4,
+        "CheckKeyword": "Is_Hero",
+        "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "3030101104_04": {
+        "CheckGroupID": "3030101105",
+        "CheckTarget": 1,
+        "CheckKeyword": "Has_BaseKeyword",
+        "CheckValue1": "Debuff_GrievousWounds_SelectDown",
+        "CheckValue2": "None",
+        "NotCondition": false
       },
       "3030300505_01": {
         "CheckGroupID": "3030300505",
@@ -20533,6 +21077,62 @@
       "30103002_04": {
         "CheckGroupID": "30103002_01",
         "CheckTarget": 5,
+        "CheckKeyword": "Is_Hero",
+        "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "30304011_01": {
+        "CheckGroupID": "30304011_01",
+        "CheckTarget": 1,
+        "CheckKeyword": "Has_BaseKeyword",
+        "CheckValue1": "Buff_Shield",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "30304012_01": {
+        "CheckGroupID": "30304012_01",
+        "CheckTarget": 4,
+        "CheckKeyword": "Is_Hero",
+        "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "30304013_01": {
+        "CheckGroupID": "30304013_01",
+        "CheckTarget": 0,
+        "CheckKeyword": "Is_CoolTime_Ready",
+        "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "30304013_02": {
+        "CheckGroupID": "30304013_01",
+        "CheckTarget": 1,
+        "CheckKeyword": "HP_Per_Over",
+        "CheckValue1": "0.3",
+        "CheckValue2": "None",
+        "NotCondition": true
+      },
+      "30304013_03": {
+        "CheckGroupID": "30304013_01",
+        "CheckTarget": 0,
+        "CheckKeyword": "Over_Time_Effect_Start",
+        "CheckValue1": "100",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "30304014_01": {
+        "CheckGroupID": "30304014_01",
+        "CheckTarget": 4,
+        "CheckKeyword": "Is_Minion",
+        "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
+      "30304014_02": {
+        "CheckGroupID": "30304014_02",
+        "CheckTarget": 4,
         "CheckKeyword": "Is_Hero",
         "CheckValue1": "None",
         "CheckValue2": "None",

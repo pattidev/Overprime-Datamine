@@ -122,13 +122,19 @@
         "StringKey": "ERR.EC_99_Service"
       },
       "100": {
-        "StringKey": "Service_100"
+        "StringKey": "ERR.EC_Service_100"
       },
       "101": {
-        "StringKey": "Service_101"
+        "StringKey": "ERR.EC_Service_101"
       },
       "102": {
-        "StringKey": "Service_102"
+        "StringKey": "ERR.EC_Service_102"
+      },
+      "9998": {
+        "StringKey": "ERR.EC_Common_1"
+      },
+      "9999": {
+        "StringKey": "ERR.EC_Common_3"
       },
       "10000": {
         "StringKey": "ERR.EC_10000_Party"
@@ -202,6 +208,39 @@
       "12000": {
         "StringKey": "ERR.EC_12000_Party"
       },
+      "19000": {
+        "StringKey": "SYS.Party_Msg_Failed_InviteParty_InviteImpossible"
+      },
+      "19001": {
+        "StringKey": "PS.Party_Accept_Failure_MSG_Tutorial"
+      },
+      "19002": {
+        "StringKey": "PS.Party_Invite_Failure_MSG_PlayGame"
+      },
+      "19003": {
+        "StringKey": "PS.Party_Invite_Failure_MSG_Limit"
+      },
+      "19004": {
+        "StringKey": "PS.Party_Invite_Failure_MSG_Location"
+      },
+      "19005": {
+        "StringKey": "ERR.EC_Common_9"
+      },
+      "19006": {
+        "StringKey": "PS.Party_Invite_Failure_MSG_AlreadyParty"
+      },
+      "19007": {
+        "StringKey": "PS.Party_Accept_Failure_MSG_Leave"
+      },
+      "19008": {
+        "StringKey": "PS.Party_Invite_Failure_MSG_Limit"
+      },
+      "19009": {
+        "StringKey": "ERR.EC_10016_Party"
+      },
+      "19010": {
+        "StringKey": "PS.Party_Accept_Failure_MSG_Location"
+      },
       "20000": {
         "StringKey": "ERR.EC_20000_Match"
       },
@@ -252,6 +291,9 @@
       },
       "22000": {
         "StringKey": "ERR.EC_22000_Match"
+      },
+      "22001": {
+        "StringKey": "ERR.EC_22001_Match"
       },
       "30000": {
         "StringKey": "ERR.EC_30000_Chat"
@@ -343,6 +385,9 @@
       "53002": {
         "StringKey": "ERR.EC_53002_Mail"
       },
+      "53003": {
+        "StringKey": "ERR.EC_53003_Mail"
+      },
       "54000": {
         "StringKey": "ERR.EC_54000_Report"
       },
@@ -357,6 +402,9 @@
       },
       "61001": {
         "StringKey": "ERR.EC_61001_Purchase"
+      },
+      "61002": {
+        "StringKey": "ERR.EC_61002_Purchase"
       },
       "62000": {
         "StringKey": "ERR.EC_62000_Leaderboards"
@@ -383,6 +431,24 @@
         "StringKey": "ERR.EC_Common_1"
       },
       "67001": {
+        "StringKey": "ERR.EC_Common_1"
+      },
+      "68000": {
+        "StringKey": "ERR.EC_Common_1"
+      },
+      "68001": {
+        "StringKey": "ERR.EC_Common_7"
+      },
+      "68002": {
+        "StringKey": "ERR.EC_Common_1"
+      },
+      "68003": {
+        "StringKey": "ERR.EC_Common_1"
+      },
+      "70000": {
+        "StringKey": "ERR.EC_Common_1"
+      },
+      "71000": {
         "StringKey": "ERR.EC_Common_1"
       }
     }

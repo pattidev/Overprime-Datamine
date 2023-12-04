@@ -1,0 +1,830 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_Hero_Emotion",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPHeroEmotionDataTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1010001": {
+        "NameKey": "UI.Ingame_Emotion_Select_Btn_Hello",
+        "GainedType": "EEmotionGainedType::EEGT_Default",
+        "EmotionType": "EEmotionType::EET_Emote",
+        "Grade": "EOutgameItemGrade::Common",
+        "HeroID": 0,
+        "IsBaseEmotion": true,
+        "Emote_Path": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010001.Text_Emotion_1010001",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "ui_emotion_select_affirmation",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": null,
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010001.Text_Emotion_1010001",
+          "SubPathString": ""
+        }
+      },
+      "1010002": {
+        "NameKey": "UI.Ingame_Emotion_Select_Btn_Good",
+        "GainedType": "EEmotionGainedType::EEGT_Default",
+        "EmotionType": "EEmotionType::EET_Emote",
+        "Grade": "EOutgameItemGrade::Common",
+        "HeroID": 0,
+        "IsBaseEmotion": true,
+        "Emote_Path": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010002.Text_Emotion_1010002",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "ui_emotion_select_affirmation",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": null,
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010002.Text_Emotion_1010002",
+          "SubPathString": ""
+        }
+      },
+      "1010003": {
+        "NameKey": "UI.Ingame_Emotion_Select_Btn_Sorry",
+        "GainedType": "EEmotionGainedType::EEGT_Default",
+        "EmotionType": "EEmotionType::EET_Emote",
+        "Grade": "EOutgameItemGrade::Common",
+        "HeroID": 0,
+        "IsBaseEmotion": true,
+        "Emote_Path": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010003.Text_Emotion_1010003",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "ui_emotion_select_negation",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": null,
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010003.Text_Emotion_1010003",
+          "SubPathString": ""
+        }
+      },
+      "1010004": {
+        "NameKey": "UI.Ingame_Emotion_Select_Btn_Provoke",
+        "GainedType": "EEmotionGainedType::EEGT_Default",
+        "EmotionType": "EEmotionType::EET_Emote",
+        "Grade": "EOutgameItemGrade::Common",
+        "HeroID": 0,
+        "IsBaseEmotion": true,
+        "Emote_Path": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010004.Text_Emotion_1010004",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "ui_emotion_select_affirmation",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": null,
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010004.Text_Emotion_1010004",
+          "SubPathString": ""
+        }
+      },
+      "1010005": {
+        "NameKey": "UI.Ingame_Emotion_Select_Btn_Love_it",
+        "GainedType": "EEmotionGainedType::EEGT_Default",
+        "EmotionType": "EEmotionType::EET_Emote",
+        "Grade": "EOutgameItemGrade::Common",
+        "HeroID": 0,
+        "IsBaseEmotion": true,
+        "Emote_Path": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010005.Text_Emotion_1010005",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "ui_emotion_select_affirmation",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": null,
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010005.Text_Emotion_1010005",
+          "SubPathString": ""
+        }
+      },
+      "1010006": {
+        "NameKey": "UI.Ingame_Emotion_Select_Btn_Angry",
+        "GainedType": "EEmotionGainedType::EEGT_Default",
+        "EmotionType": "EEmotionType::EET_Emote",
+        "Grade": "EOutgameItemGrade::Common",
+        "HeroID": 0,
+        "IsBaseEmotion": true,
+        "Emote_Path": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010006.Text_Emotion_1010006",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "ui_emotion_select_negation",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": null,
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010006.Text_Emotion_1010006",
+          "SubPathString": ""
+        }
+      },
+      "1010007": {
+        "NameKey": "UI.Ingame_Emotion_Select_Btn_Question",
+        "GainedType": "EEmotionGainedType::EEGT_Default",
+        "EmotionType": "EEmotionType::EET_Emote",
+        "Grade": "EOutgameItemGrade::Common",
+        "HeroID": 0,
+        "IsBaseEmotion": true,
+        "Emote_Path": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010007.Text_Emotion_1010007",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "ui_emotion_select_affirmation",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": null,
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010007.Text_Emotion_1010007",
+          "SubPathString": ""
+        }
+      },
+      "1010008": {
+        "NameKey": "UI.Ingame_Emotion_Select_Btn_Exclamation",
+        "GainedType": "EEmotionGainedType::EEGT_Default",
+        "EmotionType": "EEmotionType::EET_Emote",
+        "Grade": "EOutgameItemGrade::Common",
+        "HeroID": 0,
+        "IsBaseEmotion": true,
+        "Emote_Path": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010008.Text_Emotion_1010008",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "ui_emotion_select_affirmation",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": null,
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010008.Text_Emotion_1010008",
+          "SubPathString": ""
+        }
+      },
+      "1010009": {
+        "NameKey": "UI.Emotion_Common_LockOn",
+        "GainedType": "EEmotionGainedType::EEGT_Default",
+        "EmotionType": "EEmotionType::EET_Emote",
+        "Grade": "EOutgameItemGrade::Common",
+        "HeroID": 0,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010009.Text_Emotion_1010009",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "ui_emotion_select_affirmation",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": null,
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010009.Text_Emotion_1010009",
+          "SubPathString": ""
+        }
+      },
+      "1010010": {
+        "NameKey": "UI.Emotion_Common_Angry",
+        "GainedType": "EEmotionGainedType::EEGT_Default",
+        "EmotionType": "EEmotionType::EET_Emote",
+        "Grade": "EOutgameItemGrade::Common",
+        "HeroID": 0,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010010.Text_Emotion_1010010",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "ui_emotion_select_negation",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": null,
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010010.Text_Emotion_1010010",
+          "SubPathString": ""
+        }
+      },
+      "1010011": {
+        "NameKey": "UI.Emotion_Common_ComeOn",
+        "GainedType": "EEmotionGainedType::EEGT_Default",
+        "EmotionType": "EEmotionType::EET_Emote",
+        "Grade": "EOutgameItemGrade::Common",
+        "HeroID": 0,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010011.Text_Emotion_1010011",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "ui_emotion_select_negation",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": null,
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010011.Text_Emotion_1010011",
+          "SubPathString": ""
+        }
+      },
+      "1010012": {
+        "NameKey": "UI.Emotion_Common_HaveUProblem",
+        "GainedType": "EEmotionGainedType::EEGT_Default",
+        "EmotionType": "EEmotionType::EET_Emote",
+        "Grade": "EOutgameItemGrade::Common",
+        "HeroID": 0,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010012.Text_Emotion_1010012",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "ui_emotion_select_negation",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": null,
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010012.Text_Emotion_1010012",
+          "SubPathString": ""
+        }
+      },
+      "2010001": {
+        "NameKey": "UI.Emotion_Common_Cheers",
+        "GainedType": "EEmotionGainedType::EEGT_Purchase",
+        "EmotionType": "EEmotionType::EET_Emote_Ani",
+        "Grade": "EOutgameItemGrade::Common",
+        "HeroID": 0,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'Emotion_2010001_C'",
+          "ObjectPath": "Overprime/Content/UI/Lobby/Flow/Collection/Emoticon/Emoticon_Item/Emotion_2010001.7"
+        },
+        "Emote_PlaySound": "ui_emotion_common_cheers",
+        "IsPlayEmoteSoundLobby": true,
+        "Emotion_Path": null,
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_2010001.Text_Emotion_2010001",
+          "SubPathString": ""
+        }
+      },
+      "2010002": {
+        "NameKey": "UI.Emotion_Common_SpinMyHead",
+        "GainedType": "EEmotionGainedType::EEGT_Purchase",
+        "EmotionType": "EEmotionType::EET_Emote_Ani",
+        "Grade": "EOutgameItemGrade::Common",
+        "HeroID": 0,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'Emotion_2010002_C'",
+          "ObjectPath": "Overprime/Content/UI/Lobby/Flow/Collection/Emoticon/Emoticon_Item/Emotion_2010002.7"
+        },
+        "Emote_PlaySound": "ui_emotion_common_spinmyhead",
+        "IsPlayEmoteSoundLobby": true,
+        "Emotion_Path": null,
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_2010002.Text_Emotion_2010002",
+          "SubPathString": ""
+        }
+      },
+      "2010003": {
+        "NameKey": "UI.Emotion_Common_YouDied",
+        "GainedType": "EEmotionGainedType::EEGT_Purchase",
+        "EmotionType": "EEmotionType::EET_Emote_Ani",
+        "Grade": "EOutgameItemGrade::Common",
+        "HeroID": 0,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'Emotion_2010003_C'",
+          "ObjectPath": "Overprime/Content/UI/Lobby/Flow/Collection/Emoticon/Emoticon_Item/Emotion_2010003.7"
+        },
+        "Emote_PlaySound": "ui_emotion_common_youdied",
+        "IsPlayEmoteSoundLobby": true,
+        "Emotion_Path": null,
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_2010003.Text_Emotion_2010003",
+          "SubPathString": ""
+        }
+      },
+      "2010004": {
+        "NameKey": "UI.Emotion_Common_PissedOff",
+        "GainedType": "EEmotionGainedType::EEGT_Purchase",
+        "EmotionType": "EEmotionType::EET_Emote_Ani",
+        "Grade": "EOutgameItemGrade::Common",
+        "HeroID": 0,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'Emotion_2010004_C'",
+          "ObjectPath": "Overprime/Content/UI/Lobby/Flow/Collection/Emoticon/Emoticon_Item/Emotion_2010004.9"
+        },
+        "Emote_PlaySound": "ui_emotion_common_pissedoff",
+        "IsPlayEmoteSoundLobby": true,
+        "Emotion_Path": null,
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_2010004.Text_Emotion_2010004",
+          "SubPathString": ""
+        }
+      },
+      "2010005": {
+        "NameKey": "UI.Emotion_Common_Disgusting",
+        "GainedType": "EEmotionGainedType::EEGT_Purchase",
+        "EmotionType": "EEmotionType::EET_Emote_Ani",
+        "Grade": "EOutgameItemGrade::Common",
+        "HeroID": 0,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": {
+          "ObjectName": "WidgetBlueprintGeneratedClass'Emotion_2010005_C'",
+          "ObjectPath": "Overprime/Content/UI/Lobby/Flow/Collection/Emoticon/Emoticon_Item/Emotion_2010005.10"
+        },
+        "Emote_PlaySound": "ui_emotion_common_disgusting",
+        "IsPlayEmoteSoundLobby": true,
+        "Emotion_Path": null,
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_2010005.Text_Emotion_2010005",
+          "SubPathString": ""
+        }
+      },
+      "3020001": {
+        "NameKey": "UI.Emotion_Countess_Emote_Taunt_Nope",
+        "GainedType": "EEmotionGainedType::EEGT_Purchase",
+        "EmotionType": "EEmotionType::EET_Emotion",
+        "Grade": "EOutgameItemGrade::Rare",
+        "HeroID": 1027,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "0",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": {
+          "ObjectName": "AnimMontage'AM_Emote_Taunt_Nope_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Countess/Animations/AM_Emote_Taunt_Nope_Montage.0"
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020001.Text_Emotion_3020001",
+          "SubPathString": ""
+        }
+      },
+      "3020002": {
+        "NameKey": "UI.Emotion_Dekker_Emote_FriendlyWave_M1",
+        "GainedType": "EEmotionGainedType::EEGT_Purchase",
+        "EmotionType": "EEmotionType::EET_Emotion",
+        "Grade": "EOutgameItemGrade::Rare",
+        "HeroID": 1031,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "0",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": {
+          "ObjectName": "AnimMontage'Emote_FriendlyWave_M1_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Dekker/Animations/Emote_FriendlyWave_M1_Montage.0"
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020002.Text_Emotion_3020002",
+          "SubPathString": ""
+        }
+      },
+      "3020003": {
+        "NameKey": "UI.Emotion_Drongo_Emote_Laugh",
+        "GainedType": "EEmotionGainedType::EEGT_Purchase",
+        "EmotionType": "EEmotionType::EET_Emotion",
+        "Grade": "EOutgameItemGrade::Rare",
+        "HeroID": 1032,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "0",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": {
+          "ObjectName": "AnimMontage'Emote_Laugh_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Drongo/Animations/Emote_Laugh_Montage.0"
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020003.Text_Emotion_3020003",
+          "SubPathString": ""
+        }
+      },
+      "3020004": {
+        "NameKey": "UI.Emotion_Greystone_Emote_Master_SwordPlay_T3",
+        "GainedType": "EEmotionGainedType::EEGT_Purchase",
+        "EmotionType": "EEmotionType::EET_Emotion",
+        "Grade": "EOutgameItemGrade::Rare",
+        "HeroID": 1029,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "0",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": {
+          "ObjectName": "AnimMontage'AM_Emote_Master_SwordPlay_T3_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Greystone/Animations/AM_Emote_Master_SwordPlay_T3_Montage.0"
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020004.Text_Emotion_3020004",
+          "SubPathString": ""
+        }
+      },
+      "3020005": {
+        "NameKey": "UI.Emotion_Howitzer_Emote_BootyShake_T3",
+        "GainedType": "EEmotionGainedType::EEGT_Default",
+        "EmotionType": "EEmotionType::EET_Emotion",
+        "Grade": "EOutgameItemGrade::Rare",
+        "HeroID": 1022,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "0",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": {
+          "ObjectName": "AnimMontage'AM_Emote_BootyShake_T3_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Howitzer/Animations/AM_Emote_BootyShake_T3_Montage.0"
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020005.Text_Emotion_3020005",
+          "SubPathString": ""
+        }
+      },
+      "3020006": {
+        "NameKey": "UI.Emotion_IggyScorch_Emote_NaNaBooBoo",
+        "GainedType": "EEmotionGainedType::EEGT_Default",
+        "EmotionType": "EEmotionType::EET_Emotion",
+        "Grade": "EOutgameItemGrade::Rare",
+        "HeroID": 1037,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "0",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": {
+          "ObjectName": "AnimMontage'Emote_NaNaBooBoo_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/IggyScorch/Animations/Emote_NaNaBooBoo_Montage.0"
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020006.Text_Emotion_3020006",
+          "SubPathString": ""
+        }
+      },
+      "3020007": {
+        "NameKey": "UI.Emotion_Kallari_Emote_Taunt_Shhh_T1",
+        "GainedType": "EEmotionGainedType::EEGT_Purchase",
+        "EmotionType": "EEmotionType::EET_Emotion",
+        "Grade": "EOutgameItemGrade::Rare",
+        "HeroID": 1005,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "0",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": {
+          "ObjectName": "AnimMontage'AM_Emote_Taunt_Shhh_T1_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Kallari/Animations/AM_Emote_Taunt_Shhh_T1_Montage.0"
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020007.Text_Emotion_3020007",
+          "SubPathString": ""
+        }
+      },
+      "3020008": {
+        "NameKey": "UI.Emotion_Khaimera_Emote_Taunt_Howl_T1",
+        "GainedType": "EEmotionGainedType::EEGT_Default",
+        "EmotionType": "EEmotionType::EET_Emotion",
+        "Grade": "EOutgameItemGrade::Rare",
+        "HeroID": 1023,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "0",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": {
+          "ObjectName": "AnimMontage'AM_Emote_Taunt_Howl_T1_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Khaimera/Animations/old_ani/AM_Emote_Taunt_Howl_T1_Montage.0"
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020008.Text_Emotion_3020008",
+          "SubPathString": ""
+        }
+      },
+      "3020009": {
+        "NameKey": "UI.Emotion_Kwang_Emote_SwordPoint_M1",
+        "GainedType": "EEmotionGainedType::EEGT_Purchase",
+        "EmotionType": "EEmotionType::EET_Emotion",
+        "Grade": "EOutgameItemGrade::Rare",
+        "HeroID": 1011,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "0",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": {
+          "ObjectName": "AnimMontage'AM_Emote_SwordPoint_M1_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Kwang/Animations/AM_Emote_SwordPoint_M1_Montage.0"
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020009.Text_Emotion_3020009",
+          "SubPathString": ""
+        }
+      },
+      "3020010": {
+        "NameKey": "UI.Emotion_Murdock_Emote_Point",
+        "GainedType": "EEmotionGainedType::EEGT_Default",
+        "EmotionType": "EEmotionType::EET_Emotion",
+        "Grade": "EOutgameItemGrade::Rare",
+        "HeroID": 1001,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "0",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": {
+          "ObjectName": "AnimMontage'AM_Emote_Point_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Murdock/Animations/AM_Emote_Point_Montage.0"
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020010.Text_Emotion_3020010",
+          "SubPathString": ""
+        }
+      },
+      "3020011": {
+        "NameKey": "UI.Emotion_Muriel_Emote_Taunt_Curtsy_T1",
+        "GainedType": "EEmotionGainedType::EEGT_Default",
+        "EmotionType": "EEmotionType::EET_Emotion",
+        "Grade": "EOutgameItemGrade::Rare",
+        "HeroID": 1003,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "0",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": {
+          "ObjectName": "AnimMontage'AM_Emote_Taunt_Curtsy_T1_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Muriel/Animations/AM_Emote_Taunt_Curtsy_T1_Montage.0"
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020011.Text_Emotion_3020011",
+          "SubPathString": ""
+        }
+      },
+      "3020012": {
+        "NameKey": "UI.Emotion_Narbash_Emote_Master_RockOut_T3",
+        "GainedType": "EEmotionGainedType::EEGT_Default",
+        "EmotionType": "EEmotionType::EET_Emotion",
+        "Grade": "EOutgameItemGrade::Rare",
+        "HeroID": 1025,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "0",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": {
+          "ObjectName": "AnimMontage'AM_Emote_Master_RockOut_T3_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Narbash/Animations/AM_Emote_Master_RockOut_T3_Montage.0"
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020012.Text_Emotion_3020012",
+          "SubPathString": ""
+        }
+      },
+      "3020013": {
+        "NameKey": "UI.Emotion_Phase_Emote_TeddySaysNo",
+        "GainedType": "EEmotionGainedType::EEGT_Purchase",
+        "EmotionType": "EEmotionType::EET_Emotion",
+        "Grade": "EOutgameItemGrade::Rare",
+        "HeroID": 1017,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "0",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": {
+          "ObjectName": "AnimMontage'AM_Emote_TeddySaysNo_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Phase/Animations/AM_Emote_TeddySaysNo_Montage.0"
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020013.Text_Emotion_3020013",
+          "SubPathString": ""
+        }
+      },
+      "3020014": {
+        "NameKey": "UI.Emotion_Rampage_Emote_Master_Roar_T3",
+        "GainedType": "EEmotionGainedType::EEGT_Default",
+        "EmotionType": "EEmotionType::EET_Emotion",
+        "Grade": "EOutgameItemGrade::Rare",
+        "HeroID": 1004,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "0",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": {
+          "ObjectName": "AnimMontage'AM_Emote_Master_Roar_T3_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Rampage/Animations/AM_Emote_Master_Roar_T3_Montage.0"
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020014.Text_Emotion_3020014",
+          "SubPathString": ""
+        }
+      },
+      "3020015": {
+        "NameKey": "UI.Emotion_Revenant_Emote_Hat_Lift",
+        "GainedType": "EEmotionGainedType::EEGT_Purchase",
+        "EmotionType": "EEmotionType::EET_Emotion",
+        "Grade": "EOutgameItemGrade::Rare",
+        "HeroID": 1015,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "0",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": {
+          "ObjectName": "AnimMontage'AM_Emote_Hat_Lift_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Revenant/Animations/Montage/AM_Emote_Hat_Lift_Montage.0"
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020015.Text_Emotion_3020015",
+          "SubPathString": ""
+        }
+      },
+      "3020016": {
+        "NameKey": "UI.Emotion_Serath_Emote_Celebration",
+        "GainedType": "EEmotionGainedType::EEGT_Purchase",
+        "EmotionType": "EEmotionType::EET_Emotion",
+        "Grade": "EOutgameItemGrade::Rare",
+        "HeroID": 1028,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "0",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": {
+          "ObjectName": "AnimMontage'AM_Emote_Celebration_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Serath/Animations/AM_Emote_Celebration_Montage.0"
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020016.Text_Emotion_3020016",
+          "SubPathString": ""
+        }
+      },
+      "3020017": {
+        "NameKey": "UI.Emotion_Sevarog_Emote_Pull_MC_T1",
+        "GainedType": "EEmotionGainedType::EEGT_Default",
+        "EmotionType": "EEmotionType::EET_Emotion",
+        "Grade": "EOutgameItemGrade::Rare",
+        "HeroID": 1010,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "0",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": {
+          "ObjectName": "AnimMontage'AM_Emote_Pull_MC_T1_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Sevarog/Animations/AM_Emote_Pull_MC_T1_Montage.0"
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020017.Text_Emotion_3020017",
+          "SubPathString": ""
+        }
+      },
+      "3020018": {
+        "NameKey": "UI.Emotion_Twinblast_Emote_ComeGetSome_T3",
+        "GainedType": "EEmotionGainedType::EEGT_Default",
+        "EmotionType": "EEmotionType::EET_Emotion",
+        "Grade": "EOutgameItemGrade::Rare",
+        "HeroID": 1002,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "0",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": {
+          "ObjectName": "AnimMontage'AM_Emote_ComeGetSome_T3_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Twinblast/Animations/AM_Emote_ComeGetSome_T3_Montage.0"
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020018.Text_Emotion_3020018",
+          "SubPathString": ""
+        }
+      },
+      "3020019": {
+        "NameKey": "UI.Emotion_Wraith_Emote_IDK",
+        "GainedType": "EEmotionGainedType::EEGT_Purchase",
+        "EmotionType": "EEmotionType::EET_Emotion",
+        "Grade": "EOutgameItemGrade::Rare",
+        "HeroID": 1033,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "0",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": {
+          "ObjectName": "AnimMontage'Emote_IDK_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Wraith/Animations/Emote_IDK_Montage.0"
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020019.Text_Emotion_3020019",
+          "SubPathString": ""
+        }
+      },
+      "3020020": {
+        "NameKey": "UI.Emotion_Wukong_Emote_ComeHere",
+        "GainedType": "EEmotionGainedType::EEGT_Default",
+        "EmotionType": "EEmotionType::EET_Emotion",
+        "Grade": "EOutgameItemGrade::Rare",
+        "HeroID": 1036,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "0",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": {
+          "ObjectName": "AnimMontage'Emote_ComeHere_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Wukong/Animations/Emote_ComeHere_Montage.0"
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020020.Text_Emotion_3020020",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

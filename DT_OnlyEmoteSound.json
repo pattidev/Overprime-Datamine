@@ -21,6 +21,16 @@
         "SoundTableManagerObject": null
       },
       "2": {
+        "SkinID": "1001001",
+        "SoundID": "Hero_1001001_Skill_1001010101_emote_point",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'murdock_emote_point_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/murdock/murdock_emote_point_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "3": {
         "SkinID": "1001008",
         "SoundID": "Hero_1001001_Skill_1001010101_emote_angry",
         "SoundVolume": 1.0,
@@ -30,7 +40,27 @@
         },
         "SoundTableManagerObject": null
       },
-      "3": {
+      "4": {
+        "SkinID": "1001008",
+        "SoundID": "Hero_1001001_Skill_1001010101_emote_point",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'murdock_emote_point_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/murdock/murdock_1001008/murdock_emote_point_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "5": {
+        "SkinID": "1001012",
+        "SoundID": "Hero_1001001_Skill_1001010101_emote_point",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'murdock_emote_point_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/murdock/1001012/murdock_emote_point_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "6": {
         "SkinID": "1002001",
         "SoundID": "Hero_1002001_Skill_1002010101_emote_angry",
         "SoundVolume": 1.0,
@@ -40,7 +70,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "4": {
+      "7": {
         "SkinID": "1002001",
         "SoundID": "Hero_1002001_Skill_1002010101_emote_apologize",
         "SoundVolume": 1.0,
@@ -50,7 +80,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "5": {
+      "8": {
         "SkinID": "1002001",
         "SoundID": "Hero_1002001_Skill_1002010101_emote_clap",
         "SoundVolume": 1.0,
@@ -60,7 +90,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "6": {
+      "9": {
         "SkinID": "1002001",
         "SoundID": "Hero_1002001_Skill_1002010101_emote_delight",
         "SoundVolume": 1.0,
@@ -70,7 +100,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "7": {
+      "10": {
         "SkinID": "1002001",
         "SoundID": "Hero_1002001_Skill_1002010101_emote_greating",
         "SoundVolume": 1.0,
@@ -80,7 +110,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "8": {
+      "11": {
         "SkinID": "1002001",
         "SoundID": "Hero_1002001_Skill_1002010101_emote_provoke",
         "SoundVolume": 1.0,
@@ -90,7 +120,37 @@
         },
         "SoundTableManagerObject": null
       },
-      "9": {
+      "12": {
+        "SkinID": "1002001",
+        "SoundID": "Hero_1002001_Skill_1002010101_emote_comegetsome",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'twinblast_emote_comegetsome_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/twinblast/twinblast_emote_comegetsome_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "13": {
+        "SkinID": "1002011",
+        "SoundID": "Hero_1002001_Skill_1002010101_emote_comegetsome",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'twinblast_emote_comegetsome_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/twinblast/1002011/twinblast_emote_comegetsome_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "14": {
+        "SkinID": "1002012",
+        "SoundID": "Hero_1002001_Skill_1002010101_emote_comegetsome",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'twinblast_emote_comegetsome_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/twinblast/twinblast_1002012/twinblast_emote_comegetsome_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "15": {
         "SkinID": "1002008",
         "SoundID": "Hero_1002001_Skill_1002010101_emote_angry",
         "SoundVolume": 1.0,
@@ -100,7 +160,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "10": {
+      "16": {
         "SkinID": "1002008",
         "SoundID": "Hero_1002001_Skill_1002010101_emote_apologize",
         "SoundVolume": 1.0,
@@ -110,7 +170,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "11": {
+      "17": {
         "SkinID": "1002008",
         "SoundID": "Hero_1002001_Skill_1002010101_emote_clap",
         "SoundVolume": 1.0,
@@ -120,7 +180,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "12": {
+      "18": {
         "SkinID": "1002008",
         "SoundID": "Hero_1002001_Skill_1002010101_emote_delight",
         "SoundVolume": 1.0,
@@ -130,7 +190,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "13": {
+      "19": {
         "SkinID": "1002008",
         "SoundID": "Hero_1002001_Skill_1002010101_emote_greating",
         "SoundVolume": 1.0,
@@ -140,7 +200,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "14": {
+      "20": {
         "SkinID": "1002008",
         "SoundID": "Hero_1002001_Skill_1002010101_emote_provoke",
         "SoundVolume": 1.0,
@@ -150,7 +210,17 @@
         },
         "SoundTableManagerObject": null
       },
-      "15": {
+      "21": {
+        "SkinID": "1002008",
+        "SoundID": "Hero_1002001_Skill_1002010101_emote_comegetsome",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'twinblast_emote_comegetsome_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/twinblast/twinblast_1002008/twinblast_emote_comegetsome_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "22": {
         "SkinID": "1004001",
         "SoundID": "Hero_1004001_Skill_1004010101_emote_angry",
         "SoundVolume": 1.0,
@@ -160,7 +230,17 @@
         },
         "SoundTableManagerObject": null
       },
-      "16": {
+      "23": {
+        "SkinID": "1004001",
+        "SoundID": "Hero_1004001_Skill_1004010101_emote_master_roar",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'rampage_emote_master_roar_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/rampage/rampage_emote_master_roar_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "24": {
         "SkinID": "1004001",
         "SoundID": "Hero_1004001_Skill_1004010101_emote_clap",
         "SoundVolume": 1.0,
@@ -170,7 +250,17 @@
         },
         "SoundTableManagerObject": null
       },
-      "17": {
+      "25": {
+        "SkinID": "1004005",
+        "SoundID": "Hero_1004001_Skill_1004010101_emote_master_roar",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'rampage_emote_master_roar_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/rampage/dark_golem/rampage_emote_master_roar_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "26": {
         "SkinID": "1004008",
         "SoundID": "Hero_1004001_Skill_1004010101_emote_angry",
         "SoundVolume": 1.0,
@@ -180,7 +270,17 @@
         },
         "SoundTableManagerObject": null
       },
-      "18": {
+      "27": {
+        "SkinID": "1004008",
+        "SoundID": "Hero_1004001_Skill_1004010101_emote_master_roar",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'rampage_emote_master_roar_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/rampage/rampage_1004008/rampage_emote_master_roar_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "28": {
         "SkinID": "1004008",
         "SoundID": "Hero_1004001_Skill_1004010101_emote_clap",
         "SoundVolume": 1.0,
@@ -190,7 +290,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "19": {
+      "29": {
         "SkinID": "1006001",
         "SoundID": "Hero_1006001_Skill_1006010101_emote_angry",
         "SoundVolume": 1.0,
@@ -200,7 +300,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "20": {
+      "30": {
         "SkinID": "1006001",
         "SoundID": "Hero_1006001_Skill_1006010101_emote_clap",
         "SoundVolume": 1.0,
@@ -210,7 +310,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "21": {
+      "31": {
         "SkinID": "1006001",
         "SoundID": "Hero_1006001_Skill_1006010101_emote_provoke",
         "SoundVolume": 1.0,
@@ -220,7 +320,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "22": {
+      "32": {
         "SkinID": "1006006",
         "SoundID": "Hero_1006001_Skill_1006010101_emote_angry",
         "SoundVolume": 1.0,
@@ -230,7 +330,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "23": {
+      "33": {
         "SkinID": "1006006",
         "SoundID": "Hero_1006001_Skill_1006010101_emote_clap",
         "SoundVolume": 1.0,
@@ -240,7 +340,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "24": {
+      "34": {
         "SkinID": "1006006",
         "SoundID": "Hero_1006001_Skill_1006010101_emote_provoke",
         "SoundVolume": 1.0,
@@ -250,7 +350,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "25": {
+      "35": {
         "SkinID": "1010001",
         "SoundID": "Hero_1010001_Skill_1010010101_emote_clap",
         "SoundVolume": 1.0,
@@ -260,7 +360,17 @@
         },
         "SoundTableManagerObject": null
       },
-      "26": {
+      "36": {
+        "SkinID": "1010001",
+        "SoundID": "Hero_1010001_Skill_1010010101_emote_pull_mc",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'sevarog_emote_pull_mc_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/sevarog/sevarog_emote_pull_mc_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "37": {
         "SkinID": "1010001",
         "SoundID": "Hero_1010001_Skill_1010010101_emote_provoke",
         "SoundVolume": 1.0,
@@ -270,7 +380,47 @@
         },
         "SoundTableManagerObject": null
       },
-      "27": {
+      "38": {
+        "SkinID": "1003001",
+        "SoundID": "Hero_1003001_Skill_1003010101_emote_taunt_curtsy",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'muriel_emote_taunt_curtsy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/muriel/muriel_emote_taunt_curtsy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "39": {
+        "SkinID": "1003008",
+        "SoundID": "Hero_1003001_Skill_1003010101_emote_taunt_curtsy",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'muriel_emote_taunt_curtsy_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/muriel/1003008/muriel_emote_taunt_curtsy_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "40": {
+        "SkinID": "1028001",
+        "SoundID": "Hero_1028001_Skill_1028010101_emote_celebration",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'serath_emote_celebration_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/serath/serath_emote_celebration_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "41": {
+        "SkinID": "1028007",
+        "SoundID": "Hero_1028001_Skill_1028010101_emote_celebration",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'serath_emote_celebration_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/serath/serath_1028007/serath_emote_celebration_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "42": {
         "SkinID": "1014001",
         "SoundID": "Hero_1014001_Skill_1014010101_emote_angry",
         "SoundVolume": 1.0,
@@ -280,7 +430,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "28": {
+      "43": {
         "SkinID": "1014001",
         "SoundID": "Hero_1014001_Skill_1014010101_emote_apologize",
         "SoundVolume": 1.0,
@@ -290,7 +440,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "29": {
+      "44": {
         "SkinID": "1014001",
         "SoundID": "Hero_1014001_Skill_1014010101_emote_clap",
         "SoundVolume": 1.0,
@@ -300,7 +450,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "30": {
+      "45": {
         "SkinID": "1015001",
         "SoundID": "Hero_1015001_Skill_1015010101_emote_angry",
         "SoundVolume": 1.0,
@@ -310,7 +460,37 @@
         },
         "SoundTableManagerObject": null
       },
-      "31": {
+      "46": {
+        "SkinID": "1015001",
+        "SoundID": "Hero_1015001_Skill_1015010101_emote_hat_lift",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'revenant_emote_hat_lift_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/revenant/revenant_emote_hat_lift_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "47": {
+        "SkinID": "1032001",
+        "SoundID": "Hero_1032001_Skill_1032010101_emote_angry",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'drongo_emote_laugh_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/drongo/drongo_emote_laugh_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "48": {
+        "SkinID": "1029001",
+        "SoundID": "Hero_1029001_Skill_1029010101_emote_master_swordplay",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'greystone_emote_master_swordplay_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/greystone/greystone_emote_master_swordplay_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "49": {
         "SkinID": "1016001",
         "SoundID": "Hero_1016001_Skill_1016010101_emote_clap",
         "SoundVolume": 1.0,
@@ -320,7 +500,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "32": {
+      "50": {
         "SkinID": "1016001",
         "SoundID": "Hero_1016001_Skill_1016010101_emote_provoke",
         "SoundVolume": 1.0,
@@ -330,7 +510,27 @@
         },
         "SoundTableManagerObject": null
       },
-      "33": {
+      "51": {
+        "SkinID": "1027001",
+        "SoundID": "Hero_1027001_Skill_1027010101_emote_taunt_nope",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'countess_emote_taunt_nope_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_emote_taunt_nope_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "52": {
+        "SkinID": "1027005",
+        "SoundID": "Hero_1027001_Skill_1027010101_emote_taunt_nope",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'countess_emote_taunt_nope_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/1027005/countess_emote_taunt_nope_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "53": {
         "SkinID": "1017001",
         "SoundID": "Hero_1017001_Skill_1017010101_emote_apologize",
         "SoundVolume": 1.0,
@@ -340,7 +540,47 @@
         },
         "SoundTableManagerObject": null
       },
-      "34": {
+      "54": {
+        "SkinID": "1017001",
+        "SoundID": "Hero_1017001_Skill_1017010101_emote_teddysaysno",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'phase_emote_teddysaysno_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/phase/phase_emote_teddysaysno_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "55": {
+        "SkinID": "1017006",
+        "SoundID": "Hero_1017001_Skill_1017010101_emote_teddysaysno",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'phase_emote_teddysaysno_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/phase/neon_punk/phase_emote_teddysaysno_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "56": {
+        "SkinID": "1005001",
+        "SoundID": "Hero_1005001_Skill_1005010101_emote_shhh",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'kallari_emote_taunt_shhh_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/kallari/kallari_emote_taunt_shhh_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "57": {
+        "SkinID": "1011001",
+        "SoundID": "Hero_1011001_Skill_1011010101_emote_swordpoint",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'kwang_emote_swordpoint_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/kwang/kwang_emote_swordpoint_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "58": {
         "SkinID": "1019001",
         "SoundID": "Hero_1019001_Skill_1019010101_emote_angry",
         "SoundVolume": 1.0,
@@ -350,7 +590,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "35": {
+      "59": {
         "SkinID": "1019001",
         "SoundID": "Hero_1019001_Skill_1019010101_emote_clap",
         "SoundVolume": 1.0,
@@ -360,7 +600,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "36": {
+      "60": {
         "SkinID": "1019008",
         "SoundID": "Hero_1019001_Skill_1019010101_emote_angry",
         "SoundVolume": 1.0,
@@ -370,7 +610,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "37": {
+      "61": {
         "SkinID": "1019008",
         "SoundID": "Hero_1019001_Skill_1019010101_emote_clap",
         "SoundVolume": 1.0,
@@ -380,7 +620,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "38": {
+      "62": {
         "SkinID": "1022001",
         "SoundID": "Hero_1022001_Skill_1022010101_emote_angry",
         "SoundVolume": 1.0,
@@ -390,7 +630,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "39": {
+      "63": {
         "SkinID": "1022001",
         "SoundID": "Hero_1022001_Skill_1022010101_emote_apologize",
         "SoundVolume": 1.0,
@@ -400,7 +640,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "40": {
+      "64": {
         "SkinID": "1022001",
         "SoundID": "Hero_1022001_Skill_1022010101_emote_clap",
         "SoundVolume": 1.0,
@@ -410,7 +650,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "41": {
+      "65": {
         "SkinID": "1022001",
         "SoundID": "Hero_1022001_Skill_1022010101_emote_greeting",
         "SoundVolume": 1.0,
@@ -420,7 +660,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "42": {
+      "66": {
         "SkinID": "1022001",
         "SoundID": "Hero_1022001_Skill_1022010101_emote_happy01",
         "SoundVolume": 1.0,
@@ -430,7 +670,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "43": {
+      "67": {
         "SkinID": "1022001",
         "SoundID": "Hero_1022001_Skill_1022010101_emote_happy02",
         "SoundVolume": 1.0,
@@ -440,7 +680,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "44": {
+      "68": {
         "SkinID": "1022001",
         "SoundID": "Hero_1022001_Skill_1022010101_emote_provoke",
         "SoundVolume": 1.0,
@@ -450,7 +690,17 @@
         },
         "SoundTableManagerObject": null
       },
-      "45": {
+      "69": {
+        "SkinID": "1022001",
+        "SoundID": "Hero_1022001_Skill_1022010101_emote_bootyshake",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'howitzer_emote_bootyshake_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/howitzer/howitzer_emote_bootyshake_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "70": {
         "SkinID": "1023001",
         "SoundID": "Hero_1023001_Skill_1023010101_emote_angry",
         "SoundVolume": 1.0,
@@ -460,7 +710,17 @@
         },
         "SoundTableManagerObject": null
       },
-      "46": {
+      "71": {
+        "SkinID": "1023001",
+        "SoundID": "Hero_1023001_Skill_1023010101_emote_howl",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'khaimera_emote_taunt_howl_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/khaimera/khaimera_emote_taunt_howl_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "72": {
         "SkinID": "1025001",
         "SoundID": "Hero_1025001_Skill_1025010101_emote_clap",
         "SoundVolume": 1.0,
@@ -470,7 +730,17 @@
         },
         "SoundTableManagerObject": null
       },
-      "47": {
+      "73": {
+        "SkinID": "1025001",
+        "SoundID": "Hero_1025001_Skill_1025010101_emote_master_rockout",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'narbash_emote_master_rockout_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/narbash/narbash_emote_master_rockout_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "74": {
         "SkinID": "1026001",
         "SoundID": "Hero_1026001_Skill_1026010101_emote_clap",
         "SoundVolume": 1.0,
@@ -480,7 +750,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "48": {
+      "75": {
         "SkinID": "1026006",
         "SoundID": "Hero_1026001_Skill_1026010101_emote_clap",
         "SoundVolume": 1.0,
@@ -490,7 +760,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "49": {
+      "76": {
         "SkinID": "1030001",
         "SoundID": "Hero_1030001_Skill_1030010101_emote_angry",
         "SoundVolume": 1.0,
@@ -500,7 +770,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "50": {
+      "77": {
         "SkinID": "1030001",
         "SoundID": "Hero_1030001_Skill_1030010101_emote_apologize",
         "SoundVolume": 1.0,
@@ -510,7 +780,17 @@
         },
         "SoundTableManagerObject": null
       },
-      "51": {
+      "78": {
+        "SkinID": "1033001",
+        "SoundID": "Hero_1033001_Skill_1033010101_emote_idk",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'wraith_emote_idk_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/wraith/wraith_emote_idk_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "79": {
         "SkinID": "1033001",
         "SoundID": "Hero_1033001_Skill_1033010101_emote_delight",
         "SoundVolume": 1.0,
@@ -520,7 +800,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "52": {
+      "80": {
         "SkinID": "1037001",
         "SoundID": "Hero_1037001_Skill_1037010101_emote_angry",
         "SoundVolume": 1.0,
@@ -530,7 +810,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "53": {
+      "81": {
         "SkinID": "1037001",
         "SoundID": "Hero_1037001_Skill_1037010101_emote_apologize",
         "SoundVolume": 1.0,
@@ -540,13 +820,43 @@
         },
         "SoundTableManagerObject": null
       },
-      "54": {
+      "82": {
         "SkinID": "1037001",
         "SoundID": "Hero_1037001_Skill_1037010101_emote_clap",
         "SoundVolume": 1.0,
         "SoundPath": {
           "ObjectName": "SoundCue'iggyscorch_emote_clap_cue'",
           "ObjectPath": "Overprime/Content/Sound/sfx/hero/emote/iggyscorch/iggyscorch_emote_clap_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "83": {
+        "SkinID": "1037001",
+        "SoundID": "Hero_1037001_Skill_1037010101_emote_nanabooboo",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'iggyscorch_emote_nanabooboo_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/iggyscorch/iggyscorch_emote_nanabooboo_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "84": {
+        "SkinID": "1031001",
+        "SoundID": "Hero_1031001_Skill_1031010101_emote_friendlywave",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'dekker_emote_friendlywave_m1_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/dekker/dekker_emote_friendlywave_m1_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "85": {
+        "SkinID": "1036001",
+        "SoundID": "Hero_1036001_Skill_1036010101_emote_comehere",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'wukong_emote_comehere_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/wukong/wukong_emote_comehere_cue.0"
         },
         "SoundTableManagerObject": null
       }

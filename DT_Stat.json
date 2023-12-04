@@ -40,7 +40,7 @@
         "Order": 16,
         "StatCategory": "EStatCategory::Defensive"
       },
-      "3": {
+      "4": {
         "StatType": "EStatusType::HealthRegen",
         "PrintName": "UI.Stat_HealthRegen",
         "Description": "UI.Stat_HealthRegen_Desc",
@@ -52,10 +52,10 @@
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Health_Reg'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Health_Reg.0"
         },
-        "Order": 17,
+        "Order": 18,
         "StatCategory": "EStatCategory::Defensive"
       },
-      "4": {
+      "5": {
         "StatType": "EStatusType::ManaRegen",
         "PrintName": "UI.Stat_ManaRegen",
         "Description": "UI.Stat_ManaRegen_Desc",
@@ -67,10 +67,10 @@
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Mana_Reg'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Mana_Reg.0"
         },
-        "Order": 18,
+        "Order": 19,
         "StatCategory": "EStatCategory::Defensive"
       },
-      "5": {
+      "7": {
         "StatType": "EStatusType::PhysicalPower",
         "PrintName": "UI.Stat_PhysicalPower",
         "Description": "UI.Stat_PhysicalPower_Desc",
@@ -85,7 +85,7 @@
         "Order": 1,
         "StatCategory": "EStatCategory::Offensive"
       },
-      "6": {
+      "8": {
         "StatType": "EStatusType::MagicalPower",
         "PrintName": "UI.Stat_MagicalPower",
         "Description": "UI.Stat_MagicalPower_Desc",
@@ -100,7 +100,7 @@
         "Order": 4,
         "StatCategory": "EStatCategory::Offensive"
       },
-      "7": {
+      "9": {
         "StatType": "EStatusType::AttackSpeed",
         "PrintName": "UI.Stat_AttackSpeed",
         "Description": "UI.Stat_AttackSpeed_Desc",
@@ -115,7 +115,7 @@
         "Order": 7,
         "StatCategory": "EStatCategory::Offensive"
       },
-      "8": {
+      "10": {
         "StatType": "EStatusType::MovementSpeed",
         "PrintName": "UI.Stat_MovementSpeed",
         "Description": "UI.Stat_MovementSpeed_Desc",
@@ -127,10 +127,10 @@
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_MoveMent'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_MoveMent.0"
         },
-        "Order": 21,
+        "Order": 22,
         "StatCategory": "EStatCategory::Utility"
       },
-      "9": {
+      "11": {
         "StatType": "EStatusType::JumpZVelocity",
         "PrintName": "UI.Stat_JumpZVelocity",
         "Description": "UI.Stat_JumpZVelocity_Desc",
@@ -145,7 +145,7 @@
         "Order": 0,
         "StatCategory": "EStatCategory::None"
       },
-      "10": {
+      "12": {
         "StatType": "EStatusType::NormalLifesteal",
         "PrintName": "UI.Stat_NormalLifesteal",
         "Description": "UI.Stat_NormalLifesteal_Desc",
@@ -160,7 +160,7 @@
         "Order": 9,
         "StatCategory": "EStatCategory::Offensive"
       },
-      "11": {
+      "13": {
         "StatType": "EStatusType::SkillPhysicalLifesteal",
         "PrintName": "UI.Stat_SkillPhysicalLifesteal",
         "Description": "UI.Stat_SkillPhysicalLifesteal_Desc",
@@ -175,7 +175,7 @@
         "Order": 10,
         "StatCategory": "EStatCategory::Offensive"
       },
-      "12": {
+      "14": {
         "StatType": "EStatusType::SkillMagicalLifesteal",
         "PrintName": "UI.Stat_SkillMagicalLifesteal",
         "Description": "UI.Stat_SkillMagicalLifesteal_Desc",
@@ -190,7 +190,7 @@
         "Order": 11,
         "StatCategory": "EStatCategory::Offensive"
       },
-      "13": {
+      "15": {
         "StatType": "EStatusType::AllLifesteal",
         "PrintName": "UI.Stat_AllLifesteal",
         "Description": "UI.Stat_AllLifesteal_Desc",
@@ -205,7 +205,7 @@
         "Order": 12,
         "StatCategory": "EStatCategory::Offensive"
       },
-      "14": {
+      "16": {
         "StatType": "EStatusType::Cooldown",
         "PrintName": "UI.Stat_Cooldown",
         "Description": "UI.Stat_Cooldown_Desc",
@@ -217,10 +217,10 @@
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_CoolTime'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_CoolTime.0"
         },
-        "Order": 20,
+        "Order": 21,
         "StatCategory": "EStatCategory::Utility"
       },
-      "15": {
+      "17": {
         "StatType": "EStatusType::PhysicalProtection",
         "PrintName": "UI.Stat_PhysicalProtection",
         "Description": "UI.Stat_PhysicalProtection_Desc",
@@ -235,7 +235,7 @@
         "Order": 13,
         "StatCategory": "EStatCategory::Defensive"
       },
-      "16": {
+      "18": {
         "StatType": "EStatusType::MagicalProtection",
         "PrintName": "UI.Stat_MagicalProtection",
         "Description": "UI.Stat_MagicalProtection_Desc",
@@ -250,7 +250,7 @@
         "Order": 14,
         "StatCategory": "EStatCategory::Defensive"
       },
-      "17": {
+      "19": {
         "StatType": "EStatusType::PhysicalPenetrationValue",
         "PrintName": "UI.Stat_PhysicalPenetrationValue",
         "Description": "UI.Stat_PhysicalPenetrationValue_Desc",
@@ -265,7 +265,7 @@
         "Order": 2,
         "StatCategory": "EStatCategory::Offensive"
       },
-      "18": {
+      "20": {
         "StatType": "EStatusType::PhysicalPenetrationPercent",
         "PrintName": "UI.Stat_PhysicalPenetrationPercent",
         "Description": "UI.Stat_PhysicalPenetrationPercent_Desc",
@@ -280,7 +280,7 @@
         "Order": 3,
         "StatCategory": "EStatCategory::None"
       },
-      "19": {
+      "21": {
         "StatType": "EStatusType::MagicalPenetrationValue",
         "PrintName": "UI.Stat_MagicalPenetrationValue",
         "Description": "UI.Stat_MagicalPenetrationValue_Desc",
@@ -295,7 +295,7 @@
         "Order": 5,
         "StatCategory": "EStatCategory::Offensive"
       },
-      "20": {
+      "22": {
         "StatType": "EStatusType::MagicalPenetrationPercent",
         "PrintName": "UI.Stat_MagicalPenetrationPercent",
         "Description": "UI.Stat_MagicalPenetrationPercent_Desc",
@@ -310,7 +310,7 @@
         "Order": 6,
         "StatCategory": "EStatCategory::None"
       },
-      "21": {
+      "23": {
         "StatType": "EStatusType::CriticalChance",
         "PrintName": "UI.Stat_CriticalChance",
         "Description": "UI.Stat_CriticalChance_Desc",
@@ -325,7 +325,7 @@
         "Order": 7,
         "StatCategory": "EStatCategory::Offensive"
       },
-      "22": {
+      "24": {
         "StatType": "EStatusType::CriticalDamage",
         "PrintName": "UI.Stat_CriticalDamage",
         "Description": "UI.Stat_CriticalDamage_Desc",
@@ -340,7 +340,7 @@
         "Order": 8,
         "StatCategory": "EStatCategory::Offensive"
       },
-      "23": {
+      "25": {
         "StatType": "EStatusType::CCR",
         "PrintName": "UI.Stat_CCR",
         "Description": "UI.Stat_CCR_Desc",
@@ -355,7 +355,7 @@
         "Order": 19,
         "StatCategory": "EStatCategory::Utility"
       },
-      "24": {
+      "26": {
         "StatType": "EStatusType::Range",
         "PrintName": "UI.Stat_Range",
         "Description": "UI.Stat_Range_Desc",
@@ -370,7 +370,7 @@
         "Order": 0,
         "StatCategory": "EStatCategory::None"
       },
-      "27": {
+      "29": {
         "StatType": "EStatusType::Splash",
         "PrintName": "UI.Stat_Splash",
         "Description": "UI.Stat_Splash_Desc",
@@ -385,7 +385,7 @@
         "Order": 0,
         "StatCategory": "EStatCategory::None"
       },
-      "28": {
+      "30": {
         "StatType": "EStatusType::CriticalDamageProtection",
         "PrintName": "UI.Stat_CriticalDamageProtection",
         "Description": "UI.Stat_CriticalDamageProtection_Desc",
@@ -400,7 +400,7 @@
         "Order": 0,
         "StatCategory": "EStatCategory::None"
       },
-      "29": {
+      "31": {
         "StatType": "EStatusType::InComingDamageIncrement",
         "PrintName": "UI.Stat_InComingDamageIncrement",
         "Description": "UI.Stat_InComingDamageIncrement_Desc",
@@ -415,7 +415,7 @@
         "Order": 0,
         "StatCategory": "EStatCategory::None"
       },
-      "30": {
+      "32": {
         "StatType": "EStatusType::InComingDamageDecrement",
         "PrintName": "UI.Stat_InComingDamageDecrement",
         "Description": "UI.Stat_InComingDamageDecrement_Desc",
@@ -430,7 +430,7 @@
         "Order": 0,
         "StatCategory": "EStatCategory::None"
       },
-      "31": {
+      "33": {
         "StatType": "EStatusType::OutGoingDamageIncrement",
         "PrintName": "UI.Stat_OutGoingDamageIncrement",
         "Description": "UI.Stat_OutGoingDamageIncrement_Desc",
@@ -445,7 +445,7 @@
         "Order": 0,
         "StatCategory": "EStatCategory::None"
       },
-      "32": {
+      "34": {
         "StatType": "EStatusType::OutGoingDamageDecrement",
         "PrintName": "UI.Stat_OutGoingDamageDecrement",
         "Description": "UI.Stat_OutGoingDamageDecrement_Desc",

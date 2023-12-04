@@ -274,6 +274,12 @@
         "MaxAmount": 1,
         "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Maco_Portrait.Hero_Icon_Maco_Portrait'"
       },
+      "20001043": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1043,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Marty/1043001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
       "31001001": {
         "ItemType": "EItemOutgameType::Hero_Skin",
         "ItemTypeID": 1001001,
@@ -664,6 +670,12 @@
         "MaxAmount": 1,
         "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Sevarog/1010005/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
       },
+      "31010006": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1010006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Sevarog/1010006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
       "31010901": {
         "ItemType": "EItemOutgameType::Hero_Skin",
         "ItemTypeID": 1010901,
@@ -957,6 +969,12 @@
         "ItemTypeID": 1019005,
         "MaxAmount": 1,
         "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Belica/1019005/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31019007": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1019007,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Belica/1019007/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
       },
       "31019008": {
         "ItemType": "EItemOutgameType::Hero_Skin",
@@ -1497,6 +1515,24 @@
         "ItemTypeID": 1042901,
         "MaxAmount": 1,
         "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Maco/1042901/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31043001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1043001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Marty/1043001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31043002": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1043002,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Marty/1043002/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31043901": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1043901,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Marty/1043901/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
       },
       "41100001": {
         "ItemType": "EItemOutgameType::Emblem",
@@ -2355,6 +2391,276 @@
         "ItemTypeID": 1100143,
         "MaxAmount": 1,
         "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDYin_0101.Emb_SDYin_0101'"
+      },
+      "41100144": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100144,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Marty_Portrait.Hero_Icon_Marty_Portrait'"
+      },
+      "41100145": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100145,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDMaty_0101.Emb_SDMaty_0101'"
+      },
+      "41100146": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100146,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_FortuneCookies_0101.Emb_FortuneCookies_0101'"
+      },
+      "41100147": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100147,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Fighting_0101.Emb_Fighting_0101'"
+      },
+      "41100148": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100148,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_DropTheBeat_0101.Emb_DropTheBeat_0101'"
+      },
+      "41100149": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100149,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_Giggle_0101.Emb_Giggle_0101'"
+      },
+      "41100150": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100150,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_PSCBT1st_0101.Emb_PSCBT1st_0101'"
+      },
+      "41100151": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100151,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_PSCBT2nd_0101.Emb_PSCBT2nd_0101'"
+      },
+      "51010001": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 1010001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010001.Text_Emotion_1010001'"
+      },
+      "51010002": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 1010002,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010002.Text_Emotion_1010002'"
+      },
+      "51010003": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 1010003,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010003.Text_Emotion_1010003'"
+      },
+      "51010004": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 1010004,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010004.Text_Emotion_1010004'"
+      },
+      "51010005": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 1010005,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010005.Text_Emotion_1010005'"
+      },
+      "51010006": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 1010006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010006.Text_Emotion_1010006'"
+      },
+      "51010007": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 1010007,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010007.Text_Emotion_1010007'"
+      },
+      "51010008": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 1010008,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010008.Text_Emotion_1010008'"
+      },
+      "51010009": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 1010009,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010009.Text_Emotion_1010009'"
+      },
+      "51010010": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 1010010,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010010.Text_Emotion_1010010'"
+      },
+      "51010011": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 1010011,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010011.Text_Emotion_1010011'"
+      },
+      "51010012": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 1010012,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_1010012.Text_Emotion_1010012'"
+      },
+      "52010001": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 2010001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_2010001.Text_Emotion_2010001'"
+      },
+      "52010002": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 2010002,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_2010002.Text_Emotion_2010002'"
+      },
+      "52010003": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 2010003,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_2010003.Text_Emotion_2010003'"
+      },
+      "52010004": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 2010004,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_2010004.Text_Emotion_2010004'"
+      },
+      "52010005": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 2010005,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_2010005.Text_Emotion_2010005'"
+      },
+      "53020001": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 3020001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020001.Text_Emotion_3020001'"
+      },
+      "53020002": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 3020002,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020002.Text_Emotion_3020002'"
+      },
+      "53020003": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 3020003,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020003.Text_Emotion_3020003'"
+      },
+      "53020004": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 3020004,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020004.Text_Emotion_3020004'"
+      },
+      "53020005": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 3020005,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020005.Text_Emotion_3020005'"
+      },
+      "53020006": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 3020006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020006.Text_Emotion_3020006'"
+      },
+      "53020007": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 3020007,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020007.Text_Emotion_3020007'"
+      },
+      "53020008": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 3020008,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020008.Text_Emotion_3020008'"
+      },
+      "53020009": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 3020009,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020009.Text_Emotion_3020009'"
+      },
+      "53020010": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 3020010,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020010.Text_Emotion_3020010'"
+      },
+      "53020011": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 3020011,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020011.Text_Emotion_3020011'"
+      },
+      "53020012": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 3020012,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020012.Text_Emotion_3020012'"
+      },
+      "53020013": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 3020013,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020013.Text_Emotion_3020013'"
+      },
+      "53020014": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 3020014,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020014.Text_Emotion_3020014'"
+      },
+      "53020015": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 3020015,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020015.Text_Emotion_3020015'"
+      },
+      "53020016": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 3020016,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020016.Text_Emotion_3020016'"
+      },
+      "53020017": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 3020017,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020017.Text_Emotion_3020017'"
+      },
+      "53020018": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 3020018,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020018.Text_Emotion_3020018'"
+      },
+      "53020019": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 3020019,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020019.Text_Emotion_3020019'"
+      },
+      "53020020": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 3020020,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020020.Text_Emotion_3020020'"
       }
     }
   }

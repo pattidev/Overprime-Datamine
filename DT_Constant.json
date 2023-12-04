@@ -536,7 +536,7 @@
         "ConstantValue": "3600"
       },
       "outgame_Item_Preset_Built_in_Count": {
-        "ConstantValue": "5"
+        "ConstantValue": "10"
       },
       "ingame_Game_Invalidation_Handling_Time": {
         "ConstantValue": "5"
@@ -648,6 +648,9 @@
       },
       "bool_init_show_chat_box_result": {
         "ConstantValue": "0"
+      },
+      "outgame_accountinfo_purchaserestore_disabletime": {
+        "ConstantValue": "5"
       }
     }
   }

@@ -383,357 +383,357 @@
       },
       "54": {
         "TutorialStep": 2,
-        "NotUseType": "ETutorialNotUse::ETNU_ShopToolTip",
-        "ProcessType": "ETutorialNotUseProcess::HideUI",
-        "CloseStartIndex": 13,
-        "CloseEndIndex": 13
-      },
-      "55": {
-        "TutorialStep": 2,
         "NotUseType": "ETutorialNotUse::ETNU_KillLog",
         "ProcessType": "ETutorialNotUseProcess::HideUI",
         "CloseStartIndex": 1,
         "CloseEndIndex": 42
       },
-      "56": {
+      "55": {
         "TutorialStep": 2,
         "NotUseType": "ETutorialNotUse::ETNU_DamageLog",
         "ProcessType": "ETutorialNotUseProcess::HideUI",
         "CloseStartIndex": 1,
         "CloseEndIndex": 42
       },
-      "57": {
+      "56": {
         "TutorialStep": 2,
         "NotUseType": "ETutorialNotUse::ETNU_ScoreBoard_PlayerSwitch",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 1,
         "CloseEndIndex": 42
       },
-      "58": {
+      "57": {
         "TutorialStep": 2,
         "NotUseType": "ETutorialNotUse::ETNU_Ping",
+        "ProcessType": "ETutorialNotUseProcess::LockKey",
+        "CloseStartIndex": 41,
+        "CloseEndIndex": 42
+      },
+      "58": {
+        "TutorialStep": 2,
+        "NotUseType": "ETutorialNotUse::ETNU_ScoreBoard",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 41,
         "CloseEndIndex": 42
       },
       "59": {
         "TutorialStep": 2,
-        "NotUseType": "ETutorialNotUse::ETNU_ScoreBoard",
+        "NotUseType": "ETutorialNotUse::ETNU_Emotion",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 41,
         "CloseEndIndex": 42
       },
       "60": {
         "TutorialStep": 2,
-        "NotUseType": "ETutorialNotUse::ETNU_Emotion",
-        "ProcessType": "ETutorialNotUseProcess::LockKey",
-        "CloseStartIndex": 41,
-        "CloseEndIndex": 42
-      },
-      "61": {
-        "TutorialStep": 2,
         "NotUseType": "ETutorialNotUse::ETNU_OpenShop",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 1,
         "CloseEndIndex": 4
       },
-      "62": {
+      "61": {
         "TutorialStep": 2,
         "NotUseType": "ETutorialNotUse::ETNU_OpenShop",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 6,
         "CloseEndIndex": 42
       },
-      "63": {
+      "62": {
         "TutorialStep": 2,
         "NotUseType": "ETutorialNotUse::ETNU_CloseShop",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 1,
         "CloseEndIndex": 25
       },
-      "64": {
+      "63": {
         "TutorialStep": 2,
         "NotUseType": "ETutorialNotUse::ETNU_CloseShop",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 27,
         "CloseEndIndex": 42
       },
-      "65": {
+      "64": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_OpenShop",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 1,
         "CloseEndIndex": 6
+      },
+      "65": {
+        "TutorialStep": 3,
+        "NotUseType": "ETutorialNotUse::ETNU_OpenShop",
+        "ProcessType": "ETutorialNotUseProcess::LockKey",
+        "CloseStartIndex": 11,
+        "CloseEndIndex": 11
       },
       "66": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_OpenShop",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
-        "CloseStartIndex": 11,
-        "CloseEndIndex": 11
+        "CloseStartIndex": 19,
+        "CloseEndIndex": 19
       },
       "67": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_OpenShop",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
-        "CloseStartIndex": 19,
-        "CloseEndIndex": 19
+        "CloseStartIndex": 23,
+        "CloseEndIndex": 23
       },
       "68": {
         "TutorialStep": 3,
-        "NotUseType": "ETutorialNotUse::ETNU_OpenShop",
+        "NotUseType": "ETutorialNotUse::ETNU_Ping",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
-        "CloseStartIndex": 23,
-        "CloseEndIndex": 23
+        "CloseStartIndex": 1,
+        "CloseEndIndex": 6
       },
       "69": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_Ping",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
-        "CloseStartIndex": 1,
-        "CloseEndIndex": 6
+        "CloseStartIndex": 11,
+        "CloseEndIndex": 11
       },
       "70": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_Ping",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
-        "CloseStartIndex": 11,
-        "CloseEndIndex": 11
-      },
-      "71": {
-        "TutorialStep": 3,
-        "NotUseType": "ETutorialNotUse::ETNU_Ping",
-        "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 19,
         "CloseEndIndex": 19
       },
-      "72": {
+      "71": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_Ping",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 23,
         "CloseEndIndex": 23
       },
-      "73": {
+      "72": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_Emotion",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 1,
         "CloseEndIndex": 6
       },
-      "74": {
+      "73": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_Emotion",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 11,
         "CloseEndIndex": 11
       },
-      "75": {
+      "74": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_Emotion",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 19,
         "CloseEndIndex": 19
       },
-      "76": {
+      "75": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_Emotion",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 23,
         "CloseEndIndex": 23
       },
-      "77": {
+      "76": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_ToastSprintBind",
         "ProcessType": "ETutorialNotUseProcess::HideUI",
         "CloseStartIndex": 1,
         "CloseEndIndex": 32
       },
-      "78": {
+      "77": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_ScoreBoard",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 1,
         "CloseEndIndex": 6
       },
-      "79": {
+      "78": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_ScoreBoard",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 11,
         "CloseEndIndex": 11
       },
-      "80": {
+      "79": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_ScoreBoard",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 19,
         "CloseEndIndex": 19
       },
-      "81": {
+      "80": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_ScoreBoard",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 23,
         "CloseEndIndex": 23
       },
-      "82": {
+      "81": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_ToastShopOpen",
         "ProcessType": "ETutorialNotUseProcess::HideUI",
         "CloseStartIndex": 1,
         "CloseEndIndex": 6
       },
-      "83": {
+      "82": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_ToastSkillUpgrade",
         "ProcessType": "ETutorialNotUseProcess::HideUI",
         "CloseStartIndex": 1,
         "CloseEndIndex": 6
       },
-      "84": {
+      "83": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_MoveJump",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 6,
         "CloseEndIndex": 6
       },
-      "85": {
+      "84": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_MoveJump",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 19,
         "CloseEndIndex": 19
+      },
+      "85": {
+        "TutorialStep": 3,
+        "NotUseType": "ETutorialNotUse::ETNU_UpgradeSkill",
+        "ProcessType": "ETutorialNotUseProcess::LockKey",
+        "CloseStartIndex": 6,
+        "CloseEndIndex": 6
       },
       "86": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_UpgradeSkill",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
-        "CloseStartIndex": 6,
-        "CloseEndIndex": 6
-      },
-      "87": {
-        "TutorialStep": 3,
-        "NotUseType": "ETutorialNotUse::ETNU_UpgradeSkill",
-        "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 19,
         "CloseEndIndex": 19
       },
-      "88": {
+      "87": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_ToastSummonBP",
         "ProcessType": "ETutorialNotUseProcess::HideUI",
         "CloseStartIndex": 1,
         "CloseEndIndex": 32
       },
-      "89": {
+      "88": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_BuffDeBuff",
+        "ProcessType": "ETutorialNotUseProcess::HideUI",
+        "CloseStartIndex": 11,
+        "CloseEndIndex": 11
+      },
+      "89": {
+        "TutorialStep": 3,
+        "NotUseType": "ETutorialNotUse::ETNU_TeamScore",
         "ProcessType": "ETutorialNotUseProcess::HideUI",
         "CloseStartIndex": 11,
         "CloseEndIndex": 11
       },
       "90": {
         "TutorialStep": 3,
-        "NotUseType": "ETutorialNotUse::ETNU_TeamScore",
+        "NotUseType": "ETutorialNotUse::ETNU_Minimap",
         "ProcessType": "ETutorialNotUseProcess::HideUI",
         "CloseStartIndex": 11,
         "CloseEndIndex": 11
       },
       "91": {
         "TutorialStep": 3,
-        "NotUseType": "ETutorialNotUse::ETNU_Minimap",
+        "NotUseType": "ETutorialNotUse::ETNU_HPMPSkill",
         "ProcessType": "ETutorialNotUseProcess::HideUI",
         "CloseStartIndex": 11,
         "CloseEndIndex": 11
       },
       "92": {
         "TutorialStep": 3,
-        "NotUseType": "ETutorialNotUse::ETNU_HPMPSkill",
+        "NotUseType": "ETutorialNotUse::ETNU_CharacterStat",
         "ProcessType": "ETutorialNotUseProcess::HideUI",
         "CloseStartIndex": 11,
         "CloseEndIndex": 11
       },
       "93": {
         "TutorialStep": 3,
-        "NotUseType": "ETutorialNotUse::ETNU_CharacterStat",
-        "ProcessType": "ETutorialNotUseProcess::HideUI",
-        "CloseStartIndex": 11,
-        "CloseEndIndex": 11
-      },
-      "94": {
-        "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_BuffDeBuff",
         "ProcessType": "ETutorialNotUseProcess::HideUI",
         "CloseStartIndex": 23,
         "CloseEndIndex": 23
       },
-      "95": {
+      "94": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_TeamScore",
         "ProcessType": "ETutorialNotUseProcess::HideUI",
         "CloseStartIndex": 23,
         "CloseEndIndex": 23
       },
-      "96": {
+      "95": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_Minimap",
         "ProcessType": "ETutorialNotUseProcess::HideUI",
         "CloseStartIndex": 23,
         "CloseEndIndex": 23
       },
-      "97": {
+      "96": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_HPMPSkill",
         "ProcessType": "ETutorialNotUseProcess::HideUI",
         "CloseStartIndex": 23,
         "CloseEndIndex": 23
       },
-      "98": {
+      "97": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_CharacterStat",
         "ProcessType": "ETutorialNotUseProcess::HideUI",
         "CloseStartIndex": 23,
         "CloseEndIndex": 23
       },
-      "99": {
+      "98": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_BaseAttack",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 1,
         "CloseEndIndex": 7
       },
-      "100": {
+      "99": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_BaseAttack",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 11,
         "CloseEndIndex": 11
       },
-      "101": {
+      "100": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_BaseAttack",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 16,
         "CloseEndIndex": 20
       },
-      "102": {
+      "101": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_BaseAttack",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 23,
         "CloseEndIndex": 23
       },
-      "103": {
+      "102": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_BaseAttack",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 25,
         "CloseEndIndex": 26
       },
-      "104": {
+      "103": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_UpgradeSkill",
+        "ProcessType": "ETutorialNotUseProcess::LockKey",
+        "CloseStartIndex": 1,
+        "CloseEndIndex": 7
+      },
+      "104": {
+        "TutorialStep": 3,
+        "NotUseType": "ETutorialNotUse::ETNU_UseSkill",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 1,
         "CloseEndIndex": 7
@@ -742,283 +742,276 @@
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_UseSkill",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
-        "CloseStartIndex": 1,
-        "CloseEndIndex": 7
-      },
-      "106": {
-        "TutorialStep": 3,
-        "NotUseType": "ETutorialNotUse::ETNU_UseSkill",
-        "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 11,
         "CloseEndIndex": 11
       },
-      "107": {
+      "106": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_UseSkill",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 16,
         "CloseEndIndex": 20
       },
-      "108": {
+      "107": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_UseSkill",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 23,
         "CloseEndIndex": 23
       },
-      "109": {
+      "108": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_UseSkill",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 25,
         "CloseEndIndex": 26
       },
-      "110": {
+      "109": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_Recall",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 1,
         "CloseEndIndex": 7
+      },
+      "110": {
+        "TutorialStep": 3,
+        "NotUseType": "ETutorialNotUse::ETNU_Recall",
+        "ProcessType": "ETutorialNotUseProcess::LockKey",
+        "CloseStartIndex": 11,
+        "CloseEndIndex": 11
       },
       "111": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_Recall",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
-        "CloseStartIndex": 11,
-        "CloseEndIndex": 11
-      },
-      "112": {
-        "TutorialStep": 3,
-        "NotUseType": "ETutorialNotUse::ETNU_Recall",
-        "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 19,
         "CloseEndIndex": 19
       },
-      "113": {
+      "112": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_Recall",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 23,
         "CloseEndIndex": 23
       },
-      "114": {
+      "113": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_Chat",
         "ProcessType": "ETutorialNotUseProcess::Both",
         "CloseStartIndex": 1,
         "CloseEndIndex": 7
       },
-      "115": {
+      "114": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_Chat",
         "ProcessType": "ETutorialNotUseProcess::Both",
         "CloseStartIndex": 11,
         "CloseEndIndex": 11
       },
-      "116": {
+      "115": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_Chat",
         "ProcessType": "ETutorialNotUseProcess::Both",
         "CloseStartIndex": 19,
         "CloseEndIndex": 19
       },
-      "117": {
+      "116": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_Chat",
         "ProcessType": "ETutorialNotUseProcess::Both",
         "CloseStartIndex": 23,
         "CloseEndIndex": 23
       },
-      "118": {
+      "117": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_BuffDeBuff",
         "ProcessType": "ETutorialNotUseProcess::HideUI",
         "CloseStartIndex": 22,
         "CloseEndIndex": 22
       },
-      "119": {
+      "118": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_FastBuy",
         "ProcessType": "ETutorialNotUseProcess::HideUI",
         "CloseStartIndex": 1,
         "CloseEndIndex": 7
       },
-      "120": {
+      "119": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_Ping",
+        "ProcessType": "ETutorialNotUseProcess::LockKey",
+        "CloseStartIndex": 31,
+        "CloseEndIndex": 32
+      },
+      "120": {
+        "TutorialStep": 3,
+        "NotUseType": "ETutorialNotUse::ETNU_ScoreBoard",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 31,
         "CloseEndIndex": 32
       },
       "121": {
         "TutorialStep": 3,
-        "NotUseType": "ETutorialNotUse::ETNU_ScoreBoard",
+        "NotUseType": "ETutorialNotUse::ETNU_Emotion",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 31,
         "CloseEndIndex": 32
       },
       "122": {
         "TutorialStep": 3,
-        "NotUseType": "ETutorialNotUse::ETNU_Emotion",
-        "ProcessType": "ETutorialNotUseProcess::LockKey",
-        "CloseStartIndex": 31,
-        "CloseEndIndex": 32
-      },
-      "123": {
-        "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_ScoreBoard_PlayerSwitch",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 1,
         "CloseEndIndex": 32
       },
-      "124": {
+      "123": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_KillLog",
         "ProcessType": "ETutorialNotUseProcess::HideUI",
         "CloseStartIndex": 1,
         "CloseEndIndex": 32
       },
-      "125": {
+      "124": {
         "TutorialStep": 3,
         "NotUseType": "ETutorialNotUse::ETNU_DamageLog",
         "ProcessType": "ETutorialNotUseProcess::HideUI",
         "CloseStartIndex": 1,
         "CloseEndIndex": 32
       },
-      "126": {
+      "125": {
         "TutorialStep": 4,
         "NotUseType": "ETutorialNotUse::ETNU_Ping",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 1,
         "CloseEndIndex": 4
       },
-      "127": {
+      "126": {
         "TutorialStep": 4,
         "NotUseType": "ETutorialNotUse::ETNU_ToastShopOpen",
         "ProcessType": "ETutorialNotUseProcess::HideUI",
         "CloseStartIndex": 1,
         "CloseEndIndex": 16
       },
-      "128": {
+      "127": {
         "TutorialStep": 4,
         "NotUseType": "ETutorialNotUse::ETNU_ToastSprintBind",
         "ProcessType": "ETutorialNotUseProcess::HideUI",
         "CloseStartIndex": 1,
         "CloseEndIndex": 22
       },
-      "129": {
+      "128": {
         "TutorialStep": 4,
         "NotUseType": "ETutorialNotUse::ETNU_ScoreBoard",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 1,
         "CloseEndIndex": 8
       },
-      "130": {
+      "129": {
         "TutorialStep": 4,
         "NotUseType": "ETutorialNotUse::ETNU_UseSkill",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 10,
         "CloseEndIndex": 15
       },
-      "131": {
+      "130": {
         "TutorialStep": 4,
         "NotUseType": "ETutorialNotUse::ETNU_BaseAttack",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 10,
         "CloseEndIndex": 14
       },
-      "132": {
+      "131": {
         "TutorialStep": 4,
         "NotUseType": "ETutorialNotUse::ETNU_MoveJump",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 1,
         "CloseEndIndex": 4
       },
-      "133": {
+      "132": {
         "TutorialStep": 4,
         "NotUseType": "ETutorialNotUse::ETNU_MoveJump",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 10,
         "CloseEndIndex": 14
       },
-      "134": {
+      "133": {
         "TutorialStep": 4,
         "NotUseType": "ETutorialNotUse::ETNU_Ping",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 10,
         "CloseEndIndex": 12
       },
-      "135": {
+      "134": {
         "TutorialStep": 4,
         "NotUseType": "ETutorialNotUse::ETNU_Ping",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 14,
         "CloseEndIndex": 14
       },
-      "136": {
+      "135": {
         "TutorialStep": 4,
         "NotUseType": "ETutorialNotUse::ETNU_Emotion",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 1,
         "CloseEndIndex": 16
       },
-      "137": {
+      "136": {
         "TutorialStep": 4,
         "NotUseType": "ETutorialNotUse::ETNU_Recall",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 1,
         "CloseEndIndex": 15
       },
-      "138": {
+      "137": {
         "TutorialStep": 4,
         "NotUseType": "ETutorialNotUse::ETNU_FastBuy",
         "ProcessType": "ETutorialNotUseProcess::Both",
         "CloseStartIndex": 1,
         "CloseEndIndex": 18
       },
-      "139": {
+      "138": {
         "TutorialStep": 4,
         "NotUseType": "ETutorialNotUse::ETNU_ScoreBoard_Ping",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 1,
         "CloseEndIndex": 12
       },
-      "140": {
+      "139": {
         "TutorialStep": 4,
         "NotUseType": "ETutorialNotUse::ETNU_ScoreBoard_AutoPilot",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 1,
         "CloseEndIndex": 13
       },
-      "141": {
+      "140": {
         "TutorialStep": 4,
         "NotUseType": "ETutorialNotUse::ETNU_FastBuy",
         "ProcessType": "ETutorialNotUseProcess::HideUI",
         "CloseStartIndex": 1,
         "CloseEndIndex": 22
       },
-      "142": {
+      "141": {
         "TutorialStep": 4,
         "NotUseType": "ETutorialNotUse::ETNU_ScoreBoard_PlayerSwitch",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 1,
         "CloseEndIndex": 22
       },
-      "143": {
+      "142": {
         "TutorialStep": 4,
         "NotUseType": "ETutorialNotUse::ETNU_ToastShopOpen",
         "ProcessType": "ETutorialNotUseProcess::HideUI",
         "CloseStartIndex": 1,
         "CloseEndIndex": 14
       },
-      "144": {
+      "143": {
         "TutorialStep": 4,
         "NotUseType": "ETutorialNotUse::ETNU_OpenShop",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
         "CloseStartIndex": 1,
         "CloseEndIndex": 14
       },
-      "145": {
+      "144": {
         "TutorialStep": 4,
         "NotUseType": "ETutorialNotUse::ETNU_SpellSlot",
         "ProcessType": "ETutorialNotUseProcess::LockKey",
