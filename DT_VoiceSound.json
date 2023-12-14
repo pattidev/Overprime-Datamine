@@ -1200,6 +1200,28 @@
       "110": {
         "SoundPriority": 5,
         "SkinID": "None",
+        "SoundID": "Hero_1004001_Voice_recall_snowman_01",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'rampage_recall_snowman_01_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/hero/rampage/snowman/rampage_recall_snowman_01_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "111": {
+        "SoundPriority": 5,
+        "SkinID": "None",
+        "SoundID": "Hero_1004001_Voice_recall_snowman_02",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'rampage_recall_snowman_02_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/hero/rampage/snowman/rampage_recall_snowman_02_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "112": {
+        "SoundPriority": 5,
+        "SkinID": "None",
         "SoundID": "Hero_1004001_Voice_recall",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -1208,31 +1230,9 @@
         },
         "SoundTableManagerObject": null
       },
-      "111": {
-        "SoundPriority": 1,
-        "SkinID": "1005001",
-        "SoundID": "Hero_1005001_Voice_Clothes",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'whoosh_kallari_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/whoosh/kallari/whoosh_kallari_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "112": {
-        "SoundPriority": 1,
-        "SkinID": "1005002",
-        "SoundID": "Hero_1005001_Voice_Clothes",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'whoosh_kallari_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/whoosh/kallari/whoosh_kallari_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
       "113": {
         "SoundPriority": 1,
-        "SkinID": "1005003",
+        "SkinID": "1005001",
         "SoundID": "Hero_1005001_Voice_Clothes",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -1243,7 +1243,7 @@
       },
       "114": {
         "SoundPriority": 1,
-        "SkinID": "1005004",
+        "SkinID": "1005002",
         "SoundID": "Hero_1005001_Voice_Clothes",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -1254,7 +1254,7 @@
       },
       "115": {
         "SoundPriority": 1,
-        "SkinID": "1005005",
+        "SkinID": "1005003",
         "SoundID": "Hero_1005001_Voice_Clothes",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -1265,7 +1265,7 @@
       },
       "116": {
         "SoundPriority": 1,
-        "SkinID": "1005006",
+        "SkinID": "1005004",
         "SoundID": "Hero_1005001_Voice_Clothes",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -1276,6 +1276,28 @@
       },
       "117": {
         "SoundPriority": 1,
+        "SkinID": "1005005",
+        "SoundID": "Hero_1005001_Voice_Clothes",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'whoosh_kallari_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/whoosh/kallari/whoosh_kallari_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "118": {
+        "SoundPriority": 1,
+        "SkinID": "1005006",
+        "SoundID": "Hero_1005001_Voice_Clothes",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'whoosh_kallari_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/whoosh/kallari/whoosh_kallari_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "119": {
+        "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1005001_Voice_Kill",
         "SoundVolume": 1.0,
@@ -1285,7 +1307,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "118": {
+      "120": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1005001_Voice_Death",
@@ -1296,7 +1318,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "119": {
+      "121": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1005001_Voice_Jump",
@@ -1307,7 +1329,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "120": {
+      "122": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1005001_Voice_Hit",
@@ -1318,7 +1340,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "121": {
+      "123": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1005001_Voice_Cooltime",
@@ -1329,7 +1351,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "122": {
+      "124": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1005001_Voice_LvUp",
@@ -1340,7 +1362,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "123": {
+      "125": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1005001_Voice_Land",
@@ -1348,7 +1370,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "124": {
+      "126": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1005001_Voice_HeroPick",
@@ -1359,7 +1381,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "125": {
+      "127": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1005001_Voice_lmb_ability",
@@ -1370,7 +1392,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "126": {
+      "128": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1005001_Voice_rmb_ability",
@@ -1381,31 +1403,9 @@
         },
         "SoundTableManagerObject": null
       },
-      "127": {
-        "SoundPriority": 3,
-        "SkinID": "1005001",
-        "SoundID": "Hero_1005001_Skill_10050301_start_voice",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'Kallari_Ability_Q_Engage_Cue'",
-          "ObjectPath": "Overprime/Content/Sound/voice/hero/kallari/Kallari_Ability_Q_Engage_Cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "128": {
-        "SoundPriority": 3,
-        "SkinID": "1005002",
-        "SoundID": "Hero_1005001_Skill_10050301_start_voice",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'Kallari_Ability_Q_Engage_Cue'",
-          "ObjectPath": "Overprime/Content/Sound/voice/hero/kallari/Kallari_Ability_Q_Engage_Cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
       "129": {
         "SoundPriority": 3,
-        "SkinID": "1005003",
+        "SkinID": "1005001",
         "SoundID": "Hero_1005001_Skill_10050301_start_voice",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -1416,7 +1416,7 @@
       },
       "130": {
         "SoundPriority": 3,
-        "SkinID": "1005005",
+        "SkinID": "1005002",
         "SoundID": "Hero_1005001_Skill_10050301_start_voice",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -1427,7 +1427,7 @@
       },
       "131": {
         "SoundPriority": 3,
-        "SkinID": "1005004",
+        "SkinID": "1005003",
         "SoundID": "Hero_1005001_Skill_10050301_start_voice",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -1438,7 +1438,7 @@
       },
       "132": {
         "SoundPriority": 3,
-        "SkinID": "1005006",
+        "SkinID": "1005005",
         "SoundID": "Hero_1005001_Skill_10050301_start_voice",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -1449,6 +1449,28 @@
       },
       "133": {
         "SoundPriority": 3,
+        "SkinID": "1005004",
+        "SoundID": "Hero_1005001_Skill_10050301_start_voice",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'Kallari_Ability_Q_Engage_Cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/hero/kallari/Kallari_Ability_Q_Engage_Cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "134": {
+        "SoundPriority": 3,
+        "SkinID": "1005006",
+        "SoundID": "Hero_1005001_Skill_10050301_start_voice",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'Kallari_Ability_Q_Engage_Cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/hero/kallari/Kallari_Ability_Q_Engage_Cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "135": {
+        "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1005001_Voice_e_ability",
         "SoundVolume": 1.0,
@@ -1458,7 +1480,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "134": {
+      "136": {
         "SoundPriority": 2,
         "SkinID": "1005001",
         "SoundID": "Hero_1005001_Skill_10050501_Ready",
@@ -1469,7 +1491,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "135": {
+      "137": {
         "SoundPriority": 2,
         "SkinID": "1005002",
         "SoundID": "Hero_1005001_Skill_10050501_Ready",
@@ -1480,7 +1502,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "136": {
+      "138": {
         "SoundPriority": 2,
         "SkinID": "1005003",
         "SoundID": "Hero_1005001_Skill_10050501_Ready",
@@ -1491,7 +1513,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "137": {
+      "139": {
         "SoundPriority": 2,
         "SkinID": "1005005",
         "SoundID": "Hero_1005001_Skill_10050501_Ready",
@@ -1502,7 +1524,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "138": {
+      "140": {
         "SoundPriority": 2,
         "SkinID": "1005004",
         "SoundID": "Hero_1005001_Skill_10050501_Ready",
@@ -1513,7 +1535,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "139": {
+      "141": {
         "SoundPriority": 2,
         "SkinID": "1005006",
         "SoundID": "Hero_1005001_Skill_10050501_Ready",
@@ -1524,7 +1546,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "140": {
+      "142": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1005001_Voice_r_ability",
@@ -1535,7 +1557,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "141": {
+      "143": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1005001_Voice_emote",
@@ -1546,7 +1568,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "142": {
+      "144": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1005001_Voice_recall",
@@ -1557,7 +1579,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "143": {
+      "145": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1005001_Voice_recall_goldhorn",
@@ -1568,31 +1590,9 @@
         },
         "SoundTableManagerObject": null
       },
-      "144": {
-        "SoundPriority": 1,
-        "SkinID": "1006001",
-        "SoundID": "Hero_1006001_Voice_Clothes",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'whoosh_grux_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/whoosh/grux/whoosh_grux_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "145": {
-        "SoundPriority": 1,
-        "SkinID": "1006002",
-        "SoundID": "Hero_1006001_Voice_Clothes",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'whoosh_grux_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/whoosh/grux/whoosh_grux_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
       "146": {
         "SoundPriority": 1,
-        "SkinID": "1006003",
+        "SkinID": "1006001",
         "SoundID": "Hero_1006001_Voice_Clothes",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -1603,7 +1603,7 @@
       },
       "147": {
         "SoundPriority": 1,
-        "SkinID": "1006004",
+        "SkinID": "1006002",
         "SoundID": "Hero_1006001_Voice_Clothes",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -1614,18 +1614,18 @@
       },
       "148": {
         "SoundPriority": 1,
-        "SkinID": "1006005",
+        "SkinID": "1006003",
         "SoundID": "Hero_1006001_Voice_Clothes",
         "SoundVolume": 1.0,
         "SoundPath": {
           "ObjectName": "SoundCue'whoosh_grux_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/whoosh/grux/ruby_studs/whoosh_grux_cue.0"
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/whoosh/grux/whoosh_grux_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "149": {
         "SoundPriority": 1,
-        "SkinID": "1006006",
+        "SkinID": "1006004",
         "SoundID": "Hero_1006001_Voice_Clothes",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -1636,6 +1636,28 @@
       },
       "150": {
         "SoundPriority": 1,
+        "SkinID": "1006005",
+        "SoundID": "Hero_1006001_Voice_Clothes",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'whoosh_grux_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/whoosh/grux/ruby_studs/whoosh_grux_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "151": {
+        "SoundPriority": 1,
+        "SkinID": "1006006",
+        "SoundID": "Hero_1006001_Voice_Clothes",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'whoosh_grux_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/whoosh/grux/whoosh_grux_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "152": {
+        "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1006001_Voice_Kill",
         "SoundVolume": 1.0,
@@ -1645,7 +1667,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "151": {
+      "153": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1006001_Voice_Death",
@@ -1656,7 +1678,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "152": {
+      "154": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1006001_Voice_Jump",
@@ -1667,7 +1689,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "153": {
+      "155": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1006001_Voice_Hit",
@@ -1678,7 +1700,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "154": {
+      "156": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1006001_Voice_Cooltime",
@@ -1689,7 +1711,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "155": {
+      "157": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1006001_Voice_LvUp",
@@ -1700,7 +1722,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "156": {
+      "158": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1006001_Voice_Land",
@@ -1708,7 +1730,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "157": {
+      "159": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1006001_Voice_HeroPick",
@@ -1719,7 +1741,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "158": {
+      "160": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1006001_Voice_lmb_ability",
@@ -1730,7 +1752,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "159": {
+      "161": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1006001_Voice_rmb_ability",
@@ -1741,7 +1763,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "160": {
+      "162": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1006001_Voice_q_ability",
@@ -1752,7 +1774,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "161": {
+      "163": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1006001_Voice_e_ability",
@@ -1763,7 +1785,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "162": {
+      "164": {
         "SoundPriority": 2,
         "SkinID": "1006001",
         "SoundID": "Hero_1006001_Skill_10060501_Ready",
@@ -1774,7 +1796,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "163": {
+      "165": {
         "SoundPriority": 2,
         "SkinID": "1006002",
         "SoundID": "Hero_1006001_Skill_10060501_Ready",
@@ -1785,7 +1807,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "164": {
+      "166": {
         "SoundPriority": 2,
         "SkinID": "1006003",
         "SoundID": "Hero_1006001_Skill_10060501_Ready",
@@ -1796,7 +1818,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "165": {
+      "167": {
         "SoundPriority": 2,
         "SkinID": "1006004",
         "SoundID": "Hero_1006001_Skill_10060501_Ready",
@@ -1807,7 +1829,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "166": {
+      "168": {
         "SoundPriority": 2,
         "SkinID": "1006005",
         "SoundID": "Hero_1006001_Skill_10060501_Ready",
@@ -1818,7 +1840,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "167": {
+      "169": {
         "SoundPriority": 2,
         "SkinID": "1006006",
         "SoundID": "Hero_1006001_Skill_10060501_Ready",
@@ -1829,7 +1851,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "168": {
+      "170": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1006001_Voice_r_ability",
@@ -1840,7 +1862,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "169": {
+      "171": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1006001_Voice_taunt",
@@ -1851,7 +1873,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "170": {
+      "172": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1006001_Voice_recall",
@@ -1862,31 +1884,9 @@
         },
         "SoundTableManagerObject": null
       },
-      "171": {
-        "SoundPriority": 1,
-        "SkinID": "1007001",
-        "SoundID": "Hero_1007001_Voice_Clothes",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'whoosh_steel_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/whoosh/steel/whoosh_steel_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "172": {
-        "SoundPriority": 1,
-        "SkinID": "1007002",
-        "SoundID": "Hero_1007001_Voice_Clothes",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'whoosh_steel_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/whoosh/steel/whoosh_steel_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
       "173": {
         "SoundPriority": 1,
-        "SkinID": "1007003",
+        "SkinID": "1007001",
         "SoundID": "Hero_1007001_Voice_Clothes",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -1897,7 +1897,7 @@
       },
       "174": {
         "SoundPriority": 1,
-        "SkinID": "1007004",
+        "SkinID": "1007002",
         "SoundID": "Hero_1007001_Voice_Clothes",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -1908,6 +1908,28 @@
       },
       "175": {
         "SoundPriority": 1,
+        "SkinID": "1007003",
+        "SoundID": "Hero_1007001_Voice_Clothes",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'whoosh_steel_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/whoosh/steel/whoosh_steel_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "176": {
+        "SoundPriority": 1,
+        "SkinID": "1007004",
+        "SoundID": "Hero_1007001_Voice_Clothes",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'whoosh_steel_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/whoosh/steel/whoosh_steel_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "177": {
+        "SoundPriority": 1,
         "SkinID": "1007005",
         "SoundID": "Hero_1007001_Voice_Clothes",
         "SoundVolume": 1.0,
@@ -1917,7 +1939,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "176": {
+      "178": {
         "SoundPriority": 1,
         "SkinID": "1007006",
         "SoundID": "Hero_1007001_Voice_Clothes",
@@ -1928,7 +1950,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "177": {
+      "179": {
         "SoundPriority": 1,
         "SkinID": "1007007",
         "SoundID": "Hero_1007001_Voice_Clothes",
@@ -1939,7 +1961,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "178": {
+      "180": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1007001_Voice_Kill",
@@ -1950,7 +1972,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "179": {
+      "181": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1007001_Voice_Death",
@@ -1961,7 +1983,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "180": {
+      "182": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1007001_Voice_Jump",
@@ -1972,7 +1994,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "181": {
+      "183": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1007001_Voice_Hit",
@@ -1983,7 +2005,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "182": {
+      "184": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1007001_Voice_Cooltime",
@@ -1994,7 +2016,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "183": {
+      "185": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1007001_Voice_LvUp",
@@ -2005,7 +2027,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "184": {
+      "186": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1007001_Voice_Land",
@@ -2013,7 +2035,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "185": {
+      "187": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1007001_Voice_HeroPick",
@@ -2024,7 +2046,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "186": {
+      "188": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1007001_Voice_lmb_ability",
@@ -2035,7 +2057,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "187": {
+      "189": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1007001_Voice_rmb_ability",
@@ -2046,7 +2068,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "188": {
+      "190": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1007001_Voice_q_ability",
@@ -2057,7 +2079,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "189": {
+      "191": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1007001_Voice_e_ability",
@@ -2068,7 +2090,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "190": {
+      "192": {
         "SoundPriority": 2,
         "SkinID": "1007001",
         "SoundID": "Hero_1007001_Skill_10070501_Ready",
@@ -2079,7 +2101,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "191": {
+      "193": {
         "SoundPriority": 2,
         "SkinID": "1007002",
         "SoundID": "Hero_1007001_Skill_10070501_Ready",
@@ -2090,7 +2112,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "192": {
+      "194": {
         "SoundPriority": 2,
         "SkinID": "1007003",
         "SoundID": "Hero_1007001_Skill_10070501_Ready",
@@ -2101,7 +2123,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "193": {
+      "195": {
         "SoundPriority": 2,
         "SkinID": "1007004",
         "SoundID": "Hero_1007001_Skill_10070501_Ready",
@@ -2112,7 +2134,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "194": {
+      "196": {
         "SoundPriority": 2,
         "SkinID": "1007005",
         "SoundID": "Hero_1007001_Skill_10070501_Ready",
@@ -2123,7 +2145,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "195": {
+      "197": {
         "SoundPriority": 2,
         "SkinID": "1007006",
         "SoundID": "Hero_1007001_Skill_10070501_Ready",
@@ -2134,7 +2156,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "196": {
+      "198": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1007001_Voice_r_ability",
@@ -2145,7 +2167,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "197": {
+      "199": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1007001_Voice_laugh",
@@ -2156,7 +2178,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "198": {
+      "200": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1007001_Voice_taunt",
@@ -2167,7 +2189,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "199": {
+      "201": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1007001_Voice_recall",
@@ -2178,7 +2200,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "200": {
+      "202": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1007001_Voice_recall_prisoner",
@@ -2189,7 +2211,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "201": {
+      "203": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1008001_Voice_Clothes",
@@ -2200,7 +2222,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "202": {
+      "204": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1008001_Voice_Kill",
@@ -2211,7 +2233,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "203": {
+      "205": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1008001_Voice_Death",
@@ -2219,7 +2241,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "204": {
+      "206": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1008001_Voice_Jump",
@@ -2230,7 +2252,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "205": {
+      "207": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1008001_Voice_Hit",
@@ -2241,7 +2263,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "206": {
+      "208": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1008001_Voice_Cooltime",
@@ -2252,7 +2274,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "207": {
+      "209": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1008001_Voice_LvUp",
@@ -2263,7 +2285,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "208": {
+      "210": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1008001_Voice_Land",
@@ -2271,7 +2293,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "209": {
+      "211": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1008001_Voice_HeroPick",
@@ -2282,7 +2304,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "210": {
+      "212": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1008001_Skill_1008010501_Ready",
@@ -2293,7 +2315,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "211": {
+      "213": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1008001_Voice_lmb_ability",
@@ -2304,7 +2326,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "212": {
+      "214": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1008001_Voice_rmb_ability",
@@ -2315,7 +2337,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "213": {
+      "215": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1008001_Voice_q_ability",
@@ -2326,7 +2348,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "214": {
+      "216": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1008001_Voice_e_ability",
@@ -2337,7 +2359,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "215": {
+      "217": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1008001_Voice_r_ability",
@@ -2348,7 +2370,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "216": {
+      "218": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1008001_Voice_taunt",
@@ -2359,7 +2381,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "217": {
+      "219": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1008001_Voice_recall",
@@ -2370,7 +2392,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "218": {
+      "220": {
         "SoundPriority": 1,
         "SkinID": "1009001",
         "SoundID": "Hero_1009001_Voice_Clothes",
@@ -2381,7 +2403,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "219": {
+      "221": {
         "SoundPriority": 1,
         "SkinID": "1009009",
         "SoundID": "Hero_1009001_Voice_Clothes",
@@ -2392,7 +2414,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "220": {
+      "222": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1009001_Voice_Kill",
@@ -2403,7 +2425,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "221": {
+      "223": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1009001_Voice_Death",
@@ -2414,7 +2436,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "222": {
+      "224": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1009001_Voice_Jump",
@@ -2425,7 +2447,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "223": {
+      "225": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1009001_Voice_Hit",
@@ -2436,7 +2458,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "224": {
+      "226": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1009001_Voice_Cooltime",
@@ -2447,7 +2469,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "225": {
+      "227": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1009001_Voice_LvUp",
@@ -2458,7 +2480,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "226": {
+      "228": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1009001_Voice_Land",
@@ -2466,7 +2488,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "227": {
+      "229": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1009001_Voice_HeroPick",
@@ -2477,7 +2499,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "228": {
+      "230": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1009001_Voice_rmb_ability",
@@ -2488,7 +2510,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "229": {
+      "231": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1009001_Voice_q_ability",
@@ -2499,31 +2521,9 @@
         },
         "SoundTableManagerObject": null
       },
-      "230": {
-        "SoundPriority": 3,
-        "SkinID": "1009001",
-        "SoundID": "Hero_1009001_Skill_1009010401_start_voice",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'Sparrow_Ability_E_Engage_cue'",
-          "ObjectPath": "Overprime/Content/Sound/voice/hero/Sparrow/Sparrow_Ability_E_Engage_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "231": {
-        "SoundPriority": 3,
-        "SkinID": "1009002",
-        "SoundID": "Hero_1009001_Skill_1009010401_start_voice",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'Sparrow_Ability_E_Engage_cue'",
-          "ObjectPath": "Overprime/Content/Sound/voice/hero/Sparrow/Sparrow_Ability_E_Engage_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
       "232": {
         "SoundPriority": 3,
-        "SkinID": "1009003",
+        "SkinID": "1009001",
         "SoundID": "Hero_1009001_Skill_1009010401_start_voice",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -2534,7 +2534,7 @@
       },
       "233": {
         "SoundPriority": 3,
-        "SkinID": "1009005",
+        "SkinID": "1009002",
         "SoundID": "Hero_1009001_Skill_1009010401_start_voice",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -2545,7 +2545,7 @@
       },
       "234": {
         "SoundPriority": 3,
-        "SkinID": "1009004",
+        "SkinID": "1009003",
         "SoundID": "Hero_1009001_Skill_1009010401_start_voice",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -2556,7 +2556,7 @@
       },
       "235": {
         "SoundPriority": 3,
-        "SkinID": "1009006",
+        "SkinID": "1009005",
         "SoundID": "Hero_1009001_Skill_1009010401_start_voice",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -2566,30 +2566,30 @@
         "SoundTableManagerObject": null
       },
       "236": {
-        "SoundPriority": 2,
-        "SkinID": "1009001",
-        "SoundID": "Hero_1009001_Skill_10090501_Ready",
+        "SoundPriority": 3,
+        "SkinID": "1009004",
+        "SoundID": "Hero_1009001_Skill_1009010401_start_voice",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'Sparrow_Ability_Ultimate_Ready_cue'",
-          "ObjectPath": "Overprime/Content/Sound/voice/hero/Sparrow/Sparrow_Ability_Ultimate_Ready_cue.0"
+          "ObjectName": "SoundCue'Sparrow_Ability_E_Engage_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/hero/Sparrow/Sparrow_Ability_E_Engage_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "237": {
-        "SoundPriority": 2,
-        "SkinID": "1009002",
-        "SoundID": "Hero_1009001_Skill_10090501_Ready",
+        "SoundPriority": 3,
+        "SkinID": "1009006",
+        "SoundID": "Hero_1009001_Skill_1009010401_start_voice",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'Sparrow_Ability_Ultimate_Ready_cue'",
-          "ObjectPath": "Overprime/Content/Sound/voice/hero/Sparrow/Sparrow_Ability_Ultimate_Ready_cue.0"
+          "ObjectName": "SoundCue'Sparrow_Ability_E_Engage_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/hero/Sparrow/Sparrow_Ability_E_Engage_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "238": {
         "SoundPriority": 2,
-        "SkinID": "1009003",
+        "SkinID": "1009001",
         "SoundID": "Hero_1009001_Skill_10090501_Ready",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -2600,7 +2600,7 @@
       },
       "239": {
         "SoundPriority": 2,
-        "SkinID": "1009005",
+        "SkinID": "1009002",
         "SoundID": "Hero_1009001_Skill_10090501_Ready",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -2611,7 +2611,7 @@
       },
       "240": {
         "SoundPriority": 2,
-        "SkinID": "1009004",
+        "SkinID": "1009003",
         "SoundID": "Hero_1009001_Skill_10090501_Ready",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -2622,7 +2622,7 @@
       },
       "241": {
         "SoundPriority": 2,
-        "SkinID": "1009006",
+        "SkinID": "1009005",
         "SoundID": "Hero_1009001_Skill_10090501_Ready",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -2633,29 +2633,29 @@
       },
       "242": {
         "SoundPriority": 2,
-        "SkinID": "1009001",
-        "SoundID": "Hero_1009001_Skill_10090501_start_voice",
+        "SkinID": "1009004",
+        "SoundID": "Hero_1009001_Skill_10090501_Ready",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'Sparrow_Ability_Ultimate_Ally_cue'",
-          "ObjectPath": "Overprime/Content/Sound/voice/hero/Sparrow/Sparrow_Ability_Ultimate_Ally_cue.0"
+          "ObjectName": "SoundCue'Sparrow_Ability_Ultimate_Ready_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/hero/Sparrow/Sparrow_Ability_Ultimate_Ready_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "243": {
         "SoundPriority": 2,
-        "SkinID": "1009002",
-        "SoundID": "Hero_1009001_Skill_10090501_start_voice",
+        "SkinID": "1009006",
+        "SoundID": "Hero_1009001_Skill_10090501_Ready",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'Sparrow_Ability_Ultimate_Ally_cue'",
-          "ObjectPath": "Overprime/Content/Sound/voice/hero/Sparrow/Sparrow_Ability_Ultimate_Ally_cue.0"
+          "ObjectName": "SoundCue'Sparrow_Ability_Ultimate_Ready_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/hero/Sparrow/Sparrow_Ability_Ultimate_Ready_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "244": {
         "SoundPriority": 2,
-        "SkinID": "1009003",
+        "SkinID": "1009001",
         "SoundID": "Hero_1009001_Skill_10090501_start_voice",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -2666,7 +2666,7 @@
       },
       "245": {
         "SoundPriority": 2,
-        "SkinID": "1009005",
+        "SkinID": "1009002",
         "SoundID": "Hero_1009001_Skill_10090501_start_voice",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -2677,7 +2677,7 @@
       },
       "246": {
         "SoundPriority": 2,
-        "SkinID": "1009004",
+        "SkinID": "1009003",
         "SoundID": "Hero_1009001_Skill_10090501_start_voice",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -2688,7 +2688,7 @@
       },
       "247": {
         "SoundPriority": 2,
-        "SkinID": "1009006",
+        "SkinID": "1009005",
         "SoundID": "Hero_1009001_Skill_10090501_start_voice",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -2698,6 +2698,28 @@
         "SoundTableManagerObject": null
       },
       "248": {
+        "SoundPriority": 2,
+        "SkinID": "1009004",
+        "SoundID": "Hero_1009001_Skill_10090501_start_voice",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'Sparrow_Ability_Ultimate_Ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/hero/Sparrow/Sparrow_Ability_Ultimate_Ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "249": {
+        "SoundPriority": 2,
+        "SkinID": "1009006",
+        "SoundID": "Hero_1009001_Skill_10090501_start_voice",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'Sparrow_Ability_Ultimate_Ally_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/hero/Sparrow/Sparrow_Ability_Ultimate_Ally_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "250": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1009001_Voice_emote",
@@ -2708,7 +2730,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "249": {
+      "251": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1009001_Voice_recall",
@@ -2719,7 +2741,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "250": {
+      "252": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1010001_Voice_Clothes",
@@ -2730,7 +2752,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "251": {
+      "253": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1010001_Voice_Kill",
@@ -2741,7 +2763,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "252": {
+      "254": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1010001_Voice_Death",
@@ -2752,7 +2774,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "253": {
+      "255": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1010001_Voice_Jump",
@@ -2763,7 +2785,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "254": {
+      "256": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1010001_Voice_Hit",
@@ -2774,7 +2796,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "255": {
+      "257": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1010001_Voice_Cooltime",
@@ -2785,7 +2807,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "256": {
+      "258": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1010001_Voice_LvUp",
@@ -2796,7 +2818,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "257": {
+      "259": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1010001_Voice_Land",
@@ -2804,7 +2826,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "258": {
+      "260": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1010001_Voice_HeroPick",
@@ -2815,7 +2837,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "259": {
+      "261": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1010001_Voice_lmb_ability",
@@ -2826,7 +2848,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "260": {
+      "262": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1010001_Voice_rmb_ability",
@@ -2837,7 +2859,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "261": {
+      "263": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1010001_Voice_q_ability",
@@ -2848,7 +2870,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "262": {
+      "264": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1010001_Voice_e_ability",
@@ -2859,7 +2881,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "263": {
+      "265": {
         "SoundPriority": 2,
         "SkinID": "1010001",
         "SoundID": "Hero_1010001_Skill_10100501_Ready",
@@ -2870,7 +2892,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "264": {
+      "266": {
         "SoundPriority": 2,
         "SkinID": "1010002",
         "SoundID": "Hero_1010001_Skill_10100501_Ready",
@@ -2881,7 +2903,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "265": {
+      "267": {
         "SoundPriority": 2,
         "SkinID": "1010003",
         "SoundID": "Hero_1010001_Skill_10100501_Ready",
@@ -2892,7 +2914,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "266": {
+      "268": {
         "SoundPriority": 2,
         "SkinID": "1010005",
         "SoundID": "Hero_1010001_Skill_10100501_Ready",
@@ -2903,7 +2925,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "267": {
+      "269": {
         "SoundPriority": 2,
         "SkinID": "1010004",
         "SoundID": "Hero_1010001_Skill_10100501_Ready",
@@ -2914,7 +2936,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "268": {
+      "270": {
         "SoundPriority": 2,
         "SkinID": "1010006",
         "SoundID": "Hero_1010001_Skill_10100501_Ready",
@@ -2925,7 +2947,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "269": {
+      "271": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1010001_Voice_r_ability",
@@ -2936,7 +2958,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "270": {
+      "272": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1010001_Voice_taunt",
@@ -2947,7 +2969,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "271": {
+      "273": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1010001_Voice_recall",
@@ -2958,7 +2980,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "272": {
+      "274": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1011001_Voice_Clothes",
@@ -2969,7 +2991,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "273": {
+      "275": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1011001_Voice_Kill",
@@ -2980,7 +3002,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "274": {
+      "276": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1011001_Voice_Death",
@@ -2991,7 +3013,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "275": {
+      "277": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1011001_Voice_Jump",
@@ -3002,7 +3024,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "276": {
+      "278": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1011001_Voice_Hit",
@@ -3013,7 +3035,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "277": {
+      "279": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1011001_Voice_Cooltime",
@@ -3024,7 +3046,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "278": {
+      "280": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1011001_Voice_LvUp",
@@ -3035,7 +3057,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "279": {
+      "281": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1011001_Voice_Land",
@@ -3043,7 +3065,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "280": {
+      "282": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1011001_Voice_HeroPick",
@@ -3054,7 +3076,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "281": {
+      "283": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1011001_Voice_lmb_ability",
@@ -3065,7 +3087,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "282": {
+      "284": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1011001_Voice_rmb_ability",
@@ -3076,7 +3098,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "283": {
+      "285": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1011001_Voice_q_ability",
@@ -3087,7 +3109,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "284": {
+      "286": {
         "SoundPriority": 2,
         "SkinID": "1011001",
         "SoundID": "Hero_1011001_Skill_10110501_Ready",
@@ -3098,7 +3120,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "285": {
+      "287": {
         "SoundPriority": 2,
         "SkinID": "1011002",
         "SoundID": "Hero_1011001_Skill_10110501_Ready",
@@ -3109,7 +3131,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "286": {
+      "288": {
         "SoundPriority": 2,
         "SkinID": "1011003",
         "SoundID": "Hero_1011001_Skill_10110501_Ready",
@@ -3120,7 +3142,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "287": {
+      "289": {
         "SoundPriority": 2,
         "SkinID": "1011005",
         "SoundID": "Hero_1011001_Skill_10110501_Ready",
@@ -3131,7 +3153,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "288": {
+      "290": {
         "SoundPriority": 2,
         "SkinID": "1011004",
         "SoundID": "Hero_1011001_Skill_10110501_Ready",
@@ -3142,7 +3164,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "289": {
+      "291": {
         "SoundPriority": 2,
         "SkinID": "1011006",
         "SoundID": "Hero_1011001_Skill_10110501_Ready",
@@ -3153,7 +3175,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "290": {
+      "292": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1011001_Voice_r_ability",
@@ -3164,7 +3186,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "291": {
+      "293": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1011001_Voice_emote",
@@ -3175,7 +3197,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "292": {
+      "294": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1011001_Voice_recall",
@@ -3186,7 +3208,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "293": {
+      "295": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1011001_Voice_recall_thehell",
@@ -3197,31 +3219,9 @@
         },
         "SoundTableManagerObject": null
       },
-      "294": {
-        "SoundPriority": 1,
-        "SkinID": "1012001",
-        "SoundID": "Hero_1012001_Voice_Clothes",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'whoosh_gideon_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/whoosh/gideon/whoosh_gideon_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "295": {
-        "SoundPriority": 1,
-        "SkinID": "1012002",
-        "SoundID": "Hero_1012001_Voice_Clothes",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'whoosh_gideon_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/whoosh/gideon/whoosh_gideon_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
       "296": {
         "SoundPriority": 1,
-        "SkinID": "1012003",
+        "SkinID": "1012001",
         "SoundID": "Hero_1012001_Voice_Clothes",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -3232,7 +3232,7 @@
       },
       "297": {
         "SoundPriority": 1,
-        "SkinID": "1012004",
+        "SkinID": "1012002",
         "SoundID": "Hero_1012001_Voice_Clothes",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -3243,18 +3243,18 @@
       },
       "298": {
         "SoundPriority": 1,
-        "SkinID": "1012005",
+        "SkinID": "1012003",
         "SoundID": "Hero_1012001_Voice_Clothes",
         "SoundVolume": 1.0,
         "SoundPath": {
           "ObjectName": "SoundCue'whoosh_gideon_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/whoosh/gideon/starving_pirate/whoosh_gideon_cue.0"
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/whoosh/gideon/whoosh_gideon_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "299": {
         "SoundPriority": 1,
-        "SkinID": "1012006",
+        "SkinID": "1012004",
         "SoundID": "Hero_1012001_Voice_Clothes",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -3265,6 +3265,28 @@
       },
       "300": {
         "SoundPriority": 1,
+        "SkinID": "1012005",
+        "SoundID": "Hero_1012001_Voice_Clothes",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'whoosh_gideon_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/whoosh/gideon/starving_pirate/whoosh_gideon_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "301": {
+        "SoundPriority": 1,
+        "SkinID": "1012006",
+        "SoundID": "Hero_1012001_Voice_Clothes",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'whoosh_gideon_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/whoosh/gideon/whoosh_gideon_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "302": {
+        "SoundPriority": 1,
         "SkinID": "1012011",
         "SoundID": "Hero_1012001_Voice_Clothes",
         "SoundVolume": 1.0,
@@ -3274,7 +3296,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "301": {
+      "303": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1012001_Voice_Kill",
@@ -3282,7 +3304,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "302": {
+      "304": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1012001_Voice_Death",
@@ -3293,7 +3315,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "303": {
+      "305": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1012001_Voice_Jump",
@@ -3304,7 +3326,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "304": {
+      "306": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1012001_Voice_Hit",
@@ -3315,7 +3337,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "305": {
+      "307": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1012001_Voice_Cooltime",
@@ -3326,7 +3348,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "306": {
+      "308": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1012001_Voice_LvUp",
@@ -3337,7 +3359,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "307": {
+      "309": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1012001_Voice_Land",
@@ -3345,7 +3367,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "308": {
+      "310": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1012001_Voice_HeroPick",
@@ -3356,7 +3378,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "309": {
+      "311": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1012001_Voice_rmb_ability",
@@ -3367,7 +3389,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "310": {
+      "312": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1012001_Voice_q_ability",
@@ -3378,7 +3400,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "311": {
+      "313": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1012001_Voice_e_ability",
@@ -3389,7 +3411,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "312": {
+      "314": {
         "SoundPriority": 2,
         "SkinID": "1012001",
         "SoundID": "Hero_1012001_Skill_10120501_Ready",
@@ -3400,7 +3422,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "313": {
+      "315": {
         "SoundPriority": 2,
         "SkinID": "1012002",
         "SoundID": "Hero_1012001_Skill_10120501_Ready",
@@ -3411,7 +3433,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "314": {
+      "316": {
         "SoundPriority": 2,
         "SkinID": "1012003",
         "SoundID": "Hero_1012001_Skill_10120501_Ready",
@@ -3422,7 +3444,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "315": {
+      "317": {
         "SoundPriority": 2,
         "SkinID": "1012004",
         "SoundID": "Hero_1012001_Skill_10120501_Ready",
@@ -3433,7 +3455,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "316": {
+      "318": {
         "SoundPriority": 2,
         "SkinID": "1012005",
         "SoundID": "Hero_1012001_Skill_10120501_Ready",
@@ -3444,7 +3466,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "317": {
+      "319": {
         "SoundPriority": 2,
         "SkinID": "1012006",
         "SoundID": "Hero_1012001_Skill_10120501_Ready",
@@ -3455,7 +3477,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "318": {
+      "320": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1012001_Voice_r_ability_1",
@@ -3466,7 +3488,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "319": {
+      "321": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1012001_Voice_r_ability_2",
@@ -3477,7 +3499,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "320": {
+      "322": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1012001_Voice_taunt",
@@ -3488,7 +3510,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "321": {
+      "323": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1012001_Voice_recall",
@@ -3499,7 +3521,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "322": {
+      "324": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1012001_Voice_recall_arab",
@@ -3510,7 +3532,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "323": {
+      "325": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1013001_Voice_Clothes",
@@ -3521,7 +3543,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "324": {
+      "326": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1013001_Voice_Kill",
@@ -3532,7 +3554,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "325": {
+      "327": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1013001_Voice_Death",
@@ -3543,7 +3565,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "326": {
+      "328": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1013001_Voice_Jump",
@@ -3554,7 +3576,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "327": {
+      "329": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1013001_Voice_Hit",
@@ -3565,7 +3587,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "328": {
+      "330": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1013001_Voice_Cooltime",
@@ -3576,7 +3598,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "329": {
+      "331": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1013001_Voice_LvUp",
@@ -3587,7 +3609,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "330": {
+      "332": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1013001_Voice_Land",
@@ -3595,7 +3617,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "331": {
+      "333": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1013001_Voice_HeroPick",
@@ -3606,7 +3628,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "332": {
+      "334": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1013001_Voice_rmb_ability",
@@ -3617,7 +3639,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "333": {
+      "335": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1013001_Voice_q_ability",
@@ -3628,7 +3650,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "334": {
+      "336": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1013001_Voice_e_ability",
@@ -3639,7 +3661,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "335": {
+      "337": {
         "SoundPriority": 2,
         "SkinID": "1013001",
         "SoundID": "Hero_1013001_Skill_10130501_Ready",
@@ -3650,7 +3672,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "336": {
+      "338": {
         "SoundPriority": 2,
         "SkinID": "1013002",
         "SoundID": "Hero_1013001_Skill_10130501_Ready",
@@ -3661,7 +3683,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "337": {
+      "339": {
         "SoundPriority": 2,
         "SkinID": "1013003",
         "SoundID": "Hero_1013001_Skill_10130501_Ready",
@@ -3672,31 +3694,9 @@
         },
         "SoundTableManagerObject": null
       },
-      "338": {
-        "SoundPriority": 2,
-        "SkinID": "1013004",
-        "SoundID": "Hero_1013001_Skill_10130501_Ready",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'TheFey_Ability_Ultimate_Ready_cue'",
-          "ObjectPath": "Overprime/Content/Sound/voice/hero/fey/TheFey_Ability_Ultimate_Ready_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "339": {
-        "SoundPriority": 2,
-        "SkinID": "1013004",
-        "SoundID": "Hero_1013001_Skill_10130501_Ready",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'TheFey_Ability_Ultimate_Ready_cue'",
-          "ObjectPath": "Overprime/Content/Sound/voice/hero/fey/TheFey_Ability_Ultimate_Ready_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
       "340": {
         "SoundPriority": 2,
-        "SkinID": "1013006",
+        "SkinID": "1013004",
         "SoundID": "Hero_1013001_Skill_10130501_Ready",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -3707,6 +3707,28 @@
       },
       "341": {
         "SoundPriority": 2,
+        "SkinID": "1013004",
+        "SoundID": "Hero_1013001_Skill_10130501_Ready",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'TheFey_Ability_Ultimate_Ready_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/hero/fey/TheFey_Ability_Ultimate_Ready_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "342": {
+        "SoundPriority": 2,
+        "SkinID": "1013006",
+        "SoundID": "Hero_1013001_Skill_10130501_Ready",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'TheFey_Ability_Ultimate_Ready_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/hero/fey/TheFey_Ability_Ultimate_Ready_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "343": {
+        "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1013001_Voice_r_ability",
         "SoundVolume": 1.0,
@@ -3716,7 +3738,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "342": {
+      "344": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1013001_Voice_taunt",
@@ -3727,7 +3749,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "343": {
+      "345": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1013001_Voice_recall",
@@ -3738,31 +3760,9 @@
         },
         "SoundTableManagerObject": null
       },
-      "344": {
-        "SoundPriority": 1,
-        "SkinID": "1014001",
-        "SoundID": "Hero_1014001_Voice_Clothes",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'whoosh_shinbi_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/whoosh/shinbi/whoosh_shinbi_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "345": {
-        "SoundPriority": 1,
-        "SkinID": "1014002",
-        "SoundID": "Hero_1014001_Voice_Clothes",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'whoosh_shinbi_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/whoosh/shinbi/whoosh_shinbi_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
       "346": {
         "SoundPriority": 1,
-        "SkinID": "1014003",
+        "SkinID": "1014001",
         "SoundID": "Hero_1014001_Voice_Clothes",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -3773,7 +3773,7 @@
       },
       "347": {
         "SoundPriority": 1,
-        "SkinID": "1014005",
+        "SkinID": "1014002",
         "SoundID": "Hero_1014001_Voice_Clothes",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -3784,7 +3784,7 @@
       },
       "348": {
         "SoundPriority": 1,
-        "SkinID": "1014004",
+        "SkinID": "1014003",
         "SoundID": "Hero_1014001_Voice_Clothes",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -3795,7 +3795,7 @@
       },
       "349": {
         "SoundPriority": 1,
-        "SkinID": "1014006",
+        "SkinID": "1014005",
         "SoundID": "Hero_1014001_Voice_Clothes",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -3806,7 +3806,7 @@
       },
       "350": {
         "SoundPriority": 1,
-        "SkinID": "1014007",
+        "SkinID": "1014004",
         "SoundID": "Hero_1014001_Voice_Clothes",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -3817,7 +3817,7 @@
       },
       "351": {
         "SoundPriority": 1,
-        "SkinID": "1014008",
+        "SkinID": "1014006",
         "SoundID": "Hero_1014001_Voice_Clothes",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -3828,6 +3828,28 @@
       },
       "352": {
         "SoundPriority": 1,
+        "SkinID": "1014007",
+        "SoundID": "Hero_1014001_Voice_Clothes",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'whoosh_shinbi_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/whoosh/shinbi/whoosh_shinbi_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "353": {
+        "SoundPriority": 1,
+        "SkinID": "1014008",
+        "SoundID": "Hero_1014001_Voice_Clothes",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'whoosh_shinbi_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/whoosh/shinbi/whoosh_shinbi_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "354": {
+        "SoundPriority": 1,
         "SkinID": "1014009",
         "SoundID": "Hero_1014001_Voice_Clothes",
         "SoundVolume": 1.0,
@@ -3837,7 +3859,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "353": {
+      "355": {
         "SoundPriority": 1,
         "SkinID": "1014011",
         "SoundID": "Hero_1014001_Voice_Clothes",
@@ -3848,7 +3870,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "354": {
+      "356": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1014001_Voice_Kill",
@@ -3859,7 +3881,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "355": {
+      "357": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1014001_Voice_Death",
@@ -3870,7 +3892,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "356": {
+      "358": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1014001_Voice_Jump",
@@ -3881,7 +3903,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "357": {
+      "359": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1014001_Voice_Hit",
@@ -3892,7 +3914,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "358": {
+      "360": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1014001_Voice_Cooltime",
@@ -3903,7 +3925,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "359": {
+      "361": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1014001_Voice_LvUp",
@@ -3914,7 +3936,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "360": {
+      "362": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1014001_Voice_Land",
@@ -3922,7 +3944,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "361": {
+      "363": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1014001_Voice_HeroPick",
@@ -3933,7 +3955,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "362": {
+      "364": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1014001_Voice_lmb_ability",
@@ -3944,7 +3966,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "363": {
+      "365": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1014001_Voice_rmb_ability",
@@ -3955,7 +3977,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "364": {
+      "366": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1014001_Voice_q_ability",
@@ -3966,7 +3988,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "365": {
+      "367": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1014001_Voice_e_ability",
@@ -3977,7 +3999,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "366": {
+      "368": {
         "SoundPriority": 2,
         "SkinID": "1014001",
         "SoundID": "Hero_1014001_Skill_10140501_Ready",
@@ -3988,7 +4010,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "367": {
+      "369": {
         "SoundPriority": 2,
         "SkinID": "1014002",
         "SoundID": "Hero_1014001_Skill_10140501_Ready",
@@ -3999,7 +4021,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "368": {
+      "370": {
         "SoundPriority": 2,
         "SkinID": "1014003",
         "SoundID": "Hero_1014001_Skill_10140501_Ready",
@@ -4010,7 +4032,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "369": {
+      "371": {
         "SoundPriority": 2,
         "SkinID": "1014005",
         "SoundID": "Hero_1014001_Skill_10140501_Ready",
@@ -4021,7 +4043,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "370": {
+      "372": {
         "SoundPriority": 2,
         "SkinID": "1014004",
         "SoundID": "Hero_1014001_Skill_10140501_Ready",
@@ -4032,7 +4054,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "371": {
+      "373": {
         "SoundPriority": 2,
         "SkinID": "1014006",
         "SoundID": "Hero_1014001_Skill_10140501_Ready",
@@ -4043,7 +4065,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "372": {
+      "374": {
         "SoundPriority": 2,
         "SkinID": "1014007",
         "SoundID": "Hero_1014001_Skill_10140501_Ready",
@@ -4054,7 +4076,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "373": {
+      "375": {
         "SoundPriority": 2,
         "SkinID": "1014008",
         "SoundID": "Hero_1014001_Skill_10140501_Ready",
@@ -4065,7 +4087,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "374": {
+      "376": {
         "SoundPriority": 2,
         "SkinID": "1014009",
         "SoundID": "Hero_1014001_Skill_10140501_Ready",
@@ -4076,7 +4098,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "375": {
+      "377": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1014001_Voice_r_ability",
@@ -4087,7 +4109,18 @@
         },
         "SoundTableManagerObject": null
       },
-      "376": {
+      "378": {
+        "SoundPriority": 5,
+        "SkinID": "None",
+        "SoundID": "Hero_1014001_Voice_recall_snowdoll",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'shinbi_recall_snowdoll_cue'",
+          "ObjectPath": "Overprime/Content/Sound/voice/hero/shinbi/snowdoll/shinbi_recall_snowdoll_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "379": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1015001_Voice_Clothes",
@@ -4098,7 +4131,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "377": {
+      "380": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1015001_Voice_Kill",
@@ -4109,7 +4142,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "378": {
+      "381": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1015001_Voice_Death",
@@ -4120,7 +4153,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "379": {
+      "382": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1015001_Voice_Jump",
@@ -4131,7 +4164,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "380": {
+      "383": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1015001_Voice_Hit",
@@ -4142,7 +4175,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "381": {
+      "384": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1015001_Voice_Cooltime",
@@ -4153,7 +4186,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "382": {
+      "385": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1015001_Voice_LvUp",
@@ -4164,7 +4197,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "383": {
+      "386": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1015001_Voice_Land",
@@ -4172,7 +4205,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "384": {
+      "387": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1015001_Voice_HeroPick",
@@ -4183,7 +4216,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "385": {
+      "388": {
         "SoundPriority": 2,
         "SkinID": "1015001",
         "SoundID": "Hero_1015001_Skill_10150501_Ready",
@@ -4194,7 +4227,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "386": {
+      "389": {
         "SoundPriority": 2,
         "SkinID": "1015002",
         "SoundID": "Hero_1015001_Skill_10150501_Ready",
@@ -4205,7 +4238,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "387": {
+      "390": {
         "SoundPriority": 2,
         "SkinID": "1015003",
         "SoundID": "Hero_1015001_Skill_10150501_Ready",
@@ -4216,7 +4249,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "388": {
+      "391": {
         "SoundPriority": 2,
         "SkinID": "1015005",
         "SoundID": "Hero_1015001_Skill_10150501_Ready",
@@ -4227,7 +4260,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "389": {
+      "392": {
         "SoundPriority": 2,
         "SkinID": "1015004",
         "SoundID": "Hero_1015001_Skill_10150501_Ready",
@@ -4238,7 +4271,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "390": {
+      "393": {
         "SoundPriority": 2,
         "SkinID": "1015006",
         "SoundID": "Hero_1015001_Skill_10150501_Ready",
@@ -4249,7 +4282,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "391": {
+      "394": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1015001_Voice_rmb_ability",
@@ -4260,7 +4293,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "392": {
+      "395": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1015001_Voice_q_ability",
@@ -4271,7 +4304,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "393": {
+      "396": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1015001_Voice_e_ability_1",
@@ -4282,7 +4315,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "394": {
+      "397": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1015001_Voice_e_ability_2",
@@ -4293,7 +4326,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "395": {
+      "398": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1015001_Voice_r_ability",
@@ -4304,7 +4337,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "396": {
+      "399": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1015001_Voice_laugh",
@@ -4315,7 +4348,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "397": {
+      "400": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1015001_Voice_taunt",
@@ -4326,7 +4359,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "398": {
+      "401": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1015001_Voice_hat_lift",
@@ -4337,7 +4370,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "399": {
+      "402": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1015001_Voice_recall",
@@ -4348,7 +4381,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "400": {
+      "403": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1015001_Voice_recall_gr",
@@ -4359,7 +4392,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "401": {
+      "404": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1016001_Voice_Clothes",
@@ -4370,7 +4403,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "402": {
+      "405": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1016001_Voice_Kill",
@@ -4381,7 +4414,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "403": {
+      "406": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1016001_Voice_Death",
@@ -4392,7 +4425,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "404": {
+      "407": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1016001_Voice_Jump",
@@ -4403,7 +4436,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "405": {
+      "408": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1016001_Voice_Hit",
@@ -4414,7 +4447,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "406": {
+      "409": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1016001_Voice_Cooltime",
@@ -4425,7 +4458,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "407": {
+      "410": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1016001_Voice_LvUp",
@@ -4436,7 +4469,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "408": {
+      "411": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1016001_Voice_Land",
@@ -4444,7 +4477,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "409": {
+      "412": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1016001_Voice_HeroPick",
@@ -4455,7 +4488,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "410": {
+      "413": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1016001_Voice_lmb_attack",
@@ -4466,7 +4499,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "411": {
+      "414": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1016001_Skill_10160501_Ready",
@@ -4477,7 +4510,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "412": {
+      "415": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1016001_Voice_lmb_ability",
@@ -4488,7 +4521,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "413": {
+      "416": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1016001_Voice_rmb_ability",
@@ -4499,7 +4532,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "414": {
+      "417": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1016001_Voice_q_ability",
@@ -4510,7 +4543,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "415": {
+      "418": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1016001_Voice_e_ability",
@@ -4521,7 +4554,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "416": {
+      "419": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1016001_Voice_r_ability",
@@ -4532,7 +4565,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "417": {
+      "420": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1016001_Voice_taunt",
@@ -4543,7 +4576,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "418": {
+      "421": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1016001_Voice_recall",
@@ -4554,7 +4587,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "419": {
+      "422": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1017001_Voice_Clothes",
@@ -4565,7 +4598,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "420": {
+      "423": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1017001_Voice_Kill",
@@ -4576,7 +4609,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "421": {
+      "424": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1017001_Voice_Death",
@@ -4587,7 +4620,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "422": {
+      "425": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1017001_Voice_Jump",
@@ -4598,7 +4631,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "423": {
+      "426": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1017001_Voice_Hit",
@@ -4609,7 +4642,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "424": {
+      "427": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1017001_Voice_Cooltime",
@@ -4620,7 +4653,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "425": {
+      "428": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1017001_Voice_LvUp",
@@ -4631,7 +4664,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "426": {
+      "429": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1017001_Voice_Land",
@@ -4639,7 +4672,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "427": {
+      "430": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1017001_Voice_HeroPick",
@@ -4650,7 +4683,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "428": {
+      "431": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1017001_Voice_rmb_ability",
@@ -4661,7 +4694,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "429": {
+      "432": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1017001_Voice_rmb_ability_pull",
@@ -4672,7 +4705,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "430": {
+      "433": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1017001_Voice_q_ability",
@@ -4683,7 +4716,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "431": {
+      "434": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1017001_Voice_e_ability",
@@ -4694,7 +4727,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "432": {
+      "435": {
         "SoundPriority": 2,
         "SkinID": "1017001",
         "SoundID": "Hero_1017001_Skill_10170501_Ready",
@@ -4705,7 +4738,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "433": {
+      "436": {
         "SoundPriority": 2,
         "SkinID": "1017002",
         "SoundID": "Hero_1017001_Skill_10170501_Ready",
@@ -4716,7 +4749,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "434": {
+      "437": {
         "SoundPriority": 2,
         "SkinID": "1017003",
         "SoundID": "Hero_1017001_Skill_10170501_Ready",
@@ -4727,7 +4760,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "435": {
+      "438": {
         "SoundPriority": 2,
         "SkinID": "1017005",
         "SoundID": "Hero_1017001_Skill_10170501_Ready",
@@ -4738,7 +4771,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "436": {
+      "439": {
         "SoundPriority": 2,
         "SkinID": "1017004",
         "SoundID": "Hero_1017001_Skill_10170501_Ready",
@@ -4749,7 +4782,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "437": {
+      "440": {
         "SoundPriority": 2,
         "SkinID": "1017006",
         "SoundID": "Hero_1017001_Skill_10170501_Ready",
@@ -4760,7 +4793,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "438": {
+      "441": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1017001_Voice_r_ability",
@@ -4771,7 +4804,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "439": {
+      "442": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1017001_Voice_taunt_1",
@@ -4782,7 +4815,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "440": {
+      "443": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1017001_Voice_taunt_2",
@@ -4793,7 +4826,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "441": {
+      "444": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1017001_Voice_teddysayno",
@@ -4804,7 +4837,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "442": {
+      "445": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1017001_Voice_recall",
@@ -4815,7 +4848,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "443": {
+      "446": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1018001_Voice_Clothes",
@@ -4826,7 +4859,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "444": {
+      "447": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1018001_Voice_Kill",
@@ -4837,7 +4870,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "445": {
+      "448": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1018001_Voice_Death",
@@ -4848,7 +4881,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "446": {
+      "449": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1018001_Voice_Jump",
@@ -4859,7 +4892,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "447": {
+      "450": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1018001_Voice_Hit",
@@ -4870,7 +4903,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "448": {
+      "451": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1018001_Voice_Cooltime",
@@ -4881,7 +4914,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "449": {
+      "452": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1018001_Voice_LvUp",
@@ -4892,7 +4925,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "450": {
+      "453": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1018001_Voice_Land",
@@ -4900,7 +4933,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "451": {
+      "454": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1018001_Voice_HeroPick",
@@ -4911,7 +4944,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "452": {
+      "455": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1018001_Voice_lmb_ability",
@@ -4922,7 +4955,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "453": {
+      "456": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1018001_Voice_rmb_ability",
@@ -4933,7 +4966,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "454": {
+      "457": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1018001_Voice_q_ability",
@@ -4944,7 +4977,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "455": {
+      "458": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1018001_Voice_e_ability",
@@ -4955,7 +4988,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "456": {
+      "459": {
         "SoundPriority": 2,
         "SkinID": "1018001",
         "SoundID": "Hero_1018001_Skill_1018010501_Ready",
@@ -4966,7 +4999,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "457": {
+      "460": {
         "SoundPriority": 2,
         "SkinID": "1018002",
         "SoundID": "Hero_1018001_Skill_1018010501_Ready",
@@ -4977,7 +5010,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "458": {
+      "461": {
         "SoundPriority": 2,
         "SkinID": "1018003",
         "SoundID": "Hero_1018001_Skill_1018010501_Ready",
@@ -4988,7 +5021,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "459": {
+      "462": {
         "SoundPriority": 2,
         "SkinID": "1018005",
         "SoundID": "Hero_1018001_Skill_1018010501_Ready",
@@ -4999,7 +5032,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "460": {
+      "463": {
         "SoundPriority": 2,
         "SkinID": "1018004",
         "SoundID": "Hero_1018001_Skill_1018010501_Ready",
@@ -5010,7 +5043,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "461": {
+      "464": {
         "SoundPriority": 2,
         "SkinID": "1018006",
         "SoundID": "Hero_1018001_Skill_1018010501_Ready",
@@ -5021,7 +5054,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "462": {
+      "465": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1018001_Voice_r_ability",
@@ -5032,7 +5065,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "463": {
+      "466": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1018001_Voice_laugh",
@@ -5043,7 +5076,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "464": {
+      "467": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1018001_Voice_taunt",
@@ -5054,7 +5087,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "465": {
+      "468": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1018001_Voice_recall",
@@ -5065,7 +5098,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "466": {
+      "469": {
         "SoundPriority": 1,
         "SkinID": "1019001",
         "SoundID": "Hero_1019001_Voice_Clothes",
@@ -5076,7 +5109,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "467": {
+      "470": {
         "SoundPriority": 1,
         "SkinID": "1019008",
         "SoundID": "Hero_1019001_Voice_Clothes",
@@ -5087,7 +5120,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "468": {
+      "471": {
         "SoundPriority": 1,
         "SkinID": "1019009",
         "SoundID": "Hero_1019001_Voice_Clothes",
@@ -5098,7 +5131,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "469": {
+      "472": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1019001_Voice_Kill",
@@ -5109,7 +5142,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "470": {
+      "473": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1019001_Voice_Death",
@@ -5120,7 +5153,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "471": {
+      "474": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1019001_Voice_Jump",
@@ -5131,7 +5164,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "472": {
+      "475": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1019001_Voice_Hit",
@@ -5142,7 +5175,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "473": {
+      "476": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1019001_Voice_Cooltime",
@@ -5153,7 +5186,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "474": {
+      "477": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1019001_Voice_LvUp",
@@ -5164,7 +5197,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "475": {
+      "478": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1019001_Voice_Land",
@@ -5172,7 +5205,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "476": {
+      "479": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1019001_Voice_HeroPick",
@@ -5183,7 +5216,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "477": {
+      "480": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1019001_Voice_rmb_ability",
@@ -5194,7 +5227,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "478": {
+      "481": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1019001_Voice_q_ability",
@@ -5205,7 +5238,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "479": {
+      "482": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1019001_Voice_e_ability",
@@ -5216,7 +5249,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "480": {
+      "483": {
         "SoundPriority": 2,
         "SkinID": "1019001",
         "SoundID": "Hero_1019001_Skill_10190501_Ready",
@@ -5227,7 +5260,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "481": {
+      "484": {
         "SoundPriority": 2,
         "SkinID": "1019002",
         "SoundID": "Hero_1019001_Skill_10190501_Ready",
@@ -5238,7 +5271,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "482": {
+      "485": {
         "SoundPriority": 2,
         "SkinID": "1019003",
         "SoundID": "Hero_1019001_Skill_10190501_Ready",
@@ -5249,7 +5282,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "483": {
+      "486": {
         "SoundPriority": 2,
         "SkinID": "1019005",
         "SoundID": "Hero_1019001_Skill_10190501_Ready",
@@ -5260,7 +5293,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "484": {
+      "487": {
         "SoundPriority": 2,
         "SkinID": "1019004",
         "SoundID": "Hero_1019001_Skill_10190501_Ready",
@@ -5271,7 +5304,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "485": {
+      "488": {
         "SoundPriority": 2,
         "SkinID": "1019006",
         "SoundID": "Hero_1019001_Skill_10190501_Ready",
@@ -5282,7 +5315,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "486": {
+      "489": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1019001_Voice_r_ability",
@@ -5293,7 +5326,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "487": {
+      "490": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1019001_Voice_emote",
@@ -5304,7 +5337,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "488": {
+      "491": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1019001_Voice_recall",
@@ -5315,7 +5348,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "489": {
+      "492": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1020001_Voice_Clothes",
@@ -5326,7 +5359,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "490": {
+      "493": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1020001_Voice_Kill",
@@ -5337,7 +5370,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "491": {
+      "494": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1020001_Voice_Death",
@@ -5348,7 +5381,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "492": {
+      "495": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1020001_Voice_Jump",
@@ -5359,7 +5392,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "493": {
+      "496": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1020001_Voice_Hit",
@@ -5370,7 +5403,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "494": {
+      "497": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1020001_Voice_Cooltime",
@@ -5381,7 +5414,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "495": {
+      "498": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1020001_Voice_LvUp",
@@ -5392,7 +5425,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "496": {
+      "499": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1020001_Voice_Land",
@@ -5400,7 +5433,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "497": {
+      "500": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1020001_Voice_HeroPick",
@@ -5411,7 +5444,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "498": {
+      "501": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1020001_Voice_lmb_ability",
@@ -5422,7 +5455,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "499": {
+      "502": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1020001_Voice_rmb_ability",
@@ -5433,7 +5466,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "500": {
+      "503": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1020001_Voice_q_ability",
@@ -5444,7 +5477,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "501": {
+      "504": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1020001_Voice_e_ability",
@@ -5455,7 +5488,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "502": {
+      "505": {
         "SoundPriority": 2,
         "SkinID": "1020001",
         "SoundID": "Hero_1020001_Skill_10200501_Ready",
@@ -5466,7 +5499,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "503": {
+      "506": {
         "SoundPriority": 2,
         "SkinID": "1020002",
         "SoundID": "Hero_1020001_Skill_10200501_Ready",
@@ -5477,7 +5510,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "504": {
+      "507": {
         "SoundPriority": 2,
         "SkinID": "1020003",
         "SoundID": "Hero_1020001_Skill_10200501_Ready",
@@ -5488,7 +5521,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "505": {
+      "508": {
         "SoundPriority": 2,
         "SkinID": "1020005",
         "SoundID": "Hero_1020001_Skill_10200501_Ready",
@@ -5499,7 +5532,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "506": {
+      "509": {
         "SoundPriority": 2,
         "SkinID": "1020004",
         "SoundID": "Hero_1020001_Skill_10200501_Ready",
@@ -5510,7 +5543,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "507": {
+      "510": {
         "SoundPriority": 2,
         "SkinID": "1020006",
         "SoundID": "Hero_1020001_Skill_10200501_Ready",
@@ -5521,7 +5554,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "508": {
+      "511": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1020001_Voice_r_ability",
@@ -5532,7 +5565,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "509": {
+      "512": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1020001_Voice_emote",
@@ -5543,7 +5576,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "510": {
+      "513": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1020001_Voice_recall",
@@ -5554,7 +5587,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "511": {
+      "514": {
         "SoundPriority": 1,
         "SkinID": "1021001",
         "SoundID": "Hero_1021001_Voice_Clothes",
@@ -5565,7 +5598,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "512": {
+      "515": {
         "SoundPriority": 1,
         "SkinID": "1021006",
         "SoundID": "Hero_1021001_Voice_Clothes",
@@ -5576,7 +5609,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "513": {
+      "516": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1021001_Voice_Kill",
@@ -5587,7 +5620,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "514": {
+      "517": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1021001_Voice_Death",
@@ -5598,7 +5631,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "515": {
+      "518": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1021001_Voice_Jump",
@@ -5609,7 +5642,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "516": {
+      "519": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1021001_Voice_Hit",
@@ -5620,7 +5653,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "517": {
+      "520": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1021001_Voice_Cooltime",
@@ -5631,7 +5664,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "518": {
+      "521": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1021001_Voice_LvUp",
@@ -5639,7 +5672,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "519": {
+      "522": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1021001_Voice_Land",
@@ -5647,7 +5680,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "520": {
+      "523": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1021001_Voice_HeroPick",
@@ -5658,7 +5691,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "521": {
+      "524": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1021001_Voice_q_ability",
@@ -5669,7 +5702,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "522": {
+      "525": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1021001_Voice_q_ability_shot",
@@ -5680,7 +5713,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "523": {
+      "526": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1021001_Voice_e_ability",
@@ -5691,7 +5724,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "524": {
+      "527": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1021001_Voice_rmb_ability",
@@ -5702,7 +5735,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "525": {
+      "528": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1021001_Skill_10210501_Ready",
@@ -5713,7 +5746,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "526": {
+      "529": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1021001_Voice_r_ability_exe",
@@ -5724,7 +5757,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "527": {
+      "530": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1021001_Voice_r_ability_grim",
@@ -5735,7 +5768,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "528": {
+      "531": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1021001_Voice_emote",
@@ -5743,7 +5776,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "529": {
+      "532": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1021001_Voice_recall",
@@ -5754,7 +5787,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "530": {
+      "533": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1022001_Voice_Clothes",
@@ -5765,7 +5798,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "531": {
+      "534": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1022001_Voice_Kill",
@@ -5776,7 +5809,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "532": {
+      "535": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1022001_Voice_Death",
@@ -5787,7 +5820,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "533": {
+      "536": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1022001_Voice_Jump",
@@ -5798,7 +5831,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "534": {
+      "537": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1022001_Voice_Hit",
@@ -5809,7 +5842,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "535": {
+      "538": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1022001_Voice_Cooltime",
@@ -5820,7 +5853,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "536": {
+      "539": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1022001_Voice_LvUp",
@@ -5831,7 +5864,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "537": {
+      "540": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1022001_Voice_Land",
@@ -5839,7 +5872,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "538": {
+      "541": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1022001_Voice_HeroPick",
@@ -5850,7 +5883,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "539": {
+      "542": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1022001_Voice_rmb_ability",
@@ -5861,7 +5894,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "540": {
+      "543": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1022001_Voice_q_ability",
@@ -5872,7 +5905,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "541": {
+      "544": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1022001_Voice_e_ability",
@@ -5883,7 +5916,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "542": {
+      "545": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1022001_Skill_10220501_Ready",
@@ -5894,7 +5927,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "543": {
+      "546": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1022001_Voice_r_ability_1",
@@ -5905,7 +5938,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "544": {
+      "547": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1022001_Voice_r_ability_2",
@@ -5916,7 +5949,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "545": {
+      "548": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1022001_Voice_emote",
@@ -5927,7 +5960,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "546": {
+      "549": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1022001_Voice_recall",
@@ -5938,7 +5971,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "547": {
+      "550": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1023001_Voice_Clothes",
@@ -5949,7 +5982,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "548": {
+      "551": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1023001_Voice_Kill",
@@ -5960,7 +5993,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "549": {
+      "552": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1023001_Voice_Death",
@@ -5971,7 +6004,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "550": {
+      "553": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1023001_Voice_Jump",
@@ -5982,7 +6015,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "551": {
+      "554": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1023001_Voice_Hit",
@@ -5993,7 +6026,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "552": {
+      "555": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1023001_Voice_Cooltime",
@@ -6004,7 +6037,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "553": {
+      "556": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1023001_Voice_LvUp",
@@ -6015,7 +6048,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "554": {
+      "557": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1023001_Voice_Land",
@@ -6023,7 +6056,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "555": {
+      "558": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1023001_Voice_HeroPick",
@@ -6034,7 +6067,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "556": {
+      "559": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1023001_Voice_lmb_ability",
@@ -6045,7 +6078,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "557": {
+      "560": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1023001_Voice_rmb_ability",
@@ -6056,7 +6089,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "558": {
+      "561": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1023001_Voice_q_ability",
@@ -6067,7 +6100,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "559": {
+      "562": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1023001_Skill_10230501_Ready",
@@ -6078,7 +6111,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "560": {
+      "563": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1023001_Voice_r_ability",
@@ -6089,7 +6122,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "561": {
+      "564": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1023001_Voice_taunt",
@@ -6100,7 +6133,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "562": {
+      "565": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1023001_Voice_recall",
@@ -6111,7 +6144,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "563": {
+      "566": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1024001_Voice_Clothes",
@@ -6122,7 +6155,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "564": {
+      "567": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1024001_Voice_Kill",
@@ -6133,7 +6166,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "565": {
+      "568": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1024001_Voice_Death",
@@ -6144,7 +6177,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "566": {
+      "569": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1024001_Voice_Jump",
@@ -6155,7 +6188,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "567": {
+      "570": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1024001_Voice_Hit",
@@ -6166,7 +6199,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "568": {
+      "571": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1024001_Voice_Cooltime",
@@ -6177,7 +6210,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "569": {
+      "572": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1024001_Voice_LvUp",
@@ -6188,7 +6221,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "570": {
+      "573": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1024001_Voice_Land",
@@ -6196,7 +6229,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "571": {
+      "574": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1024001_Voice_HeroPick",
@@ -6207,7 +6240,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "572": {
+      "575": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1024001_Voice_rmb_ability",
@@ -6218,7 +6251,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "573": {
+      "576": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1024001_Voice_q_ability",
@@ -6229,7 +6262,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "574": {
+      "577": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1024001_Voice_e_ability",
@@ -6240,7 +6273,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "575": {
+      "578": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1024001_Skill_10240501_Ready",
@@ -6251,7 +6284,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "576": {
+      "579": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1024001_Voice_r_ability_1",
@@ -6262,7 +6295,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "577": {
+      "580": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1024001_Voice_r_ability_2",
@@ -6273,7 +6306,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "578": {
+      "581": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1024001_Voice_recall",
@@ -6284,7 +6317,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "579": {
+      "582": {
         "SoundPriority": 1,
         "SkinID": "1025001",
         "SoundID": "Hero_1025001_Voice_Clothes",
@@ -6295,7 +6328,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "580": {
+      "583": {
         "SoundPriority": 1,
         "SkinID": "1025005",
         "SoundID": "Hero_1025001_Voice_Clothes",
@@ -6306,7 +6339,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "581": {
+      "584": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1025001_Voice_Kill",
@@ -6317,7 +6350,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "582": {
+      "585": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1025001_Voice_Death",
@@ -6328,7 +6361,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "583": {
+      "586": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1025001_Voice_Jump",
@@ -6339,7 +6372,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "584": {
+      "587": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1025001_Voice_Hit",
@@ -6350,7 +6383,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "585": {
+      "588": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1025001_Voice_Cooltime",
@@ -6361,7 +6394,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "586": {
+      "589": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1025001_Voice_LvUp",
@@ -6372,7 +6405,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "587": {
+      "590": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1025001_Voice_Land",
@@ -6380,7 +6413,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "588": {
+      "591": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1025001_Voice_HeroPick",
@@ -6391,7 +6424,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "589": {
+      "592": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1025001_Voice_lmb_ability",
@@ -6402,7 +6435,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "590": {
+      "593": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1025001_Voice_rmb_ability",
@@ -6413,7 +6446,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "591": {
+      "594": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1025001_Voice_q_ability",
@@ -6424,7 +6457,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "592": {
+      "595": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1025001_Voice_e_ability",
@@ -6435,7 +6468,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "593": {
+      "596": {
         "SoundPriority": 2,
         "SkinID": "1025001",
         "SoundID": "Hero_1025001_Skill_10250501_Ready",
@@ -6446,7 +6479,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "594": {
+      "597": {
         "SoundPriority": 2,
         "SkinID": "1025002",
         "SoundID": "Hero_1025001_Skill_10250501_Ready",
@@ -6457,7 +6490,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "595": {
+      "598": {
         "SoundPriority": 2,
         "SkinID": "1025003",
         "SoundID": "Hero_1025001_Skill_10250501_Ready",
@@ -6468,7 +6501,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "596": {
+      "599": {
         "SoundPriority": 2,
         "SkinID": "1025005",
         "SoundID": "Hero_1025001_Skill_10250501_Ready",
@@ -6479,7 +6512,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "597": {
+      "600": {
         "SoundPriority": 2,
         "SkinID": "1025004",
         "SoundID": "Hero_1025001_Skill_10250501_Ready",
@@ -6490,7 +6523,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "598": {
+      "601": {
         "SoundPriority": 2,
         "SkinID": "1025006",
         "SoundID": "Hero_1025001_Skill_10250501_Ready",
@@ -6501,7 +6534,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "599": {
+      "602": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1025001_Voice_r_ability_1",
@@ -6512,7 +6545,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "600": {
+      "603": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1025001_Voice_r_ability_2",
@@ -6523,7 +6556,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "601": {
+      "604": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1025001_Voice_emote",
@@ -6534,7 +6567,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "602": {
+      "605": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1025001_Voice_recall",
@@ -6545,7 +6578,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "603": {
+      "606": {
         "SoundPriority": 1,
         "SkinID": "1026001",
         "SoundID": "Hero_1026001_Voice_Clothes",
@@ -6556,7 +6589,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "604": {
+      "607": {
         "SoundPriority": 1,
         "SkinID": "1026008",
         "SoundID": "Hero_1026001_Voice_Clothes",
@@ -6567,7 +6600,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "605": {
+      "608": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1026001_Voice_Kill",
@@ -6578,7 +6611,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "606": {
+      "609": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1026001_Voice_Death",
@@ -6589,7 +6622,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "607": {
+      "610": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1026001_Voice_Jump",
@@ -6600,7 +6633,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "608": {
+      "611": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1026001_Voice_Hit",
@@ -6611,7 +6644,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "609": {
+      "612": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1026001_Voice_Cooltime",
@@ -6622,7 +6655,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "610": {
+      "613": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1026001_Voice_LvUp",
@@ -6633,7 +6666,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "611": {
+      "614": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1026001_Voice_Land",
@@ -6641,7 +6674,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "612": {
+      "615": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1026001_Voice_HeroPick",
@@ -6652,7 +6685,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "613": {
+      "616": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1026001_Voice_rmb_ability",
@@ -6663,7 +6696,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "614": {
+      "617": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1026001_Voice_q_ability",
@@ -6674,7 +6707,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "615": {
+      "618": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1026001_Voice_e_ability",
@@ -6685,7 +6718,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "616": {
+      "619": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1026001_Skill_10260501_Ready",
@@ -6696,7 +6729,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "617": {
+      "620": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1026001_Voice_r_ability",
@@ -6707,7 +6740,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "618": {
+      "621": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1026001_Voice_emote",
@@ -6718,7 +6751,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "619": {
+      "622": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1026001_Voice_emote_2",
@@ -6729,7 +6762,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "620": {
+      "623": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1026001_Voice_emote_taunt",
@@ -6740,7 +6773,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "621": {
+      "624": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1026001_Voice_emote_laugh",
@@ -6751,7 +6784,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "622": {
+      "625": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1026001_Voice_recall",
@@ -6762,7 +6795,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "623": {
+      "626": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1026001_Voice_recall_mechanic",
@@ -6773,7 +6806,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "624": {
+      "627": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1027001_Voice_Clothes",
@@ -6784,7 +6817,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "625": {
+      "628": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1027001_Voice_Kill",
@@ -6795,7 +6828,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "626": {
+      "629": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1027001_Voice_Death",
@@ -6806,7 +6839,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "627": {
+      "630": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1027001_Voice_Jump",
@@ -6817,7 +6850,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "628": {
+      "631": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1027001_Voice_Hit",
@@ -6828,7 +6861,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "629": {
+      "632": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1027001_Voice_Cooltime",
@@ -6839,7 +6872,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "630": {
+      "633": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1027001_Voice_LvUp",
@@ -6850,7 +6883,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "631": {
+      "634": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1027001_Voice_Land",
@@ -6858,7 +6891,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "632": {
+      "635": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1027001_Voice_HeroPick",
@@ -6869,7 +6902,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "633": {
+      "636": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1027001_Voice_lmb_ability",
@@ -6880,7 +6913,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "634": {
+      "637": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1027001_Voice_rmb_ability",
@@ -6891,7 +6924,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "635": {
+      "638": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1027001_Voice_q_ability",
@@ -6902,7 +6935,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "636": {
+      "639": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1027001_Voice_e_ability",
@@ -6913,7 +6946,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "637": {
+      "640": {
         "SoundPriority": 2,
         "SkinID": "1027001",
         "SoundID": "Hero_1027001_Skill_10270501_Ready",
@@ -6924,7 +6957,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "638": {
+      "641": {
         "SoundPriority": 2,
         "SkinID": "1027002",
         "SoundID": "Hero_1027001_Skill_10270501_Ready",
@@ -6935,7 +6968,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "639": {
+      "642": {
         "SoundPriority": 2,
         "SkinID": "1027003",
         "SoundID": "Hero_1027001_Skill_10270501_Ready",
@@ -6946,7 +6979,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "640": {
+      "643": {
         "SoundPriority": 2,
         "SkinID": "1027004",
         "SoundID": "Hero_1027001_Skill_10270501_Ready",
@@ -6957,7 +6990,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "641": {
+      "644": {
         "SoundPriority": 2,
         "SkinID": "1027005",
         "SoundID": "Hero_1027001_Skill_10270501_Ready",
@@ -6968,7 +7001,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "642": {
+      "645": {
         "SoundPriority": 2,
         "SkinID": "1027007",
         "SoundID": "Hero_1027001_Skill_10270501_Ready",
@@ -6979,7 +7012,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "643": {
+      "646": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1027001_Voice_r_ability",
@@ -6990,7 +7023,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "644": {
+      "647": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1027001_Voice_emote",
@@ -7001,7 +7034,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "645": {
+      "648": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1027001_Voice_emote_2",
@@ -7012,7 +7045,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "646": {
+      "649": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1027001_Voice_emote_laugh",
@@ -7023,7 +7056,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "647": {
+      "650": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1027001_Voice_emote_nope",
@@ -7034,7 +7067,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "648": {
+      "651": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1027001_Voice_recall",
@@ -7045,7 +7078,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "649": {
+      "652": {
         "SoundPriority": 1,
         "SkinID": "1028001",
         "SoundID": "Hero_1028001_Voice_Clothes",
@@ -7056,7 +7089,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "650": {
+      "653": {
         "SoundPriority": 1,
         "SkinID": "1028007",
         "SoundID": "Hero_1028001_Voice_Clothes",
@@ -7067,7 +7100,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "651": {
+      "654": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1028001_Voice_Kill",
@@ -7078,7 +7111,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "652": {
+      "655": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1028001_Voice_Death",
@@ -7089,7 +7122,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "653": {
+      "656": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1028001_Voice_Jump",
@@ -7100,7 +7133,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "654": {
+      "657": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1028001_Voice_Hit",
@@ -7111,7 +7144,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "655": {
+      "658": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1028001_Voice_Cooltime",
@@ -7122,7 +7155,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "656": {
+      "659": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1028001_Voice_LvUp",
@@ -7133,7 +7166,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "657": {
+      "660": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1028001_Voice_Land",
@@ -7141,7 +7174,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "658": {
+      "661": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1028001_Voice_HeroPick",
@@ -7152,7 +7185,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "659": {
+      "662": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1028001_Voice_rmb_ability",
@@ -7163,7 +7196,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "660": {
+      "663": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1028001_Voice_rmb_ability_land",
@@ -7174,7 +7207,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "661": {
+      "664": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1028001_Voice_q_ability",
@@ -7185,7 +7218,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "662": {
+      "665": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1028001_Voice_e_ability",
@@ -7196,7 +7229,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "663": {
+      "666": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1028001_Skill_10280501_Ready",
@@ -7207,7 +7240,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "664": {
+      "667": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1028001_Voice_r_ability",
@@ -7218,7 +7251,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "665": {
+      "668": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1028001_Voice_emote",
@@ -7229,7 +7262,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "666": {
+      "669": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1028001_Voice_recall",
@@ -7240,7 +7273,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "667": {
+      "670": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1029001_Voice_Clothes",
@@ -7251,7 +7284,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "668": {
+      "671": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1029001_Voice_Kill",
@@ -7262,7 +7295,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "669": {
+      "672": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1029001_Voice_Death",
@@ -7273,7 +7306,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "670": {
+      "673": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1029001_Voice_Jump",
@@ -7284,7 +7317,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "671": {
+      "674": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1029001_Voice_Hit",
@@ -7295,7 +7328,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "672": {
+      "675": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1029001_Voice_Cooltime",
@@ -7306,7 +7339,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "673": {
+      "676": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1029001_Voice_LvUp",
@@ -7317,7 +7350,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "674": {
+      "677": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1029001_Voice_Land",
@@ -7325,7 +7358,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "675": {
+      "678": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1029001_Voice_HeroPick",
@@ -7336,7 +7369,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "676": {
+      "679": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1029001_Voice_lmb_ability",
@@ -7347,7 +7380,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "677": {
+      "680": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1029001_Voice_rmb_ability_jump",
@@ -7358,7 +7391,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "678": {
+      "681": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1029001_Voice_rmb_ability_land",
@@ -7369,7 +7402,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "679": {
+      "682": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1029001_Voice_q_ability_1",
@@ -7380,7 +7413,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "680": {
+      "683": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1029001_Voice_q_ability_2",
@@ -7391,7 +7424,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "681": {
+      "684": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1029001_Skill_1029010501_Ready",
@@ -7402,7 +7435,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "682": {
+      "685": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1029001_Voice_r_ability_1",
@@ -7413,7 +7446,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "683": {
+      "686": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1029001_Voice_r_ability_2",
@@ -7424,7 +7457,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "684": {
+      "687": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1029001_Voice_emote",
@@ -7435,7 +7468,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "685": {
+      "688": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1029001_Voice_recall",
@@ -7446,7 +7479,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "686": {
+      "689": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1030001_Voice_Clothes",
@@ -7457,7 +7490,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "687": {
+      "690": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1030001_Voice_Kill",
@@ -7468,7 +7501,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "688": {
+      "691": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1030001_Voice_Death",
@@ -7479,7 +7512,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "689": {
+      "692": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1030001_Voice_Jump",
@@ -7490,7 +7523,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "690": {
+      "693": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1030001_Voice_Hit",
@@ -7501,7 +7534,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "691": {
+      "694": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1030001_Voice_Cooltime",
@@ -7512,7 +7545,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "692": {
+      "695": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1030001_Voice_LvUp",
@@ -7523,7 +7556,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "693": {
+      "696": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1030001_Voice_Land",
@@ -7531,7 +7564,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "694": {
+      "697": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1030001_Voice_HeroPick",
@@ -7542,7 +7575,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "695": {
+      "698": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1030001_Voice_lmb_ability",
@@ -7553,7 +7586,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "696": {
+      "699": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1030001_Voice_rmb_ability_Charging",
@@ -7564,7 +7597,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "697": {
+      "700": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1030001_Voice_rmb_ability",
@@ -7575,7 +7608,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "698": {
+      "701": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1030001_Voice_q_ability_attack",
@@ -7586,7 +7619,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "699": {
+      "702": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1030001_Voice_q_ability",
@@ -7597,7 +7630,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "700": {
+      "703": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1030001_Voice_e_ability_attack",
@@ -7608,7 +7641,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "701": {
+      "704": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1030001_Voice_e_ability",
@@ -7619,7 +7652,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "702": {
+      "705": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1030001_Skill_1030010501_Ready",
@@ -7630,7 +7663,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "703": {
+      "706": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1030001_Skill_Voice_r_ability",
@@ -7641,7 +7674,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "704": {
+      "707": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1030001_Voice_recall",
@@ -7652,7 +7685,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "705": {
+      "708": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1031001_Voice_Clothes",
@@ -7663,7 +7696,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "706": {
+      "709": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1031001_Voice_Kill",
@@ -7674,7 +7707,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "707": {
+      "710": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1031001_Voice_Death",
@@ -7685,7 +7718,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "708": {
+      "711": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1031001_Voice_Jump",
@@ -7696,7 +7729,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "709": {
+      "712": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1031001_Voice_Hit",
@@ -7707,7 +7740,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "710": {
+      "713": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1031001_Voice_Cooltime",
@@ -7718,7 +7751,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "711": {
+      "714": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1031001_Voice_LvUp",
@@ -7729,7 +7762,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "712": {
+      "715": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1031001_Voice_Land",
@@ -7737,7 +7770,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "713": {
+      "716": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1031001_Voice_HeroPick",
@@ -7748,7 +7781,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "714": {
+      "717": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1031001_Voice_rmb_ability",
@@ -7759,7 +7792,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "715": {
+      "718": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1031001_Voice_q_ability",
@@ -7770,7 +7803,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "716": {
+      "719": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1031001_Voice_e_ability",
@@ -7781,7 +7814,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "717": {
+      "720": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1031001_Skill_1031010501_Ready",
@@ -7792,7 +7825,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "718": {
+      "721": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1031001_Voice_r_ability",
@@ -7803,7 +7836,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "719": {
+      "722": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1031001_Voice_taunt",
@@ -7814,7 +7847,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "720": {
+      "723": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1031001_Voice_friendlywave",
@@ -7825,7 +7858,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "721": {
+      "724": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1031001_Voice_recall",
@@ -7836,7 +7869,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "722": {
+      "725": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1032001_Voice_Clothes",
@@ -7847,7 +7880,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "723": {
+      "726": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1032001_Voice_Kill",
@@ -7858,7 +7891,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "724": {
+      "727": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1032001_Voice_Death",
@@ -7869,7 +7902,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "725": {
+      "728": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1032001_Voice_Jump",
@@ -7880,7 +7913,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "726": {
+      "729": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1032001_Voice_Hit",
@@ -7891,7 +7924,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "727": {
+      "730": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1032001_Voice_Cooltime",
@@ -7902,7 +7935,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "728": {
+      "731": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1032001_Voice_LvUp",
@@ -7910,7 +7943,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "729": {
+      "732": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1032001_Voice_Land",
@@ -7918,7 +7951,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "730": {
+      "733": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1032001_Voice_HeroPick",
@@ -7929,7 +7962,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "731": {
+      "734": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1032001_Voice_rmb_ability",
@@ -7940,7 +7973,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "732": {
+      "735": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1032001_Voice_q_ability",
@@ -7951,7 +7984,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "733": {
+      "736": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1032001_Voice_e_ability",
@@ -7962,7 +7995,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "734": {
+      "737": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1032001_Skill_1032010501_Ready",
@@ -7973,7 +8006,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "735": {
+      "738": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1032001_Voice_r_ability",
@@ -7984,7 +8017,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "736": {
+      "739": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1032001_Voice_taunt",
@@ -7992,7 +8025,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "737": {
+      "740": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1032001_Voice_laugh",
@@ -8003,7 +8036,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "738": {
+      "741": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1032001_Voice_recall",
@@ -8014,7 +8047,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "739": {
+      "742": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1033001_Voice_Clothes",
@@ -8025,7 +8058,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "740": {
+      "743": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1033001_Voice_Kill",
@@ -8036,7 +8069,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "741": {
+      "744": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1033001_Voice_Death",
@@ -8047,7 +8080,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "742": {
+      "745": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1033001_Voice_Jump",
@@ -8058,7 +8091,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "743": {
+      "746": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1033001_Voice_Hit",
@@ -8069,7 +8102,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "744": {
+      "747": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1033001_Voice_Cooltime",
@@ -8080,7 +8113,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "745": {
+      "748": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1033001_Voice_LvUp",
@@ -8091,7 +8124,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "746": {
+      "749": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1033001_Voice_Land",
@@ -8099,7 +8132,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "747": {
+      "750": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1033001_Voice_HeroPick",
@@ -8110,7 +8143,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "748": {
+      "751": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1033001_Voice_rmb_ability",
@@ -8121,7 +8154,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "749": {
+      "752": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1033001_Voice_rmb_ability_shot",
@@ -8132,7 +8165,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "750": {
+      "753": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1033001_Voice_q_ability",
@@ -8143,7 +8176,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "751": {
+      "754": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1033001_Voice_e_ability",
@@ -8154,7 +8187,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "752": {
+      "755": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1033001_Skill_1033010501_Ready",
@@ -8165,7 +8198,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "753": {
+      "756": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1033001_Voice_r_ability",
@@ -8176,7 +8209,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "754": {
+      "757": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1033001_Voice_taunt",
@@ -8187,7 +8220,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "755": {
+      "758": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1033001_Voice_recall",
@@ -8198,7 +8231,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "756": {
+      "759": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1034001_Voice_Clothes",
@@ -8209,7 +8242,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "757": {
+      "760": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1034001_Voice_Kill",
@@ -8220,7 +8253,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "758": {
+      "761": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1034001_Voice_Death",
@@ -8228,7 +8261,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "759": {
+      "762": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1034001_Voice_Jump",
@@ -8239,7 +8272,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "760": {
+      "763": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1034001_Voice_Hit",
@@ -8250,7 +8283,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "761": {
+      "764": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1034001_Voice_Cooltime",
@@ -8261,7 +8294,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "762": {
+      "765": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1034001_Voice_LvUp",
@@ -8272,7 +8305,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "763": {
+      "766": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1034001_Voice_Land",
@@ -8280,7 +8313,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "764": {
+      "767": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1034001_Voice_HeroPick",
@@ -8291,7 +8324,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "765": {
+      "768": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1034001_Voice_lmb_ability",
@@ -8302,7 +8335,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "766": {
+      "769": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1034001_Voice_rmb_ability",
@@ -8313,7 +8346,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "767": {
+      "770": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1034001_Voice_q_ability",
@@ -8324,7 +8357,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "768": {
+      "771": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1034001_Voice_q_ability_attack",
@@ -8335,7 +8368,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "769": {
+      "772": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1034001_Voice_e_ability",
@@ -8346,7 +8379,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "770": {
+      "773": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1034001_Voice_e_ability_attack",
@@ -8357,7 +8390,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "771": {
+      "774": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1034001_Voice_r_ability",
@@ -8368,7 +8401,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "772": {
+      "775": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1034001_Skill_1034010501_Ready",
@@ -8379,7 +8412,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "773": {
+      "776": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1034001_Voice_recall",
@@ -8390,7 +8423,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "774": {
+      "777": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1035001_Voice_Clothes",
@@ -8401,7 +8434,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "775": {
+      "778": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1035001_Voice_Kill",
@@ -8412,7 +8445,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "776": {
+      "779": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1035001_Voice_Death",
@@ -8423,7 +8456,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "777": {
+      "780": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1035001_Voice_Jump",
@@ -8434,7 +8467,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "778": {
+      "781": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1035001_Voice_Hit",
@@ -8445,7 +8478,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "779": {
+      "782": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1035001_Voice_Cooltime",
@@ -8456,7 +8489,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "780": {
+      "783": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1035001_Voice_LvUp",
@@ -8464,7 +8497,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "781": {
+      "784": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1035001_Voice_Land",
@@ -8472,7 +8505,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "782": {
+      "785": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1035001_Voice_HeroPick",
@@ -8483,7 +8516,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "783": {
+      "786": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1035001_Voice_lmb_ability",
@@ -8494,7 +8527,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "784": {
+      "787": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1035001_Voice_rmb_ability",
@@ -8505,7 +8538,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "785": {
+      "788": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1035001_Voice_q_ability",
@@ -8516,7 +8549,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "786": {
+      "789": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1035001_Voice_e_ability",
@@ -8527,7 +8560,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "787": {
+      "790": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1035001_Voice_r_ability",
@@ -8538,7 +8571,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "788": {
+      "791": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1035001_Skill_1035010501_Ready",
@@ -8549,7 +8582,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "789": {
+      "792": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1035001_Voice_recall",
@@ -8560,7 +8593,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "790": {
+      "793": {
         "SoundPriority": 1,
         "SkinID": "1036001",
         "SoundID": "Hero_1036001_Voice_Clothes",
@@ -8571,7 +8604,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "791": {
+      "794": {
         "SoundPriority": 1,
         "SkinID": "1036006",
         "SoundID": "Hero_1036001_Voice_Clothes",
@@ -8582,7 +8615,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "792": {
+      "795": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1036001_Voice_Kill",
@@ -8593,7 +8626,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "793": {
+      "796": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1036001_Voice_Death",
@@ -8604,7 +8637,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "794": {
+      "797": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1036001_Voice_Jump",
@@ -8615,7 +8648,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "795": {
+      "798": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1036001_Voice_Hit",
@@ -8626,7 +8659,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "796": {
+      "799": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1036001_Voice_Cooltime",
@@ -8637,7 +8670,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "797": {
+      "800": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1036001_Voice_LvUp",
@@ -8645,7 +8678,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "798": {
+      "801": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1036001_Voice_Land",
@@ -8653,7 +8686,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "799": {
+      "802": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1036001_Voice_HeroPick",
@@ -8664,7 +8697,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "800": {
+      "803": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1036001_Voice_lmb_ability",
@@ -8675,7 +8708,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "801": {
+      "804": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1036001_Voice_rmb_ability",
@@ -8686,7 +8719,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "802": {
+      "805": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1036001_Voice_rmb_ability_attack",
@@ -8697,7 +8730,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "803": {
+      "806": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1036001_Voice_q_ability",
@@ -8708,7 +8741,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "804": {
+      "807": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1036001_Voice_q_ability_attack",
@@ -8719,7 +8752,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "805": {
+      "808": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1036001_Voice_e_ability",
@@ -8730,7 +8763,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "806": {
+      "809": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1036001_Skill_1036010501_Ready",
@@ -8741,7 +8774,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "807": {
+      "810": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1036001_Voice_r_ability",
@@ -8752,7 +8785,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "808": {
+      "811": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1036001_Voice_comehere",
@@ -8763,7 +8796,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "809": {
+      "812": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1036001_Voice_recall",
@@ -8774,7 +8807,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "810": {
+      "813": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1037001_Voice_Clothes",
@@ -8785,7 +8818,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "811": {
+      "814": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1037001_Voice_Kill",
@@ -8796,7 +8829,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "812": {
+      "815": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1037001_Voice_Death",
@@ -8807,7 +8840,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "813": {
+      "816": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1037001_Voice_Jump",
@@ -8818,7 +8851,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "814": {
+      "817": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1037001_Voice_Hit",
@@ -8829,7 +8862,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "815": {
+      "818": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1037001_Voice_Cooltime",
@@ -8840,7 +8873,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "816": {
+      "819": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1037001_Voice_LvUp",
@@ -8848,7 +8881,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "817": {
+      "820": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1037001_Voice_Land",
@@ -8856,7 +8889,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "818": {
+      "821": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1037001_Voice_HeroPick",
@@ -8867,7 +8900,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "819": {
+      "822": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1037001_Voice_lmb_ability",
@@ -8878,7 +8911,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "820": {
+      "823": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1037001_Voice_q_ability",
@@ -8889,7 +8922,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "821": {
+      "824": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1037001_Voice_e_ability",
@@ -8897,7 +8930,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "822": {
+      "825": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1037001_Voice_rmb_ability",
@@ -8908,7 +8941,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "823": {
+      "826": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1037001_Voice_r_ability",
@@ -8919,7 +8952,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "824": {
+      "827": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1037001_Skill_1037010501_Ready",
@@ -8930,7 +8963,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "825": {
+      "828": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1037001_Voice_nanabooboo",
@@ -8941,7 +8974,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "826": {
+      "829": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1037001_Voice_recall",
@@ -8952,7 +8985,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "827": {
+      "830": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1038001_Voice_Clothes",
@@ -8963,7 +8996,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "828": {
+      "831": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1038001_Voice_Kill",
@@ -8974,7 +9007,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "829": {
+      "832": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1038001_Voice_Death",
@@ -8985,7 +9018,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "830": {
+      "833": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1038001_Voice_Jump",
@@ -8996,7 +9029,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "831": {
+      "834": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1038001_Voice_Hit",
@@ -9007,7 +9040,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "832": {
+      "835": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1038001_Voice_Cooltime",
@@ -9018,7 +9051,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "833": {
+      "836": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1038001_Voice_LvUp",
@@ -9026,7 +9059,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "834": {
+      "837": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1038001_Voice_Land",
@@ -9034,7 +9067,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "835": {
+      "838": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1038001_Voice_HeroPick",
@@ -9045,7 +9078,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "836": {
+      "839": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1038001_Voice_lmb_ability",
@@ -9056,7 +9089,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "837": {
+      "840": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1038001_Voice_q_ability",
@@ -9067,7 +9100,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "838": {
+      "841": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1038001_Voice_e_ability",
@@ -9078,7 +9111,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "839": {
+      "842": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1038001_Voice_rmb_ability",
@@ -9089,7 +9122,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "840": {
+      "843": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1038001_Voice_r_ability",
@@ -9100,7 +9133,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "841": {
+      "844": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1038001_Skill_1038010501_Ready",
@@ -9111,7 +9144,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "842": {
+      "845": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1038001_Voice_recall",
@@ -9122,7 +9155,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "843": {
+      "846": {
         "SoundPriority": 1,
         "SkinID": "1040001",
         "SoundID": "Hero_1040001_Voice_Clothes",
@@ -9133,7 +9166,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "844": {
+      "847": {
         "SoundPriority": 1,
         "SkinID": "1040006",
         "SoundID": "Hero_1040001_Voice_Clothes",
@@ -9144,7 +9177,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "845": {
+      "848": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1040001_Voice_Kill",
@@ -9155,7 +9188,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "846": {
+      "849": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1040001_Voice_Death",
@@ -9166,7 +9199,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "847": {
+      "850": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1040001_Voice_Jump",
@@ -9177,7 +9210,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "848": {
+      "851": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1040001_Voice_Hit",
@@ -9188,7 +9221,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "849": {
+      "852": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1040001_Voice_Cooltime",
@@ -9199,7 +9232,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "850": {
+      "853": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1040001_Voice_LvUp",
@@ -9207,7 +9240,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "851": {
+      "854": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1040001_Voice_Land",
@@ -9215,7 +9248,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "852": {
+      "855": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1040001_Voice_HeroPick",
@@ -9226,7 +9259,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "853": {
+      "856": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1040001_Voice_lmb_ability",
@@ -9237,7 +9270,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "854": {
+      "857": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1040001_Voice_rmb_normal",
@@ -9248,7 +9281,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "855": {
+      "858": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1040001_Voice_rmb_empowered",
@@ -9259,7 +9292,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "856": {
+      "859": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1040001_Voice_q_normal",
@@ -9270,7 +9303,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "857": {
+      "860": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1040001_Voice_q_empowered",
@@ -9281,7 +9314,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "858": {
+      "861": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1040001_Voice_e_normal",
@@ -9292,7 +9325,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "859": {
+      "862": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1040001_Voice_e_empowered",
@@ -9303,7 +9336,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "860": {
+      "863": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1040001_Skill_1040010501_Ready",
@@ -9314,7 +9347,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "861": {
+      "864": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1040001_Voice_r_ability",
@@ -9325,7 +9358,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "862": {
+      "865": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1040001_Voice_recall",
@@ -9336,7 +9369,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "863": {
+      "866": {
         "SoundPriority": 1,
         "SkinID": "1042001",
         "SoundID": "Hero_1042001_Voice_Clothes",
@@ -9347,7 +9380,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "864": {
+      "867": {
         "SoundPriority": 1,
         "SkinID": "1042002",
         "SoundID": "Hero_1042001_Voice_Clothes",
@@ -9358,7 +9391,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "865": {
+      "868": {
         "SoundPriority": 1,
         "SkinID": "1042003",
         "SoundID": "Hero_1042001_Voice_Clothes",
@@ -9369,7 +9402,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "866": {
+      "869": {
         "SoundPriority": 1,
         "SkinID": "1042006",
         "SoundID": "Hero_1042001_Voice_Clothes",
@@ -9380,7 +9413,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "867": {
+      "870": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1042001_Voice_Kill",
@@ -9391,7 +9424,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "868": {
+      "871": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1042001_Voice_Death",
@@ -9402,7 +9435,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "869": {
+      "872": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1042001_Voice_Jump",
@@ -9413,7 +9446,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "870": {
+      "873": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1042001_Voice_Hit",
@@ -9424,7 +9457,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "871": {
+      "874": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1042001_Voice_Cooltime",
@@ -9435,7 +9468,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "872": {
+      "875": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1042001_Voice_LvUp",
@@ -9443,7 +9476,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "873": {
+      "876": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1042001_Voice_Land",
@@ -9451,7 +9484,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "874": {
+      "877": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1042001_Voice_HeroPick",
@@ -9462,7 +9495,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "875": {
+      "878": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1042001_Voice_lmb_ability",
@@ -9473,7 +9506,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "876": {
+      "879": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1042001_Voice_rmb_ability",
@@ -9484,7 +9517,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "877": {
+      "880": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1042001_Voice_q_ability",
@@ -9495,7 +9528,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "878": {
+      "881": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1042001_Voice_e_ability",
@@ -9506,7 +9539,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "879": {
+      "882": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1042001_Skill_1042010501_Ready",
@@ -9517,7 +9550,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "880": {
+      "883": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1042001_Voice_r_ability_start",
@@ -9528,7 +9561,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "881": {
+      "884": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1042001_Voice_r_ability_charge02",
@@ -9539,7 +9572,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "882": {
+      "885": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1042001_Voice_r_ability_end",
@@ -9550,7 +9583,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "883": {
+      "886": {
         "SoundPriority": 4,
         "SkinID": "None",
         "SoundID": "Hero_1042001_Voice_taunt",
@@ -9558,7 +9591,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "884": {
+      "887": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1042001_Voice_recall",
@@ -9569,7 +9602,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "885": {
+      "888": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1043001_Voice_Clothes",
@@ -9580,7 +9613,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "886": {
+      "889": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1043001_Voice_Kill",
@@ -9591,7 +9624,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "887": {
+      "890": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1043001_Voice_Death",
@@ -9602,7 +9635,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "888": {
+      "891": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1043001_Voice_Jump",
@@ -9613,7 +9646,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "889": {
+      "892": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1043001_Voice_Hit",
@@ -9624,7 +9657,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "890": {
+      "893": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1043001_Voice_Cooltime",
@@ -9635,7 +9668,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "891": {
+      "894": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1043001_Voice_LvUp",
@@ -9643,7 +9676,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "892": {
+      "895": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "Hero_1043001_Voice_Land",
@@ -9651,7 +9684,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "893": {
+      "896": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_1043001_Voice_HeroPick",
@@ -9662,7 +9695,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "894": {
+      "897": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1043001_Voice_lmb_ability",
@@ -9673,7 +9706,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "895": {
+      "898": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1043001_Voice_rmb_ability",
@@ -9684,7 +9717,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "896": {
+      "899": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1043001_Voice_q_ability",
@@ -9695,7 +9728,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "897": {
+      "900": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "Hero_1043001_Voice_e_ability",
@@ -9706,7 +9739,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "898": {
+      "901": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1043001_Skill_1043010501_Ready_voice",
@@ -9717,7 +9750,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "899": {
+      "902": {
         "SoundPriority": 2,
         "SkinID": "None",
         "SoundID": "Hero_1043001_Voice_r_ability_start",
@@ -9728,7 +9761,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "900": {
+      "903": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "Hero_1043001_Voice_recall",
@@ -9739,7 +9772,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "901": {
+      "904": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "Hero_2157001_Voice_Clothes",
@@ -9750,7 +9783,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "902": {
+      "905": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "NPC_5000001_Voice_Clothes",
@@ -9761,7 +9794,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "903": {
+      "906": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "NPC_5000001_Voice_Kill",
@@ -9769,7 +9802,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "904": {
+      "907": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "NPC_5000001_Voice_Death",
@@ -9777,7 +9810,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "905": {
+      "908": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "NPC_5000001_Voice_Jump",
@@ -9788,7 +9821,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "906": {
+      "909": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "NPC_5000001_Voice_Hit",
@@ -9799,7 +9832,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "907": {
+      "910": {
         "SoundPriority": 3,
         "SkinID": "None",
         "SoundID": "NPC_5000001_Voice_Cooltime",
@@ -9807,7 +9840,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "908": {
+      "911": {
         "SoundPriority": 5,
         "SkinID": "None",
         "SoundID": "NPC_5000001_Voice_LvUp",
@@ -9815,7 +9848,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "909": {
+      "912": {
         "SoundPriority": 0,
         "SkinID": "None",
         "SoundID": "NPC_5000001_Voice_Land",
@@ -9823,7 +9856,7 @@
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "910": {
+      "913": {
         "SoundPriority": 1,
         "SkinID": "None",
         "SoundID": "NPC_5000001_Voice_HeroPick",

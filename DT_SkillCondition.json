@@ -550,7 +550,7 @@
         "CheckGroupID": "1020010501_01",
         "CheckTarget": 1,
         "CheckKeyword": "HP_Under",
-        "CheckValue1": "350",
+        "CheckValue1": "390",
         "CheckValue2": "None",
         "NotCondition": false
       },
@@ -558,7 +558,7 @@
         "CheckGroupID": "1020010502_01",
         "CheckTarget": 1,
         "CheckKeyword": "HP_Under",
-        "CheckValue1": "525",
+        "CheckValue1": "565",
         "CheckValue2": "None",
         "NotCondition": false
       },
@@ -566,7 +566,7 @@
         "CheckGroupID": "1020010503_01",
         "CheckTarget": 1,
         "CheckKeyword": "HP_Under",
-        "CheckValue1": "700",
+        "CheckValue1": "740",
         "CheckValue2": "None",
         "NotCondition": false
       },
@@ -574,7 +574,7 @@
         "CheckGroupID": "1020010501_03",
         "CheckTarget": 1,
         "CheckKeyword": "HP_Under",
-        "CheckValue1": "350",
+        "CheckValue1": "390",
         "CheckValue2": "None",
         "NotCondition": false
       },
@@ -590,7 +590,7 @@
         "CheckGroupID": "1020010502_03",
         "CheckTarget": 1,
         "CheckKeyword": "HP_Under",
-        "CheckValue1": "525",
+        "CheckValue1": "565",
         "CheckValue2": "None",
         "NotCondition": false
       },
@@ -606,7 +606,7 @@
         "CheckGroupID": "1020010503_03",
         "CheckTarget": 1,
         "CheckKeyword": "HP_Under",
-        "CheckValue1": "700",
+        "CheckValue1": "740",
         "CheckValue2": "None",
         "NotCondition": false
       },
@@ -622,7 +622,7 @@
         "CheckGroupID": "1020010501_13",
         "CheckTarget": 1,
         "CheckKeyword": "HP_Under_And_Alive",
-        "CheckValue1": "350",
+        "CheckValue1": "390",
         "CheckValue2": "None",
         "NotCondition": false
       },
@@ -630,7 +630,7 @@
         "CheckGroupID": "1020010502_13",
         "CheckTarget": 1,
         "CheckKeyword": "HP_Under_And_Alive",
-        "CheckValue1": "525",
+        "CheckValue1": "565",
         "CheckValue2": "None",
         "NotCondition": false
       },
@@ -638,7 +638,7 @@
         "CheckGroupID": "1020010503_13",
         "CheckTarget": 1,
         "CheckKeyword": "HP_Under_And_Alive",
-        "CheckValue1": "700",
+        "CheckValue1": "740",
         "CheckValue2": "None",
         "NotCondition": false
       },
@@ -18546,6 +18546,14 @@
         "CheckValue2": "None",
         "NotCondition": true
       },
+      "3030300205_01": {
+        "CheckGroupID": "3030300205",
+        "CheckTarget": 1,
+        "CheckKeyword": "Is_Hero",
+        "CheckValue1": "None",
+        "CheckValue2": "None",
+        "NotCondition": false
+      },
       "3030201103_01": {
         "CheckGroupID": "3030201103",
         "CheckTarget": 4,
@@ -20126,7 +20134,7 @@
         "CheckGroupID": "30301017_02",
         "CheckTarget": 0,
         "CheckKeyword": "Over_Time_Effect_Start",
-        "CheckValue1": "15",
+        "CheckValue1": "18",
         "CheckValue2": "None",
         "NotCondition": false
       },
@@ -20942,7 +20950,7 @@
         "CheckGroupID": "30201012_02",
         "CheckTarget": 0,
         "CheckKeyword": "Over_Time_Effect_Start",
-        "CheckValue1": "15",
+        "CheckValue1": "18",
         "CheckValue2": "None",
         "NotCondition": false
       },
