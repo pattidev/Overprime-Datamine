@@ -46,6 +46,12 @@
         "MaxAmount": 999999999,
         "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Reward/T_Common_Icon_Reward_Exp.T_Common_Icon_Reward_Exp'"
       },
+      "10000903": {
+        "ItemType": "EItemOutgameType::Currency",
+        "ItemTypeID": 903,
+        "MaxAmount": 999999999,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Shop/Text_Currency_903.Text_Currency_903'"
+      },
       "20001001": {
         "ItemType": "EItemOutgameType::Hero",
         "ItemTypeID": 1001,
@@ -177,6 +183,12 @@
         "ItemTypeID": 1023,
         "MaxAmount": 1,
         "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Khaimera_Portrait.Hero_Icon_Khaimera_Portrait'"
+      },
+      "20001024": {
+        "ItemType": "EItemOutgameType::Hero",
+        "ItemTypeID": 1024,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Boris_Portrait.Hero_Icon_Boris_Portrait'"
       },
       "20001025": {
         "ItemType": "EItemOutgameType::Hero",
@@ -1144,6 +1156,24 @@
         "MaxAmount": 1,
         "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Khaimera/1023901/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
       },
+      "31024001": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1024001,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Boris/1024001/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31024006": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1024006,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Boris/1024006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31024901": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1024901,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Boris/1024901/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
       "31025001": {
         "ItemType": "EItemOutgameType::Hero_Skin",
         "ItemTypeID": 1025001,
@@ -1545,6 +1575,12 @@
         "ItemTypeID": 1042006,
         "MaxAmount": 1,
         "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Maco/1042006/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
+      },
+      "31042007": {
+        "ItemType": "EItemOutgameType::Hero_Skin",
+        "ItemTypeID": 1042007,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Hero/Maco/1042007/TexT_Hero_Image_Collection_210.TexT_Hero_Image_Collection_210'"
       },
       "31042901": {
         "ItemType": "EItemOutgameType::Hero_Skin",
@@ -2480,7 +2516,19 @@
         "ItemType": "EItemOutgameType::Emblem",
         "ItemTypeID": 1100152,
         "MaxAmount": 1,
-        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_TwitchDrops.Emb_TwitchDrops'"
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_TwitchDrops_0101.Emb_TwitchDrops_0101'"
+      },
+      "41100153": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100153,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Boris_Portrait.Hero_Icon_Boris_Portrait'"
+      },
+      "41100154": {
+        "ItemType": "EItemOutgameType::Emblem",
+        "ItemTypeID": 1100154,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/Textures/Icon/Heroes/Portrait/Emb_SDBoris_0101.Emb_SDBoris_0101'"
       },
       "51010001": {
         "ItemType": "EItemOutgameType::Emotion",
@@ -2703,6 +2751,54 @@
         "ItemTypeID": 3020020,
         "MaxAmount": 1,
         "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020020.Text_Emotion_3020020'"
+      },
+      "53020021": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 3020021,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020021.Text_Emotion_3020021'"
+      },
+      "53020022": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 3020022,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020022.Text_Emotion_3020022'"
+      },
+      "53020023": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 3020023,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020023.Text_Emotion_3020023'"
+      },
+      "53020024": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 3020024,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020024.Text_Emotion_3020024'"
+      },
+      "53020025": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 3020025,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020025.Text_Emotion_3020025'"
+      },
+      "53020026": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 3020026,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020026.Text_Emotion_3020026'"
+      },
+      "53020027": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 3020027,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020027.Text_Emotion_3020027'"
+      },
+      "53020028": {
+        "ItemType": "EItemOutgameType::Emotion",
+        "ItemTypeID": 3020028,
+        "MaxAmount": 1,
+        "ItemIcon_Path_128x128": "Texture2D'/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020028.Text_Emotion_3020028'"
       }
     }
   }

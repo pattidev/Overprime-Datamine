@@ -434,7 +434,7 @@
         "TopMenuType": "ETopMenu::Shop",
         "TopSubMenuType": "ETopSubMenu::Shop_Hero",
         "TopMenuPosition": 1,
-        "SubMenuPosition": 3,
+        "SubMenuPosition": 2,
         "NameKey": "UI.Lobby_TopMenu_Shop_SubMenu_Heroes",
         "LobbyFlowType": "ELobbyFlowType::ELFT_ShopFlow",
         "LobbyFlowWidget": "WidgetBlueprintGeneratedClass'/Game/UI/Lobby/Flow/Shop/Lobby_Shop_Main.Lobby_Shop_Main_C'",
@@ -442,13 +442,13 @@
         "BinkMovie": "None",
         "AlertType": "EAlertType::EALTYP_None",
         "isControlableMenu": true,
-        "ActivationType": false
+        "ActivationType": true
       },
       "60062": {
         "TopMenuType": "ETopMenu::Shop",
         "TopSubMenuType": "ETopSubMenu::Shop_Skin",
         "TopMenuPosition": 1,
-        "SubMenuPosition": 4,
+        "SubMenuPosition": 3,
         "NameKey": "UI.Lobby_TopMenu_Shop_SubMenu_Skins",
         "LobbyFlowType": "ELobbyFlowType::ELFT_ShopFlow",
         "LobbyFlowWidget": "WidgetBlueprintGeneratedClass'/Game/UI/Lobby/Flow/Shop/Lobby_Shop_Main.Lobby_Shop_Main_C'",
@@ -456,14 +456,42 @@
         "BinkMovie": "None",
         "AlertType": "EAlertType::EALTYP_None",
         "isControlableMenu": true,
-        "ActivationType": false
+        "ActivationType": true
+      },
+      "60063": {
+        "TopMenuType": "ETopMenu::Shop",
+        "TopSubMenuType": "ETopSubMenu::Shop_Emotion",
+        "TopMenuPosition": 1,
+        "SubMenuPosition": 4,
+        "NameKey": "UI.Lobby_TopMenu_Shop_SubMenu_Emotion",
+        "LobbyFlowType": "ELobbyFlowType::ELFT_ShopFlow",
+        "LobbyFlowWidget": "WidgetBlueprintGeneratedClass'/Game/UI/Lobby/Flow/Shop/Lobby_Shop_Main.Lobby_Shop_Main_C'",
+        "LobbyFlowSubLevel": "Simple_LobbyMain",
+        "BinkMovie": "None",
+        "AlertType": "EAlertType::EALTYP_None",
+        "isControlableMenu": true,
+        "ActivationType": true
       },
       "60064": {
         "TopMenuType": "ETopMenu::Shop",
-        "TopSubMenuType": "ETopSubMenu::Shop_Item",
+        "TopSubMenuType": "ETopSubMenu::Shop_ETC",
         "TopMenuPosition": 1,
         "SubMenuPosition": 5,
-        "NameKey": "UI.Lobby_TopMenu_Shop_SubMenu_Item",
+        "NameKey": "UI.Lobby_TopMenu_Shop_SubMenu_ETC",
+        "LobbyFlowType": "ELobbyFlowType::ELFT_ShopFlow",
+        "LobbyFlowWidget": "WidgetBlueprintGeneratedClass'/Game/UI/Lobby/Flow/Shop/Lobby_Shop_Main.Lobby_Shop_Main_C'",
+        "LobbyFlowSubLevel": "Simple_LobbyMain",
+        "BinkMovie": "None",
+        "AlertType": "EAlertType::EALTYP_None",
+        "isControlableMenu": true,
+        "ActivationType": true
+      },
+      "60065": {
+        "TopMenuType": "ETopMenu::Shop",
+        "TopSubMenuType": "ETopSubMenu::Shop_UserRecommend",
+        "TopMenuPosition": 1,
+        "SubMenuPosition": 7,
+        "NameKey": "UI.Lobby_TopMenu_Shop_SubMenu_UserRecommend",
         "LobbyFlowType": "ELobbyFlowType::ELFT_ShopFlow",
         "LobbyFlowWidget": "WidgetBlueprintGeneratedClass'/Game/UI/Lobby/Flow/Shop/Lobby_Shop_Main.Lobby_Shop_Main_C'",
         "LobbyFlowSubLevel": "Simple_LobbyMain",
@@ -472,11 +500,11 @@
         "isControlableMenu": true,
         "ActivationType": false
       },
-      "60065": {
+      "60066": {
         "TopMenuType": "ETopMenu::Shop",
         "TopSubMenuType": "ETopSubMenu::Shop_Kima",
         "TopMenuPosition": 1,
-        "SubMenuPosition": 2,
+        "SubMenuPosition": 6,
         "NameKey": "UI.Lobby_TopMenu_Shop_SubMenu_Diamond",
         "LobbyFlowType": "ELobbyFlowType::ELFT_ShopFlow",
         "LobbyFlowWidget": "WidgetBlueprintGeneratedClass'/Game/UI/Lobby/Flow/Shop/Lobby_Shop_Main.Lobby_Shop_Main_C'",

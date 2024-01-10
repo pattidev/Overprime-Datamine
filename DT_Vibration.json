@@ -1,0 +1,29 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_Vibration",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PadTriggerVibrationRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "AdaptiveTriggerID": "#",
+        "Position": 0,
+        "Amplitude": 0,
+        "Frequency": 0,
+        "VibrationEndTime": 0.5
+      },
+      "2": {
+        "AdaptiveTriggerID": "5001",
+        "Position": 0,
+        "Amplitude": 3,
+        "Frequency": 150,
+        "VibrationEndTime": 0.5
+      }
+    }
+  }
+]

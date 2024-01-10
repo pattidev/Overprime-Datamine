@@ -2062,7 +2062,7 @@
         "Particle": null,
         "AttachedParticle": null,
         "ScreenParticle": null,
-        "CameraShakeScale": 1.0,
+        "CameraShakeScale": 0.0,
         "CameraShake": null,
         "LocalCameraShake": {
           "ObjectName": "BlueprintGeneratedClass'CameraShake_Default_C'",
@@ -4547,7 +4547,7 @@
         "Particle": null,
         "AttachedParticle": null,
         "ScreenParticle": null,
-        "CameraShakeScale": 0.4,
+        "CameraShakeScale": 0.0,
         "CameraShake": null,
         "LocalCameraShake": {
           "ObjectName": "BlueprintGeneratedClass'CameraShake_Default_C'",
@@ -5053,6 +5053,22 @@
           "ObjectPath": "Overprime/Content/Global/CameraShake/CameraShake_Default.0"
         }
       },
+      "Hero_1024001_Skill_1024010102_Hit": {
+        "Sound": [],
+        "LocalSound": [
+          "Hero_1024001_Skill_1024010102_Hit"
+        ],
+        "HideSoundOnHidden": false,
+        "StopSoundOnStateFinish": false,
+        "StopSpawnSoundOnDestroy": false,
+        "StopSoundOnLinkedAnimationCCStop": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null
+      },
       "Hero_1024001_Skill_1024010101_Miss": {
         "Sound": [],
         "LocalSound": [],
@@ -5072,7 +5088,9 @@
       },
       "Hero_1024001_Skill_1024010201_Hit": {
         "Sound": [],
-        "LocalSound": [],
+        "LocalSound": [
+          "Hero_1024001_Skill_1024010201_Hit"
+        ],
         "HideSoundOnHidden": false,
         "StopSoundOnStateFinish": false,
         "StopSpawnSoundOnDestroy": false,
@@ -5099,7 +5117,7 @@
         "Particle": null,
         "AttachedParticle": null,
         "ScreenParticle": null,
-        "CameraShakeScale": 1.0,
+        "CameraShakeScale": 2.0,
         "CameraShake": null,
         "LocalCameraShake": {
           "ObjectName": "BlueprintGeneratedClass'CameraShake_Default_C'",
@@ -5124,6 +5142,22 @@
           "ObjectName": "BlueprintGeneratedClass'CameraShake_Default_C'",
           "ObjectPath": "Overprime/Content/Global/CameraShake/CameraShake_Default.0"
         }
+      },
+      "Hero_1024001_Skill_1024010401_blood_Hit": {
+        "Sound": [],
+        "LocalSound": [
+          "Hero_1024001_Skill_1024010401_blood_Hit"
+        ],
+        "HideSoundOnHidden": false,
+        "StopSoundOnStateFinish": false,
+        "StopSpawnSoundOnDestroy": false,
+        "StopSoundOnLinkedAnimationCCStop": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null
       },
       "Hero_1024001_Skill_10240501_Ready": {
         "Sound": [
@@ -6290,7 +6324,7 @@
         "Particle": null,
         "AttachedParticle": null,
         "ScreenParticle": null,
-        "CameraShakeScale": 0.8,
+        "CameraShakeScale": 0.0,
         "CameraShake": null,
         "LocalCameraShake": {
           "ObjectName": "BlueprintGeneratedClass'CameraShake_Default_C'",
@@ -7794,7 +7828,7 @@
         "Particle": null,
         "AttachedParticle": null,
         "ScreenParticle": null,
-        "CameraShakeScale": 0.2,
+        "CameraShakeScale": 0.0,
         "CameraShake": null,
         "LocalCameraShake": {
           "ObjectName": "BlueprintGeneratedClass'CameraShake_Default_C'",
@@ -7830,7 +7864,7 @@
         "Particle": null,
         "AttachedParticle": null,
         "ScreenParticle": null,
-        "CameraShakeScale": 0.4,
+        "CameraShakeScale": 0.0,
         "CameraShake": null,
         "LocalCameraShake": {
           "ObjectName": "BlueprintGeneratedClass'CameraShake_Default_C'",
@@ -7958,7 +7992,7 @@
         "Particle": null,
         "AttachedParticle": null,
         "ScreenParticle": null,
-        "CameraShakeScale": 0.2,
+        "CameraShakeScale": 0.0,
         "CameraShake": null,
         "LocalCameraShake": {
           "ObjectName": "BlueprintGeneratedClass'CameraShake_Default_C'",
@@ -15737,6 +15771,234 @@
         "CameraShake": null,
         "LocalCameraShake": null
       },
+      "Hero_1024001_Skill_1024010101_lmb_a": {
+        "Sound": [
+          "Hero_1024001_Skill_1024010101_lmb_a"
+        ],
+        "LocalSound": [],
+        "HideSoundOnHidden": false,
+        "StopSoundOnStateFinish": false,
+        "StopSpawnSoundOnDestroy": false,
+        "StopSoundOnLinkedAnimationCCStop": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null
+      },
+      "Hero_1024001_Skill_1024010101_lmb_b": {
+        "Sound": [
+          "Hero_1024001_Skill_1024010101_lmb_b"
+        ],
+        "LocalSound": [],
+        "HideSoundOnHidden": false,
+        "StopSoundOnStateFinish": false,
+        "StopSpawnSoundOnDestroy": false,
+        "StopSoundOnLinkedAnimationCCStop": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null
+      },
+      "Hero_1024001_Skill_1024010101_lmb_c": {
+        "Sound": [
+          "Hero_1024001_Skill_1024010101_lmb_c"
+        ],
+        "LocalSound": [],
+        "HideSoundOnHidden": false,
+        "StopSoundOnStateFinish": false,
+        "StopSpawnSoundOnDestroy": false,
+        "StopSoundOnLinkedAnimationCCStop": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null
+      },
+      "Hero_1024001_Skill_1024010101_lmb_d": {
+        "Sound": [
+          "Hero_1024001_Skill_1024010101_lmb_d"
+        ],
+        "LocalSound": [],
+        "HideSoundOnHidden": false,
+        "StopSoundOnStateFinish": false,
+        "StopSpawnSoundOnDestroy": false,
+        "StopSoundOnLinkedAnimationCCStop": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null
+      },
+      "Hero_1024001_Skill_1024010201_start": {
+        "Sound": [
+          "Hero_1024001_Skill_1024010201_start"
+        ],
+        "LocalSound": [],
+        "HideSoundOnHidden": false,
+        "StopSoundOnStateFinish": false,
+        "StopSpawnSoundOnDestroy": false,
+        "StopSoundOnLinkedAnimationCCStop": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null
+      },
+      "Hero_1024001_Skill_1024010201_local_start": {
+        "Sound": [],
+        "LocalSound": [
+          "Hero_1024001_Skill_1024010201_local_start"
+        ],
+        "HideSoundOnHidden": false,
+        "StopSoundOnStateFinish": false,
+        "StopSpawnSoundOnDestroy": false,
+        "StopSoundOnLinkedAnimationCCStop": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null
+      },
+      "Hero_1024001_Skill_1024010301_start": {
+        "Sound": [
+          "Hero_1024001_Skill_1024010301_start"
+        ],
+        "LocalSound": [],
+        "HideSoundOnHidden": false,
+        "StopSoundOnStateFinish": false,
+        "StopSpawnSoundOnDestroy": false,
+        "StopSoundOnLinkedAnimationCCStop": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null
+      },
+      "Hero_1024001_Skill_1024010301_local_start": {
+        "Sound": [],
+        "LocalSound": [
+          "Hero_1024001_Skill_1024010301_local_start"
+        ],
+        "HideSoundOnHidden": false,
+        "StopSoundOnStateFinish": false,
+        "StopSpawnSoundOnDestroy": false,
+        "StopSoundOnLinkedAnimationCCStop": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null
+      },
+      "Hero_1024001_Skill_1024010401_start": {
+        "Sound": [
+          "Hero_1024001_Skill_1024010401_start"
+        ],
+        "LocalSound": [],
+        "HideSoundOnHidden": false,
+        "StopSoundOnStateFinish": false,
+        "StopSpawnSoundOnDestroy": false,
+        "StopSoundOnLinkedAnimationCCStop": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null
+      },
+      "Hero_1024001_Skill_1024010401_local_start": {
+        "Sound": [],
+        "LocalSound": [
+          "Hero_1024001_Skill_1024010401_local_start"
+        ],
+        "HideSoundOnHidden": false,
+        "StopSoundOnStateFinish": false,
+        "StopSpawnSoundOnDestroy": false,
+        "StopSoundOnLinkedAnimationCCStop": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null
+      },
+      "Hero_1024001_Skill_1024010401_ready": {
+        "Sound": [
+          "Hero_1024001_Skill_1024010401_ready"
+        ],
+        "LocalSound": [
+          "Hero_1024001_Skill_1024010401_local_ready"
+        ],
+        "HideSoundOnHidden": false,
+        "StopSoundOnStateFinish": false,
+        "StopSpawnSoundOnDestroy": false,
+        "StopSoundOnLinkedAnimationCCStop": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null
+      },
+      "Hero_1024001_Skill_1024010401_cancel": {
+        "Sound": [
+          "Hero_1024001_Skill_1024010401_cancel"
+        ],
+        "LocalSound": [
+          "Hero_1024001_Skill_1024010401_local_cancel"
+        ],
+        "HideSoundOnHidden": false,
+        "StopSoundOnStateFinish": false,
+        "StopSpawnSoundOnDestroy": false,
+        "StopSoundOnLinkedAnimationCCStop": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null
+      },
+      "Hero_1024001_Skill_1024010501_start": {
+        "Sound": [
+          "Hero_1024001_Skill_1024010501_start"
+        ],
+        "LocalSound": [],
+        "HideSoundOnHidden": false,
+        "StopSoundOnStateFinish": false,
+        "StopSpawnSoundOnDestroy": false,
+        "StopSoundOnLinkedAnimationCCStop": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null
+      },
+      "Hero_1024001_Skill_1024010501_local_start": {
+        "Sound": [],
+        "LocalSound": [
+          "Hero_1024001_Skill_1024010501_local_start"
+        ],
+        "HideSoundOnHidden": false,
+        "StopSoundOnStateFinish": false,
+        "StopSpawnSoundOnDestroy": false,
+        "StopSoundOnLinkedAnimationCCStop": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null
+      },
       "Global_Common_Battle_Event_002": {
         "Sound": [],
         "LocalSound": [
@@ -16370,6 +16632,54 @@
       "bpitem_30302001_02": {
         "Sound": [
           "bpitem_30302001_02"
+        ],
+        "LocalSound": [],
+        "HideSoundOnHidden": false,
+        "StopSoundOnStateFinish": false,
+        "StopSpawnSoundOnDestroy": false,
+        "StopSoundOnLinkedAnimationCCStop": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null
+      },
+      "spell_40101019": {
+        "Sound": [
+          "spell_40101019"
+        ],
+        "LocalSound": [],
+        "HideSoundOnHidden": false,
+        "StopSoundOnStateFinish": false,
+        "StopSpawnSoundOnDestroy": false,
+        "StopSoundOnLinkedAnimationCCStop": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null
+      },
+      "spell_40101017_hit": {
+        "Sound": [
+          "spell_40101017_hit"
+        ],
+        "LocalSound": [],
+        "HideSoundOnHidden": false,
+        "StopSoundOnStateFinish": false,
+        "StopSpawnSoundOnDestroy": false,
+        "StopSoundOnLinkedAnimationCCStop": false,
+        "Particle": null,
+        "AttachedParticle": null,
+        "ScreenParticle": null,
+        "CameraShakeScale": 0.0,
+        "CameraShake": null,
+        "LocalCameraShake": null
+      },
+      "spell_40101019_hit": {
+        "Sound": [
+          "spell_40101019_hit"
         ],
         "LocalSound": [],
         "HideSoundOnHidden": false,

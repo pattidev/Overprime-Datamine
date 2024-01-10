@@ -824,6 +824,190 @@
           "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020020.Text_Emotion_3020020",
           "SubPathString": ""
         }
+      },
+      "3020021": {
+        "NameKey": "UI.Emotion_Crunch_Emote_King",
+        "GainedType": "EEmotionGainedType::EEGT_Purchase",
+        "EmotionType": "EEmotionType::EET_Emotion",
+        "Grade": "EOutgameItemGrade::Rare",
+        "HeroID": 1040,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "0",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": {
+          "ObjectName": "AnimMontage'Emote_King_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Crunch/Animations/Emote_King_Montage.0"
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020021.Text_Emotion_3020021",
+          "SubPathString": ""
+        }
+      },
+      "3020022": {
+        "NameKey": "UI.Emotion_FengMao_Emote_Waiting",
+        "GainedType": "EEmotionGainedType::EEGT_Default",
+        "EmotionType": "EEmotionType::EET_Emotion",
+        "Grade": "EOutgameItemGrade::Rare",
+        "HeroID": 1020,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "0",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": {
+          "ObjectName": "AnimMontage'AM_Emote_Waiting_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/FengMao/Animations/AM_Emote_Waiting_Montage.0"
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020022.Text_Emotion_3020022",
+          "SubPathString": ""
+        }
+      },
+      "3020023": {
+        "NameKey": "UI.Emotion_Gideon_Emote_Taunt_PraiseMe_T1",
+        "GainedType": "EEmotionGainedType::EEGT_Default",
+        "EmotionType": "EEmotionType::EET_Emotion",
+        "Grade": "EOutgameItemGrade::Rare",
+        "HeroID": 1012,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "0",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": {
+          "ObjectName": "AnimMontage'AM_Emote_Taunt_PraiseMe_T1_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Gideon/Animations/AM_Emote_Taunt_PraiseMe_T1_Montage.0"
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020023.Text_Emotion_3020023",
+          "SubPathString": ""
+        }
+      },
+      "3020024": {
+        "NameKey": "UI.Emotion_Grux_Emote_Master_BattleCry_T3",
+        "GainedType": "EEmotionGainedType::EEGT_Purchase",
+        "EmotionType": "EEmotionType::EET_Emotion",
+        "Grade": "EOutgameItemGrade::Rare",
+        "HeroID": 1006,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "0",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": {
+          "ObjectName": "AnimMontage'AM_Emote_Master_BattleCry_T3_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Grux/Animations/AM_Emote_Master_BattleCry_T3_Montage.0"
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020024.Text_Emotion_3020024",
+          "SubPathString": ""
+        }
+      },
+      "3020025": {
+        "NameKey": "UI.Emotion_Maco_Emote_Greet_Montage",
+        "GainedType": "EEmotionGainedType::EEGT_Purchase",
+        "EmotionType": "EEmotionType::EET_Emotion",
+        "Grade": "EOutgameItemGrade::Rare",
+        "HeroID": 1042,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "0",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": {
+          "ObjectName": "AnimMontage'Maco_Emote_Greet_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Maco/Animations/Maco_Emote_Greet_Montage.0"
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020025.Text_Emotion_3020025",
+          "SubPathString": ""
+        }
+      },
+      "3020026": {
+        "NameKey": "UI.Emotion_Riktor_Emote_Waiting",
+        "GainedType": "EEmotionGainedType::EEGT_Purchase",
+        "EmotionType": "EEmotionType::EET_Emotion",
+        "Grade": "EOutgameItemGrade::Rare",
+        "HeroID": 1034,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "0",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": {
+          "ObjectName": "AnimMontage'Emote_Waiting_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Riktor/Animations/Emote_Waiting_Montage.0"
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020026.Text_Emotion_3020026",
+          "SubPathString": ""
+        }
+      },
+      "3020027": {
+        "NameKey": "UI.Emotion_Sparrow_Emote_Taunt_KickUpDust_M2",
+        "GainedType": "EEmotionGainedType::EEGT_Purchase",
+        "EmotionType": "EEmotionType::EET_Emotion",
+        "Grade": "EOutgameItemGrade::Rare",
+        "HeroID": 1009,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "0",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": {
+          "ObjectName": "AnimMontage'AM_Emote_Taunt_KickUpDust_M2_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Sparrow/Animations/AM_Emote_Taunt_KickUpDust_M2_Montage.0"
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020027.Text_Emotion_3020027",
+          "SubPathString": ""
+        }
+      },
+      "3020028": {
+        "NameKey": "UI.Emotion_Yin_Emote_SquashBug",
+        "GainedType": "EEmotionGainedType::EEGT_Purchase",
+        "EmotionType": "EEmotionType::EET_Emotion",
+        "Grade": "EOutgameItemGrade::Rare",
+        "HeroID": 1038,
+        "IsBaseEmotion": false,
+        "Emote_Path": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Emote_Ani_Path": null,
+        "Emote_PlaySound": "0",
+        "IsPlayEmoteSoundLobby": false,
+        "Emotion_Path": {
+          "ObjectName": "AnimMontage'Emote_SquashBug_Montage'",
+          "ObjectPath": "Overprime/Content/Character/Hero/Yin/Animations/Emote_SquashBug_Montage.0"
+        },
+        "Collection_270x292": {
+          "AssetPathName": "/Game/UI/Resource/Texture/Emoticon/Resource/Text_Emotion_3020028.Text_Emotion_3020028",
+          "SubPathString": ""
+        }
       }
     }
   }

@@ -24,7 +24,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10000001": {
         "TableID": "10000001",
@@ -40,7 +42,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10010102": {
         "TableID": "10010102",
@@ -56,7 +60,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10010103": {
         "TableID": "10010103",
@@ -72,7 +78,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10010103_1": {
         "TableID": "10010103_1",
@@ -88,7 +96,9 @@
         "CameraModeValue": 2.0,
         "CameraModeValue2": 2.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10010104": {
         "TableID": "10010104",
@@ -104,7 +114,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10010105": {
         "TableID": "10010105",
@@ -120,7 +132,9 @@
         "CameraModeValue": 3.0,
         "CameraModeValue2": 3.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 0.25,
+        "GamePadSensivity_UpDown": 0.2
       },
       "10010105_1": {
         "TableID": "10010105_1",
@@ -136,7 +150,9 @@
         "CameraModeValue": 1.2,
         "CameraModeValue2": 8.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 0.25,
+        "GamePadSensivity_UpDown": 0.2
       },
       "10010105_2": {
         "TableID": "10010105_2",
@@ -152,7 +168,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 8.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 0.25,
+        "GamePadSensivity_UpDown": 0.2
       },
       "10010107": {
         "TableID": "10010107",
@@ -168,7 +186,27 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10010108": {
+        "TableID": "10010108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": -80.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10020102": {
         "TableID": "10020102",
@@ -184,7 +222,9 @@
         "CameraModeValue": 3.0,
         "CameraModeValue2": 3.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10020103": {
         "TableID": "10020103",
@@ -200,7 +240,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10020104": {
         "TableID": "10020104",
@@ -216,7 +258,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10020105": {
         "TableID": "10020105",
@@ -232,7 +276,9 @@
         "CameraModeValue": 10.0,
         "CameraModeValue2": 3.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10020107": {
         "TableID": "10020107",
@@ -248,7 +294,27 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10020108": {
+        "TableID": "10020108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": -90.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10030102": {
         "TableID": "10030102",
@@ -264,7 +330,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10030102_1": {
         "TableID": "10030102_1",
@@ -280,7 +348,9 @@
         "CameraModeValue": 3.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10030103": {
         "TableID": "10030103",
@@ -296,7 +366,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10030103_1": {
         "TableID": "10030103_1",
@@ -312,7 +384,9 @@
         "CameraModeValue": 2.0,
         "CameraModeValue2": 4.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10030104": {
         "TableID": "10030104",
@@ -328,7 +402,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10030104_1": {
         "TableID": "10030104_1",
@@ -344,7 +420,9 @@
         "CameraModeValue": 2.0,
         "CameraModeValue2": 4.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10030105": {
         "TableID": "10030105",
@@ -360,7 +438,9 @@
         "CameraModeValue": 3.0,
         "CameraModeValue2": 3.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10030107": {
         "TableID": "10030107",
@@ -376,7 +456,27 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10030108": {
+        "TableID": "10030108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": -100.0,
+        "UpDown": 60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10040102": {
         "TableID": "10040102",
@@ -392,7 +492,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10040202": {
         "TableID": "10040202",
@@ -408,7 +510,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10040202_1": {
         "TableID": "10040202_1",
@@ -424,7 +528,9 @@
         "CameraModeValue": 7.0,
         "CameraModeValue2": 5.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10040201": {
         "TableID": "10040201",
@@ -440,7 +546,9 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 4.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10040201_1": {
         "TableID": "10040201_1",
@@ -456,7 +564,9 @@
         "CameraModeValue": 3.0,
         "CameraModeValue2": 3.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10040103": {
         "TableID": "10040103",
@@ -472,7 +582,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10040104": {
         "TableID": "10040104",
@@ -488,7 +600,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10040105": {
         "TableID": "10040105",
@@ -504,7 +618,9 @@
         "CameraModeValue": 2.0,
         "CameraModeValue2": 3.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10040107": {
         "TableID": "10040107",
@@ -520,7 +636,27 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10040108": {
+        "TableID": "10040108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": 0.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10050102": {
         "TableID": "10050102",
@@ -536,7 +672,9 @@
         "CameraModeValue": 10.0,
         "CameraModeValue2": 10.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10050103": {
         "TableID": "10050103",
@@ -552,7 +690,9 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10050104": {
         "TableID": "10050104",
@@ -568,7 +708,9 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 20.0,
         "CameraModeValue3": 1.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10050104_1": {
         "TableID": "10050104_1",
@@ -584,7 +726,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10050105": {
         "TableID": "10050105",
@@ -600,7 +744,9 @@
         "CameraModeValue": 1.0,
         "CameraModeValue2": 12.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10050107": {
         "TableID": "10050107",
@@ -616,7 +762,27 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10050108": {
+        "TableID": "10050108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": 0.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10060102": {
         "TableID": "10060102",
@@ -632,7 +798,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10060103": {
         "TableID": "10060103",
@@ -648,7 +816,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10060104": {
         "TableID": "10060104",
@@ -664,7 +834,9 @@
         "CameraModeValue": 1.0,
         "CameraModeValue2": 3.0,
         "CameraModeValue3": 30.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10060105": {
         "TableID": "10060105",
@@ -680,7 +852,9 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10060107": {
         "TableID": "10060107",
@@ -696,7 +870,27 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10060108": {
+        "TableID": "10060108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": 0.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10070102": {
         "TableID": "10070102",
@@ -712,7 +906,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10070103": {
         "TableID": "10070103",
@@ -728,7 +924,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 4.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10070104": {
         "TableID": "10070104",
@@ -744,7 +942,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10070105": {
         "TableID": "10070105",
@@ -760,7 +960,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10070105_01": {
         "TableID": "10070105_01",
@@ -776,7 +978,9 @@
         "CameraModeValue": 1.0,
         "CameraModeValue2": 3.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10070107": {
         "TableID": "10070107",
@@ -792,7 +996,27 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10070108": {
+        "TableID": "10070108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": 0.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10090102": {
         "TableID": "10090102",
@@ -808,7 +1032,9 @@
         "CameraModeValue": 2.0,
         "CameraModeValue2": 12.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10090103": {
         "TableID": "10090103",
@@ -824,7 +1050,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10090104": {
         "TableID": "10090104",
@@ -840,7 +1068,9 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10090105": {
         "TableID": "10090105",
@@ -856,7 +1086,9 @@
         "CameraModeValue": 2.0,
         "CameraModeValue2": 12.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10090107": {
         "TableID": "10090107",
@@ -872,7 +1104,27 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10090108": {
+        "TableID": "10090108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": -80.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10100102": {
         "TableID": "10100102",
@@ -888,7 +1140,9 @@
         "CameraModeValue": 1.0,
         "CameraModeValue2": 3.0,
         "CameraModeValue3": 30.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10100103": {
         "TableID": "10100103",
@@ -904,7 +1158,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10100104": {
         "TableID": "10100104",
@@ -920,7 +1176,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10100104_1": {
         "TableID": "10100104_1",
@@ -936,7 +1194,9 @@
         "CameraModeValue": 3.0,
         "CameraModeValue2": 3.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10100105": {
         "TableID": "10100105",
@@ -952,7 +1212,9 @@
         "CameraModeValue": 10.0,
         "CameraModeValue2": 10.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10100107": {
         "TableID": "10100107",
@@ -968,7 +1230,27 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10100108": {
+        "TableID": "10100108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": 0.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10110101": {
         "TableID": "10110101",
@@ -984,7 +1266,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10110101_1": {
         "TableID": "10110101_1",
@@ -1000,7 +1284,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 12.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10110102": {
         "TableID": "10110102",
@@ -1016,7 +1302,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10110201": {
         "TableID": "10110201",
@@ -1032,7 +1320,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10110103": {
         "TableID": "10110103",
@@ -1048,7 +1338,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10110103_1": {
         "TableID": "10110103_1",
@@ -1064,7 +1356,9 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 2.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10110104": {
         "TableID": "10110104",
@@ -1080,7 +1374,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10110104_1": {
         "TableID": "10110104_1",
@@ -1096,7 +1392,9 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 10.0,
         "CameraModeValue3": 1.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10110105": {
         "TableID": "10110105",
@@ -1112,7 +1410,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10110107": {
         "TableID": "10110107",
@@ -1128,7 +1428,27 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10110108": {
+        "TableID": "10110108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": 0.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10120102": {
         "TableID": "10120102",
@@ -1144,7 +1464,9 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10120102_1": {
         "TableID": "10120102_1",
@@ -1160,7 +1482,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10120103": {
         "TableID": "10120103",
@@ -1176,7 +1500,9 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10120103_1": {
         "TableID": "10120103_1",
@@ -1192,7 +1518,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10120104": {
         "TableID": "10120104",
@@ -1208,7 +1536,9 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 10.0,
         "CameraModeValue3": 30.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10120105": {
         "TableID": "10120105",
@@ -1224,7 +1554,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10120107": {
         "TableID": "10120107",
@@ -1240,7 +1572,27 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10120108": {
+        "TableID": "10120108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": -80.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10130102": {
         "TableID": "10130102",
@@ -1256,7 +1608,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10130102_1": {
         "TableID": "10130102_1",
@@ -1272,7 +1626,9 @@
         "CameraModeValue": 3.0,
         "CameraModeValue2": 3.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10130103": {
         "TableID": "10130103",
@@ -1288,7 +1644,9 @@
         "CameraModeValue": 1.0,
         "CameraModeValue2": 1.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10130104": {
         "TableID": "10130104",
@@ -1304,7 +1662,9 @@
         "CameraModeValue": 3.0,
         "CameraModeValue2": 3.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10130105": {
         "TableID": "10130105",
@@ -1320,7 +1680,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 2.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10130105_1": {
         "TableID": "10130105_1",
@@ -1336,7 +1698,9 @@
         "CameraModeValue": 3.0,
         "CameraModeValue2": 3.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10130107": {
         "TableID": "10130107",
@@ -1352,7 +1716,27 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10130108": {
+        "TableID": "10130108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": -100.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10140102": {
         "TableID": "10140102",
@@ -1368,7 +1752,9 @@
         "CameraModeValue": 3.0,
         "CameraModeValue2": 5.0,
         "CameraModeValue3": 20.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10140112": {
         "TableID": "10140112",
@@ -1384,7 +1770,9 @@
         "CameraModeValue": 3.0,
         "CameraModeValue2": 5.0,
         "CameraModeValue3": 20.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10140103": {
         "TableID": "10140103",
@@ -1400,7 +1788,9 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 4.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10140104": {
         "TableID": "10140104",
@@ -1416,7 +1806,9 @@
         "CameraModeValue": 3.0,
         "CameraModeValue2": 3.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10140105": {
         "TableID": "10140105",
@@ -1432,7 +1824,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10140105_1": {
         "TableID": "10140105_1",
@@ -1448,7 +1842,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10140107": {
         "TableID": "10140107",
@@ -1464,7 +1860,27 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10140108": {
+        "TableID": "10140108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": 0.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10150102": {
         "TableID": "10150102",
@@ -1480,7 +1896,9 @@
         "CameraModeValue": 8.0,
         "CameraModeValue2": 12.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10150103": {
         "TableID": "10150103",
@@ -1496,7 +1914,9 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 4.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10150104": {
         "TableID": "10150104",
@@ -1512,7 +1932,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10150104_1": {
         "TableID": "10150104_1",
@@ -1528,7 +1950,9 @@
         "CameraModeValue": 10.0,
         "CameraModeValue2": 2.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10150105": {
         "TableID": "10150105",
@@ -1544,7 +1968,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10150105_1": {
         "TableID": "10150105_1",
@@ -1560,7 +1986,9 @@
         "CameraModeValue": 1.0,
         "CameraModeValue2": 5.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10150107": {
         "TableID": "10150107",
@@ -1576,7 +2004,27 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10150108": {
+        "TableID": "10150108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": -90.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10160102": {
         "TableID": "10160102",
@@ -1592,7 +2040,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10160103": {
         "TableID": "10160103",
@@ -1608,7 +2058,9 @@
         "CameraModeValue": 3.0,
         "CameraModeValue2": 3.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10160103_1": {
         "TableID": "10160103_1",
@@ -1624,7 +2076,9 @@
         "CameraModeValue": 2.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10160104": {
         "TableID": "10160104",
@@ -1640,7 +2094,9 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 2.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10160105": {
         "TableID": "10160105",
@@ -1656,7 +2112,27 @@
         "CameraModeValue": 1.0,
         "CameraModeValue2": 12.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10160108": {
+        "TableID": "10160108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": 0.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10170102": {
         "TableID": "10170102",
@@ -1672,7 +2148,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10170103": {
         "TableID": "10170103",
@@ -1688,7 +2166,9 @@
         "CameraModeValue": 10.0,
         "CameraModeValue2": 10.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10170104": {
         "TableID": "10170104",
@@ -1704,7 +2184,9 @@
         "CameraModeValue": 1.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10170105": {
         "TableID": "10170105",
@@ -1720,7 +2202,9 @@
         "CameraModeValue": 1.0,
         "CameraModeValue2": 7.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10170107": {
         "TableID": "10170107",
@@ -1736,7 +2220,27 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10170108": {
+        "TableID": "10170108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": -90.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10180102": {
         "TableID": "10180102",
@@ -1752,7 +2256,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10180103": {
         "TableID": "10180103",
@@ -1768,7 +2274,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10180103_2": {
         "TableID": "10180103_2",
@@ -1784,7 +2292,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "101801030101": {
         "TableID": "101801030101",
@@ -1800,7 +2310,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "101801030102": {
         "TableID": "101801030102",
@@ -1816,7 +2328,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10180104": {
         "TableID": "10180104",
@@ -1832,7 +2346,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10180105": {
         "TableID": "10180105",
@@ -1848,7 +2364,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10180107": {
         "TableID": "10180107",
@@ -1864,7 +2382,27 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10180108": {
+        "TableID": "10180108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": 0.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10190102": {
         "TableID": "10190102",
@@ -1880,7 +2418,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10190103": {
         "TableID": "10190103",
@@ -1896,7 +2436,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 10.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10190104": {
         "TableID": "10190104",
@@ -1912,7 +2454,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10190105": {
         "TableID": "10190105",
@@ -1928,7 +2472,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10190105_1": {
         "TableID": "10190105_1",
@@ -1944,7 +2490,27 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 7.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10190108": {
+        "TableID": "10190108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": -90.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10200102": {
         "TableID": "10200102",
@@ -1960,7 +2526,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10200102_1": {
         "TableID": "10200102_1",
@@ -1976,7 +2544,9 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 10.0,
         "CameraModeValue3": 1.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10200103": {
         "TableID": "10200103",
@@ -1992,7 +2562,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10200104": {
         "TableID": "10200104",
@@ -2008,7 +2580,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10200105": {
         "TableID": "10200105",
@@ -2024,7 +2598,9 @@
         "CameraModeValue": 10.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10200107": {
         "TableID": "10200107",
@@ -2040,7 +2616,27 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10200108": {
+        "TableID": "10200108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": 0.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10210102": {
         "TableID": "10210102",
@@ -2056,7 +2652,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10210103": {
         "TableID": "10210103",
@@ -2072,7 +2670,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10210104": {
         "TableID": "10210104",
@@ -2088,7 +2688,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 1.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10210105": {
         "TableID": "10210105",
@@ -2104,7 +2706,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10210105_1": {
         "TableID": "10210105_1",
@@ -2120,7 +2724,9 @@
         "CameraModeValue": 2.0,
         "CameraModeValue2": 4.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10210107": {
         "TableID": "10210107",
@@ -2136,7 +2742,27 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10210108": {
+        "TableID": "10210108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": -90.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10220102": {
         "TableID": "10220102",
@@ -2152,7 +2778,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10220102_1": {
         "TableID": "10220102_1",
@@ -2168,7 +2796,9 @@
         "CameraModeValue": 2.0,
         "CameraModeValue2": 2.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10220103": {
         "TableID": "10220103",
@@ -2184,7 +2814,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10220103_1": {
         "TableID": "10220103_1",
@@ -2200,7 +2832,9 @@
         "CameraModeValue": 1.0,
         "CameraModeValue2": 4.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10220104": {
         "TableID": "10220104",
@@ -2216,7 +2850,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10220104_1": {
         "TableID": "10220104_1",
@@ -2232,7 +2868,9 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 3.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10220105": {
         "TableID": "10220105",
@@ -2248,7 +2886,9 @@
         "CameraModeValue": 3.0,
         "CameraModeValue2": 8.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10220107": {
         "TableID": "10220107",
@@ -2264,7 +2904,27 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10220108": {
+        "TableID": "10220108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": -180.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10230102": {
         "TableID": "10230102",
@@ -2280,7 +2940,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 3.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10230102_01": {
         "TableID": "10230102_01",
@@ -2296,7 +2958,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10230103": {
         "TableID": "10230103",
@@ -2312,7 +2976,9 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10230104": {
         "TableID": "10230104",
@@ -2328,7 +2994,9 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10230105": {
         "TableID": "10230105",
@@ -2344,7 +3012,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10230107": {
         "TableID": "10230107",
@@ -2360,7 +3030,27 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10230108": {
+        "TableID": "10230108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": 0.0,
+        "UpDown": -100.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10240102": {
         "TableID": "10240102",
@@ -2374,14 +3064,34 @@
         "FOVLerpSpeed": 3.0,
         "CameraMode": "ECameraMovement::ECM_LerpRelative",
         "CameraModeValue": 3.0,
-        "CameraModeValue2": 10.0,
+        "CameraModeValue2": 1.0,
         "CameraModeValue3": 6.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10240102_01": {
+        "TableID": "10240102_01",
+        "FOV": 0.0,
+        "ForwardBack": 120.0,
+        "LeftRight": 0.0,
+        "UpDown": 0.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 2.0,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10240103": {
         "TableID": "10240103",
         "FOV": 0.0,
-        "ForwardBack": -200.0,
+        "ForwardBack": 100.0,
         "LeftRight": 0.0,
         "UpDown": -50.0,
         "FixedCameraAngle": 0.0,
@@ -2389,31 +3099,53 @@
         "FixedCameraAngleValueEnd": 0.0,
         "FOVLerpSpeed": 3.0,
         "CameraMode": "ECameraMovement::ECM_LerpRelative",
-        "CameraModeValue": 15.0,
-        "CameraModeValue2": 1.0,
+        "CameraModeValue": 6.0,
+        "CameraModeValue2": 8.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10240104": {
         "TableID": "10240104",
         "FOV": 0.0,
-        "ForwardBack": -300.0,
+        "ForwardBack": 80.0,
         "LeftRight": 0.0,
-        "UpDown": 0.0,
+        "UpDown": 20.0,
         "FixedCameraAngle": 0.0,
         "FixedCameraAngleValueStart": 0.0,
         "FixedCameraAngleValueEnd": 0.0,
         "FOVLerpSpeed": 1.0,
         "CameraMode": "ECameraMovement::ECM_LerpRelative",
-        "CameraModeValue": 20.0,
+        "CameraModeValue": 1.0,
         "CameraModeValue2": 1.0,
         "CameraModeValue3": 1.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10240105": {
         "TableID": "10240105",
         "FOV": 0.0,
-        "ForwardBack": -300.0,
+        "ForwardBack": 150.0,
+        "LeftRight": 0.0,
+        "UpDown": 0.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 6.0,
+        "CameraModeValue2": 1.0,
+        "CameraModeValue3": 10.0,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10240105_01": {
+        "TableID": "10240105_01",
+        "FOV": 0.0,
+        "ForwardBack": -400.0,
         "LeftRight": 0.0,
         "UpDown": 0.0,
         "FixedCameraAngle": 0.0,
@@ -2422,9 +3154,11 @@
         "FOVLerpSpeed": 3.0,
         "CameraMode": "ECameraMovement::ECM_LerpRelative",
         "CameraModeValue": 30.0,
-        "CameraModeValue2": 1.0,
+        "CameraModeValue2": 6.0,
         "CameraModeValue3": 10.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10240107": {
         "TableID": "10240107",
@@ -2440,7 +3174,27 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10240108": {
+        "TableID": "10240108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": 0.0,
+        "UpDown": -150.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10250102": {
         "TableID": "10250102",
@@ -2456,7 +3210,9 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 4.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10250103": {
         "TableID": "10250103",
@@ -2472,7 +3228,9 @@
         "CameraModeValue": 8.0,
         "CameraModeValue2": 8.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10250104": {
         "TableID": "10250104",
@@ -2488,7 +3246,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10250105": {
         "TableID": "10250105",
@@ -2504,7 +3264,9 @@
         "CameraModeValue": 0.3,
         "CameraModeValue2": 5.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10250107": {
         "TableID": "10250107",
@@ -2520,7 +3282,27 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10250108": {
+        "TableID": "10250108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": 0.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10260102": {
         "TableID": "10260102",
@@ -2536,7 +3318,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10260102_1": {
         "TableID": "10260102_1",
@@ -2552,7 +3336,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 1.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10260103": {
         "TableID": "10260103",
@@ -2568,7 +3354,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10260103_1": {
         "TableID": "10260103_1",
@@ -2584,7 +3372,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 1.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10260104": {
         "TableID": "10260104",
@@ -2600,7 +3390,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10260104_1": {
         "TableID": "10260104_1",
@@ -2616,7 +3408,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 1.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10260105": {
         "TableID": "10260105",
@@ -2632,7 +3426,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10260105_1": {
         "TableID": "10260105_1",
@@ -2648,7 +3444,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 1.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10260107": {
         "TableID": "10260107",
@@ -2664,7 +3462,27 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10260108": {
+        "TableID": "10260108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": -85.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10270102": {
         "TableID": "10270102",
@@ -2680,7 +3498,9 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10270103": {
         "TableID": "10270103",
@@ -2696,7 +3516,9 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 15.0,
         "CameraModeValue3": 1.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10270113": {
         "TableID": "10270113",
@@ -2712,7 +3534,9 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 15.0,
         "CameraModeValue3": 1.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10270103_1": {
         "TableID": "10270103_1",
@@ -2728,7 +3552,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10270104": {
         "TableID": "10270104",
@@ -2744,7 +3570,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10270105": {
         "TableID": "10270105",
@@ -2760,7 +3588,9 @@
         "CameraModeValue": 3.0,
         "CameraModeValue2": 12.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10270107": {
         "TableID": "10270107",
@@ -2776,7 +3606,27 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10270108": {
+        "TableID": "10270108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": 0.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10280102": {
         "TableID": "10280102",
@@ -2792,7 +3642,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10280202": {
         "TableID": "10280202",
@@ -2808,7 +3660,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10280103": {
         "TableID": "10280103",
@@ -2824,7 +3678,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10280103_1": {
         "TableID": "10280103_1",
@@ -2840,7 +3696,9 @@
         "CameraModeValue": 2.0,
         "CameraModeValue2": 2.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10280104": {
         "TableID": "10280104",
@@ -2856,7 +3714,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10280104_1": {
         "TableID": "10280104_1",
@@ -2872,7 +3732,9 @@
         "CameraModeValue": 1.0,
         "CameraModeValue2": 3.0,
         "CameraModeValue3": 30.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10280105": {
         "TableID": "10280105",
@@ -2888,7 +3750,9 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10280107": {
         "TableID": "10280107",
@@ -2904,7 +3768,27 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10280108": {
+        "TableID": "10280108",
+        "FOV": 0.0,
+        "ForwardBack": 60.0,
+        "LeftRight": 0.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10290102": {
         "TableID": "10290102",
@@ -2920,7 +3804,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10290102_1": {
         "TableID": "10290102_1",
@@ -2936,7 +3822,9 @@
         "CameraModeValue": 7.0,
         "CameraModeValue2": 5.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10290103": {
         "TableID": "10290103",
@@ -2952,7 +3840,9 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10290104": {
         "TableID": "10290104",
@@ -2968,7 +3858,9 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10290105": {
         "TableID": "10290105",
@@ -2984,7 +3876,9 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10290107": {
         "TableID": "10290107",
@@ -3000,7 +3894,27 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10290108": {
+        "TableID": "10290108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": 0.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10310102": {
         "TableID": "10310102",
@@ -3016,7 +3930,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 1.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10310103": {
         "TableID": "10310103",
@@ -3032,7 +3948,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10310104": {
         "TableID": "10310104",
@@ -3048,7 +3966,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10310104_1": {
         "TableID": "10310104_1",
@@ -3064,7 +3984,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 2.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10310105": {
         "TableID": "10310105",
@@ -3080,7 +4002,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10310105_1": {
         "TableID": "10310105_1",
@@ -3096,7 +4020,9 @@
         "CameraModeValue": 1.0,
         "CameraModeValue2": 1.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10310107": {
         "TableID": "10310107",
@@ -3112,7 +4038,27 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10310108": {
+        "TableID": "10310108",
+        "FOV": 0.0,
+        "ForwardBack": 150.0,
+        "LeftRight": -90.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10320102": {
         "TableID": "10320102",
@@ -3128,7 +4074,9 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10320103": {
         "TableID": "10320103",
@@ -3144,7 +4092,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10320105": {
         "TableID": "10320105",
@@ -3160,7 +4110,27 @@
         "CameraModeValue": 3.0,
         "CameraModeValue2": 3.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10320108": {
+        "TableID": "10320108",
+        "FOV": 0.0,
+        "ForwardBack": 120.0,
+        "LeftRight": -80.0,
+        "UpDown": -80.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10330102": {
         "TableID": "10330102",
@@ -3176,7 +4146,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 0.6,
+        "GamePadSensivity_UpDown": 0.45
       },
       "10330102_1": {
         "TableID": "10330102_1",
@@ -3192,7 +4164,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 0.6,
+        "GamePadSensivity_UpDown": 0.45
       },
       "10330103": {
         "TableID": "10330103",
@@ -3208,7 +4182,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10330103_1": {
         "TableID": "10330103_1",
@@ -3224,7 +4200,9 @@
         "CameraModeValue": 2.0,
         "CameraModeValue2": 4.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10330104": {
         "TableID": "10330104",
@@ -3240,7 +4218,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10330104_1": {
         "TableID": "10330104_1",
@@ -3256,7 +4236,9 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 4.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10330105": {
         "TableID": "10330105",
@@ -3272,7 +4254,9 @@
         "CameraModeValue": 1.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10330107": {
         "TableID": "10330107",
@@ -3288,7 +4272,27 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10330108": {
+        "TableID": "10330108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": -80.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10300102": {
         "TableID": "10300102",
@@ -3304,7 +4308,9 @@
         "CameraModeValue": 1.5,
         "CameraModeValue2": 3.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10300103": {
         "TableID": "10300103",
@@ -3320,7 +4326,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 12.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10300104": {
         "TableID": "10300104",
@@ -3336,7 +4344,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 10.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10300105": {
         "TableID": "10300105",
@@ -3352,7 +4362,27 @@
         "CameraModeValue": 5.0,
         "CameraModeValue2": 8.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10300108": {
+        "TableID": "10300108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": 0.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10340102": {
         "TableID": "10340102",
@@ -3368,7 +4398,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10340104": {
         "TableID": "10340104",
@@ -3384,7 +4416,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10340105_1": {
         "TableID": "10340105_1",
@@ -3400,7 +4434,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10340105_2": {
         "TableID": "10340105_2",
@@ -3416,7 +4452,27 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 4.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10340108": {
+        "TableID": "10340108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": 0.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10350102": {
         "TableID": "10350102",
@@ -3432,7 +4488,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10350102_1": {
         "TableID": "10350102_1",
@@ -3448,7 +4506,9 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 4.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10350103": {
         "TableID": "10350103",
@@ -3464,7 +4524,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10350104": {
         "TableID": "10350104",
@@ -3480,7 +4542,9 @@
         "CameraModeValue": 3.0,
         "CameraModeValue2": 3.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10350105": {
         "TableID": "10350105",
@@ -3496,7 +4560,27 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 4.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10350108": {
+        "TableID": "10350108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": -100.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10360102": {
         "TableID": "10360102",
@@ -3512,7 +4596,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10360102_2": {
         "TableID": "10360102_2",
@@ -3528,7 +4614,9 @@
         "CameraModeValue": 8.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10360102_1": {
         "TableID": "10360102_1",
@@ -3544,7 +4632,9 @@
         "CameraModeValue": 1.5,
         "CameraModeValue2": 3.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10360103": {
         "TableID": "10360103",
@@ -3560,7 +4650,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 3.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10360103_1": {
         "TableID": "10360103_1",
@@ -3576,7 +4668,9 @@
         "CameraModeValue": 1.5,
         "CameraModeValue2": 3.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10360104": {
         "TableID": "10360104",
@@ -3592,7 +4686,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 10.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10360105": {
         "TableID": "10360105",
@@ -3608,7 +4704,27 @@
         "CameraModeValue": 5.0,
         "CameraModeValue2": 8.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10360108": {
+        "TableID": "10360108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": 0.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10370102": {
         "TableID": "10370102",
@@ -3624,7 +4740,9 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10370102_1": {
         "TableID": "10370102-1",
@@ -3640,7 +4758,9 @@
         "CameraModeValue": 3.0,
         "CameraModeValue2": 2.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10370103": {
         "TableID": "10370103",
@@ -3656,7 +4776,9 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10370103_1": {
         "TableID": "10370103_1",
@@ -3672,7 +4794,27 @@
         "CameraModeValue": 3.0,
         "CameraModeValue2": 3.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10370108": {
+        "TableID": "10370108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": -80.0,
+        "UpDown": -80.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10380102": {
         "TableID": "10380102",
@@ -3688,7 +4830,9 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10380202": {
         "TableID": "10380202",
@@ -3704,7 +4848,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 10.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10380202_1": {
         "TableID": "10380202",
@@ -3720,7 +4866,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 10.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10380103": {
         "TableID": "10380103",
@@ -3736,7 +4884,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 10.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10380104": {
         "TableID": "10380104",
@@ -3752,7 +4902,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10380105": {
         "TableID": "10380105",
@@ -3768,7 +4920,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10380105_1": {
         "TableID": "10380105",
@@ -3784,7 +4938,27 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 7.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10380108": {
+        "TableID": "10380108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": -90.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10400102": {
         "TableID": "10400102",
@@ -3800,7 +4974,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 4.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10400102_1": {
         "TableID": "10400102_1",
@@ -3816,7 +4992,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10400103": {
         "TableID": "10400103",
@@ -3832,7 +5010,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10400103_1": {
         "TableID": "10400103_1",
@@ -3848,7 +5028,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10400104": {
         "TableID": "10400104",
@@ -3864,7 +5046,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10400104_1": {
         "TableID": "10400104_1",
@@ -3880,7 +5064,27 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10400108": {
+        "TableID": "10400108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": 0.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10420102": {
         "TableID": "10420102",
@@ -3896,7 +5100,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10420103": {
         "TableID": "10420103",
@@ -3912,7 +5118,9 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10420103_1": {
         "TableID": "10420103_1",
@@ -3928,7 +5136,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 3.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10420104": {
         "TableID": "10420104",
@@ -3944,7 +5154,9 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10420104_1": {
         "TableID": "10420104_1",
@@ -3960,7 +5172,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 3.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10420105": {
         "TableID": "10420105",
@@ -3976,7 +5190,9 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10420107": {
         "TableID": "10420107",
@@ -3992,7 +5208,27 @@
         "CameraModeValue": 0.0,
         "CameraModeValue2": 0.0,
         "CameraModeValue3": 0.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10420108": {
+        "TableID": "10420108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": -75.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10430102": {
         "TableID": "10430102",
@@ -4008,7 +5244,9 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10430103": {
         "TableID": "10430103",
@@ -4024,7 +5262,9 @@
         "CameraModeValue": 4.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10430104_1": {
         "TableID": "10430104_1",
@@ -4040,7 +5280,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10430104_2": {
         "TableID": "10430104_2",
@@ -4056,7 +5298,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10430105_1": {
         "TableID": "10430105_1",
@@ -4072,7 +5316,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10430105_2": {
         "TableID": "10430105_2",
@@ -4088,7 +5334,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 1.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10430105_3": {
         "TableID": "10430105_3",
@@ -4104,7 +5352,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_ViewAdjustMode",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "10430105_4": {
         "TableID": "10430105_4",
@@ -4120,7 +5370,27 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 1.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
+      },
+      "10430108": {
+        "TableID": "10430108",
+        "FOV": 0.0,
+        "ForwardBack": 180.0,
+        "LeftRight": -80.0,
+        "UpDown": -60.0,
+        "FixedCameraAngle": 0.0,
+        "FixedCameraAngleValueStart": 0.0,
+        "FixedCameraAngleValueEnd": 0.0,
+        "FOVLerpSpeed": 3.0,
+        "CameraMode": "ECameraMovement::ECM_LerpRelative",
+        "CameraModeValue": 0.2,
+        "CameraModeValue2": 6.0,
+        "CameraModeValue3": 0.3,
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "30201008": {
         "TableID": "30201008",
@@ -4136,7 +5406,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "30204002": {
         "TableID": "30204002",
@@ -4152,7 +5424,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "30301012": {
         "TableID": "30301012",
@@ -4168,7 +5442,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "30302009": {
         "TableID": "30302009",
@@ -4184,7 +5460,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "30303009": {
         "TableID": "30303009",
@@ -4200,7 +5478,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "30304002": {
         "TableID": "30304002",
@@ -4216,7 +5496,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "30304003": {
         "TableID": "30304003",
@@ -4232,7 +5514,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "30304004": {
         "TableID": "30304004",
@@ -4248,7 +5532,9 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "30900000": {
         "TableID": "30900000",
@@ -4264,12 +5550,14 @@
         "CameraModeValue": 6.0,
         "CameraModeValue2": 6.0,
         "CameraModeValue3": 0.3,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       },
       "222_01": {
         "TableID": "222_01",
         "FOV": 0.0,
-        "ForwardBack": -10.0,
+        "ForwardBack": -50.0,
         "LeftRight": 0.0,
         "UpDown": 0.0,
         "FixedCameraAngle": 0.0,
@@ -4280,7 +5568,9 @@
         "CameraModeValue": 18.0,
         "CameraModeValue2": 25.0,
         "CameraModeValue3": 1.0,
-        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal"
+        "CameraAimingRuleType": "ECameraAimingRuleType::ECART_Normal",
+        "GamePadSensivity_LeftRight": 1.0,
+        "GamePadSensivity_UpDown": 1.0
       }
     }
   }

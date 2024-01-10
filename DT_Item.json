@@ -241,13 +241,37 @@
         "UnSellable": false,
         "CanBuyPosition": [],
         "SellBlockTime": 0.0,
-        "ItemPrice": 1500,
+        "ItemPrice": 1000,
         "MaxItemAmount": 1,
         "Refillable": 0,
         "IsStackable": true,
         "CategoryNumber": 0,
         "QuickBuyKeyword": "",
         "UseHiddenSlot": true,
+        "UsefulRole": "ERoleType::ERT_None"
+      },
+      "30900011": {
+        "TableID": "30900011",
+        "GroupID": "30900011",
+        "SkillID": "30900011",
+        "PrintName": "ITEM.Name_30900011",
+        "Description": "ITEM.Item_Desc_30900011",
+        "Icon": {
+          "ObjectName": "Texture2D'30900011'",
+          "ObjectPath": "Overprime/Content/Textures/Icon/item_icon/30900011.0"
+        },
+        "ItemGrade": "EItemGrade::EIG_STARTER",
+        "DestroyItemWhenDead": false,
+        "UnSellable": false,
+        "CanBuyPosition": [],
+        "SellBlockTime": 0.0,
+        "ItemPrice": 100,
+        "MaxItemAmount": 3,
+        "Refillable": 0,
+        "IsStackable": true,
+        "CategoryNumber": 0,
+        "QuickBuyKeyword": "",
+        "UseHiddenSlot": false,
         "UsefulRole": "ERoleType::ERT_None"
       },
       "30900012": {
@@ -271,6 +295,30 @@
         "IsStackable": true,
         "CategoryNumber": 0,
         "QuickBuyKeyword": "SKILL.Skill_Buff_HealthRecovery",
+        "UseHiddenSlot": false,
+        "UsefulRole": "ERoleType::ERT_None"
+      },
+      "30900013": {
+        "TableID": "30900013",
+        "GroupID": "30900013",
+        "SkillID": "30900013",
+        "PrintName": "ITEM.Name_30900013",
+        "Description": "ITEM.Item_Desc_30900013",
+        "Icon": {
+          "ObjectName": "Texture2D'30900013'",
+          "ObjectPath": "Overprime/Content/Textures/Icon/item_icon/30900013.0"
+        },
+        "ItemGrade": "EItemGrade::EIG_STARTER",
+        "DestroyItemWhenDead": false,
+        "UnSellable": false,
+        "CanBuyPosition": [],
+        "SellBlockTime": 0.0,
+        "ItemPrice": 500,
+        "MaxItemAmount": 1,
+        "Refillable": 0,
+        "IsStackable": true,
+        "CategoryNumber": 0,
+        "QuickBuyKeyword": "",
         "UseHiddenSlot": false,
         "UsefulRole": "ERoleType::ERT_None"
       },
@@ -2393,8 +2441,8 @@
         "PrintName": "ITEM.Name_30302020",
         "Description": "ITEM.Item_Desc_30302020",
         "Icon": {
-          "ObjectName": "Texture2D'30302020'",
-          "ObjectPath": "Overprime/Content/Textures/Icon/item_icon/30302020.0"
+          "ObjectName": "Texture2D'30900014'",
+          "ObjectPath": "Overprime/Content/Textures/Icon/item_icon/30900014.0"
         },
         "ItemGrade": "EItemGrade::EIG_RARE",
         "DestroyItemWhenDead": false,
@@ -3077,10 +3125,10 @@
         "MaxItemAmount": 1,
         "Refillable": 0,
         "IsStackable": false,
-        "CategoryNumber": 0,
-        "QuickBuyKeyword": "",
+        "CategoryNumber": 1,
+        "QuickBuyKeyword": "SKILL.Skill_Buff_PhysicalPower_Up",
         "UseHiddenSlot": false,
-        "UsefulRole": "ERoleType::ERT_None"
+        "UsefulRole": "ERoleType::ERT_Support"
       },
       "30304012": {
         "TableID": "30304012",
@@ -3101,10 +3149,10 @@
         "MaxItemAmount": 1,
         "Refillable": 0,
         "IsStackable": false,
-        "CategoryNumber": 0,
-        "QuickBuyKeyword": "",
+        "CategoryNumber": 1,
+        "QuickBuyKeyword": "SKILL.Skill_Buff_Shield",
         "UseHiddenSlot": false,
-        "UsefulRole": "ERoleType::ERT_None"
+        "UsefulRole": "ERoleType::ERT_Marksman"
       },
       "30304013": {
         "TableID": "30304013",
@@ -3125,10 +3173,10 @@
         "MaxItemAmount": 1,
         "Refillable": 0,
         "IsStackable": false,
-        "CategoryNumber": 0,
-        "QuickBuyKeyword": "",
+        "CategoryNumber": 2,
+        "QuickBuyKeyword": "SKILL.Skill_Debuff_Stun",
         "UseHiddenSlot": false,
-        "UsefulRole": "ERoleType::ERT_None"
+        "UsefulRole": "ERoleType::ERT_Assassin"
       },
       "30304014": {
         "TableID": "30304014",
@@ -3149,10 +3197,10 @@
         "MaxItemAmount": 1,
         "Refillable": 0,
         "IsStackable": false,
-        "CategoryNumber": 0,
-        "QuickBuyKeyword": "",
+        "CategoryNumber": 1,
+        "QuickBuyKeyword": "SKILL.Skill_Buff_MagicalPower_Up",
         "UseHiddenSlot": false,
-        "UsefulRole": "ERoleType::ERT_None"
+        "UsefulRole": "ERoleType::ERT_Caster"
       },
       "30304015": {
         "TableID": "30304015",
@@ -3173,10 +3221,10 @@
         "MaxItemAmount": 1,
         "Refillable": 0,
         "IsStackable": false,
-        "CategoryNumber": 0,
-        "QuickBuyKeyword": "",
+        "CategoryNumber": 3,
+        "QuickBuyKeyword": "SKILL.Buff_Cure_Up",
         "UseHiddenSlot": false,
-        "UsefulRole": "ERoleType::ERT_None"
+        "UsefulRole": "ERoleType::ERT_Support"
       }
     }
   }

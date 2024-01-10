@@ -1681,6 +1681,28 @@
           "SubPathString": ""
         },
         "Enable": true
+      },
+      "1100153": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Hero",
+        "Arrangement": 41,
+        "NameKey": "CHAR.Hero_Name_1024",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Hero_Icon_Boris_Portrait.Hero_Icon_Boris_Portrait",
+          "SubPathString": ""
+        },
+        "Enable": true
+      },
+      "1100154": {
+        "GainedType": "EEmblemGainedType::EEGT_Default_Etc",
+        "Arrangement": 42,
+        "NameKey": "UI.Emb_SDBoris_0101",
+        "DescriptionKey": "UI.Emb_Default_Desc",
+        "EmblemTexture": {
+          "AssetPathName": "/Game/Textures/Icon/Heroes/Portrait/Emb_SDBoris_0101.Emb_SDBoris_0101",
+          "SubPathString": ""
+        },
+        "Enable": true
       }
     }
   }

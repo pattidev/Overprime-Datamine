@@ -1,0 +1,33 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_Weapon",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PadTriggerWeaponRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "AdaptiveTriggerID": "#4001",
+        "StartPosition": 0,
+        "EndPosition": 0,
+        "Strength": 0
+      },
+      "2": {
+        "AdaptiveTriggerID": "4002",
+        "StartPosition": 5,
+        "EndPosition": 6,
+        "Strength": 5
+      },
+      "3": {
+        "AdaptiveTriggerID": "4003",
+        "StartPosition": 5,
+        "EndPosition": 8,
+        "Strength": 5
+      }
+    }
+  }
+]

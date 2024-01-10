@@ -9313,7 +9313,7 @@
         "SoundTableManagerObject": null
       },
       "1002": {
-        "SkinID": "None",
+        "SkinID": "1024001",
         "SoundID": "Hero_1024001_Skill_1024010101_Hit",
         "SoundVolume": 1.3,
         "SoundPath": {
@@ -9323,112 +9323,151 @@
         "SoundTableManagerObject": null
       },
       "1003": {
-        "SkinID": "None",
+        "SkinID": "1024001",
+        "SoundID": "Hero_1024001_Skill_1024010102_Hit",
+        "SoundVolume": 1.3,
+        "SoundPath": {
+          "ObjectName": "SoundCue'boris_local_hit_2_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/boris/boris_local_hit_2_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1004": {
+        "SkinID": "1024001",
         "SoundID": "Hero_1024001_Skill_1024010101_Miss",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1004": {
-        "SkinID": "None",
+      "1005": {
+        "SkinID": "1024001",
         "SoundID": "Hero_1024001_Skill_1024010201_Hit",
         "SoundVolume": 1.0,
-        "SoundPath": null,
-        "SoundTableManagerObject": null
-      },
-      "1005": {
-        "SkinID": "None",
-        "SoundID": "Hero_1024001_Skill_1024010301_Hit",
-        "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'ability_punch_local_hit_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/skill_hit/ability_punch_local_hit_st_cue.0"
+          "ObjectName": "SoundCue'boris_rmb_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/boris/boris_rmb_ability_local_hit_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "1006": {
-        "SkinID": "None",
-        "SoundID": "Hero_1024001_Skill_1024010401_Hit",
+        "SkinID": "1024001",
+        "SoundID": "Hero_1024001_Skill_1024010301_Hit",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'ability_energy_local_hit_st_01_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/skill_hit/ability_energy_local_hit_st_01_cue.0"
+          "ObjectName": "SoundCue'boris_q_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/boris/boris_q_ability_local_hit_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "1007": {
-        "SkinID": "None",
-        "SoundID": "Hero_1024001_Skill_1024010501_Hit",
+        "SkinID": "1024001",
+        "SoundID": "Hero_1024001_Skill_1024010401_Hit",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'ability_stone_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/common/skill_hit/ability_stone_local_hit_cue.0"
+          "ObjectName": "SoundCue'boris_e_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/boris/boris_e_ability_local_hit_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "1008": {
-        "SkinID": "1025001",
-        "SoundID": "Hero_1025001_Skill_1025010101_Hit",
-        "SoundVolume": 1.3,
+        "SkinID": "1024001",
+        "SoundID": "Hero_1024001_Skill_1024010401_blood_Hit",
+        "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'narbash_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/narbash/narbash_local_hit_cue.0"
+          "ObjectName": "SoundCue'boris_e_ability_blood_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/boris/boris_e_ability_blood_local_hit_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "1009": {
-        "SkinID": "1025001",
-        "SoundID": "Hero_1025001_Skill_1025010105_Hit",
-        "SoundVolume": 1.3,
+        "SkinID": "1024001",
+        "SoundID": "Hero_1024001_Skill_1024010501_Hit",
+        "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'narbash_local_hit_2_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/narbash/narbash_local_hit_2_cue.0"
+          "ObjectName": "SoundCue'boris_r_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/boris/boris_r_ability_local_hit_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "1010": {
-        "SkinID": "1025001",
-        "SoundID": "Hero_1025001_Skill_1025010101_Miss",
-        "SoundVolume": 1.0,
-        "SoundPath": null,
+        "SkinID": "1024006",
+        "SoundID": "Hero_1024001_Skill_1024010101_Hit",
+        "SoundVolume": 1.3,
+        "SoundPath": {
+          "ObjectName": "SoundCue'boris_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/boris/1024006/boris_local_hit_cue.0"
+        },
         "SoundTableManagerObject": null
       },
       "1011": {
-        "SkinID": "1025001",
-        "SoundID": "Hero_1025001_Skill_1025010201_Hit",
-        "SoundVolume": 1.0,
+        "SkinID": "1024006",
+        "SoundID": "Hero_1024001_Skill_1024010102_Hit",
+        "SoundVolume": 1.3,
         "SoundPath": {
-          "ObjectName": "SoundCue'narbash_rmb_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/narbash/narbash_rmb_ability_local_hit_cue.0"
+          "ObjectName": "SoundCue'boris_local_hit_2_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/boris/1024006/boris_local_hit_2_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "1012": {
-        "SkinID": "1025001",
-        "SoundID": "Hero_1025001_Skill_1025010301_Hit",
+        "SkinID": "1024006",
+        "SoundID": "Hero_1024001_Skill_1024010101_Miss",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
       "1013": {
-        "SkinID": "1025001",
-        "SoundID": "Hero_1025001_Skill_1025010401_Hit",
+        "SkinID": "1024006",
+        "SoundID": "Hero_1024001_Skill_1024010201_Hit",
         "SoundVolume": 1.0,
-        "SoundPath": null,
+        "SoundPath": {
+          "ObjectName": "SoundCue'boris_rmb_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/boris/1024006/boris_rmb_ability_local_hit_cue.0"
+        },
         "SoundTableManagerObject": null
       },
       "1014": {
-        "SkinID": "1025001",
-        "SoundID": "Hero_1025001_Skill_1025010501_Hit",
+        "SkinID": "1024006",
+        "SoundID": "Hero_1024001_Skill_1024010301_Hit",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'narbash_r_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/narbash/narbash_r_ability_local_hit_cue.0"
+          "ObjectName": "SoundCue'boris_q_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/boris/1024006/boris_q_ability_local_hit_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "1015": {
-        "SkinID": "1025002",
+        "SkinID": "1024006",
+        "SoundID": "Hero_1024001_Skill_1024010401_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'boris_e_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/boris/1024006/boris_e_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1016": {
+        "SkinID": "1024006",
+        "SoundID": "Hero_1024001_Skill_1024010401_blood_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'boris_e_ability_blood_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/boris/1024006/boris_e_ability_blood_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1017": {
+        "SkinID": "1024006",
+        "SoundID": "Hero_1024001_Skill_1024010501_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'boris_r_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/boris/1024006/boris_r_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1018": {
+        "SkinID": "1025001",
         "SoundID": "Hero_1025001_Skill_1025010101_Hit",
         "SoundVolume": 1.3,
         "SoundPath": {
@@ -9437,8 +9476,8 @@
         },
         "SoundTableManagerObject": null
       },
-      "1016": {
-        "SkinID": "1025002",
+      "1019": {
+        "SkinID": "1025001",
         "SoundID": "Hero_1025001_Skill_1025010105_Hit",
         "SoundVolume": 1.3,
         "SoundPath": {
@@ -9447,38 +9486,99 @@
         },
         "SoundTableManagerObject": null
       },
-      "1017": {
-        "SkinID": "1025002",
-        "SoundID": "Hero_1025001_Skill_1025010101_Miss",
-        "SoundVolume": 1.0,
-        "SoundPath": null,
-        "SoundTableManagerObject": null
-      },
-      "1018": {
-        "SkinID": "1025002",
-        "SoundID": "Hero_1025001_Skill_1025010201_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'narbash_rmb_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/narbash/narbash_rmb_ability_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1019": {
-        "SkinID": "1025002",
-        "SoundID": "Hero_1025001_Skill_1025010301_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": null,
-        "SoundTableManagerObject": null
-      },
       "1020": {
-        "SkinID": "1025002",
-        "SoundID": "Hero_1025001_Skill_1025010401_Hit",
+        "SkinID": "1025001",
+        "SoundID": "Hero_1025001_Skill_1025010101_Miss",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
       "1021": {
+        "SkinID": "1025001",
+        "SoundID": "Hero_1025001_Skill_1025010201_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'narbash_rmb_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/narbash/narbash_rmb_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1022": {
+        "SkinID": "1025001",
+        "SoundID": "Hero_1025001_Skill_1025010301_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "1023": {
+        "SkinID": "1025001",
+        "SoundID": "Hero_1025001_Skill_1025010401_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "1024": {
+        "SkinID": "1025001",
+        "SoundID": "Hero_1025001_Skill_1025010501_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'narbash_r_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/narbash/narbash_r_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1025": {
+        "SkinID": "1025002",
+        "SoundID": "Hero_1025001_Skill_1025010101_Hit",
+        "SoundVolume": 1.3,
+        "SoundPath": {
+          "ObjectName": "SoundCue'narbash_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/narbash/narbash_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1026": {
+        "SkinID": "1025002",
+        "SoundID": "Hero_1025001_Skill_1025010105_Hit",
+        "SoundVolume": 1.3,
+        "SoundPath": {
+          "ObjectName": "SoundCue'narbash_local_hit_2_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/narbash/narbash_local_hit_2_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1027": {
+        "SkinID": "1025002",
+        "SoundID": "Hero_1025001_Skill_1025010101_Miss",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "1028": {
+        "SkinID": "1025002",
+        "SoundID": "Hero_1025001_Skill_1025010201_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'narbash_rmb_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/narbash/narbash_rmb_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1029": {
+        "SkinID": "1025002",
+        "SoundID": "Hero_1025001_Skill_1025010301_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "1030": {
+        "SkinID": "1025002",
+        "SoundID": "Hero_1025001_Skill_1025010401_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "1031": {
         "SkinID": "1025002",
         "SoundID": "Hero_1025001_Skill_1025010501_Hit",
         "SoundVolume": 1.0,
@@ -9488,119 +9588,119 @@
         },
         "SoundTableManagerObject": null
       },
-      "1022": {
-        "SkinID": "1025003",
-        "SoundID": "Hero_1025001_Skill_1025010101_Hit",
-        "SoundVolume": 1.3,
-        "SoundPath": {
-          "ObjectName": "SoundCue'narbash_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/narbash/narbash_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1023": {
-        "SkinID": "1025003",
-        "SoundID": "Hero_1025001_Skill_1025010105_Hit",
-        "SoundVolume": 1.3,
-        "SoundPath": {
-          "ObjectName": "SoundCue'narbash_local_hit_2_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/narbash/narbash_local_hit_2_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1024": {
-        "SkinID": "1025003",
-        "SoundID": "Hero_1025001_Skill_1025010101_Miss",
-        "SoundVolume": 1.0,
-        "SoundPath": null,
-        "SoundTableManagerObject": null
-      },
-      "1025": {
-        "SkinID": "1025003",
-        "SoundID": "Hero_1025001_Skill_1025010201_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'narbash_rmb_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/narbash/narbash_rmb_ability_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1026": {
-        "SkinID": "1025003",
-        "SoundID": "Hero_1025001_Skill_1025010301_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": null,
-        "SoundTableManagerObject": null
-      },
-      "1027": {
-        "SkinID": "1025003",
-        "SoundID": "Hero_1025001_Skill_1025010401_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": null,
-        "SoundTableManagerObject": null
-      },
-      "1028": {
-        "SkinID": "1025003",
-        "SoundID": "Hero_1025001_Skill_1025010501_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'narbash_r_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/narbash/narbash_r_ability_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1029": {
-        "SkinID": "1025004",
-        "SoundID": "Hero_1025001_Skill_1025010101_Hit",
-        "SoundVolume": 1.3,
-        "SoundPath": {
-          "ObjectName": "SoundCue'narbash_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/narbash/narbash_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1030": {
-        "SkinID": "1025004",
-        "SoundID": "Hero_1025001_Skill_1025010105_Hit",
-        "SoundVolume": 1.3,
-        "SoundPath": {
-          "ObjectName": "SoundCue'narbash_local_hit_2_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/narbash/narbash_local_hit_2_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1031": {
-        "SkinID": "1025004",
-        "SoundID": "Hero_1025001_Skill_1025010101_Miss",
-        "SoundVolume": 1.0,
-        "SoundPath": null,
-        "SoundTableManagerObject": null
-      },
       "1032": {
-        "SkinID": "1025004",
-        "SoundID": "Hero_1025001_Skill_1025010201_Hit",
-        "SoundVolume": 1.0,
+        "SkinID": "1025003",
+        "SoundID": "Hero_1025001_Skill_1025010101_Hit",
+        "SoundVolume": 1.3,
         "SoundPath": {
-          "ObjectName": "SoundCue'narbash_rmb_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/narbash/narbash_rmb_ability_local_hit_cue.0"
+          "ObjectName": "SoundCue'narbash_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/narbash/narbash_local_hit_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "1033": {
-        "SkinID": "1025004",
-        "SoundID": "Hero_1025001_Skill_1025010301_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": null,
+        "SkinID": "1025003",
+        "SoundID": "Hero_1025001_Skill_1025010105_Hit",
+        "SoundVolume": 1.3,
+        "SoundPath": {
+          "ObjectName": "SoundCue'narbash_local_hit_2_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/narbash/narbash_local_hit_2_cue.0"
+        },
         "SoundTableManagerObject": null
       },
       "1034": {
-        "SkinID": "1025004",
-        "SoundID": "Hero_1025001_Skill_1025010401_Hit",
+        "SkinID": "1025003",
+        "SoundID": "Hero_1025001_Skill_1025010101_Miss",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
       "1035": {
+        "SkinID": "1025003",
+        "SoundID": "Hero_1025001_Skill_1025010201_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'narbash_rmb_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/narbash/narbash_rmb_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1036": {
+        "SkinID": "1025003",
+        "SoundID": "Hero_1025001_Skill_1025010301_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "1037": {
+        "SkinID": "1025003",
+        "SoundID": "Hero_1025001_Skill_1025010401_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "1038": {
+        "SkinID": "1025003",
+        "SoundID": "Hero_1025001_Skill_1025010501_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'narbash_r_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/narbash/narbash_r_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1039": {
+        "SkinID": "1025004",
+        "SoundID": "Hero_1025001_Skill_1025010101_Hit",
+        "SoundVolume": 1.3,
+        "SoundPath": {
+          "ObjectName": "SoundCue'narbash_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/narbash/narbash_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1040": {
+        "SkinID": "1025004",
+        "SoundID": "Hero_1025001_Skill_1025010105_Hit",
+        "SoundVolume": 1.3,
+        "SoundPath": {
+          "ObjectName": "SoundCue'narbash_local_hit_2_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/narbash/narbash_local_hit_2_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1041": {
+        "SkinID": "1025004",
+        "SoundID": "Hero_1025001_Skill_1025010101_Miss",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "1042": {
+        "SkinID": "1025004",
+        "SoundID": "Hero_1025001_Skill_1025010201_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'narbash_rmb_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/narbash/narbash_rmb_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1043": {
+        "SkinID": "1025004",
+        "SoundID": "Hero_1025001_Skill_1025010301_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "1044": {
+        "SkinID": "1025004",
+        "SoundID": "Hero_1025001_Skill_1025010401_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "1045": {
         "SkinID": "1025004",
         "SoundID": "Hero_1025001_Skill_1025010501_Hit",
         "SoundVolume": 1.0,
@@ -9610,7 +9710,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1036": {
+      "1046": {
         "SkinID": "1025005",
         "SoundID": "Hero_1025001_Skill_1025010101_Hit",
         "SoundVolume": 1.3,
@@ -9620,7 +9720,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1037": {
+      "1047": {
         "SkinID": "1025005",
         "SoundID": "Hero_1025001_Skill_1025010105_Hit",
         "SoundVolume": 1.3,
@@ -9630,14 +9730,14 @@
         },
         "SoundTableManagerObject": null
       },
-      "1038": {
+      "1048": {
         "SkinID": "1025005",
         "SoundID": "Hero_1025001_Skill_1025010101_Miss",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1039": {
+      "1049": {
         "SkinID": "1025005",
         "SoundID": "Hero_1025001_Skill_1025010201_Hit",
         "SoundVolume": 1.0,
@@ -9647,21 +9747,21 @@
         },
         "SoundTableManagerObject": null
       },
-      "1040": {
+      "1050": {
         "SkinID": "1025005",
         "SoundID": "Hero_1025001_Skill_1025010301_Hit",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1041": {
+      "1051": {
         "SkinID": "1025005",
         "SoundID": "Hero_1025001_Skill_1025010401_Hit",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1042": {
+      "1052": {
         "SkinID": "1025005",
         "SoundID": "Hero_1025001_Skill_1025010501_Hit",
         "SoundVolume": 1.0,
@@ -9671,7 +9771,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1043": {
+      "1053": {
         "SkinID": "1025006",
         "SoundID": "Hero_1025001_Skill_1025010101_Hit",
         "SoundVolume": 1.3,
@@ -9681,7 +9781,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1044": {
+      "1054": {
         "SkinID": "1025006",
         "SoundID": "Hero_1025001_Skill_1025010105_Hit",
         "SoundVolume": 1.3,
@@ -9691,14 +9791,14 @@
         },
         "SoundTableManagerObject": null
       },
-      "1045": {
+      "1055": {
         "SkinID": "1025006",
         "SoundID": "Hero_1025001_Skill_1025010101_Miss",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1046": {
+      "1056": {
         "SkinID": "1025006",
         "SoundID": "Hero_1025001_Skill_1025010201_Hit",
         "SoundVolume": 1.0,
@@ -9708,21 +9808,21 @@
         },
         "SoundTableManagerObject": null
       },
-      "1047": {
+      "1057": {
         "SkinID": "1025006",
         "SoundID": "Hero_1025001_Skill_1025010301_Hit",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1048": {
+      "1058": {
         "SkinID": "1025006",
         "SoundID": "Hero_1025001_Skill_1025010401_Hit",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1049": {
+      "1059": {
         "SkinID": "1025006",
         "SoundID": "Hero_1025001_Skill_1025010501_Hit",
         "SoundVolume": 1.0,
@@ -9732,111 +9832,111 @@
         },
         "SoundTableManagerObject": null
       },
-      "1050": {
-        "SkinID": "1026001",
-        "SoundID": "Hero_1026001_Skill_1026010101_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'gadget_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/gadget/gadget_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1051": {
-        "SkinID": "1026001",
-        "SoundID": "Hero_1026001_Skill_1026010101_Miss",
-        "SoundVolume": 1.0,
-        "SoundPath": null,
-        "SoundTableManagerObject": null
-      },
-      "1052": {
-        "SkinID": "1026001",
-        "SoundID": "Hero_1026001_Skill_1026010201_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'gadget_rmb_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/gadget/gadget_rmb_ability_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1053": {
-        "SkinID": "1026001",
-        "SoundID": "Hero_1026001_Skill_1026010301_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'gadget_q_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/gadget/gadget_q_ability_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1054": {
-        "SkinID": "1026001",
-        "SoundID": "Hero_1026001_Skill_1026010401_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'gadget_e_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/gadget/gadget_e_ability_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1055": {
-        "SkinID": "1026001",
-        "SoundID": "Hero_1026001_Skill_1026010501_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'gadget_r_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/gadget/gadget_r_ability_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1056": {
-        "SkinID": "1026003",
-        "SoundID": "Hero_1026001_Skill_1026010101_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'gadget_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/gadget/gadget_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1057": {
-        "SkinID": "1026003",
-        "SoundID": "Hero_1026001_Skill_1026010101_Miss",
-        "SoundVolume": 1.0,
-        "SoundPath": null,
-        "SoundTableManagerObject": null
-      },
-      "1058": {
-        "SkinID": "1026003",
-        "SoundID": "Hero_1026001_Skill_1026010201_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'gadget_rmb_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/gadget/gadget_rmb_ability_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1059": {
-        "SkinID": "1026003",
-        "SoundID": "Hero_1026001_Skill_1026010301_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'gadget_q_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/gadget/gadget_q_ability_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
       "1060": {
-        "SkinID": "1026003",
-        "SoundID": "Hero_1026001_Skill_1026010401_Hit",
+        "SkinID": "1026001",
+        "SoundID": "Hero_1026001_Skill_1026010101_Hit",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'gadget_e_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/gadget/gadget_e_ability_local_hit_cue.0"
+          "ObjectName": "SoundCue'gadget_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/gadget/gadget_local_hit_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "1061": {
+        "SkinID": "1026001",
+        "SoundID": "Hero_1026001_Skill_1026010101_Miss",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "1062": {
+        "SkinID": "1026001",
+        "SoundID": "Hero_1026001_Skill_1026010201_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'gadget_rmb_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/gadget/gadget_rmb_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1063": {
+        "SkinID": "1026001",
+        "SoundID": "Hero_1026001_Skill_1026010301_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'gadget_q_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/gadget/gadget_q_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1064": {
+        "SkinID": "1026001",
+        "SoundID": "Hero_1026001_Skill_1026010401_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'gadget_e_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/gadget/gadget_e_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1065": {
+        "SkinID": "1026001",
+        "SoundID": "Hero_1026001_Skill_1026010501_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'gadget_r_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/gadget/gadget_r_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1066": {
+        "SkinID": "1026003",
+        "SoundID": "Hero_1026001_Skill_1026010101_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'gadget_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/gadget/gadget_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1067": {
+        "SkinID": "1026003",
+        "SoundID": "Hero_1026001_Skill_1026010101_Miss",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "1068": {
+        "SkinID": "1026003",
+        "SoundID": "Hero_1026001_Skill_1026010201_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'gadget_rmb_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/gadget/gadget_rmb_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1069": {
+        "SkinID": "1026003",
+        "SoundID": "Hero_1026001_Skill_1026010301_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'gadget_q_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/gadget/gadget_q_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1070": {
+        "SkinID": "1026003",
+        "SoundID": "Hero_1026001_Skill_1026010401_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'gadget_e_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/gadget/gadget_e_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1071": {
         "SkinID": "1026003",
         "SoundID": "Hero_1026001_Skill_1026010501_Hit",
         "SoundVolume": 1.0,
@@ -9846,7 +9946,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1062": {
+      "1072": {
         "SkinID": "1026004",
         "SoundID": "Hero_1026001_Skill_1026010101_Hit",
         "SoundVolume": 1.0,
@@ -9856,14 +9956,14 @@
         },
         "SoundTableManagerObject": null
       },
-      "1063": {
+      "1073": {
         "SkinID": "1026004",
         "SoundID": "Hero_1026001_Skill_1026010101_Miss",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1064": {
+      "1074": {
         "SkinID": "1026004",
         "SoundID": "Hero_1026001_Skill_1026010201_Hit",
         "SoundVolume": 1.0,
@@ -9873,7 +9973,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1065": {
+      "1075": {
         "SkinID": "1026004",
         "SoundID": "Hero_1026001_Skill_1026010301_Hit",
         "SoundVolume": 1.0,
@@ -9883,7 +9983,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1066": {
+      "1076": {
         "SkinID": "1026004",
         "SoundID": "Hero_1026001_Skill_1026010401_Hit",
         "SoundVolume": 1.0,
@@ -9893,7 +9993,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1067": {
+      "1077": {
         "SkinID": "1026004",
         "SoundID": "Hero_1026001_Skill_1026010501_Hit",
         "SoundVolume": 1.0,
@@ -9903,7 +10003,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1068": {
+      "1078": {
         "SkinID": "1026006",
         "SoundID": "Hero_1026001_Skill_1026010101_Hit",
         "SoundVolume": 1.0,
@@ -9913,14 +10013,14 @@
         },
         "SoundTableManagerObject": null
       },
-      "1069": {
+      "1079": {
         "SkinID": "1026006",
         "SoundID": "Hero_1026001_Skill_1026010101_Miss",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1070": {
+      "1080": {
         "SkinID": "1026006",
         "SoundID": "Hero_1026001_Skill_1026010201_Hit",
         "SoundVolume": 1.0,
@@ -9930,7 +10030,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1071": {
+      "1081": {
         "SkinID": "1026006",
         "SoundID": "Hero_1026001_Skill_1026010301_Hit",
         "SoundVolume": 1.0,
@@ -9940,7 +10040,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1072": {
+      "1082": {
         "SkinID": "1026006",
         "SoundID": "Hero_1026001_Skill_1026010401_Hit",
         "SoundVolume": 1.0,
@@ -9950,7 +10050,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1073": {
+      "1083": {
         "SkinID": "1026006",
         "SoundID": "Hero_1026001_Skill_1026010501_Hit",
         "SoundVolume": 1.0,
@@ -9960,7 +10060,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1074": {
+      "1084": {
         "SkinID": "1026008",
         "SoundID": "Hero_1026001_Skill_1026010101_Hit",
         "SoundVolume": 1.0,
@@ -9970,14 +10070,14 @@
         },
         "SoundTableManagerObject": null
       },
-      "1075": {
+      "1085": {
         "SkinID": "1026008",
         "SoundID": "Hero_1026001_Skill_1026010101_Miss",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1076": {
+      "1086": {
         "SkinID": "1026008",
         "SoundID": "Hero_1026001_Skill_1026010201_Hit",
         "SoundVolume": 1.0,
@@ -9987,7 +10087,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1077": {
+      "1087": {
         "SkinID": "1026008",
         "SoundID": "Hero_1026001_Skill_1026010301_Hit",
         "SoundVolume": 1.0,
@@ -9997,7 +10097,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1078": {
+      "1088": {
         "SkinID": "1026008",
         "SoundID": "Hero_1026001_Skill_1026010401_Hit",
         "SoundVolume": 1.0,
@@ -10007,7 +10107,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1079": {
+      "1089": {
         "SkinID": "1026008",
         "SoundID": "Hero_1026001_Skill_1026010501_Hit",
         "SoundVolume": 1.0,
@@ -10017,218 +10117,218 @@
         },
         "SoundTableManagerObject": null
       },
-      "1080": {
-        "SkinID": "1027001",
-        "SoundID": "Hero_1027001_Skill_1027010101_Hit",
-        "SoundVolume": 1.3,
-        "SoundPath": {
-          "ObjectName": "SoundCue'countess_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1081": {
-        "SkinID": "1027001",
-        "SoundID": "Hero_1027001_Skill_1027010102_Hit",
-        "SoundVolume": 1.3,
-        "SoundPath": {
-          "ObjectName": "SoundCue'countess_local_hit_2_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_local_hit_2_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1082": {
-        "SkinID": "1027001",
-        "SoundID": "Hero_1027001_Skill_1027010101_Miss",
-        "SoundVolume": 1.0,
-        "SoundPath": null,
-        "SoundTableManagerObject": null
-      },
-      "1083": {
-        "SkinID": "1027001",
-        "SoundID": "Hero_1027001_Skill_1027010201_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'countess_rmb_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_rmb_ability_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1084": {
-        "SkinID": "1027001",
-        "SoundID": "Hero_1027001_Skill_1027010301_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'countess_q_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_q_ability_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1085": {
-        "SkinID": "1027001",
-        "SoundID": "Hero_1027001_Skill_1027010401_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'countess_e_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_e_ability_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1086": {
-        "SkinID": "1027001",
-        "SoundID": "Hero_1027001_Skill_1027010501_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'countess_r_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_r_ability_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1087": {
-        "SkinID": "1027002",
-        "SoundID": "Hero_1027001_Skill_1027010101_Hit",
-        "SoundVolume": 1.3,
-        "SoundPath": {
-          "ObjectName": "SoundCue'countess_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1088": {
-        "SkinID": "1027002",
-        "SoundID": "Hero_1027001_Skill_1027010102_Hit",
-        "SoundVolume": 1.3,
-        "SoundPath": {
-          "ObjectName": "SoundCue'countess_local_hit_2_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_local_hit_2_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1089": {
-        "SkinID": "1027002",
-        "SoundID": "Hero_1027001_Skill_1027010101_Miss",
-        "SoundVolume": 1.0,
-        "SoundPath": null,
-        "SoundTableManagerObject": null
-      },
       "1090": {
-        "SkinID": "1027002",
-        "SoundID": "Hero_1027001_Skill_1027010201_Hit",
-        "SoundVolume": 1.0,
+        "SkinID": "1027001",
+        "SoundID": "Hero_1027001_Skill_1027010101_Hit",
+        "SoundVolume": 1.3,
         "SoundPath": {
-          "ObjectName": "SoundCue'countess_rmb_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_rmb_ability_local_hit_cue.0"
+          "ObjectName": "SoundCue'countess_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_local_hit_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "1091": {
-        "SkinID": "1027002",
-        "SoundID": "Hero_1027001_Skill_1027010301_Hit",
-        "SoundVolume": 1.0,
+        "SkinID": "1027001",
+        "SoundID": "Hero_1027001_Skill_1027010102_Hit",
+        "SoundVolume": 1.3,
         "SoundPath": {
-          "ObjectName": "SoundCue'countess_q_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_q_ability_local_hit_cue.0"
+          "ObjectName": "SoundCue'countess_local_hit_2_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_local_hit_2_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "1092": {
-        "SkinID": "1027002",
-        "SoundID": "Hero_1027001_Skill_1027010401_Hit",
+        "SkinID": "1027001",
+        "SoundID": "Hero_1027001_Skill_1027010101_Miss",
         "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'countess_e_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_e_ability_local_hit_cue.0"
-        },
+        "SoundPath": null,
         "SoundTableManagerObject": null
       },
       "1093": {
-        "SkinID": "1027002",
-        "SoundID": "Hero_1027001_Skill_1027010501_Hit",
+        "SkinID": "1027001",
+        "SoundID": "Hero_1027001_Skill_1027010201_Hit",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'countess_r_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_r_ability_local_hit_cue.0"
+          "ObjectName": "SoundCue'countess_rmb_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_rmb_ability_local_hit_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "1094": {
-        "SkinID": "1027003",
-        "SoundID": "Hero_1027001_Skill_1027010101_Hit",
-        "SoundVolume": 1.3,
+        "SkinID": "1027001",
+        "SoundID": "Hero_1027001_Skill_1027010301_Hit",
+        "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'countess_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_local_hit_cue.0"
+          "ObjectName": "SoundCue'countess_q_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_q_ability_local_hit_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "1095": {
-        "SkinID": "1027003",
-        "SoundID": "Hero_1027001_Skill_1027010102_Hit",
-        "SoundVolume": 1.3,
+        "SkinID": "1027001",
+        "SoundID": "Hero_1027001_Skill_1027010401_Hit",
+        "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'countess_local_hit_2_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_local_hit_2_cue.0"
+          "ObjectName": "SoundCue'countess_e_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_e_ability_local_hit_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "1096": {
-        "SkinID": "1027003",
-        "SoundID": "Hero_1027001_Skill_1027010101_Miss",
+        "SkinID": "1027001",
+        "SoundID": "Hero_1027001_Skill_1027010501_Hit",
         "SoundVolume": 1.0,
-        "SoundPath": null,
+        "SoundPath": {
+          "ObjectName": "SoundCue'countess_r_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_r_ability_local_hit_cue.0"
+        },
         "SoundTableManagerObject": null
       },
       "1097": {
-        "SkinID": "1027003",
-        "SoundID": "Hero_1027001_Skill_1027010201_Hit",
-        "SoundVolume": 1.0,
+        "SkinID": "1027002",
+        "SoundID": "Hero_1027001_Skill_1027010101_Hit",
+        "SoundVolume": 1.3,
         "SoundPath": {
-          "ObjectName": "SoundCue'countess_rmb_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_rmb_ability_local_hit_cue.0"
+          "ObjectName": "SoundCue'countess_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_local_hit_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "1098": {
-        "SkinID": "1027003",
-        "SoundID": "Hero_1027001_Skill_1027010301_Hit",
-        "SoundVolume": 1.0,
+        "SkinID": "1027002",
+        "SoundID": "Hero_1027001_Skill_1027010102_Hit",
+        "SoundVolume": 1.3,
         "SoundPath": {
-          "ObjectName": "SoundCue'countess_q_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_q_ability_local_hit_cue.0"
+          "ObjectName": "SoundCue'countess_local_hit_2_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_local_hit_2_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "1099": {
-        "SkinID": "1027003",
-        "SoundID": "Hero_1027001_Skill_1027010401_Hit",
+        "SkinID": "1027002",
+        "SoundID": "Hero_1027001_Skill_1027010101_Miss",
         "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'countess_e_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_e_ability_local_hit_cue.0"
-        },
+        "SoundPath": null,
         "SoundTableManagerObject": null
       },
       "1100": {
-        "SkinID": "1027003",
-        "SoundID": "Hero_1027001_Skill_1027010501_Hit",
+        "SkinID": "1027002",
+        "SoundID": "Hero_1027001_Skill_1027010201_Hit",
         "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'countess_r_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_r_ability_local_hit_cue.0"
+          "ObjectName": "SoundCue'countess_rmb_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_rmb_ability_local_hit_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "1101": {
-        "SkinID": "1027004",
-        "SoundID": "Hero_1027001_Skill_1027010101_Hit",
-        "SoundVolume": 1.3,
+        "SkinID": "1027002",
+        "SoundID": "Hero_1027001_Skill_1027010301_Hit",
+        "SoundVolume": 1.0,
         "SoundPath": {
-          "ObjectName": "SoundCue'countess_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_local_hit_cue.0"
+          "ObjectName": "SoundCue'countess_q_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_q_ability_local_hit_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "1102": {
+        "SkinID": "1027002",
+        "SoundID": "Hero_1027001_Skill_1027010401_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'countess_e_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_e_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1103": {
+        "SkinID": "1027002",
+        "SoundID": "Hero_1027001_Skill_1027010501_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'countess_r_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_r_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1104": {
+        "SkinID": "1027003",
+        "SoundID": "Hero_1027001_Skill_1027010101_Hit",
+        "SoundVolume": 1.3,
+        "SoundPath": {
+          "ObjectName": "SoundCue'countess_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1105": {
+        "SkinID": "1027003",
+        "SoundID": "Hero_1027001_Skill_1027010102_Hit",
+        "SoundVolume": 1.3,
+        "SoundPath": {
+          "ObjectName": "SoundCue'countess_local_hit_2_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_local_hit_2_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1106": {
+        "SkinID": "1027003",
+        "SoundID": "Hero_1027001_Skill_1027010101_Miss",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "1107": {
+        "SkinID": "1027003",
+        "SoundID": "Hero_1027001_Skill_1027010201_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'countess_rmb_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_rmb_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1108": {
+        "SkinID": "1027003",
+        "SoundID": "Hero_1027001_Skill_1027010301_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'countess_q_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_q_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1109": {
+        "SkinID": "1027003",
+        "SoundID": "Hero_1027001_Skill_1027010401_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'countess_e_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_e_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1110": {
+        "SkinID": "1027003",
+        "SoundID": "Hero_1027001_Skill_1027010501_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'countess_r_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_r_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1111": {
+        "SkinID": "1027004",
+        "SoundID": "Hero_1027001_Skill_1027010101_Hit",
+        "SoundVolume": 1.3,
+        "SoundPath": {
+          "ObjectName": "SoundCue'countess_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1112": {
         "SkinID": "1027004",
         "SoundID": "Hero_1027001_Skill_1027010102_Hit",
         "SoundVolume": 1.3,
@@ -10238,14 +10338,14 @@
         },
         "SoundTableManagerObject": null
       },
-      "1103": {
+      "1113": {
         "SkinID": "1027004",
         "SoundID": "Hero_1027001_Skill_1027010101_Miss",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1104": {
+      "1114": {
         "SkinID": "1027004",
         "SoundID": "Hero_1027001_Skill_1027010201_Hit",
         "SoundVolume": 1.0,
@@ -10255,7 +10355,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1105": {
+      "1115": {
         "SkinID": "1027004",
         "SoundID": "Hero_1027001_Skill_1027010301_Hit",
         "SoundVolume": 1.0,
@@ -10265,7 +10365,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1106": {
+      "1116": {
         "SkinID": "1027004",
         "SoundID": "Hero_1027001_Skill_1027010401_Hit",
         "SoundVolume": 1.0,
@@ -10275,7 +10375,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1107": {
+      "1117": {
         "SkinID": "1027004",
         "SoundID": "Hero_1027001_Skill_1027010501_Hit",
         "SoundVolume": 1.0,
@@ -10285,7 +10385,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1108": {
+      "1118": {
         "SkinID": "1027005",
         "SoundID": "Hero_1027001_Skill_1027010101_Hit",
         "SoundVolume": 1.3,
@@ -10295,7 +10395,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1109": {
+      "1119": {
         "SkinID": "1027005",
         "SoundID": "Hero_1027001_Skill_1027010102_Hit",
         "SoundVolume": 1.3,
@@ -10305,14 +10405,14 @@
         },
         "SoundTableManagerObject": null
       },
-      "1110": {
+      "1120": {
         "SkinID": "1027005",
         "SoundID": "Hero_1027001_Skill_1027010101_Miss",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1111": {
+      "1121": {
         "SkinID": "1027005",
         "SoundID": "Hero_1027001_Skill_1027010201_Hit",
         "SoundVolume": 1.0,
@@ -10322,7 +10422,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1112": {
+      "1122": {
         "SkinID": "1027005",
         "SoundID": "Hero_1027001_Skill_1027010301_Hit",
         "SoundVolume": 1.0,
@@ -10332,7 +10432,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1113": {
+      "1123": {
         "SkinID": "1027005",
         "SoundID": "Hero_1027001_Skill_1027010401_Hit",
         "SoundVolume": 1.0,
@@ -10342,7 +10442,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1114": {
+      "1124": {
         "SkinID": "1027005",
         "SoundID": "Hero_1027001_Skill_1027010501_Hit",
         "SoundVolume": 1.0,
@@ -10352,111 +10452,111 @@
         },
         "SoundTableManagerObject": null
       },
-      "1115": {
-        "SkinID": "1027006",
-        "SoundID": "Hero_1027001_Skill_1027010101_Hit",
-        "SoundVolume": 1.3,
-        "SoundPath": {
-          "ObjectName": "SoundCue'countess_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_1027006/countess_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1116": {
-        "SkinID": "1027006",
-        "SoundID": "Hero_1027001_Skill_1027010102_Hit",
-        "SoundVolume": 1.3,
-        "SoundPath": {
-          "ObjectName": "SoundCue'countess_local_hit_2_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_1027006/countess_local_hit_2_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1117": {
-        "SkinID": "1027006",
-        "SoundID": "Hero_1027001_Skill_1027010101_Miss",
-        "SoundVolume": 1.0,
-        "SoundPath": null,
-        "SoundTableManagerObject": null
-      },
-      "1118": {
-        "SkinID": "1027006",
-        "SoundID": "Hero_1027001_Skill_1027010201_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'countess_rmb_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_1027006/countess_rmb_ability_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1119": {
-        "SkinID": "1027006",
-        "SoundID": "Hero_1027001_Skill_1027010301_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'countess_q_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_1027006/countess_q_ability_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1120": {
-        "SkinID": "1027006",
-        "SoundID": "Hero_1027001_Skill_1027010401_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'countess_e_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_1027006/countess_e_ability_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1121": {
-        "SkinID": "1027006",
-        "SoundID": "Hero_1027001_Skill_1027010501_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'countess_r_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_1027006/countess_r_ability_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1122": {
-        "SkinID": "1027007",
-        "SoundID": "Hero_1027001_Skill_1027010101_Hit",
-        "SoundVolume": 1.3,
-        "SoundPath": {
-          "ObjectName": "SoundCue'countess_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_1027006/countess_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1123": {
-        "SkinID": "1027007",
-        "SoundID": "Hero_1027001_Skill_1027010102_Hit",
-        "SoundVolume": 1.3,
-        "SoundPath": {
-          "ObjectName": "SoundCue'countess_local_hit_2_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_1027006/countess_local_hit_2_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1124": {
-        "SkinID": "1027007",
-        "SoundID": "Hero_1027001_Skill_1027010101_Miss",
-        "SoundVolume": 1.0,
-        "SoundPath": null,
-        "SoundTableManagerObject": null
-      },
       "1125": {
-        "SkinID": "1027007",
-        "SoundID": "Hero_1027001_Skill_1027010201_Hit",
-        "SoundVolume": 1.0,
+        "SkinID": "1027006",
+        "SoundID": "Hero_1027001_Skill_1027010101_Hit",
+        "SoundVolume": 1.3,
         "SoundPath": {
-          "ObjectName": "SoundCue'countess_rmb_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_1027006/countess_rmb_ability_local_hit_cue.0"
+          "ObjectName": "SoundCue'countess_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_1027006/countess_local_hit_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "1126": {
+        "SkinID": "1027006",
+        "SoundID": "Hero_1027001_Skill_1027010102_Hit",
+        "SoundVolume": 1.3,
+        "SoundPath": {
+          "ObjectName": "SoundCue'countess_local_hit_2_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_1027006/countess_local_hit_2_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1127": {
+        "SkinID": "1027006",
+        "SoundID": "Hero_1027001_Skill_1027010101_Miss",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "1128": {
+        "SkinID": "1027006",
+        "SoundID": "Hero_1027001_Skill_1027010201_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'countess_rmb_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_1027006/countess_rmb_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1129": {
+        "SkinID": "1027006",
+        "SoundID": "Hero_1027001_Skill_1027010301_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'countess_q_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_1027006/countess_q_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1130": {
+        "SkinID": "1027006",
+        "SoundID": "Hero_1027001_Skill_1027010401_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'countess_e_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_1027006/countess_e_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1131": {
+        "SkinID": "1027006",
+        "SoundID": "Hero_1027001_Skill_1027010501_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'countess_r_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_1027006/countess_r_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1132": {
+        "SkinID": "1027007",
+        "SoundID": "Hero_1027001_Skill_1027010101_Hit",
+        "SoundVolume": 1.3,
+        "SoundPath": {
+          "ObjectName": "SoundCue'countess_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_1027006/countess_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1133": {
+        "SkinID": "1027007",
+        "SoundID": "Hero_1027001_Skill_1027010102_Hit",
+        "SoundVolume": 1.3,
+        "SoundPath": {
+          "ObjectName": "SoundCue'countess_local_hit_2_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_1027006/countess_local_hit_2_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1134": {
+        "SkinID": "1027007",
+        "SoundID": "Hero_1027001_Skill_1027010101_Miss",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "1135": {
+        "SkinID": "1027007",
+        "SoundID": "Hero_1027001_Skill_1027010201_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'countess_rmb_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_1027006/countess_rmb_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1136": {
         "SkinID": "1027007",
         "SoundID": "Hero_1027001_Skill_1027010301_Hit",
         "SoundVolume": 1.0,
@@ -10466,7 +10566,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1127": {
+      "1137": {
         "SkinID": "1027007",
         "SoundID": "Hero_1027001_Skill_1027010401_Hit",
         "SoundVolume": 1.0,
@@ -10476,115 +10576,115 @@
         },
         "SoundTableManagerObject": null
       },
-      "1128": {
+      "1138": {
         "SkinID": "1027007",
         "SoundID": "Hero_1027001_Skill_1027010501_Hit",
         "SoundVolume": 1.0,
         "SoundPath": {
           "ObjectName": "SoundCue'countess_r_ability_local_hit_cue'",
           "ObjectPath": "Overprime/Content/Sound/sfx/hero/countess/countess_1027006/countess_r_ability_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1129": {
-        "SkinID": "1028001",
-        "SoundID": "Hero_1028001_Skill_1028010101_Hit",
-        "SoundVolume": 1.3,
-        "SoundPath": {
-          "ObjectName": "SoundCue'serath_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/serath/serath_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1130": {
-        "SkinID": "1028001",
-        "SoundID": "Hero_1028001_Skill_1028010102_Hit",
-        "SoundVolume": 1.3,
-        "SoundPath": {
-          "ObjectName": "SoundCue'serath_local_hit_2_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/serath/serath_local_hit_2_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1131": {
-        "SkinID": "1028001",
-        "SoundID": "Hero_1028001_Skill_1028010103_Hit",
-        "SoundVolume": 1.3,
-        "SoundPath": {
-          "ObjectName": "SoundCue'serath_local_onr_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/serath/serath_local_onr_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1132": {
-        "SkinID": "1028001",
-        "SoundID": "Hero_1028001_Skill_1028010104_Hit",
-        "SoundVolume": 1.3,
-        "SoundPath": {
-          "ObjectName": "SoundCue'serath_local_onr_hit_2_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/serath/serath_local_onr_hit_2_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1133": {
-        "SkinID": "1028001",
-        "SoundID": "Hero_1028001_Skill_1028010101_Miss",
-        "SoundVolume": 1.0,
-        "SoundPath": null,
-        "SoundTableManagerObject": null
-      },
-      "1134": {
-        "SkinID": "1028001",
-        "SoundID": "Hero_1028001_Skill_1028010201_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'serath_rmb_ability_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/serath/serath_rmb_ability_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1135": {
-        "SkinID": "1028001",
-        "SoundID": "Hero_1028001_Skill_1028010202_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'serath_rmb_ability_onr_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/serath/serath_rmb_ability_onr_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1136": {
-        "SkinID": "1028001",
-        "SoundID": "Hero_1028001_Skill_1028010301_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'serath_q_ability_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/serath/serath_q_ability_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1137": {
-        "SkinID": "1028001",
-        "SoundID": "Hero_1028001_Skill_1028010302_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'serath_q_ability_onr_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/serath/serath_q_ability_onr_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1138": {
-        "SkinID": "1028001",
-        "SoundID": "Hero_1028001_Skill_1028010401_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'serath_e_ability_hit_st_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/serath/serath_e_ability_hit_st_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "1139": {
         "SkinID": "1028001",
+        "SoundID": "Hero_1028001_Skill_1028010101_Hit",
+        "SoundVolume": 1.3,
+        "SoundPath": {
+          "ObjectName": "SoundCue'serath_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/serath/serath_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1140": {
+        "SkinID": "1028001",
+        "SoundID": "Hero_1028001_Skill_1028010102_Hit",
+        "SoundVolume": 1.3,
+        "SoundPath": {
+          "ObjectName": "SoundCue'serath_local_hit_2_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/serath/serath_local_hit_2_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1141": {
+        "SkinID": "1028001",
+        "SoundID": "Hero_1028001_Skill_1028010103_Hit",
+        "SoundVolume": 1.3,
+        "SoundPath": {
+          "ObjectName": "SoundCue'serath_local_onr_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/serath/serath_local_onr_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1142": {
+        "SkinID": "1028001",
+        "SoundID": "Hero_1028001_Skill_1028010104_Hit",
+        "SoundVolume": 1.3,
+        "SoundPath": {
+          "ObjectName": "SoundCue'serath_local_onr_hit_2_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/serath/serath_local_onr_hit_2_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1143": {
+        "SkinID": "1028001",
+        "SoundID": "Hero_1028001_Skill_1028010101_Miss",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "1144": {
+        "SkinID": "1028001",
+        "SoundID": "Hero_1028001_Skill_1028010201_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'serath_rmb_ability_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/serath/serath_rmb_ability_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1145": {
+        "SkinID": "1028001",
+        "SoundID": "Hero_1028001_Skill_1028010202_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'serath_rmb_ability_onr_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/serath/serath_rmb_ability_onr_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1146": {
+        "SkinID": "1028001",
+        "SoundID": "Hero_1028001_Skill_1028010301_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'serath_q_ability_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/serath/serath_q_ability_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1147": {
+        "SkinID": "1028001",
+        "SoundID": "Hero_1028001_Skill_1028010302_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'serath_q_ability_onr_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/serath/serath_q_ability_onr_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1148": {
+        "SkinID": "1028001",
+        "SoundID": "Hero_1028001_Skill_1028010401_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'serath_e_ability_hit_st_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/serath/serath_e_ability_hit_st_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1149": {
+        "SkinID": "1028001",
         "SoundID": "Hero_1028001_Skill_1028010402_Hit",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -10593,7 +10693,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1140": {
+      "1150": {
         "SkinID": "1028001",
         "SoundID": "Hero_1028001_Skill_1028010501_Hit",
         "SoundVolume": 1.0,
@@ -10603,7 +10703,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1141": {
+      "1151": {
         "SkinID": "1028002",
         "SoundID": "Hero_1028001_Skill_1028010101_Hit",
         "SoundVolume": 1.3,
@@ -10613,7 +10713,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1142": {
+      "1152": {
         "SkinID": "1028002",
         "SoundID": "Hero_1028001_Skill_1028010102_Hit",
         "SoundVolume": 1.3,
@@ -10623,7 +10723,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1143": {
+      "1153": {
         "SkinID": "1028002",
         "SoundID": "Hero_1028001_Skill_1028010103_Hit",
         "SoundVolume": 1.3,
@@ -10633,7 +10733,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1144": {
+      "1154": {
         "SkinID": "1028002",
         "SoundID": "Hero_1028001_Skill_1028010104_Hit",
         "SoundVolume": 1.3,
@@ -10643,14 +10743,14 @@
         },
         "SoundTableManagerObject": null
       },
-      "1145": {
+      "1155": {
         "SkinID": "1028002",
         "SoundID": "Hero_1028001_Skill_1028010101_Miss",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1146": {
+      "1156": {
         "SkinID": "1028002",
         "SoundID": "Hero_1028001_Skill_1028010201_Hit",
         "SoundVolume": 1.0,
@@ -10660,7 +10760,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1147": {
+      "1157": {
         "SkinID": "1028002",
         "SoundID": "Hero_1028001_Skill_1028010202_Hit",
         "SoundVolume": 1.0,
@@ -10670,7 +10770,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1148": {
+      "1158": {
         "SkinID": "1028002",
         "SoundID": "Hero_1028001_Skill_1028010301_Hit",
         "SoundVolume": 1.0,
@@ -10680,7 +10780,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1149": {
+      "1159": {
         "SkinID": "1028002",
         "SoundID": "Hero_1028001_Skill_1028010302_Hit",
         "SoundVolume": 1.0,
@@ -10690,7 +10790,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1150": {
+      "1160": {
         "SkinID": "1028002",
         "SoundID": "Hero_1028001_Skill_1028010401_Hit",
         "SoundVolume": 1.0,
@@ -10700,7 +10800,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1151": {
+      "1161": {
         "SkinID": "1028002",
         "SoundID": "Hero_1028001_Skill_1028010402_Hit",
         "SoundVolume": 1.0,
@@ -10710,7 +10810,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1152": {
+      "1162": {
         "SkinID": "1028002",
         "SoundID": "Hero_1028001_Skill_1028010501_Hit",
         "SoundVolume": 1.0,
@@ -10720,7 +10820,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1153": {
+      "1163": {
         "SkinID": "1028006",
         "SoundID": "Hero_1028001_Skill_1028010101_Hit",
         "SoundVolume": 1.3,
@@ -10730,7 +10830,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1154": {
+      "1164": {
         "SkinID": "1028006",
         "SoundID": "Hero_1028001_Skill_1028010102_Hit",
         "SoundVolume": 1.3,
@@ -10740,7 +10840,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1155": {
+      "1165": {
         "SkinID": "1028006",
         "SoundID": "Hero_1028001_Skill_1028010103_Hit",
         "SoundVolume": 1.3,
@@ -10750,7 +10850,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1156": {
+      "1166": {
         "SkinID": "1028006",
         "SoundID": "Hero_1028001_Skill_1028010104_Hit",
         "SoundVolume": 1.3,
@@ -10760,14 +10860,14 @@
         },
         "SoundTableManagerObject": null
       },
-      "1157": {
+      "1167": {
         "SkinID": "1028006",
         "SoundID": "Hero_1028001_Skill_1028010101_Miss",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1158": {
+      "1168": {
         "SkinID": "1028006",
         "SoundID": "Hero_1028001_Skill_1028010201_Hit",
         "SoundVolume": 1.0,
@@ -10777,7 +10877,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1159": {
+      "1169": {
         "SkinID": "1028006",
         "SoundID": "Hero_1028001_Skill_1028010202_Hit",
         "SoundVolume": 1.0,
@@ -10787,7 +10887,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1160": {
+      "1170": {
         "SkinID": "1028006",
         "SoundID": "Hero_1028001_Skill_1028010301_Hit",
         "SoundVolume": 1.0,
@@ -10797,7 +10897,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1161": {
+      "1171": {
         "SkinID": "1028006",
         "SoundID": "Hero_1028001_Skill_1028010302_Hit",
         "SoundVolume": 1.0,
@@ -10807,7 +10907,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1162": {
+      "1172": {
         "SkinID": "1028006",
         "SoundID": "Hero_1028001_Skill_1028010401_Hit",
         "SoundVolume": 1.0,
@@ -10817,7 +10917,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1163": {
+      "1173": {
         "SkinID": "1028006",
         "SoundID": "Hero_1028001_Skill_1028010402_Hit",
         "SoundVolume": 1.0,
@@ -10827,7 +10927,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1164": {
+      "1174": {
         "SkinID": "1028006",
         "SoundID": "Hero_1028001_Skill_1028010501_Hit",
         "SoundVolume": 1.0,
@@ -10837,7 +10937,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1165": {
+      "1175": {
         "SkinID": "1028007",
         "SoundID": "Hero_1028001_Skill_1028010101_Hit",
         "SoundVolume": 1.3,
@@ -10847,7 +10947,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1166": {
+      "1176": {
         "SkinID": "1028007",
         "SoundID": "Hero_1028001_Skill_1028010102_Hit",
         "SoundVolume": 1.3,
@@ -10857,7 +10957,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1167": {
+      "1177": {
         "SkinID": "1028007",
         "SoundID": "Hero_1028001_Skill_1028010103_Hit",
         "SoundVolume": 1.3,
@@ -10867,7 +10967,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1168": {
+      "1178": {
         "SkinID": "1028007",
         "SoundID": "Hero_1028001_Skill_1028010104_Hit",
         "SoundVolume": 1.3,
@@ -10877,14 +10977,14 @@
         },
         "SoundTableManagerObject": null
       },
-      "1169": {
+      "1179": {
         "SkinID": "1028007",
         "SoundID": "Hero_1028001_Skill_1028010101_Miss",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1170": {
+      "1180": {
         "SkinID": "1028007",
         "SoundID": "Hero_1028001_Skill_1028010201_Hit",
         "SoundVolume": 1.0,
@@ -10894,7 +10994,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1171": {
+      "1181": {
         "SkinID": "1028007",
         "SoundID": "Hero_1028001_Skill_1028010202_Hit",
         "SoundVolume": 1.0,
@@ -10904,7 +11004,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1172": {
+      "1182": {
         "SkinID": "1028007",
         "SoundID": "Hero_1028001_Skill_1028010301_Hit",
         "SoundVolume": 1.0,
@@ -10914,7 +11014,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1173": {
+      "1183": {
         "SkinID": "1028007",
         "SoundID": "Hero_1028001_Skill_1028010302_Hit",
         "SoundVolume": 1.0,
@@ -10924,7 +11024,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1174": {
+      "1184": {
         "SkinID": "1028007",
         "SoundID": "Hero_1028001_Skill_1028010401_Hit",
         "SoundVolume": 1.0,
@@ -10934,7 +11034,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1175": {
+      "1185": {
         "SkinID": "1028007",
         "SoundID": "Hero_1028001_Skill_1028010402_Hit",
         "SoundVolume": 1.0,
@@ -10944,7 +11044,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1176": {
+      "1186": {
         "SkinID": "1028007",
         "SoundID": "Hero_1028001_Skill_1028010501_Hit",
         "SoundVolume": 1.0,
@@ -10954,7 +11054,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1177": {
+      "1187": {
         "SkinID": "1029001",
         "SoundID": "Hero_1029001_Skill_1029010101_Hit",
         "SoundVolume": 1.0,
@@ -10964,7 +11064,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1178": {
+      "1188": {
         "SkinID": "1029001",
         "SoundID": "Hero_1029001_Skill_1029010102_Hit",
         "SoundVolume": 1.3,
@@ -10974,14 +11074,14 @@
         },
         "SoundTableManagerObject": null
       },
-      "1179": {
+      "1189": {
         "SkinID": "1029001",
         "SoundID": "Hero_1029001_Skill_1029010101_Miss",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1180": {
+      "1190": {
         "SkinID": "1029001",
         "SoundID": "Hero_1029001_Skill_1029010201_Hit",
         "SoundVolume": 1.0,
@@ -10991,7 +11091,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1181": {
+      "1191": {
         "SkinID": "1029001",
         "SoundID": "Hero_1029001_Skill_1029010301_Hit",
         "SoundVolume": 1.0,
@@ -11001,14 +11101,14 @@
         },
         "SoundTableManagerObject": null
       },
-      "1182": {
+      "1192": {
         "SkinID": "1029001",
         "SoundID": "Hero_1029001_Skill_1029010401_Hit",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1183": {
+      "1193": {
         "SkinID": "1029001",
         "SoundID": "Hero_1029001_Skill_1029010501_Hit",
         "SoundVolume": 1.0,
@@ -11018,112 +11118,45 @@
         },
         "SoundTableManagerObject": null
       },
-      "1184": {
-        "SkinID": "1030001",
-        "SoundID": "Hero_1030001_Skill_1030010101_Hit",
-        "SoundVolume": 1.3,
-        "SoundPath": {
-          "ObjectName": "SoundCue'zena_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/zena/zena_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1185": {
-        "SkinID": "1030001",
-        "SoundID": "Hero_1030001_Skill_1030010102_Hit",
-        "SoundVolume": 1.3,
-        "SoundPath": {
-          "ObjectName": "SoundCue'zena_local_hit_2_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/zena/zena_local_hit_2_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1186": {
-        "SkinID": "1030001",
-        "SoundID": "Hero_1030001_Skill_1030010101_Miss",
-        "SoundVolume": 1.0,
-        "SoundPath": null,
-        "SoundTableManagerObject": null
-      },
-      "1187": {
-        "SkinID": "1030001",
-        "SoundID": "Hero_1030001_Skill_1030010201_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'zena_rmb_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/zena/zena_rmb_ability_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1188": {
-        "SkinID": "1030001",
-        "SoundID": "Hero_1030001_Skill_1030010301_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'zena_q_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/zena/zena_q_ability_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1189": {
-        "SkinID": "1030001",
-        "SoundID": "Hero_1030001_Skill_1030010401_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'zena_e_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/zena/zena_e_ability_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1190": {
-        "SkinID": "1030001",
-        "SoundID": "Hero_1030001_Skill_1030010501_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'zena_r_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/zena/zena_r_ability_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1191": {
-        "SkinID": "1030002",
-        "SoundID": "Hero_1030001_Skill_1030010101_Hit",
-        "SoundVolume": 1.3,
-        "SoundPath": {
-          "ObjectName": "SoundCue'zena_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/zena/zena_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1192": {
-        "SkinID": "1030002",
-        "SoundID": "Hero_1030001_Skill_1030010102_Hit",
-        "SoundVolume": 1.3,
-        "SoundPath": {
-          "ObjectName": "SoundCue'zena_local_hit_2_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/zena/zena_local_hit_2_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1193": {
-        "SkinID": "1030002",
-        "SoundID": "Hero_1030001_Skill_1030010101_Miss",
-        "SoundVolume": 1.0,
-        "SoundPath": null,
-        "SoundTableManagerObject": null
-      },
       "1194": {
-        "SkinID": "1030002",
-        "SoundID": "Hero_1030001_Skill_1030010201_Hit",
-        "SoundVolume": 1.0,
+        "SkinID": "1030001",
+        "SoundID": "Hero_1030001_Skill_1030010101_Hit",
+        "SoundVolume": 1.3,
         "SoundPath": {
-          "ObjectName": "SoundCue'zena_rmb_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/zena/zena_rmb_ability_local_hit_cue.0"
+          "ObjectName": "SoundCue'zena_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/zena/zena_local_hit_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "1195": {
-        "SkinID": "1030002",
+        "SkinID": "1030001",
+        "SoundID": "Hero_1030001_Skill_1030010102_Hit",
+        "SoundVolume": 1.3,
+        "SoundPath": {
+          "ObjectName": "SoundCue'zena_local_hit_2_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/zena/zena_local_hit_2_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1196": {
+        "SkinID": "1030001",
+        "SoundID": "Hero_1030001_Skill_1030010101_Miss",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "1197": {
+        "SkinID": "1030001",
+        "SoundID": "Hero_1030001_Skill_1030010201_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'zena_rmb_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/zena/zena_rmb_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1198": {
+        "SkinID": "1030001",
         "SoundID": "Hero_1030001_Skill_1030010301_Hit",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -11132,8 +11165,8 @@
         },
         "SoundTableManagerObject": null
       },
-      "1196": {
-        "SkinID": "1030002",
+      "1199": {
+        "SkinID": "1030001",
         "SoundID": "Hero_1030001_Skill_1030010401_Hit",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -11142,8 +11175,8 @@
         },
         "SoundTableManagerObject": null
       },
-      "1197": {
-        "SkinID": "1030002",
+      "1200": {
+        "SkinID": "1030001",
         "SoundID": "Hero_1030001_Skill_1030010501_Hit",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -11152,59 +11185,75 @@
         },
         "SoundTableManagerObject": null
       },
-      "1198": {
-        "SkinID": "1031001",
-        "SoundID": "Hero_1031001_Skill_1031010101_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'dekker_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/dekker/dekker_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1199": {
-        "SkinID": "1031001",
-        "SoundID": "Hero_1031001_Skill_1031010101_Miss",
-        "SoundVolume": 1.0,
-        "SoundPath": null,
-        "SoundTableManagerObject": null
-      },
-      "1200": {
-        "SkinID": "1031001",
-        "SoundID": "Hero_1031001_Skill_1031010201_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": null,
-        "SoundTableManagerObject": null
-      },
       "1201": {
-        "SkinID": "1031001",
-        "SoundID": "Hero_1031001_Skill_1031010301_Hit",
-        "SoundVolume": 1.0,
+        "SkinID": "1030002",
+        "SoundID": "Hero_1030001_Skill_1030010101_Hit",
+        "SoundVolume": 1.3,
         "SoundPath": {
-          "ObjectName": "SoundCue'dekker_q_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/dekker/dekker_q_ability_local_hit_cue.0"
+          "ObjectName": "SoundCue'zena_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/zena/zena_local_hit_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "1202": {
-        "SkinID": "1031001",
-        "SoundID": "Hero_1031001_Skill_1031010401_Hit",
-        "SoundVolume": 1.0,
+        "SkinID": "1030002",
+        "SoundID": "Hero_1030001_Skill_1030010102_Hit",
+        "SoundVolume": 1.3,
         "SoundPath": {
-          "ObjectName": "SoundCue'dekker_e_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/dekker/dekker_e_ability_local_hit_cue.0"
+          "ObjectName": "SoundCue'zena_local_hit_2_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/zena/zena_local_hit_2_cue.0"
         },
         "SoundTableManagerObject": null
       },
       "1203": {
-        "SkinID": "1031001",
-        "SoundID": "Hero_1031001_Skill_1031010501_Hit",
+        "SkinID": "1030002",
+        "SoundID": "Hero_1030001_Skill_1030010101_Miss",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
       "1204": {
-        "SkinID": "1031002",
+        "SkinID": "1030002",
+        "SoundID": "Hero_1030001_Skill_1030010201_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'zena_rmb_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/zena/zena_rmb_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1205": {
+        "SkinID": "1030002",
+        "SoundID": "Hero_1030001_Skill_1030010301_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'zena_q_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/zena/zena_q_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1206": {
+        "SkinID": "1030002",
+        "SoundID": "Hero_1030001_Skill_1030010401_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'zena_e_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/zena/zena_e_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1207": {
+        "SkinID": "1030002",
+        "SoundID": "Hero_1030001_Skill_1030010501_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'zena_r_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/zena/zena_r_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1208": {
+        "SkinID": "1031001",
         "SoundID": "Hero_1031001_Skill_1031010101_Hit",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -11213,48 +11262,99 @@
         },
         "SoundTableManagerObject": null
       },
-      "1205": {
-        "SkinID": "1031002",
-        "SoundID": "Hero_1031001_Skill_1031010101_Miss",
-        "SoundVolume": 1.0,
-        "SoundPath": null,
-        "SoundTableManagerObject": null
-      },
-      "1206": {
-        "SkinID": "1031002",
-        "SoundID": "Hero_1031001_Skill_1031010201_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": null,
-        "SoundTableManagerObject": null
-      },
-      "1207": {
-        "SkinID": "1031002",
-        "SoundID": "Hero_1031001_Skill_1031010301_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'dekker_q_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/dekker/dekker_q_ability_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1208": {
-        "SkinID": "1031002",
-        "SoundID": "Hero_1031001_Skill_1031010401_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'dekker_e_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/dekker/dekker_e_ability_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
       "1209": {
-        "SkinID": "1031002",
-        "SoundID": "Hero_1031001_Skill_1031010501_Hit",
+        "SkinID": "1031001",
+        "SoundID": "Hero_1031001_Skill_1031010101_Miss",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
       "1210": {
+        "SkinID": "1031001",
+        "SoundID": "Hero_1031001_Skill_1031010201_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "1211": {
+        "SkinID": "1031001",
+        "SoundID": "Hero_1031001_Skill_1031010301_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'dekker_q_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/dekker/dekker_q_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1212": {
+        "SkinID": "1031001",
+        "SoundID": "Hero_1031001_Skill_1031010401_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'dekker_e_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/dekker/dekker_e_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1213": {
+        "SkinID": "1031001",
+        "SoundID": "Hero_1031001_Skill_1031010501_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "1214": {
+        "SkinID": "1031002",
+        "SoundID": "Hero_1031001_Skill_1031010101_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'dekker_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/dekker/dekker_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1215": {
+        "SkinID": "1031002",
+        "SoundID": "Hero_1031001_Skill_1031010101_Miss",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "1216": {
+        "SkinID": "1031002",
+        "SoundID": "Hero_1031001_Skill_1031010201_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "1217": {
+        "SkinID": "1031002",
+        "SoundID": "Hero_1031001_Skill_1031010301_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'dekker_q_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/dekker/dekker_q_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1218": {
+        "SkinID": "1031002",
+        "SoundID": "Hero_1031001_Skill_1031010401_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'dekker_e_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/dekker/dekker_e_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1219": {
+        "SkinID": "1031002",
+        "SoundID": "Hero_1031001_Skill_1031010501_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "1220": {
         "SkinID": "1031006",
         "SoundID": "Hero_1031001_Skill_1031010101_Hit",
         "SoundVolume": 1.0,
@@ -11264,21 +11364,21 @@
         },
         "SoundTableManagerObject": null
       },
-      "1211": {
+      "1221": {
         "SkinID": "1031006",
         "SoundID": "Hero_1031001_Skill_1031010101_Miss",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1212": {
+      "1222": {
         "SkinID": "1031006",
         "SoundID": "Hero_1031001_Skill_1031010201_Hit",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1213": {
+      "1223": {
         "SkinID": "1031006",
         "SoundID": "Hero_1031001_Skill_1031010301_Hit",
         "SoundVolume": 1.0,
@@ -11288,7 +11388,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1214": {
+      "1224": {
         "SkinID": "1031006",
         "SoundID": "Hero_1031001_Skill_1031010401_Hit",
         "SoundVolume": 1.0,
@@ -11298,14 +11398,14 @@
         },
         "SoundTableManagerObject": null
       },
-      "1215": {
+      "1225": {
         "SkinID": "1031006",
         "SoundID": "Hero_1031001_Skill_1031010501_Hit",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1216": {
+      "1226": {
         "SkinID": "1031007",
         "SoundID": "Hero_1031001_Skill_1031010101_Hit",
         "SoundVolume": 1.0,
@@ -11315,21 +11415,21 @@
         },
         "SoundTableManagerObject": null
       },
-      "1217": {
+      "1227": {
         "SkinID": "1031007",
         "SoundID": "Hero_1031001_Skill_1031010101_Miss",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1218": {
+      "1228": {
         "SkinID": "1031007",
         "SoundID": "Hero_1031001_Skill_1031010201_Hit",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1219": {
+      "1229": {
         "SkinID": "1031007",
         "SoundID": "Hero_1031001_Skill_1031010301_Hit",
         "SoundVolume": 1.0,
@@ -11339,7 +11439,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1220": {
+      "1230": {
         "SkinID": "1031007",
         "SoundID": "Hero_1031001_Skill_1031010401_Hit",
         "SoundVolume": 1.0,
@@ -11349,14 +11449,14 @@
         },
         "SoundTableManagerObject": null
       },
-      "1221": {
+      "1231": {
         "SkinID": "1031007",
         "SoundID": "Hero_1031001_Skill_1031010501_Hit",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1222": {
+      "1232": {
         "SkinID": "1032001",
         "SoundID": "Hero_1032001_Skill_1032010101_Hit",
         "SoundVolume": 1.0,
@@ -11369,14 +11469,14 @@
           "ObjectPath": "Overprime/Content/Sound/system/SoundTableManagerObject/drongo_ability_hit.1"
         }
       },
-      "1223": {
+      "1233": {
         "SkinID": "1032001",
         "SoundID": "Hero_1032001_Skill_1032010101_Miss",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1224": {
+      "1234": {
         "SkinID": "1032001",
         "SoundID": "Hero_1032001_Skill_1032010201_Hit",
         "SoundVolume": 1.0,
@@ -11386,7 +11486,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1225": {
+      "1235": {
         "SkinID": "1032001",
         "SoundID": "Hero_1032001_Skill_1032010301_Hit",
         "SoundVolume": 1.0,
@@ -11396,7 +11496,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1226": {
+      "1236": {
         "SkinID": "1032001",
         "SoundID": "Hero_1032001_Skill_1032010401_Hit",
         "SoundVolume": 1.0,
@@ -11406,7 +11506,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1227": {
+      "1237": {
         "SkinID": "1032001",
         "SoundID": "Hero_1032001_Skill_1032010401_Hit2",
         "SoundVolume": 1.0,
@@ -11416,7 +11516,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1228": {
+      "1238": {
         "SkinID": "1032001",
         "SoundID": "Hero_1032001_Skill_1032010501_Hit",
         "SoundVolume": 1.0,
@@ -11426,7 +11526,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1229": {
+      "1239": {
         "SkinID": "1032006",
         "SoundID": "Hero_1032001_Skill_1032010101_Hit",
         "SoundVolume": 1.0,
@@ -11439,14 +11539,14 @@
           "ObjectPath": "Overprime/Content/Sound/system/SoundTableManagerObject/drongo_ability_hit.1"
         }
       },
-      "1230": {
+      "1240": {
         "SkinID": "1032006",
         "SoundID": "Hero_1032001_Skill_1032010101_Miss",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1231": {
+      "1241": {
         "SkinID": "1032006",
         "SoundID": "Hero_1032001_Skill_1032010201_Hit",
         "SoundVolume": 1.0,
@@ -11456,7 +11556,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1232": {
+      "1242": {
         "SkinID": "1032006",
         "SoundID": "Hero_1032001_Skill_1032010301_Hit",
         "SoundVolume": 1.0,
@@ -11466,7 +11566,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1233": {
+      "1243": {
         "SkinID": "1032006",
         "SoundID": "Hero_1032001_Skill_1032010401_Hit",
         "SoundVolume": 1.0,
@@ -11476,7 +11576,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1234": {
+      "1244": {
         "SkinID": "1032006",
         "SoundID": "Hero_1032001_Skill_1032010401_Hit2",
         "SoundVolume": 1.0,
@@ -11486,7 +11586,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1235": {
+      "1245": {
         "SkinID": "1032006",
         "SoundID": "Hero_1032001_Skill_1032010501_Hit",
         "SoundVolume": 1.0,
@@ -11496,127 +11596,25 @@
         },
         "SoundTableManagerObject": null
       },
-      "1236": {
-        "SkinID": "1033001",
-        "SoundID": "Hero_1033001_Skill_1033010101_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'wraith_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/wraith/wraith_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1237": {
-        "SkinID": "1033001",
-        "SoundID": "Hero_1033001_Skill_1033010101_Miss",
-        "SoundVolume": 1.0,
-        "SoundPath": null,
-        "SoundTableManagerObject": null
-      },
-      "1238": {
-        "SkinID": "1033001",
-        "SoundID": "Hero_1033001_Skill_1033010201_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'wraith_rmb_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/wraith/wraith_rmb_ability_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1239": {
-        "SkinID": "1033001",
-        "SoundID": "Hero_1033001_Skill_1033010301_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'dekker_e_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/dekker/dekker_e_ability_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1240": {
-        "SkinID": "1033001",
-        "SoundID": "Hero_1033001_Skill_1033010401_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": null,
-        "SoundTableManagerObject": null
-      },
-      "1241": {
-        "SkinID": "1033001",
-        "SoundID": "Hero_1033001_Skill_1033010501_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": null,
-        "SoundTableManagerObject": null
-      },
-      "1242": {
-        "SkinID": "1033002",
-        "SoundID": "Hero_1033001_Skill_1033010101_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'wraith_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/wraith/wraith_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1243": {
-        "SkinID": "1033002",
-        "SoundID": "Hero_1033001_Skill_1033010101_Miss",
-        "SoundVolume": 1.0,
-        "SoundPath": null,
-        "SoundTableManagerObject": null
-      },
-      "1244": {
-        "SkinID": "1033002",
-        "SoundID": "Hero_1033001_Skill_1033010201_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'wraith_rmb_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/wraith/wraith_rmb_ability_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1245": {
-        "SkinID": "1033002",
-        "SoundID": "Hero_1033001_Skill_1033010301_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'dekker_e_ability_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/dekker/dekker_e_ability_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
       "1246": {
-        "SkinID": "1033002",
-        "SoundID": "Hero_1033001_Skill_1033010401_Hit",
+        "SkinID": "1033001",
+        "SoundID": "Hero_1033001_Skill_1033010101_Hit",
         "SoundVolume": 1.0,
-        "SoundPath": null,
+        "SoundPath": {
+          "ObjectName": "SoundCue'wraith_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/wraith/wraith_local_hit_cue.0"
+        },
         "SoundTableManagerObject": null
       },
       "1247": {
-        "SkinID": "1033002",
-        "SoundID": "Hero_1033001_Skill_1033010501_Hit",
+        "SkinID": "1033001",
+        "SoundID": "Hero_1033001_Skill_1033010101_Miss",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
       "1248": {
-        "SkinID": "1033006",
-        "SoundID": "Hero_1033001_Skill_1033010101_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'wraith_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/wraith/wraith_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1249": {
-        "SkinID": "1033006",
-        "SoundID": "Hero_1033001_Skill_1033010101_Miss",
-        "SoundVolume": 1.0,
-        "SoundPath": null,
-        "SoundTableManagerObject": null
-      },
-      "1250": {
-        "SkinID": "1033006",
+        "SkinID": "1033001",
         "SoundID": "Hero_1033001_Skill_1033010201_Hit",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -11625,8 +11623,8 @@
         },
         "SoundTableManagerObject": null
       },
-      "1251": {
-        "SkinID": "1033006",
+      "1249": {
+        "SkinID": "1033001",
         "SoundID": "Hero_1033001_Skill_1033010301_Hit",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -11635,39 +11633,39 @@
         },
         "SoundTableManagerObject": null
       },
-      "1252": {
-        "SkinID": "1033006",
+      "1250": {
+        "SkinID": "1033001",
         "SoundID": "Hero_1033001_Skill_1033010401_Hit",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1253": {
-        "SkinID": "1033006",
+      "1251": {
+        "SkinID": "1033001",
         "SoundID": "Hero_1033001_Skill_1033010501_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "1252": {
+        "SkinID": "1033002",
+        "SoundID": "Hero_1033001_Skill_1033010101_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'wraith_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/wraith/wraith_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1253": {
+        "SkinID": "1033002",
+        "SoundID": "Hero_1033001_Skill_1033010101_Miss",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
       "1254": {
-        "SkinID": "1033007",
-        "SoundID": "Hero_1033001_Skill_1033010101_Hit",
-        "SoundVolume": 1.0,
-        "SoundPath": {
-          "ObjectName": "SoundCue'wraith_local_hit_cue'",
-          "ObjectPath": "Overprime/Content/Sound/sfx/hero/wraith/wraith_local_hit_cue.0"
-        },
-        "SoundTableManagerObject": null
-      },
-      "1255": {
-        "SkinID": "1033007",
-        "SoundID": "Hero_1033001_Skill_1033010101_Miss",
-        "SoundVolume": 1.0,
-        "SoundPath": null,
-        "SoundTableManagerObject": null
-      },
-      "1256": {
-        "SkinID": "1033007",
+        "SkinID": "1033002",
         "SoundID": "Hero_1033001_Skill_1033010201_Hit",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -11676,8 +11674,8 @@
         },
         "SoundTableManagerObject": null
       },
-      "1257": {
-        "SkinID": "1033007",
+      "1255": {
+        "SkinID": "1033002",
         "SoundID": "Hero_1033001_Skill_1033010301_Hit",
         "SoundVolume": 1.0,
         "SoundPath": {
@@ -11686,21 +11684,123 @@
         },
         "SoundTableManagerObject": null
       },
-      "1258": {
-        "SkinID": "1033007",
+      "1256": {
+        "SkinID": "1033002",
         "SoundID": "Hero_1033001_Skill_1033010401_Hit",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1259": {
-        "SkinID": "1033007",
+      "1257": {
+        "SkinID": "1033002",
         "SoundID": "Hero_1033001_Skill_1033010501_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "1258": {
+        "SkinID": "1033006",
+        "SoundID": "Hero_1033001_Skill_1033010101_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'wraith_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/wraith/wraith_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1259": {
+        "SkinID": "1033006",
+        "SoundID": "Hero_1033001_Skill_1033010101_Miss",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
       "1260": {
+        "SkinID": "1033006",
+        "SoundID": "Hero_1033001_Skill_1033010201_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'wraith_rmb_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/wraith/wraith_rmb_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1261": {
+        "SkinID": "1033006",
+        "SoundID": "Hero_1033001_Skill_1033010301_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'dekker_e_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/dekker/dekker_e_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1262": {
+        "SkinID": "1033006",
+        "SoundID": "Hero_1033001_Skill_1033010401_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "1263": {
+        "SkinID": "1033006",
+        "SoundID": "Hero_1033001_Skill_1033010501_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "1264": {
+        "SkinID": "1033007",
+        "SoundID": "Hero_1033001_Skill_1033010101_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'wraith_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/wraith/wraith_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1265": {
+        "SkinID": "1033007",
+        "SoundID": "Hero_1033001_Skill_1033010101_Miss",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "1266": {
+        "SkinID": "1033007",
+        "SoundID": "Hero_1033001_Skill_1033010201_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'wraith_rmb_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/wraith/wraith_rmb_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1267": {
+        "SkinID": "1033007",
+        "SoundID": "Hero_1033001_Skill_1033010301_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": {
+          "ObjectName": "SoundCue'dekker_e_ability_local_hit_cue'",
+          "ObjectPath": "Overprime/Content/Sound/sfx/hero/dekker/dekker_e_ability_local_hit_cue.0"
+        },
+        "SoundTableManagerObject": null
+      },
+      "1268": {
+        "SkinID": "1033007",
+        "SoundID": "Hero_1033001_Skill_1033010401_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "1269": {
+        "SkinID": "1033007",
+        "SoundID": "Hero_1033001_Skill_1033010501_Hit",
+        "SoundVolume": 1.0,
+        "SoundPath": null,
+        "SoundTableManagerObject": null
+      },
+      "1270": {
         "SkinID": "1033008",
         "SoundID": "Hero_1033001_Skill_1033010101_Hit",
         "SoundVolume": 1.0,
@@ -11710,14 +11810,14 @@
         },
         "SoundTableManagerObject": null
       },
-      "1261": {
+      "1271": {
         "SkinID": "1033008",
         "SoundID": "Hero_1033001_Skill_1033010101_Miss",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1262": {
+      "1272": {
         "SkinID": "1033008",
         "SoundID": "Hero_1033001_Skill_1033010201_Hit",
         "SoundVolume": 1.0,
@@ -11727,7 +11827,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1263": {
+      "1273": {
         "SkinID": "1033008",
         "SoundID": "Hero_1033001_Skill_1033010301_Hit",
         "SoundVolume": 1.0,
@@ -11737,21 +11837,21 @@
         },
         "SoundTableManagerObject": null
       },
-      "1264": {
+      "1274": {
         "SkinID": "1033008",
         "SoundID": "Hero_1033001_Skill_1033010401_Hit",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1265": {
+      "1275": {
         "SkinID": "1033008",
         "SoundID": "Hero_1033001_Skill_1033010501_Hit",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1266": {
+      "1276": {
         "SkinID": "1034001",
         "SoundID": "Hero_1034001_Skill_1034010101_Hit",
         "SoundVolume": 1.0,
@@ -11761,7 +11861,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1267": {
+      "1277": {
         "SkinID": "1034001",
         "SoundID": "Hero_1034001_Skill_1034010102_Hit",
         "SoundVolume": 1.0,
@@ -11771,14 +11871,14 @@
         },
         "SoundTableManagerObject": null
       },
-      "1268": {
+      "1278": {
         "SkinID": "1034001",
         "SoundID": "Hero_1034001_Skill_1034010101_Miss",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1269": {
+      "1279": {
         "SkinID": "1034001",
         "SoundID": "Hero_1034001_Skill_1034010201_Hit",
         "SoundVolume": 1.0,
@@ -11788,7 +11888,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1270": {
+      "1280": {
         "SkinID": "1034001",
         "SoundID": "Hero_1034001_Skill_1034010301_Hit",
         "SoundVolume": 1.0,
@@ -11798,7 +11898,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1271": {
+      "1281": {
         "SkinID": "1034001",
         "SoundID": "Hero_1034001_Skill_1034010401_Hit",
         "SoundVolume": 1.0,
@@ -11808,7 +11908,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1272": {
+      "1282": {
         "SkinID": "1034001",
         "SoundID": "Hero_1034001_Skill_1034010501_Hit",
         "SoundVolume": 1.0,
@@ -11818,7 +11918,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1273": {
+      "1283": {
         "SkinID": "1035001",
         "SoundID": "Hero_1035001_Skill_1035010101_Hit",
         "SoundVolume": 1.0,
@@ -11828,14 +11928,14 @@
         },
         "SoundTableManagerObject": null
       },
-      "1274": {
+      "1284": {
         "SkinID": "1035001",
         "SoundID": "Hero_1035001_Skill_1035010101_Miss",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1275": {
+      "1285": {
         "SkinID": "1035001",
         "SoundID": "Hero_1035001_Skill_1035010201_Hit",
         "SoundVolume": 1.0,
@@ -11845,7 +11945,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1276": {
+      "1286": {
         "SkinID": "1035001",
         "SoundID": "Hero_1035001_Skill_1035010301_Hit",
         "SoundVolume": 1.0,
@@ -11855,7 +11955,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1277": {
+      "1287": {
         "SkinID": "1035001",
         "SoundID": "Hero_1035001_Skill_1035010401_Hit",
         "SoundVolume": 1.0,
@@ -11865,7 +11965,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1278": {
+      "1288": {
         "SkinID": "1035001",
         "SoundID": "Hero_1035001_Skill_1035010501_Hit",
         "SoundVolume": 1.0,
@@ -11875,7 +11975,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1279": {
+      "1289": {
         "SkinID": "1036001",
         "SoundID": "Hero_1036001_Skill_1036010101_Hit",
         "SoundVolume": 1.0,
@@ -11885,7 +11985,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1280": {
+      "1290": {
         "SkinID": "1036001",
         "SoundID": "Hero_1036001_Skill_1036010102_Hit",
         "SoundVolume": 1.0,
@@ -11895,7 +11995,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1281": {
+      "1291": {
         "SkinID": "1036001",
         "SoundID": "Hero_1036001_Skill_1036010103_Hit",
         "SoundVolume": 1.0,
@@ -11905,7 +12005,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1282": {
+      "1292": {
         "SkinID": "1036001",
         "SoundID": "Hero_1036001_Skill_1036010104_Hit",
         "SoundVolume": 1.0,
@@ -11915,14 +12015,14 @@
         },
         "SoundTableManagerObject": null
       },
-      "1283": {
+      "1293": {
         "SkinID": "1036001",
         "SoundID": "Hero_1036001_Skill_1036010101_Miss",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1284": {
+      "1294": {
         "SkinID": "1036001",
         "SoundID": "Hero_1036001_Skill_1036010201_Hit",
         "SoundVolume": 1.0,
@@ -11932,7 +12032,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1285": {
+      "1295": {
         "SkinID": "1036001",
         "SoundID": "Hero_1036001_Skill_1036010301_Hit",
         "SoundVolume": 1.0,
@@ -11942,21 +12042,21 @@
         },
         "SoundTableManagerObject": null
       },
-      "1286": {
+      "1296": {
         "SkinID": "1036001",
         "SoundID": "Hero_1036001_Skill_1036010401_Hit",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1287": {
+      "1297": {
         "SkinID": "1036001",
         "SoundID": "Hero_1036001_Skill_1036010501_Hit",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1288": {
+      "1298": {
         "SkinID": "1036006",
         "SoundID": "Hero_1036001_Skill_1036010101_Hit",
         "SoundVolume": 1.0,
@@ -11966,7 +12066,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1289": {
+      "1299": {
         "SkinID": "1036006",
         "SoundID": "Hero_1036001_Skill_1036010102_Hit",
         "SoundVolume": 1.0,
@@ -11976,7 +12076,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1290": {
+      "1300": {
         "SkinID": "1036006",
         "SoundID": "Hero_1036001_Skill_1036010103_Hit",
         "SoundVolume": 1.0,
@@ -11986,7 +12086,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1291": {
+      "1301": {
         "SkinID": "1036006",
         "SoundID": "Hero_1036001_Skill_1036010104_Hit",
         "SoundVolume": 1.0,
@@ -11996,14 +12096,14 @@
         },
         "SoundTableManagerObject": null
       },
-      "1292": {
+      "1302": {
         "SkinID": "1036006",
         "SoundID": "Hero_1036001_Skill_1036010101_Miss",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1293": {
+      "1303": {
         "SkinID": "1036006",
         "SoundID": "Hero_1036001_Skill_1036010201_Hit",
         "SoundVolume": 1.0,
@@ -12013,7 +12113,7 @@
         },
         "SoundTableManagerObject": null
       },
-      "1294": {
+      "1304": {
         "SkinID": "1036006",
         "SoundID": "Hero_1036001_Skill_1036010301_Hit",
         "SoundVolume": 1.0,
@@ -12023,14 +12123,14 @@
         },
         "SoundTableManagerObject": null
       },
-      "1295": {
+      "1305": {
         "SkinID": "1036006",
         "SoundID": "Hero_1036001_Skill_1036010401_Hit",
         "SoundVolume": 1.0,
         "SoundPath": null,
         "SoundTableManagerObject": null
       },
-      "1296": {
+      "1306": {
         "SkinID": "1036006",
         "SoundID": "Hero_1036001_Skill_1036010501_Hit",
         "SoundVolume": 1.0,

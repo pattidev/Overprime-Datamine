@@ -1,0 +1,105 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_MultiplePositionVibration",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PadTriggerMultiplePositionVibrationRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "AdaptiveTriggerID": "6001",
+        "Frequency": 50,
+        "Amplitude_0": 0,
+        "Amplitude_1": 0,
+        "Amplitude_2": 0,
+        "Amplitude_3": 0,
+        "Amplitude_4": 0,
+        "Amplitude_5": 0,
+        "Amplitude_6": 0,
+        "Amplitude_7": 0,
+        "Amplitude_8": 0,
+        "Amplitude_9": 3,
+        "VibrationEndTime": 0.3
+      },
+      "2": {
+        "AdaptiveTriggerID": "6002",
+        "Frequency": 100,
+        "Amplitude_0": 0,
+        "Amplitude_1": 0,
+        "Amplitude_2": 0,
+        "Amplitude_3": 0,
+        "Amplitude_4": 0,
+        "Amplitude_5": 0,
+        "Amplitude_6": 0,
+        "Amplitude_7": 0,
+        "Amplitude_8": 0,
+        "Amplitude_9": 2,
+        "VibrationEndTime": 0.3
+      },
+      "3": {
+        "AdaptiveTriggerID": "6003",
+        "Frequency": 80,
+        "Amplitude_0": 0,
+        "Amplitude_1": 0,
+        "Amplitude_2": 0,
+        "Amplitude_3": 0,
+        "Amplitude_4": 0,
+        "Amplitude_5": 0,
+        "Amplitude_6": 0,
+        "Amplitude_7": 0,
+        "Amplitude_8": 0,
+        "Amplitude_9": 3,
+        "VibrationEndTime": 0.2
+      },
+      "4": {
+        "AdaptiveTriggerID": "6004",
+        "Frequency": 100,
+        "Amplitude_0": 0,
+        "Amplitude_1": 0,
+        "Amplitude_2": 0,
+        "Amplitude_3": 0,
+        "Amplitude_4": 0,
+        "Amplitude_5": 0,
+        "Amplitude_6": 0,
+        "Amplitude_7": 0,
+        "Amplitude_8": 0,
+        "Amplitude_9": 2,
+        "VibrationEndTime": 0.2
+      },
+      "5": {
+        "AdaptiveTriggerID": "#",
+        "Frequency": 70,
+        "Amplitude_0": 0,
+        "Amplitude_1": 0,
+        "Amplitude_2": 0,
+        "Amplitude_3": 0,
+        "Amplitude_4": 0,
+        "Amplitude_5": 0,
+        "Amplitude_6": 0,
+        "Amplitude_7": 0,
+        "Amplitude_8": 0,
+        "Amplitude_9": 3,
+        "VibrationEndTime": 0.5
+      },
+      "6": {
+        "AdaptiveTriggerID": "#",
+        "Frequency": 10,
+        "Amplitude_0": 0,
+        "Amplitude_1": 0,
+        "Amplitude_2": 0,
+        "Amplitude_3": 0,
+        "Amplitude_4": 0,
+        "Amplitude_5": 0,
+        "Amplitude_6": 0,
+        "Amplitude_7": 0,
+        "Amplitude_8": 0,
+        "Amplitude_9": 4,
+        "VibrationEndTime": 0.5
+      }
+    }
+  }
+]

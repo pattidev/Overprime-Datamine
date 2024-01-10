@@ -29,22 +29,28 @@
         "Icon_Path": "Texture2D'/Game/UI/Resource/Texture/Common/Cash/T_image_icon_Renar_px_64.T_image_icon_Renar_px_64'"
       },
       "801": {
-        "CurrencyType": "ECurrencyType::None",
+        "CurrencyType": "ECurrencyType::Mode_Dice",
         "NameKey": "UI.Currency_Renar",
         "DescriptionKey": "",
         "Icon_Path": "Texture2D'/Game/UI/Resource/Texture/Reward/T_Common_Icon_Reward_Exp.T_Common_Icon_Reward_Exp'"
       },
       "901": {
-        "CurrencyType": "ECurrencyType::None",
+        "CurrencyType": "ECurrencyType::EXP_Account",
         "NameKey": "UI.Currency_EXP_Account",
         "DescriptionKey": "",
         "Icon_Path": "Texture2D'/Game/UI/Resource/Texture/Reward/T_Common_Icon_Reward_Exp.T_Common_Icon_Reward_Exp'"
       },
       "902": {
-        "CurrencyType": "ECurrencyType::None",
+        "CurrencyType": "ECurrencyType::EXP_BattlePass_NewUser",
         "NameKey": "UI.Currency_EXP_BattlePass_Newuser",
         "DescriptionKey": "",
         "Icon_Path": "Texture2D'/Game/UI/Resource/Texture/Reward/T_Common_Icon_Reward_Exp.T_Common_Icon_Reward_Exp'"
+      },
+      "903": {
+        "CurrencyType": "ECurrencyType::ChangeNickname",
+        "NameKey": "UI.Common_Item_NIcknameChangeTicket",
+        "DescriptionKey": "",
+        "Icon_Path": "Texture2D'/Game/UI/Resource/Texture/Shop/Text_Currency_903.Text_Currency_903'"
       }
     }
   }

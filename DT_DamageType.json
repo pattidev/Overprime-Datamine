@@ -26,7 +26,8 @@
         "AttackDirectionUI": true,
         "PenetrateDimension": false,
         "DamageIndicatorUI": "None",
-        "Icon": null
+        "Icon": null,
+        "DamageTypeHitSound": []
       },
       "2": {
         "DamageID": "MainDamage_BaseAttack",
@@ -47,7 +48,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "3": {
         "DamageID": "MainDamage_BaseAttack_Magical",
@@ -68,7 +70,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Magic'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Magic.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "4": {
         "DamageID": "MainDamage_NonCriBaseAttack",
@@ -89,7 +92,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "5": {
         "DamageID": "MainDamage_Magical",
@@ -110,7 +114,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Magic'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Magic.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "6": {
         "DamageID": "MainDamage_Physical",
@@ -131,7 +136,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "7": {
         "DamageID": "MainDamage_Physical_CanAtkCon",
@@ -152,7 +158,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "8": {
         "DamageID": "MainDamage_True",
@@ -173,7 +180,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_True'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_True.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "9": {
         "DamageID": "MainDamage_Magical_DOT",
@@ -194,7 +202,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Magic'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Magic.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "10": {
         "DamageID": "MainDamage_Physical_DOT",
@@ -215,7 +224,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "11": {
         "DamageID": "MainDamage_True_DOT",
@@ -236,7 +246,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_True'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_True.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "12": {
         "DamageID": "MainDamage_Tower",
@@ -257,7 +268,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "13": {
         "DamageID": "MainDamage_Physical_CanCri",
@@ -278,7 +290,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "14": {
         "DamageID": "MainDamage_Magical_IggyTurret",
@@ -299,7 +312,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Magic'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Magic.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "15": {
         "DamageID": "SubDamage_BaseAttack",
@@ -320,7 +334,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "16": {
         "DamageID": "SubDamage_NonCriBaseAttack",
@@ -341,7 +356,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "17": {
         "DamageID": "SubDamage_Magical",
@@ -362,7 +378,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Magic'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Magic.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "18": {
         "DamageID": "SubDamage_Physical",
@@ -383,7 +400,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "19": {
         "DamageID": "SubDamage_Physical_CanAtkCon",
@@ -404,7 +422,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "20": {
         "DamageID": "SubDamage_Magical_CanAtkCon",
@@ -425,7 +444,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Magic'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Magic.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "21": {
         "DamageID": "SubDamage_Magical_CanGuard",
@@ -446,7 +466,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Magic'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Magic.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "22": {
         "DamageID": "SubDamage_Physical_CanGuard",
@@ -467,7 +488,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "23": {
         "DamageID": "SubDamage_True",
@@ -488,7 +510,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_True'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_True.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "24": {
         "DamageID": "SubDamage_Magical_DOT",
@@ -509,7 +532,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Magic'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Magic.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "25": {
         "DamageID": "SubDamage_Physical_DOT",
@@ -530,7 +554,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "26": {
         "DamageID": "SubDamage_True_DOT",
@@ -551,7 +576,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_True'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_True.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "27": {
         "DamageID": "SubDamage_Execution",
@@ -572,7 +598,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_True'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_True.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "28": {
         "DamageID": "SubDamage_Execution_Minion",
@@ -593,7 +620,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_True'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_True.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "29": {
         "DamageID": "SubDamage_Execution_Feng",
@@ -614,7 +642,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_True'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_True.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "30": {
         "DamageID": "SubDamage_Execution_Seva",
@@ -635,7 +664,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Magic'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Magic.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "31": {
         "DamageID": "SubDamage_Dunk",
@@ -656,7 +686,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_True'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_True.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "32": {
         "DamageID": "Sys_Reflect",
@@ -677,7 +708,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_True'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_True.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "33": {
         "DamageID": "Sys_Sacrifice",
@@ -698,7 +730,8 @@
         "Icon": {
           "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_True'",
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_True.0"
-        }
+        },
+        "DamageTypeHitSound": []
       },
       "34": {
         "DamageID": "OnHitNoneDamage",
@@ -716,7 +749,8 @@
         "AttackDirectionUI": true,
         "PenetrateDimension": false,
         "DamageIndicatorUI": "Indicator_Type_PhysicalDamage",
-        "Icon": null
+        "Icon": null,
+        "DamageTypeHitSound": []
       },
       "35": {
         "DamageID": "OnHitNoneDamage_Magical",
@@ -734,7 +768,76 @@
         "AttackDirectionUI": true,
         "PenetrateDimension": false,
         "DamageIndicatorUI": "Indicator_Type_MagicDamage",
-        "Icon": null
+        "Icon": null,
+        "DamageTypeHitSound": []
+      },
+      "36": {
+        "DamageID": "Bleeding_Physical_DOT",
+        "DamageType": "EDamageCategory::EDC_SKILL_PHYSICAL",
+        "CanLifeSteal": true,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": false,
+        "GenerateHitEvent": false,
+        "CanHitStruct": false,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": true,
+        "ExecutionType": false,
+        "IsDotType": true,
+        "AttackDirectionUI": false,
+        "PenetrateDimension": true,
+        "DamageIndicatorUI": "Indicator_Type_Dot_PhysicalDamage",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.0"
+        },
+        "DamageTypeHitSound": [
+          "Hero_1024001_Skill_1024010401_blood_Hit"
+        ]
+      },
+      "37": {
+        "DamageID": "SubDamage_Magical_Spell",
+        "DamageType": "EDamageCategory::EDC_SKILL_MAGICAL",
+        "CanLifeSteal": false,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": false,
+        "GenerateHitEvent": false,
+        "CanHitStruct": false,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": false,
+        "ExecutionType": false,
+        "IsDotType": false,
+        "AttackDirectionUI": true,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "Indicator_Type_MagicDamage",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Magic'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Magic.0"
+        },
+        "DamageTypeHitSound": []
+      },
+      "38": {
+        "DamageID": "SubDamage_Physical_Spell",
+        "DamageType": "EDamageCategory::EDC_SKILL_PHYSICAL",
+        "CanLifeSteal": false,
+        "BaseAttackGuardCheck": false,
+        "SkillGuardCheck": false,
+        "GenerateHitEvent": false,
+        "CanHitStruct": false,
+        "CanCritical": false,
+        "AlwaysCritical": false,
+        "CanReflect": false,
+        "ExecutionType": false,
+        "IsDotType": false,
+        "AttackDirectionUI": true,
+        "PenetrateDimension": false,
+        "DamageIndicatorUI": "Indicator_Type_PhysicalDamage",
+        "Icon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Attack'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Attack.0"
+        },
+        "DamageTypeHitSound": []
       }
     }
   }

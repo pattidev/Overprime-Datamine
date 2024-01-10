@@ -345,6 +345,30 @@
           "ObjectName": "Texture2D'40101016'",
           "ObjectPath": "Overprime/Content/Textures/Icon/Spell/64/40101016.0"
         }
+      },
+      "19": {
+        "MapType": "EOfficialMapType::EOMT_Agolith",
+        "GameModeType": [
+          "ESelectedGameModeType::ESGMT_Normal",
+          "ESelectedGameModeType::ESGMT_Training",
+          "ESelectedGameModeType::ESGMT_Custom",
+          "ESelectedGameModeType::ESGMT_Ranked",
+          "ESelectedGameModeType::ESGMT_Normal_AI",
+          "ESelectedGameModeType::ESGMT_Fake_AI_2"
+        ],
+        "Positions": [],
+        "SpellID": "40101018",
+        "SkillID": "40101018",
+        "MoviePath": "Movies/Spell/SpellMovie/40101018_Undefeatable.bk2",
+        "CommunityLv": 10,
+        "IconOut": {
+          "ObjectName": "Texture2D'40101018'",
+          "ObjectPath": "Overprime/Content/Textures/Icon/Spell/128/40101018.0"
+        },
+        "IconIn": {
+          "ObjectName": "Texture2D'40101018'",
+          "ObjectPath": "Overprime/Content/Textures/Icon/Spell/64/40101018.0"
+        }
       }
     }
   }

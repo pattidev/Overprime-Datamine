@@ -40,6 +40,21 @@
         "Order": 16,
         "StatCategory": "EStatCategory::Defensive"
       },
+      "3": {
+        "StatType": "EStatusType::Energy",
+        "PrintName": "UI.Stat_Energy",
+        "Description": "UI.Stat_Energy_Desc",
+        "MinValue": 0.0,
+        "MaxValue": 9999.0,
+        "StatBaseFactor": 1.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Value",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_Enegy'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Enegy.0"
+        },
+        "Order": 17,
+        "StatCategory": "EStatCategory::Defensive"
+      },
       "4": {
         "StatType": "EStatusType::HealthRegen",
         "PrintName": "UI.Stat_HealthRegen",
@@ -68,6 +83,21 @@
           "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_Mana_Reg.0"
         },
         "Order": 19,
+        "StatCategory": "EStatCategory::Defensive"
+      },
+      "6": {
+        "StatType": "EStatusType::EnergyRegen",
+        "PrintName": "UI.Stat_EnergyRegen",
+        "Description": "UI.Stat_EnergyRegen_Desc",
+        "MinValue": 0.0,
+        "MaxValue": 999.0,
+        "StatBaseFactor": 1.0,
+        "BaseUnitType": "EStatusUnitType::ESUT_Value",
+        "StatIcon": {
+          "ObjectName": "Texture2D'T_UI_Ingame_Common_Icon_EnegyRegen'",
+          "ObjectPath": "Overprime/Content/UI/Resource/Texture/Ingame/T_UI_Ingame_Common_Icon_EnegyRegen.0"
+        },
+        "Order": 20,
         "StatCategory": "EStatCategory::Defensive"
       },
       "7": {

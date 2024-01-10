@@ -1,0 +1,85 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_Shop_Featured_Recommend",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'OPShopFeaturedRecommendTableRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "101": {
+        "Recommend_Type": "EShopRecommendType::Banner",
+        "Recommend_Arrangement": 1,
+        "Banner_NameKey": "UI.Shop_Banner_CommonNewHero_01_Name",
+        "Banner_DescKey": "UI.Shop_Banner_CommonNewHero_1024_Desc",
+        "Banner_Function_Type": "EShopRecommendBannerFunctionType::Goto_Collection",
+        "Banner_Function_Value": "0",
+        "Banner_Img_Path": "Texture2D'/Game/UI/Resource/Texture/Hero/Boris/1024001/TexT_Hero_Image_Shop_1010.TexT_Hero_Image_Shop_1010'",
+        "ProductID": "20000040"
+      },
+      "201": {
+        "Recommend_Type": "EShopRecommendType::Product",
+        "Recommend_Arrangement": 1,
+        "Banner_NameKey": "0",
+        "Banner_DescKey": "0",
+        "Banner_Function_Type": "EShopRecommendBannerFunctionType::Goto_Collection",
+        "Banner_Function_Value": "0",
+        "Banner_Img_Path": "Texture2D'/Game/UI/Resource/Texture/Hero/Boris/1024006/TexT_Hero_Image_Shop_500.TexT_Hero_Image_Shop_500'",
+        "ProductID": "30000217"
+      },
+      "202": {
+        "Recommend_Type": "EShopRecommendType::Product",
+        "Recommend_Arrangement": 2,
+        "Banner_NameKey": "0",
+        "Banner_DescKey": "0",
+        "Banner_Function_Type": "EShopRecommendBannerFunctionType::Goto_Collection",
+        "Banner_Function_Value": "0",
+        "Banner_Img_Path": "Texture2D'/Game/UI/Resource/Texture/Hero/Maco/1042007/TexT_Hero_Image_Shop_500.TexT_Hero_Image_Shop_500'",
+        "ProductID": "30000219"
+      },
+      "203": {
+        "Recommend_Type": "EShopRecommendType::Product",
+        "Recommend_Arrangement": 3,
+        "Banner_NameKey": "0",
+        "Banner_DescKey": "0",
+        "Banner_Function_Type": "EShopRecommendBannerFunctionType::Goto_Collection",
+        "Banner_Function_Value": "0",
+        "Banner_Img_Path": "Texture2D'/Game/UI/Resource/Texture/Hero/Adel/1018003/TexT_Hero_Image_Shop_500.TexT_Hero_Image_Shop_500'",
+        "ProductID": "30000212"
+      },
+      "204": {
+        "Recommend_Type": "EShopRecommendType::Product",
+        "Recommend_Arrangement": 4,
+        "Banner_NameKey": "0",
+        "Banner_DescKey": "0",
+        "Banner_Function_Type": "EShopRecommendBannerFunctionType::Goto_Collection",
+        "Banner_Function_Value": "0",
+        "Banner_Img_Path": "Texture2D'/Game/UI/Resource/Texture/Hero/Gideon/1012006/TexT_Hero_Image_Shop_500.TexT_Hero_Image_Shop_500'",
+        "ProductID": "30000041"
+      },
+      "205": {
+        "Recommend_Type": "EShopRecommendType::Product",
+        "Recommend_Arrangement": 5,
+        "Banner_NameKey": "0",
+        "Banner_DescKey": "0",
+        "Banner_Function_Type": "EShopRecommendBannerFunctionType::Goto_Collection",
+        "Banner_Function_Value": "0",
+        "Banner_Img_Path": "Texture2D'/Game/UI/Resource/Texture/Hero/Khaimera/1023006/TexT_Hero_Image_Shop_500.TexT_Hero_Image_Shop_500'",
+        "ProductID": "30000115"
+      },
+      "206": {
+        "Recommend_Type": "EShopRecommendType::Product",
+        "Recommend_Arrangement": 6,
+        "Banner_NameKey": "0",
+        "Banner_DescKey": "0",
+        "Banner_Function_Type": "EShopRecommendBannerFunctionType::Goto_Collection",
+        "Banner_Function_Value": "0",
+        "Banner_Img_Path": "Texture2D'/Game/UI/Resource/Texture/Hero/Twin/1002011/TexT_Hero_Image_Shop_500.TexT_Hero_Image_Shop_500'",
+        "ProductID": "30000097"
+      }
+    }
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_PadFeedback_PS",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PadFeedbackRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "SoundID": "BGM_LegacyAgora",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "2": {
+        "SoundID": "BGM_login",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "3": {
+        "SoundID": "BGM_Lobby",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "4": {
+        "SoundID": "BGM_Sound_Mute",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "5": {
+        "SoundID": "BGM_HeroDraft",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "6": {
+        "SoundID": "BGM_Training",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "7": {
+        "SoundID": "BGM_RoundWin",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "8": {
+        "SoundID": "BGM_RoundLose",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "9": {
+        "SoundID": "BGM_Orb_Activated_Ally",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "10": {
+        "SoundID": "BGM_Orb_Activated_Enemy",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "11": {
+        "SoundID": "bgm_systemvoice_all_kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "12": {
+        "SoundID": "Hero_Common_Dunk_ShockWave_Spawn",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "13": {
+        "SoundID": "Hero_Common_Dunk_ShockWave_Spawn_02",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "14": {
+        "SoundID": "Hero_Common_Dunk_ShockWave_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "15": {
+        "SoundID": "Hero_Common_Baby_Spawn",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "16": {
+        "SoundID": "Hero_Common_Baby_Spawn_ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "17": {
+        "SoundID": "Hero_Common_Baby_Spawn_cancel",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "18": {
+        "SoundID": "Hero_Common_Skill_Common_CriticalAttackHit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "19": {
+        "SoundID": "Hero_Common_Skill_Common_TakeHit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "20": {
+        "SoundID": "Hero_Common_Skill_Common_TakeCriticalHit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "21": {
+        "SoundID": "Hero_Common_Portal_Teleport",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "22": {
+        "SoundID": "Monster_Magical_Skill_Reflect_start",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "23": {
+        "SoundID": "Monster_Magical_Skill_Reflect_end",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "24": {
+        "SoundID": "Monster_Foresee_Skill_start",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "25": {
+        "SoundID": "Monster_Foresee_Skill_loop",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "26": {
+        "SoundID": "Monster_Foresee_Skill_end",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "27": {
+        "SoundID": "Monster_Instant_EternalLife",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "28": {
+        "SoundID": "Monster_Spirit_Fire_Meteor_exp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "29": {
+        "SoundID": "Monster_Spirit_Fire_Meteor_explosion",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "30": {
+        "SoundID": "Monster_PrimeGurdian_explosion",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "31": {
+        "SoundID": "sca_tdr_zone_start",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "32": {
+        "SoundID": "sca_tdr_zone_loop",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "33": {
+        "SoundID": "sca_tdr_ingaszone",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "34": {
+        "SoundID": "sca_exp_orb_drop",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "35": {
+        "SoundID": "sca_exp_orb_played",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "36": {
+        "SoundID": "map_gimmick_redmoon_activation",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "37": {
+        "SoundID": "map_gimmick_redmoon_app",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "38": {
+        "SoundID": "map_gimmick_redmoon_cast",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "39": {
+        "SoundID": "map_gimmick_redmoon_loop",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "40": {
+        "SoundID": "map_gimmick_redmoon_end",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "41": {
+        "SoundID": "Hero_TravelMode_Start",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "42": {
+        "SoundID": "Hero_TravelMode_Start_02",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "43": {
+        "SoundID": "Hero_TravelMode_Loop",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "44": {
+        "SoundID": "Hero_TravelMode_End",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "45": {
+        "SoundID": "Hero_JumpPad_Start",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "46": {
+        "SoundID": "Hero_JumpPad_Local_Start",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "47": {
+        "SoundID": "spell_ignition_end",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "48": {
+        "SoundID": "spell_ignition_loop",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "49": {
+        "SoundID": "spell_ignition_start",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "50": {
+        "SoundID": "hero_debuff_stun",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "51": {
+        "SoundID": "SC_Buff_Drop",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "52": {
+        "SoundID": "SCA_Agora_Tower_BaseAttack",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "53": {
+        "SoundID": "tower_debuff_start",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "54": {
+        "SoundID": "tower_debuff_loop",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "55": {
+        "SoundID": "tower_debuff_end",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "56": {
+        "SoundID": "SCA_Agora_Core_BaseAttack_Charge",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "57": {
+        "SoundID": "SCA_Agora_Core_BaseAttack",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "58": {
+        "SoundID": "Global_Common_Battle_Event_001",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "59": {
+        "SoundID": "Global_Common_Battle_Event_002",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "60": {
+        "SoundID": "Global_Common_Battle_Event_003",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "61": {
+        "SoundID": "Global_Common_Battle_Event_004",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "62": {
+        "SoundID": "Global_Common_Battle_Event_005",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "63": {
+        "SoundID": "Global_Common_Battle_Event_006",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "64": {
+        "SoundID": "Global_Common_Battle_Event_007",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "65": {
+        "SoundID": "Global_Common_Battle_Event_008",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "66": {
+        "SoundID": "Global_Common_Battle_Event_009",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "67": {
+        "SoundID": "Global_Common_Battle_Event_010",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "68": {
+        "SoundID": "Global_Common_Battle_Event_011",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "69": {
+        "SoundID": "Global_Common_Battle_Event_012",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "70": {
+        "SoundID": "Global_Common_Battle_Event_013",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "71": {
+        "SoundID": "Global_Common_Battle_Event_014",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "72": {
+        "SoundID": "Global_Common_Battle_Event_015",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "73": {
+        "SoundID": "Global_Common_Battle_Event_016",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "74": {
+        "SoundID": "Global_Common_Battle_Event_017",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "75": {
+        "SoundID": "Global_Common_Battle_Event_018",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "76": {
+        "SoundID": "Global_Common_Battle_Event_019",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "77": {
+        "SoundID": "Global_Common_Battle_Event_020",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "78": {
+        "SoundID": "Global_Common_Battle_Event_021",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "79": {
+        "SoundID": "Global_Common_Battle_Event_022",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "80": {
+        "SoundID": "Global_Common_Battle_Event_023",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "81": {
+        "SoundID": "Global_Common_Battle_Event_024",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "82": {
+        "SoundID": "Global_Common_Battle_Event_025",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "83": {
+        "SoundID": "Global_Common_Battle_Event_026",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "84": {
+        "SoundID": "Global_Common_Battle_Event_027",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "85": {
+        "SoundID": "Global_Common_Battle_Event_028",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "86": {
+        "SoundID": "Global_Common_Battle_Event_029",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "87": {
+        "SoundID": "Global_Common_Battle_Event_030",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "88": {
+        "SoundID": "Global_Common_Battle_Event_031",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "89": {
+        "SoundID": "Global_Common_Battle_Event_032",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "90": {
+        "SoundID": "Global_Common_Battle_Event_033",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "91": {
+        "SoundID": "Global_Common_Battle_Event_034",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "92": {
+        "SoundID": "Global_Common_Battle_Event_035",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "93": {
+        "SoundID": "Global_Common_Battle_Event_036",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "94": {
+        "SoundID": "Global_Common_Battle_Event_037",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "95": {
+        "SoundID": "Global_Common_Battle_Event_038",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "96": {
+        "SoundID": "Global_Common_Battle_Event_039",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "97": {
+        "SoundID": "Global_Common_Battle_Event_040",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "98": {
+        "SoundID": "Global_Common_Battle_Event_041",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "99": {
+        "SoundID": "Global_Common_Battle_Event_042",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "100": {
+        "SoundID": "Global_Common_Battle_Event_043",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      },
+      "101": {
+        "SoundID": "Global_Common_Battle_Event_044",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": false,
+        "PadSoundVolume": 0.0
+      }
+    }
+  }
+]

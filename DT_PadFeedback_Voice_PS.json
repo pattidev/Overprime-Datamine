@@ -1,0 +1,4824 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_PadFeedback_Voice_PS",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PadFeedbackRow'",
+        "ObjectPath": "/Script/Overprime"
+      }
+    },
+    "Rows": {
+      "1": {
+        "SoundID": "Hero_1001001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "2": {
+        "SoundID": "Hero_1001001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "3": {
+        "SoundID": "Hero_1001001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "4": {
+        "SoundID": "Hero_1001001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "5": {
+        "SoundID": "Hero_1001001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "6": {
+        "SoundID": "Hero_1001001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "7": {
+        "SoundID": "Hero_1001001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "8": {
+        "SoundID": "Hero_1001001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "9": {
+        "SoundID": "Hero_1001001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "10": {
+        "SoundID": "Hero_1001001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "11": {
+        "SoundID": "Hero_1001001_Voice_E_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "12": {
+        "SoundID": "Hero_1001001_Skill_10010501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "13": {
+        "SoundID": "Hero_1001001_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "14": {
+        "SoundID": "Hero_1001001_Voice_taunt",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "15": {
+        "SoundID": "Hero_1001001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "16": {
+        "SoundID": "Hero_1001001_Voice_recall_space",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "17": {
+        "SoundID": "Hero_1002001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "18": {
+        "SoundID": "Hero_1002001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "19": {
+        "SoundID": "Hero_1002001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "20": {
+        "SoundID": "Hero_1002001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "21": {
+        "SoundID": "Hero_1002001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "22": {
+        "SoundID": "Hero_1002001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "23": {
+        "SoundID": "Hero_1002001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "24": {
+        "SoundID": "Hero_1002001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "25": {
+        "SoundID": "Hero_1002001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "26": {
+        "SoundID": "Hero_1002001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "27": {
+        "SoundID": "Hero_1002001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "28": {
+        "SoundID": "Hero_1002001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "29": {
+        "SoundID": "Hero_1002001_Skill_10020501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "30": {
+        "SoundID": "Hero_1002001_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "31": {
+        "SoundID": "Hero_1002001_Voice_taunt_2",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "32": {
+        "SoundID": "Hero_1002001_Voice_taunt_3",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "33": {
+        "SoundID": "Hero_1002001_Voice_taunt",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "34": {
+        "SoundID": "Hero_1002001_Voice_taunt_t3",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "35": {
+        "SoundID": "Hero_1002001_Voice_taunt_t3_start",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "36": {
+        "SoundID": "Hero_1002001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "37": {
+        "SoundID": "Hero_1002001_Voice_recall_robo_dk_iii",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "38": {
+        "SoundID": "Hero_1003001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "39": {
+        "SoundID": "Hero_1003001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "40": {
+        "SoundID": "Hero_1003001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "41": {
+        "SoundID": "Hero_1003001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "42": {
+        "SoundID": "Hero_1003001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "43": {
+        "SoundID": "Hero_1003001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "44": {
+        "SoundID": "Hero_1003001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "45": {
+        "SoundID": "Hero_1003001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "46": {
+        "SoundID": "Hero_1003001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "47": {
+        "SoundID": "Hero_1003001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "48": {
+        "SoundID": "Hero_1003001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "49": {
+        "SoundID": "Hero_1003001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "50": {
+        "SoundID": "Hero_1003001_Skill_10030501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "51": {
+        "SoundID": "Hero_1003001_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "52": {
+        "SoundID": "Hero_1003001_Voice_r_ability_land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "53": {
+        "SoundID": "Hero_1003001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "54": {
+        "SoundID": "Hero_1004001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "55": {
+        "SoundID": "Hero_1004001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "56": {
+        "SoundID": "Hero_1004001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "57": {
+        "SoundID": "Hero_1004001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "58": {
+        "SoundID": "Hero_1004001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "59": {
+        "SoundID": "Hero_1004001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "60": {
+        "SoundID": "Hero_1004001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "61": {
+        "SoundID": "Hero_1004001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "62": {
+        "SoundID": "Hero_1004001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "63": {
+        "SoundID": "Hero_1004001_Voice_lmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "64": {
+        "SoundID": "Hero_1004001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "65": {
+        "SoundID": "Hero_1004001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "66": {
+        "SoundID": "Hero_1004001_Voice_q_ability_primary",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "67": {
+        "SoundID": "Hero_1004001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "68": {
+        "SoundID": "Hero_1004001_Skill_10040501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "69": {
+        "SoundID": "Hero_1004001_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "70": {
+        "SoundID": "Hero_1004001_Voice_taunt",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "71": {
+        "SoundID": "Hero_1004001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "72": {
+        "SoundID": "Hero_1005001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "73": {
+        "SoundID": "Hero_1005001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "74": {
+        "SoundID": "Hero_1005001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "75": {
+        "SoundID": "Hero_1005001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "76": {
+        "SoundID": "Hero_1005001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "77": {
+        "SoundID": "Hero_1005001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "78": {
+        "SoundID": "Hero_1005001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "79": {
+        "SoundID": "Hero_1005001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "80": {
+        "SoundID": "Hero_1005001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "81": {
+        "SoundID": "Hero_1005001_Voice_lmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "82": {
+        "SoundID": "Hero_1005001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "83": {
+        "SoundID": "Hero_1005001_Skill_10050301_start_voice",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "84": {
+        "SoundID": "Hero_1005001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "85": {
+        "SoundID": "Hero_1005001_Skill_10050501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "86": {
+        "SoundID": "Hero_1005001_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "87": {
+        "SoundID": "Hero_1005001_Voice_emote",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "88": {
+        "SoundID": "Hero_1005001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "89": {
+        "SoundID": "Hero_1006001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "90": {
+        "SoundID": "Hero_1006001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "91": {
+        "SoundID": "Hero_1006001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "92": {
+        "SoundID": "Hero_1006001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "93": {
+        "SoundID": "Hero_1006001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "94": {
+        "SoundID": "Hero_1006001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "95": {
+        "SoundID": "Hero_1006001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "96": {
+        "SoundID": "Hero_1006001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "97": {
+        "SoundID": "Hero_1006001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "98": {
+        "SoundID": "Hero_1006001_Voice_lmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "99": {
+        "SoundID": "Hero_1006001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "100": {
+        "SoundID": "Hero_1006001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "101": {
+        "SoundID": "Hero_1006001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "102": {
+        "SoundID": "Hero_1006001_Skill_10060501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "103": {
+        "SoundID": "Hero_1006001_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "104": {
+        "SoundID": "Hero_1006001_Voice_taunt",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "105": {
+        "SoundID": "Hero_1006001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "106": {
+        "SoundID": "Hero_1007001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "107": {
+        "SoundID": "Hero_1007001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "108": {
+        "SoundID": "Hero_1007001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "109": {
+        "SoundID": "Hero_1007001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "110": {
+        "SoundID": "Hero_1007001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "111": {
+        "SoundID": "Hero_1007001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "112": {
+        "SoundID": "Hero_1007001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "113": {
+        "SoundID": "Hero_1007001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "114": {
+        "SoundID": "Hero_1007001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "115": {
+        "SoundID": "Hero_1007001_Voice_lmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "116": {
+        "SoundID": "Hero_1007001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "117": {
+        "SoundID": "Hero_1007001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "118": {
+        "SoundID": "Hero_1007001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "119": {
+        "SoundID": "Hero_1007001_Skill_10070501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "120": {
+        "SoundID": "Hero_1007001_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "121": {
+        "SoundID": "Hero_1007001_Voice_laugh",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "122": {
+        "SoundID": "Hero_1007001_Voice_taunt",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "123": {
+        "SoundID": "Hero_1007001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "124": {
+        "SoundID": "Hero_1008001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "125": {
+        "SoundID": "Hero_1008001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "126": {
+        "SoundID": "Hero_1008001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "127": {
+        "SoundID": "Hero_1008001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "128": {
+        "SoundID": "Hero_1008001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "129": {
+        "SoundID": "Hero_1008001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "130": {
+        "SoundID": "Hero_1008001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "131": {
+        "SoundID": "Hero_1008001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "132": {
+        "SoundID": "Hero_1008001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "133": {
+        "SoundID": "Hero_1008001_Skill_1008010501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "134": {
+        "SoundID": "Hero_1008001_Voice_lmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "135": {
+        "SoundID": "Hero_1008001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "136": {
+        "SoundID": "Hero_1008001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "137": {
+        "SoundID": "Hero_1008001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "138": {
+        "SoundID": "Hero_1008001_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "139": {
+        "SoundID": "Hero_1008001_Voice_taunt",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "140": {
+        "SoundID": "Hero_1008001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "141": {
+        "SoundID": "Hero_1009001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "142": {
+        "SoundID": "Hero_1009001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "143": {
+        "SoundID": "Hero_1009001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "144": {
+        "SoundID": "Hero_1009001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "145": {
+        "SoundID": "Hero_1009001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "146": {
+        "SoundID": "Hero_1009001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "147": {
+        "SoundID": "Hero_1009001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "148": {
+        "SoundID": "Hero_1009001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "149": {
+        "SoundID": "Hero_1009001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "150": {
+        "SoundID": "Hero_1009001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "151": {
+        "SoundID": "Hero_1009001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "152": {
+        "SoundID": "Hero_1009001_Skill_1009010401_start_voice",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "153": {
+        "SoundID": "Hero_1009001_Skill_10090501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "154": {
+        "SoundID": "Hero_1009001_Skill_10090501_start_voice",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "155": {
+        "SoundID": "Hero_1009001_Voice_emote",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "156": {
+        "SoundID": "Hero_1009001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "157": {
+        "SoundID": "Hero_1010001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "158": {
+        "SoundID": "Hero_1010001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "159": {
+        "SoundID": "Hero_1010001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "160": {
+        "SoundID": "Hero_1010001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "161": {
+        "SoundID": "Hero_1010001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "162": {
+        "SoundID": "Hero_1010001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "163": {
+        "SoundID": "Hero_1010001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "164": {
+        "SoundID": "Hero_1010001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "165": {
+        "SoundID": "Hero_1010001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "166": {
+        "SoundID": "Hero_1010001_Voice_lmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "167": {
+        "SoundID": "Hero_1010001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "168": {
+        "SoundID": "Hero_1010001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "169": {
+        "SoundID": "Hero_1010001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "170": {
+        "SoundID": "Hero_1010001_Skill_10100501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "171": {
+        "SoundID": "Hero_1010001_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "172": {
+        "SoundID": "Hero_1010001_Voice_taunt",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "173": {
+        "SoundID": "Hero_1010001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "174": {
+        "SoundID": "Hero_1011001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "175": {
+        "SoundID": "Hero_1011001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "176": {
+        "SoundID": "Hero_1011001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "177": {
+        "SoundID": "Hero_1011001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "178": {
+        "SoundID": "Hero_1011001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "179": {
+        "SoundID": "Hero_1011001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "180": {
+        "SoundID": "Hero_1011001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "181": {
+        "SoundID": "Hero_1011001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "182": {
+        "SoundID": "Hero_1011001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "183": {
+        "SoundID": "Hero_1011001_Voice_lmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "184": {
+        "SoundID": "Hero_1011001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "185": {
+        "SoundID": "Hero_1011001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "186": {
+        "SoundID": "Hero_1011001_Skill_10110501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "187": {
+        "SoundID": "Hero_1011001_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "188": {
+        "SoundID": "Hero_1011001_Voice_emote",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "189": {
+        "SoundID": "Hero_1011001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "190": {
+        "SoundID": "Hero_1012001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "191": {
+        "SoundID": "Hero_1012001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "192": {
+        "SoundID": "Hero_1012001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "193": {
+        "SoundID": "Hero_1012001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "194": {
+        "SoundID": "Hero_1012001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "195": {
+        "SoundID": "Hero_1012001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "196": {
+        "SoundID": "Hero_1012001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "197": {
+        "SoundID": "Hero_1012001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "198": {
+        "SoundID": "Hero_1012001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "199": {
+        "SoundID": "Hero_1012001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "200": {
+        "SoundID": "Hero_1012001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "201": {
+        "SoundID": "Hero_1012001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "202": {
+        "SoundID": "Hero_1012001_Skill_10120501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "203": {
+        "SoundID": "Hero_1012001_Voice_r_ability_1",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "204": {
+        "SoundID": "Hero_1012001_Voice_r_ability_2",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "205": {
+        "SoundID": "Hero_1012001_Voice_taunt",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "206": {
+        "SoundID": "Hero_1012001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "207": {
+        "SoundID": "Hero_1013001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "208": {
+        "SoundID": "Hero_1013001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "209": {
+        "SoundID": "Hero_1013001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "210": {
+        "SoundID": "Hero_1013001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "211": {
+        "SoundID": "Hero_1013001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "212": {
+        "SoundID": "Hero_1013001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "213": {
+        "SoundID": "Hero_1013001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "214": {
+        "SoundID": "Hero_1013001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "215": {
+        "SoundID": "Hero_1013001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "216": {
+        "SoundID": "Hero_1013001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "217": {
+        "SoundID": "Hero_1013001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "218": {
+        "SoundID": "Hero_1013001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "219": {
+        "SoundID": "Hero_1013001_Skill_10130501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "220": {
+        "SoundID": "Hero_1013001_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "221": {
+        "SoundID": "Hero_1013001_Voice_taunt",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "222": {
+        "SoundID": "Hero_1013001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "223": {
+        "SoundID": "Hero_1014001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "224": {
+        "SoundID": "Hero_1014001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "225": {
+        "SoundID": "Hero_1014001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "226": {
+        "SoundID": "Hero_1014001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "227": {
+        "SoundID": "Hero_1014001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "228": {
+        "SoundID": "Hero_1014001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "229": {
+        "SoundID": "Hero_1014001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "230": {
+        "SoundID": "Hero_1014001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "231": {
+        "SoundID": "Hero_1014001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "232": {
+        "SoundID": "Hero_1014001_Voice_lmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "233": {
+        "SoundID": "Hero_1014001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "234": {
+        "SoundID": "Hero_1014001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "235": {
+        "SoundID": "Hero_1014001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "236": {
+        "SoundID": "Hero_1014001_Skill_10140501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "237": {
+        "SoundID": "Hero_1014001_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "238": {
+        "SoundID": "Hero_1015001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "239": {
+        "SoundID": "Hero_1015001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "240": {
+        "SoundID": "Hero_1015001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "241": {
+        "SoundID": "Hero_1015001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "242": {
+        "SoundID": "Hero_1015001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "243": {
+        "SoundID": "Hero_1015001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "244": {
+        "SoundID": "Hero_1015001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "245": {
+        "SoundID": "Hero_1015001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "246": {
+        "SoundID": "Hero_1015001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "247": {
+        "SoundID": "Hero_1015001_Skill_10150501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "248": {
+        "SoundID": "Hero_1015001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "249": {
+        "SoundID": "Hero_1015001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "250": {
+        "SoundID": "Hero_1015001_Voice_e_ability_1",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "251": {
+        "SoundID": "Hero_1015001_Voice_e_ability_2",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "252": {
+        "SoundID": "Hero_1015001_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "253": {
+        "SoundID": "Hero_1015001_Voice_laugh",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "254": {
+        "SoundID": "Hero_1015001_Voice_taunt",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "255": {
+        "SoundID": "Hero_1015001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "256": {
+        "SoundID": "Hero_1016001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "257": {
+        "SoundID": "Hero_1016001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "258": {
+        "SoundID": "Hero_1016001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "259": {
+        "SoundID": "Hero_1016001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "260": {
+        "SoundID": "Hero_1016001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "261": {
+        "SoundID": "Hero_1016001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "262": {
+        "SoundID": "Hero_1016001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "263": {
+        "SoundID": "Hero_1016001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "264": {
+        "SoundID": "Hero_1016001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "265": {
+        "SoundID": "Hero_1016001_Voice_lmb_attack",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "266": {
+        "SoundID": "Hero_1016001_Skill_10160501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "267": {
+        "SoundID": "Hero_1016001_Voice_lmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "268": {
+        "SoundID": "Hero_1016001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "269": {
+        "SoundID": "Hero_1016001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "270": {
+        "SoundID": "Hero_1016001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "271": {
+        "SoundID": "Hero_1016001_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "272": {
+        "SoundID": "Hero_1016001_Voice_taunt",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "273": {
+        "SoundID": "Hero_1016001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "274": {
+        "SoundID": "Hero_1017001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "275": {
+        "SoundID": "Hero_1017001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "276": {
+        "SoundID": "Hero_1017001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "277": {
+        "SoundID": "Hero_1017001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "278": {
+        "SoundID": "Hero_1017001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "279": {
+        "SoundID": "Hero_1017001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "280": {
+        "SoundID": "Hero_1017001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "281": {
+        "SoundID": "Hero_1017001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "282": {
+        "SoundID": "Hero_1017001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "283": {
+        "SoundID": "Hero_1017001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "284": {
+        "SoundID": "Hero_1017001_Voice_rmb_ability_pull",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "285": {
+        "SoundID": "Hero_1017001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "286": {
+        "SoundID": "Hero_1017001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "287": {
+        "SoundID": "Hero_1017001_Skill_10170501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "288": {
+        "SoundID": "Hero_1017001_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "289": {
+        "SoundID": "Hero_1017001_Voice_taunt_1",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "290": {
+        "SoundID": "Hero_1017001_Voice_taunt_2",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "291": {
+        "SoundID": "Hero_1017001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "292": {
+        "SoundID": "Hero_1018001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "293": {
+        "SoundID": "Hero_1018001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "294": {
+        "SoundID": "Hero_1018001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "295": {
+        "SoundID": "Hero_1018001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "296": {
+        "SoundID": "Hero_1018001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "297": {
+        "SoundID": "Hero_1018001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "298": {
+        "SoundID": "Hero_1018001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "299": {
+        "SoundID": "Hero_1018001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "300": {
+        "SoundID": "Hero_1018001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "301": {
+        "SoundID": "Hero_1018001_Voice_lmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "302": {
+        "SoundID": "Hero_1018001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "303": {
+        "SoundID": "Hero_1018001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "304": {
+        "SoundID": "Hero_1018001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "305": {
+        "SoundID": "Hero_1018001_Skill_1018010501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "306": {
+        "SoundID": "Hero_1018001_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "307": {
+        "SoundID": "Hero_1018001_Voice_laugh",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "308": {
+        "SoundID": "Hero_1018001_Voice_taunt",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "309": {
+        "SoundID": "Hero_1018001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "310": {
+        "SoundID": "Hero_1019001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "311": {
+        "SoundID": "Hero_1019001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "312": {
+        "SoundID": "Hero_1019001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "313": {
+        "SoundID": "Hero_1019001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "314": {
+        "SoundID": "Hero_1019001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "315": {
+        "SoundID": "Hero_1019001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "316": {
+        "SoundID": "Hero_1019001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "317": {
+        "SoundID": "Hero_1019001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "318": {
+        "SoundID": "Hero_1019001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "319": {
+        "SoundID": "Hero_1019001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "320": {
+        "SoundID": "Hero_1019001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "321": {
+        "SoundID": "Hero_1019001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "322": {
+        "SoundID": "Hero_1019001_Skill_10190501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "323": {
+        "SoundID": "Hero_1019001_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "324": {
+        "SoundID": "Hero_1019001_Voice_emote",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "325": {
+        "SoundID": "Hero_1019001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "326": {
+        "SoundID": "Hero_1020001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "327": {
+        "SoundID": "Hero_1020001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "328": {
+        "SoundID": "Hero_1020001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "329": {
+        "SoundID": "Hero_1020001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "330": {
+        "SoundID": "Hero_1020001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "331": {
+        "SoundID": "Hero_1020001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "332": {
+        "SoundID": "Hero_1020001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "333": {
+        "SoundID": "Hero_1020001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "334": {
+        "SoundID": "Hero_1020001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "335": {
+        "SoundID": "Hero_1020001_Voice_lmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "336": {
+        "SoundID": "Hero_1020001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "337": {
+        "SoundID": "Hero_1020001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "338": {
+        "SoundID": "Hero_1020001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "339": {
+        "SoundID": "Hero_1020001_Skill_10200501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "340": {
+        "SoundID": "Hero_1020001_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "341": {
+        "SoundID": "Hero_1020001_Voice_emote",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "342": {
+        "SoundID": "Hero_1020001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "343": {
+        "SoundID": "Hero_1021001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "344": {
+        "SoundID": "Hero_1021001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "345": {
+        "SoundID": "Hero_1021001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "346": {
+        "SoundID": "Hero_1021001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "347": {
+        "SoundID": "Hero_1021001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "348": {
+        "SoundID": "Hero_1021001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "349": {
+        "SoundID": "Hero_1021001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "350": {
+        "SoundID": "Hero_1021001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "351": {
+        "SoundID": "Hero_1021001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "352": {
+        "SoundID": "Hero_1021001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "353": {
+        "SoundID": "Hero_1021001_Voice_q_ability_shot",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "354": {
+        "SoundID": "Hero_1021001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "355": {
+        "SoundID": "Hero_1021001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "356": {
+        "SoundID": "Hero_1021001_Skill_10210501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "357": {
+        "SoundID": "Hero_1021001_Voice_r_ability_exe",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "358": {
+        "SoundID": "Hero_1021001_Voice_r_ability_grim",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "359": {
+        "SoundID": "Hero_1021001_Voice_emote",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "360": {
+        "SoundID": "Hero_1021001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "361": {
+        "SoundID": "Hero_1022001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "362": {
+        "SoundID": "Hero_1022001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "363": {
+        "SoundID": "Hero_1022001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "364": {
+        "SoundID": "Hero_1022001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "365": {
+        "SoundID": "Hero_1022001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "366": {
+        "SoundID": "Hero_1022001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "367": {
+        "SoundID": "Hero_1022001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "368": {
+        "SoundID": "Hero_1022001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "369": {
+        "SoundID": "Hero_1022001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "370": {
+        "SoundID": "Hero_1022001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "371": {
+        "SoundID": "Hero_1022001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "372": {
+        "SoundID": "Hero_1022001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "373": {
+        "SoundID": "Hero_1022001_Skill_10220501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "374": {
+        "SoundID": "Hero_1022001_Voice_r_ability_1",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "375": {
+        "SoundID": "Hero_1022001_Voice_r_ability_2",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "376": {
+        "SoundID": "Hero_1022001_Voice_emote",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "377": {
+        "SoundID": "Hero_1022001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "378": {
+        "SoundID": "Hero_1023001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "379": {
+        "SoundID": "Hero_1023001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "380": {
+        "SoundID": "Hero_1023001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "381": {
+        "SoundID": "Hero_1023001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "382": {
+        "SoundID": "Hero_1023001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "383": {
+        "SoundID": "Hero_1023001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "384": {
+        "SoundID": "Hero_1023001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "385": {
+        "SoundID": "Hero_1023001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "386": {
+        "SoundID": "Hero_1023001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "387": {
+        "SoundID": "Hero_1023001_Voice_lmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "388": {
+        "SoundID": "Hero_1023001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "389": {
+        "SoundID": "Hero_1023001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "390": {
+        "SoundID": "Hero_1023001_Skill_10230501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "391": {
+        "SoundID": "Hero_1023001_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "392": {
+        "SoundID": "Hero_1023001_Voice_taunt",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "393": {
+        "SoundID": "Hero_1023001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "394": {
+        "SoundID": "Hero_1024001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "395": {
+        "SoundID": "Hero_1024001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "396": {
+        "SoundID": "Hero_1024001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "397": {
+        "SoundID": "Hero_1024001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "398": {
+        "SoundID": "Hero_1024001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "399": {
+        "SoundID": "Hero_1024001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "400": {
+        "SoundID": "Hero_1024001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "401": {
+        "SoundID": "Hero_1024001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "402": {
+        "SoundID": "Hero_1024001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "403": {
+        "SoundID": "Hero_1024001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "404": {
+        "SoundID": "Hero_1024001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "405": {
+        "SoundID": "Hero_1024001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "406": {
+        "SoundID": "Hero_1024001_Skill_10240501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "407": {
+        "SoundID": "Hero_1024001_Voice_r_ability_1",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "408": {
+        "SoundID": "Hero_1024001_Voice_r_ability_2",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "409": {
+        "SoundID": "Hero_1024001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "410": {
+        "SoundID": "Hero_1025001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "411": {
+        "SoundID": "Hero_1025001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "412": {
+        "SoundID": "Hero_1025001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "413": {
+        "SoundID": "Hero_1025001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "414": {
+        "SoundID": "Hero_1025001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "415": {
+        "SoundID": "Hero_1025001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "416": {
+        "SoundID": "Hero_1025001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "417": {
+        "SoundID": "Hero_1025001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "418": {
+        "SoundID": "Hero_1025001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "419": {
+        "SoundID": "Hero_1025001_Voice_lmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "420": {
+        "SoundID": "Hero_1025001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "421": {
+        "SoundID": "Hero_1025001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "422": {
+        "SoundID": "Hero_1025001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "423": {
+        "SoundID": "Hero_1025001_Skill_10250501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "424": {
+        "SoundID": "Hero_1025001_Voice_r_ability_1",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "425": {
+        "SoundID": "Hero_1025001_Voice_r_ability_2",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "426": {
+        "SoundID": "Hero_1025001_Voice_emote",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "427": {
+        "SoundID": "Hero_1025001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "428": {
+        "SoundID": "Hero_1026001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "429": {
+        "SoundID": "Hero_1026001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "430": {
+        "SoundID": "Hero_1026001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "431": {
+        "SoundID": "Hero_1026001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "432": {
+        "SoundID": "Hero_1026001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "433": {
+        "SoundID": "Hero_1026001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "434": {
+        "SoundID": "Hero_1026001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "435": {
+        "SoundID": "Hero_1026001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "436": {
+        "SoundID": "Hero_1026001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "437": {
+        "SoundID": "Hero_1026001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "438": {
+        "SoundID": "Hero_1026001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "439": {
+        "SoundID": "Hero_1026001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "440": {
+        "SoundID": "Hero_1026001_Skill_10260501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "441": {
+        "SoundID": "Hero_1026001_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "442": {
+        "SoundID": "Hero_1026001_Voice_emote",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "443": {
+        "SoundID": "Hero_1026001_Voice_emote_2",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "444": {
+        "SoundID": "Hero_1026001_Voice_emote_taunt",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "445": {
+        "SoundID": "Hero_1026001_Voice_emote_laugh",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "446": {
+        "SoundID": "Hero_1026001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "447": {
+        "SoundID": "Hero_1027001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "448": {
+        "SoundID": "Hero_1027001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "449": {
+        "SoundID": "Hero_1027001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "450": {
+        "SoundID": "Hero_1027001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "451": {
+        "SoundID": "Hero_1027001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "452": {
+        "SoundID": "Hero_1027001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "453": {
+        "SoundID": "Hero_1027001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "454": {
+        "SoundID": "Hero_1027001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "455": {
+        "SoundID": "Hero_1027001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "456": {
+        "SoundID": "Hero_1027001_Voice_lmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "457": {
+        "SoundID": "Hero_1027001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "458": {
+        "SoundID": "Hero_1027001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "459": {
+        "SoundID": "Hero_1027001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "460": {
+        "SoundID": "Hero_1027001_Skill_10270501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "461": {
+        "SoundID": "Hero_1027001_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "462": {
+        "SoundID": "Hero_1027001_Voice_emote",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "463": {
+        "SoundID": "Hero_1027001_Voice_emote_2",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "464": {
+        "SoundID": "Hero_1027001_Voice_emote_laugh",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "465": {
+        "SoundID": "Hero_1027001_Voice_emote_nope",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "466": {
+        "SoundID": "Hero_1027001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "467": {
+        "SoundID": "Hero_1028001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "468": {
+        "SoundID": "Hero_1028001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "469": {
+        "SoundID": "Hero_1028001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "470": {
+        "SoundID": "Hero_1028001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "471": {
+        "SoundID": "Hero_1028001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "472": {
+        "SoundID": "Hero_1028001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "473": {
+        "SoundID": "Hero_1028001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "474": {
+        "SoundID": "Hero_1028001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "475": {
+        "SoundID": "Hero_1028001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "476": {
+        "SoundID": "Hero_1028001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "477": {
+        "SoundID": "Hero_1028001_Voice_rmb_ability_land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "478": {
+        "SoundID": "Hero_1028001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "479": {
+        "SoundID": "Hero_1028001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "480": {
+        "SoundID": "Hero_1028001_Skill_10280501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "481": {
+        "SoundID": "Hero_1028001_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "482": {
+        "SoundID": "Hero_1028001_Voice_emote",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "483": {
+        "SoundID": "Hero_1028001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "484": {
+        "SoundID": "Hero_1029001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "485": {
+        "SoundID": "Hero_1029001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "486": {
+        "SoundID": "Hero_1029001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "487": {
+        "SoundID": "Hero_1029001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "488": {
+        "SoundID": "Hero_1029001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "489": {
+        "SoundID": "Hero_1029001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "490": {
+        "SoundID": "Hero_1029001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "491": {
+        "SoundID": "Hero_1029001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "492": {
+        "SoundID": "Hero_1029001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "493": {
+        "SoundID": "Hero_1029001_Voice_lmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "494": {
+        "SoundID": "Hero_1029001_Voice_rmb_ability_jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "495": {
+        "SoundID": "Hero_1029001_Voice_rmb_ability_land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "496": {
+        "SoundID": "Hero_1029001_Voice_q_ability_1",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "497": {
+        "SoundID": "Hero_1029001_Voice_q_ability_2",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "498": {
+        "SoundID": "Hero_1029001_Skill_1029010501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "499": {
+        "SoundID": "Hero_1029001_Voice_r_ability_1",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "500": {
+        "SoundID": "Hero_1029001_Voice_r_ability_2",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "501": {
+        "SoundID": "Hero_1029001_Voice_emote",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "502": {
+        "SoundID": "Hero_1029001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "503": {
+        "SoundID": "Hero_1030001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "504": {
+        "SoundID": "Hero_1030001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "505": {
+        "SoundID": "Hero_1030001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "506": {
+        "SoundID": "Hero_1030001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "507": {
+        "SoundID": "Hero_1030001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "508": {
+        "SoundID": "Hero_1030001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "509": {
+        "SoundID": "Hero_1030001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "510": {
+        "SoundID": "Hero_1030001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "511": {
+        "SoundID": "Hero_1030001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "512": {
+        "SoundID": "Hero_1030001_Voice_lmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "513": {
+        "SoundID": "Hero_1030001_Voice_rmb_ability_Charging",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "514": {
+        "SoundID": "Hero_1030001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "515": {
+        "SoundID": "Hero_1030001_Voice_q_ability_attack",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "516": {
+        "SoundID": "Hero_1030001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "517": {
+        "SoundID": "Hero_1030001_Voice_e_ability_attack",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "518": {
+        "SoundID": "Hero_1030001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "519": {
+        "SoundID": "Hero_1030001_Skill_1030010501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "520": {
+        "SoundID": "Hero_1030001_Skill_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "521": {
+        "SoundID": "Hero_1030001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "522": {
+        "SoundID": "Hero_1031001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "523": {
+        "SoundID": "Hero_1031001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "524": {
+        "SoundID": "Hero_1031001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "525": {
+        "SoundID": "Hero_1031001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "526": {
+        "SoundID": "Hero_1031001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "527": {
+        "SoundID": "Hero_1031001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "528": {
+        "SoundID": "Hero_1031001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "529": {
+        "SoundID": "Hero_1031001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "530": {
+        "SoundID": "Hero_1031001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "531": {
+        "SoundID": "Hero_1031001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "532": {
+        "SoundID": "Hero_1031001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "533": {
+        "SoundID": "Hero_1031001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "534": {
+        "SoundID": "Hero_1031001_Skill_1031010501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "535": {
+        "SoundID": "Hero_1031001_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "536": {
+        "SoundID": "Hero_1031001_Voice_taunt",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "537": {
+        "SoundID": "Hero_1031001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "538": {
+        "SoundID": "Hero_1032001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "539": {
+        "SoundID": "Hero_1032001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "540": {
+        "SoundID": "Hero_1032001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "541": {
+        "SoundID": "Hero_1032001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "542": {
+        "SoundID": "Hero_1032001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "543": {
+        "SoundID": "Hero_1032001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "544": {
+        "SoundID": "Hero_1032001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "545": {
+        "SoundID": "Hero_1032001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "546": {
+        "SoundID": "Hero_1032001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "547": {
+        "SoundID": "Hero_1032001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "548": {
+        "SoundID": "Hero_1032001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "549": {
+        "SoundID": "Hero_1032001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "550": {
+        "SoundID": "Hero_1032001_Skill_1032010501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "551": {
+        "SoundID": "Hero_1032001_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "552": {
+        "SoundID": "Hero_1032001_Voice_taunt",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "553": {
+        "SoundID": "Hero_1032001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "554": {
+        "SoundID": "Hero_1033001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "555": {
+        "SoundID": "Hero_1033001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "556": {
+        "SoundID": "Hero_1033001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "557": {
+        "SoundID": "Hero_1033001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "558": {
+        "SoundID": "Hero_1033001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "559": {
+        "SoundID": "Hero_1033001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "560": {
+        "SoundID": "Hero_1033001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "561": {
+        "SoundID": "Hero_1033001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "562": {
+        "SoundID": "Hero_1033001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "563": {
+        "SoundID": "Hero_1033001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "564": {
+        "SoundID": "Hero_1033001_Voice_rmb_ability_shot",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "565": {
+        "SoundID": "Hero_1033001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "566": {
+        "SoundID": "Hero_1033001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "567": {
+        "SoundID": "Hero_1033001_Skill_1033010501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "568": {
+        "SoundID": "Hero_1033001_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "569": {
+        "SoundID": "Hero_1033001_Voice_taunt",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "570": {
+        "SoundID": "Hero_1033001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "571": {
+        "SoundID": "Hero_1034001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "572": {
+        "SoundID": "Hero_1034001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "573": {
+        "SoundID": "Hero_1034001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "574": {
+        "SoundID": "Hero_1034001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "575": {
+        "SoundID": "Hero_1034001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "576": {
+        "SoundID": "Hero_1034001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "577": {
+        "SoundID": "Hero_1034001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "578": {
+        "SoundID": "Hero_1034001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "579": {
+        "SoundID": "Hero_1034001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "580": {
+        "SoundID": "Hero_1034001_Voice_lmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "581": {
+        "SoundID": "Hero_1034001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "582": {
+        "SoundID": "Hero_1034001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "583": {
+        "SoundID": "Hero_1034001_Voice_q_ability_attack",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "584": {
+        "SoundID": "Hero_1034001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "585": {
+        "SoundID": "Hero_1034001_Voice_e_ability_attack",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "586": {
+        "SoundID": "Hero_1034001_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "587": {
+        "SoundID": "Hero_1034001_Skill_1034010501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "588": {
+        "SoundID": "Hero_1034001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "589": {
+        "SoundID": "Hero_1035001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "590": {
+        "SoundID": "Hero_1035001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "591": {
+        "SoundID": "Hero_1035001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "592": {
+        "SoundID": "Hero_1035001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "593": {
+        "SoundID": "Hero_1035001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "594": {
+        "SoundID": "Hero_1035001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "595": {
+        "SoundID": "Hero_1035001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "596": {
+        "SoundID": "Hero_1035001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "597": {
+        "SoundID": "Hero_1035001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "598": {
+        "SoundID": "Hero_1035001_Skill_1034010501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "599": {
+        "SoundID": "Hero_1035001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "600": {
+        "SoundID": "Hero_1036001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "601": {
+        "SoundID": "Hero_1036001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "602": {
+        "SoundID": "Hero_1036001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "603": {
+        "SoundID": "Hero_1036001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "604": {
+        "SoundID": "Hero_1036001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "605": {
+        "SoundID": "Hero_1036001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "606": {
+        "SoundID": "Hero_1036001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "607": {
+        "SoundID": "Hero_1036001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "608": {
+        "SoundID": "Hero_1036001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "609": {
+        "SoundID": "Hero_1036001_Voice_lmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "610": {
+        "SoundID": "Hero_1036001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "611": {
+        "SoundID": "Hero_1036001_Voice_rmb_ability_attack",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "612": {
+        "SoundID": "Hero_1036001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "613": {
+        "SoundID": "Hero_1036001_Voice_q_ability_attack",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "614": {
+        "SoundID": "Hero_1036001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "615": {
+        "SoundID": "Hero_1036001_Skill_1036010501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "616": {
+        "SoundID": "Hero_1036001_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "617": {
+        "SoundID": "Hero_1036001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "618": {
+        "SoundID": "Hero_1037001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "619": {
+        "SoundID": "Hero_1037001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "620": {
+        "SoundID": "Hero_1037001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "621": {
+        "SoundID": "Hero_1037001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "622": {
+        "SoundID": "Hero_1037001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "623": {
+        "SoundID": "Hero_1037001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "624": {
+        "SoundID": "Hero_1037001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "625": {
+        "SoundID": "Hero_1037001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "626": {
+        "SoundID": "Hero_1037001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "627": {
+        "SoundID": "Hero_1037001_Voice_lmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "628": {
+        "SoundID": "Hero_1037001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "629": {
+        "SoundID": "Hero_1037001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "630": {
+        "SoundID": "Hero_1037001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "631": {
+        "SoundID": "Hero_1037001_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "632": {
+        "SoundID": "Hero_1037001_Skill_1037010501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "633": {
+        "SoundID": "Hero_1037001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "634": {
+        "SoundID": "Hero_1040001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "635": {
+        "SoundID": "Hero_1040001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "636": {
+        "SoundID": "Hero_1040001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "637": {
+        "SoundID": "Hero_1040001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "638": {
+        "SoundID": "Hero_1040001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "639": {
+        "SoundID": "Hero_1040001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "640": {
+        "SoundID": "Hero_1040001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "641": {
+        "SoundID": "Hero_1040001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "642": {
+        "SoundID": "Hero_1040001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "643": {
+        "SoundID": "Hero_1040001_Voice_lmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "644": {
+        "SoundID": "Hero_1040001_Voice_rmb_normal",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "645": {
+        "SoundID": "Hero_1040001_Voice_rmb_empowered",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "646": {
+        "SoundID": "Hero_1040001_Voice_q_normal",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "647": {
+        "SoundID": "Hero_1040001_Voice_q_empowered",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "648": {
+        "SoundID": "Hero_1040001_Voice_e_normal",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "649": {
+        "SoundID": "Hero_1040001_Voice_e_empowered",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "650": {
+        "SoundID": "Hero_1040001_Skill_1040010501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "651": {
+        "SoundID": "Hero_1040001_Voice_r_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "652": {
+        "SoundID": "Hero_1040001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "653": {
+        "SoundID": "Hero_1042001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "654": {
+        "SoundID": "Hero_1042001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "655": {
+        "SoundID": "Hero_1042001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "656": {
+        "SoundID": "Hero_1042001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "657": {
+        "SoundID": "Hero_1042001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "658": {
+        "SoundID": "Hero_1042001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "659": {
+        "SoundID": "Hero_1042001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "660": {
+        "SoundID": "Hero_1042001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "661": {
+        "SoundID": "Hero_1042001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "662": {
+        "SoundID": "Hero_1042001_Voice_lmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "663": {
+        "SoundID": "Hero_1042001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "664": {
+        "SoundID": "Hero_1042001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "665": {
+        "SoundID": "Hero_1042001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "666": {
+        "SoundID": "Hero_1042001_Skill_1042010501_Ready",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "667": {
+        "SoundID": "Hero_1042001_Voice_r_ability_start",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "668": {
+        "SoundID": "Hero_1042001_Voice_r_ability_charge02",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "669": {
+        "SoundID": "Hero_1042001_Voice_r_ability_end",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "670": {
+        "SoundID": "Hero_1042001_Voice_taunt",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "671": {
+        "SoundID": "Hero_1042001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "672": {
+        "SoundID": "Hero_1043001_Voice_Clothes",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "673": {
+        "SoundID": "Hero_1043001_Voice_Kill",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "674": {
+        "SoundID": "Hero_1043001_Voice_Death",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "675": {
+        "SoundID": "Hero_1043001_Voice_Jump",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "676": {
+        "SoundID": "Hero_1043001_Voice_Hit",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "677": {
+        "SoundID": "Hero_1043001_Voice_Cooltime",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "678": {
+        "SoundID": "Hero_1043001_Voice_LvUp",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "679": {
+        "SoundID": "Hero_1043001_Voice_Land",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "680": {
+        "SoundID": "Hero_1043001_Voice_HeroPick",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "681": {
+        "SoundID": "Hero_1043001_Voice_lmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "682": {
+        "SoundID": "Hero_1043001_Voice_rmb_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "683": {
+        "SoundID": "Hero_1043001_Voice_q_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "684": {
+        "SoundID": "Hero_1043001_Voice_e_ability",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "685": {
+        "SoundID": "Hero_1043001_Skill_1043010501_Ready_voice",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "686": {
+        "SoundID": "Hero_1043001_Voice_r_ability_start",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      },
+      "687": {
+        "SoundID": "Hero_1043001_Voice_recall",
+        "PadVibration": false,
+        "PadVibrationVolume": 0.0,
+        "PadSound": true,
+        "PadSoundVolume": 1.0
+      }
+    }
+  }
+]
